@@ -1,7 +1,7 @@
 ---
 title: "Leather"
 properties: ["Durable", "Flexible", "Strong", "Water-resistant"]
-uses: ["Clothing", "Footwear", "Bags", "Armor"]
+uses: ["Clothing", "Footwear", "Bags", "Armor", "Watercraft lashing"]
 naturalAvailability: false
 manufacturingProcess: "Produced by tanning animal rawhides and skins to preserve them and make them flexible."
 category: "animal"

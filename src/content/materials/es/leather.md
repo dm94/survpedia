@@ -1,7 +1,7 @@
 ---
 title: "Cuero"
 properties: ["Duradero", "Flexible", "Resistente", "Resistente al agua"]
-uses: ["Ropa", "Calzado", "Bolsos", "Armadura"]
+uses: ["Ropa", "Calzado", "Bolsos", "Armadura", "Ataduras de embarcaciones"]
 naturalAvailability: false
 manufacturingProcess: "Producido mediante el curtido de pieles y cueros de animales para preservarlos y hacerlos flexibles."
 category: "animal"

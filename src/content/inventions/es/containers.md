@@ -1,6 +1,6 @@
 ---
 title: "Contenedores"
-materialsUsed: ["plant-fibers", "leather", "clay"]
+materialsUsed: ["plant-fibers", "leather", "clay", "resin"]
 ---
 
 # Breve descripción

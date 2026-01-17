@@ -1,6 +1,6 @@
 ---
 title: "Cuchillo de piedra"
-materialsUsed: ["flint", "wood"]
+materialsUsed: ["flint", "wood", "resin"]
 ---
 
 Un cuchillo de piedra es una de las primeras herramientas fabricadas por los seres humanos, utilizada para cortar carne, pieles y otros materiales.

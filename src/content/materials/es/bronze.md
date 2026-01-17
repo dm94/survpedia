@@ -2,7 +2,7 @@
 title: "Bronce"
 composition: ["copper", "tin"]
 properties: ["Resistente a la corrosión", "Duradero", "Duro", "Baja fricción"]
-uses: ["Herramientas", "Armas", "Estatuas", "Instrumentos musicales", "Monedas", "Cojinetes"]
+uses: ["Herramientas", "Armas", "Estatuas", "Instrumentos musicales", "Monedas", "Rodamientos y Poleas"]
 naturalAvailability: false
 category: "synthetic"
 manufacturingProcess: "Fundición de cobre y estaño juntos, típicamente en una proporción de 9:1."

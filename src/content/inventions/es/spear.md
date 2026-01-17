@@ -1,6 +1,6 @@
 ---
 title: "Lanza"
-materialsUsed: ["wood", "stone"]
+materialsUsed: ["wood", "stone", "resin"]
 ---
 
 Una lanza es un arma de asta compuesta por un eje, generalmente de madera, con una cabeza puntiaguda.
