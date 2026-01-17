@@ -30,7 +30,7 @@ const searchNoResults = t('search.noResults');
 
   <div
     id="pagefind-ui"
-    class="absolute right-0 top-12 w-[80vw] md:w-96 bg-white dark:bg-slate-900 shadow-2xl rounded-xl p-4 hidden border border-slate-200 dark:border-slate-700 z-[100]"
+    class="absolute right-0 top-12 w-[90vw] md:w-[500px] bg-white dark:bg-slate-900 shadow-2xl rounded-xl p-2 hidden border border-slate-200 dark:border-slate-700 z-[100] max-h-[80vh] overflow-y-auto"
   >
   </div>
 </div>
@@ -85,8 +85,12 @@ const searchNoResults = t('search.noResults');
       }, 100);
     });
 
-    document.addEventListener('click', e => {
-      if (!container?.contains(e.target) && !trigger?.contains(e.target)) {
+    document.addEventListener('click', (e) => {
+      const target = e.target;
+      const isInside = container?.contains(target) || trigger?.contains(target);
+      const isDetached = !document.documentElement.contains(target);
+
+      if (!isInside && !isDetached) {
         container?.classList.add('hidden');
       }
     });
@@ -117,6 +121,41 @@ const searchNoResults = t('search.noResults');
     @apply border-b border-slate-100 dark:border-slate-800 !important;
   }
   .pagefind-ui__result-thumb {
-    display: none !important; /* Hide thumbs for cleaner look */
+    @apply hidden !important; /* Hide thumbs for cleaner look */
+  }
+  .pagefind-ui__search-input {
+    @apply bg-slate-50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-700 rounded-lg !important;
+  }
+  .pagefind-ui__search-input:focus {
+    @apply outline-none ring-2 ring-blue-500/50 border-blue-500/50 !important;
+  }
+  .pagefind-ui__drawer {
+    @apply gap-4 !important;
+  }
+  .pagefind-ui__message {
+    @apply text-slate-500 dark:text-slate-400 py-2 px-1 text-sm !important;
+  }
+  .pagefind-ui__button {
+    @apply bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border-none rounded-lg hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors text-sm font-medium !important;
+  }
+  .pagefind-ui__result-link {
+    @apply text-slate-900 dark:text-slate-100 font-semibold hover:text-blue-600 dark:hover:text-blue-400 transition-colors !important;
+  }
+  .pagefind-ui__result-excerpt {
+    @apply text-slate-600 dark:text-slate-400 text-xs leading-relaxed !important;
+  }
+  .pagefind-ui__result-excerpt mark {
+    @apply bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded px-0.5 font-medium !important;
+  }
+
+  /* Custom scrollbar */
+  #pagefind-ui::-webkit-scrollbar {
+    width: 6px;
+  }
+  #pagefind-ui::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  #pagefind-ui::-webkit-scrollbar-thumb {
+    @apply bg-slate-200 dark:bg-slate-700 rounded-full;
   }
 </style>
