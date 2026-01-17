@@ -13,6 +13,7 @@ La rueda es un componente circular diseñado para girar sobre un eje. Es uno de 
 - **Alfarería:** El torno de alfarero para crear vasijas simétricas.
 - **Maquinaria:** Engranajes y poleas en sistemas mecánicos complejos.
 - **Molienda:** Uso de grandes piedras para moler grano.
+- **Ruedas hidráulicas:** Convertir el flujo de agua en energía rotativa.
 
 ## Principio de funcionamiento
 

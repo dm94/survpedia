@@ -3,7 +3,7 @@ title: "Agua"
 formula: "H2O"
 composition: ["hydrogen", "oxygen"]
 properties: ["Líquida a temperatura ambiente", "Solvente universal", "Incolora", "Inodora"]
-uses: ["Consumo humano", "Agricultura", "Industria", "Enfriamiento"]
+uses: ["Consumo humano", "Agricultura", "Industria", "Enfriamiento", "Energía motriz"]
 naturalAvailability: true
 manufacturingProcess: "Se encuentra naturalmente en océanos, ríos y lagos. Puede sintetizarse quemando hidrógeno en presencia de oxígeno."
 category: "other"

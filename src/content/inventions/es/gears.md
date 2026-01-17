@@ -10,7 +10,7 @@ Los engranajes son ruedas dentadas diseñadas para encajar entre sí con el fin 
 ## Uso / Función
 
 - **Conversión de velocidad:** Aumentar o disminuir la velocidad de rotación de un mecanismo.
-- **Multiplicación de par motor:** Intercambiar velocidad por fuerza, esencial para elevación pesada o molienda.
+- **Multiplicación de par motor:** Intercambiar velocidad por fuerza, esencial para elevación pesada, molinos de agua o molienda.
 - **Cambio de dirección:** Transmitir potencia en ángulos o invertir el sentido de rotación.
 - **Sincronización de precisión:** Utilizados en relojes e instrumentos para mantener relaciones exactas de movimiento.
 

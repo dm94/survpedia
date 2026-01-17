@@ -33,7 +33,7 @@ It harnesses a power source (human, animal, wind, or hydraulic) to rotate a movi
 ## Variants and improvements
 
 - **Hand mill:** Manually operated, domestic scale.
-- **Watermill:** Uses the power of rivers.
+- **Watermill:** Uses the power of rivers (see standalone entry for details).
 - **Windmill:** Uses wind energy.
 - **Electric mill:** High-efficiency modern version.
 

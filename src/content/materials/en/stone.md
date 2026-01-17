@@ -1,7 +1,7 @@
 ---
 title: "Stone"
 properties: ["Hard", "Resistant", "Heavy", "Durable"]
-uses: ["Construction", "Tools", "Weapons", "Decoration"]
+uses: ["Construction", "Tools", "Weapons", "Decoration", "Millstones"]
 naturalAvailability: true
 manufacturingProcess: "Collected from the earth's surface or extracted from quarries."
 category: "mineral"
@@ -34,7 +34,7 @@ Stone is generally hard, cold to the touch, and non-malleable. It comes in vario
 ### Common forms of use
 
 - Raw: As weights or simple building blocks.
-- Processed: Carved into tools, weapons, or decorative items.
+- Processed: Carved into tools, weapons, decorative items, or millstones.
 - Combined: With mortar for masonry.
 
 ### Possible substitutes

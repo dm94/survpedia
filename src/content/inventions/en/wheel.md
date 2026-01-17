@@ -13,6 +13,7 @@ A wheel is a circular component that is intended to rotate on an axle bearing. I
 - **Pottery:** The potter's wheel for creating symmetrical vessels.
 - **Machinery:** Gears and pulleys in complex mechanical systems.
 - **Milling:** Using large stones to grind grain.
+- **Water Wheels:** Converting the flow of water into rotational energy.
 
 ## Operating principle
 

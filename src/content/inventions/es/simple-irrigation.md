@@ -34,7 +34,7 @@ Un sistema de irrigación básico (irrigación de superficie) implica:
 - **Herramientas:**
   - Herramientas de excavación: Azadas y palas de madera o piedra.
   - Barreras: Piedras grandes, troncos o arcilla compactada.
-  - Elevación manual (opcional): Cigoñal (un poste con un cubo y contrapeso).
+  - Elevación manual/mecánica: Cigoñal (manual) o Noria (sistema de cangilones accionado por rueda hidráulica).
 
 ## Variantes y mejoras
 
