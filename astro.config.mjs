@@ -5,12 +5,17 @@ import mdx from '@astrojs/mdx';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://survpedia.deeme.dev',
   integrations: [tailwind(), mdx()],
   i18n: {
-    defaultLocale: 'es',
+    defaultLocale: 'en',
     locales: ['es', 'en'],
     routing: {
-      prefixDefaultLocale: false
-    }
-  }
+      prefixDefaultLocale: false,
+    },
+  },
+  image: {
+    formats: ['webp', 'avif'],
+    quality: 80,
+  },
 });
