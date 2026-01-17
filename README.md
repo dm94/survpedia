@@ -1,46 +1,77 @@
-# Astro Starter Kit: Basics
+# Survpedia
 
-```sh
-pnpm create astro@latest -- --template basics
-```
+A modern, fast, and multilingual survival encyclopedia built with Astro.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🚀 Technologies
 
-## 🚀 Project Structure
+This project uses the following main technologies and libraries:
 
-Inside of your Astro project, you'll see the following folders and files:
+- **[Astro](https://astro.build/)**: Web framework for building fast, content-focused websites.
+- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for styling.
+- **[MDX](https://mdxjs.com/)**: Markdown for the component era, used for content.
+- **[Pagefind](https://pagefind.app/)**: Static search library that runs after the build.
+- **TypeScript**: For safer and more robust development.
+
+## ✨ Features
+
+- 🌍 **Internationalization (i18n)**: Native support for English (`en`) and Spanish (`es`).
+- 🔍 **Integrated Search**: Fast search functionality powered by Pagefind.
+- 📱 **Responsive Design**: Adapted to different screen sizes.
+- ⚡ **High Performance**: Static generation for fast loading.
+
+## 🛠️ Installation and Usage
+
+Ensure you have [Node.js](https://nodejs.org/) installed on your system.
+
+1. **Install dependencies**
+
+   ```bash
+   npm install
+   # or if using pnpm
+   pnpm install
+   ```
+
+2. **Run the development server**
+
+   ```bash
+   npm run dev
+   # or
+   pnpm dev
+   ```
+
+   The site will be available at `http://localhost:4321`.
+
+3. **Build for production**
+
+   ```bash
+   npm run build
+   # or
+   pnpm build
+   ```
+
+   This command will generate static files in the `dist` folder and create the search index with Pagefind.
+
+4. **Preview the build**
+
+   ```bash
+   npm run preview
+   # or
+   pnpm preview
+   ```
+
+## 📂 Project Structure
 
 ```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
+src/
+├── assets/          # Images and static assets
+├── components/      # Reusable Astro components
+├── content/         # Content in Markdown/MDX (elements, inventions, materials)
+├── i18n/            # i18n configurations and translations
+├── layouts/         # Main layout templates
+├── pages/           # Routes and site pages
+└── styles/          # Global styles
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 🤝 Contributing
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+If you wish to contribute to the project, please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution guidelines.
