@@ -19,8 +19,6 @@ export const es = {
   'common.madeOf': 'Hecho de',
   'common.usedFor': 'Usado para',
   'common.properties': 'Propiedades',
-  'common.year': 'Año',
-  'common.inventor': 'Inventor',
   'common.readMore': 'Leer más',
   'elements.desc': 'Los bloques fundamentales del universo.',
   'materials.desc': 'Recursos y materiales compuestos.',

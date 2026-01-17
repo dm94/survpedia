@@ -32,8 +32,6 @@ const inventions = defineCollection({
   type: 'content',
   schema: ({ image }) => z.object({
     title: z.string(), // Name of the invention (e.g., Steam Engine)
-    inventor: z.string().optional(),
-    year: z.union([z.number(), z.string()]).optional(),
     materialsUsed: z.array(z.string()), // List of material IDs
     image: image().optional(),
   }),
