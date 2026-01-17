@@ -8,18 +8,17 @@ const lang = defaultLang;
 const t = useTranslations(lang);
 ---
 
-<Layout title="Survpedia">
+<Layout title={t('home.title')}>
   <section class="py-20 text-center">
     <h1
       class="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 mb-6"
     >
-      Survpedia
+      {t('home.title')}
     </h1>
     <p
       class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-10"
     >
-      Explore the foundation of human knowledge: from basic elements to
-      inventions that changed the world.
+      {t('home.description')}
     </p>
   </section>
 
@@ -27,17 +26,17 @@ const t = useTranslations(lang);
     <Card
       href={`/${lang}/elements`}
       title={t('nav.elements')}
-      body="The interactive periodic table. Discover the fundamental blocks of the universe."
+      body={t('home.elements.desc')}
     />
     <Card
       href={`/${lang}/materials`}
       title={t('nav.materials')}
-      body="Compounds, alloys, and natural resources. Learn how to process them."
+      body={t('home.materials.desc')}
     />
     <Card
       href={`/${lang}/inventions`}
       title={t('nav.inventions')}
-      body="Inventions that shaped civilization. Step-by-step guides."
+      body={t('home.inventions.desc')}
     />
   </section>
 </Layout>
