@@ -22,4 +22,11 @@ export const es = {
   'common.year': 'Año',
   'common.inventor': 'Inventor',
   'common.readMore': 'Leer más',
+  'elements.desc': 'Los bloques fundamentales del universo.',
+  'materials.desc': 'Recursos y materiales compuestos.',
+  'materials.natural': 'Natural',
+  'materials.synthetic': 'Sintético',
+  'inventions.desc': 'Descubre cómo se crearon las herramientas que definen nuestra era.',
+  'search.placeholder': 'Buscar en Survpedia...',
+  'search.noResults': 'No se encontraron resultados para "[SEARCH_TERM]"',
 };

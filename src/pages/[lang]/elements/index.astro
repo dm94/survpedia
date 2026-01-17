@@ -5,10 +5,7 @@ import { useTranslations } from '../../../i18n/utils';
 import PeriodicElement from '../../../components/PeriodicElement.astro';
 
 export function getStaticPaths() {
-  return [
-    { params: { lang: 'es' } },
-    { params: { lang: 'en' } },
-  ];
+  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
 }
 
 const { lang } = Astro.params;
@@ -23,24 +20,30 @@ elements.sort((a, b) => a.data.atomicNumber - b.data.atomicNumber);
 
 <Layout title={t('elements.title')}>
   <div class="mb-8">
-    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">{t('elements.title')}</h1>
+    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
+      {t('elements.title')}
+    </h1>
     <p class="text-slate-600 dark:text-slate-400">
-        {lang === 'es' ? 'Los bloques fundamentales del universo.' : 'The fundamental building blocks of the universe.'}
+      {t('elements.desc')}
     </p>
   </div>
-  
-  <div class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-8 lg:grid-cols-10 gap-2 md:gap-3">
-    {elements.map((element) => {
-      const slugPart = element.slug.split('/')[1];
-      return (
-        <PeriodicElement 
+
+  <div
+    class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-8 lg:grid-cols-10 gap-2 md:gap-3"
+  >
+    {
+      elements.map(element => {
+        const slugPart = element.slug.split('/')[1];
+        return (
+          <PeriodicElement
             symbol={element.data.symbol}
             number={element.data.atomicNumber}
             name={element.data.title}
             category={element.data.category}
             href={`/${lang}/elements/${slugPart}`}
-        />
-      );
-    })}
+          />
+        );
+      })
+    }
   </div>
 </Layout>

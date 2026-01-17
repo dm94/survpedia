@@ -5,10 +5,7 @@ import { useTranslations } from '../../../i18n/utils';
 import Card from '../../../components/Card.astro';
 
 export function getStaticPaths() {
-  return [
-    { params: { lang: 'es' } },
-    { params: { lang: 'en' } },
-  ];
+  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
 }
 
 const { lang } = Astro.params;
@@ -19,32 +16,36 @@ const inventions = await getCollection('inventions', ({ id }) => {
 });
 
 inventions.sort((a, b) => {
-    // Sort by year
-    const yearA = parseInt(String(a.data.year).replace(/\D/g, '')) || 0;
-    const yearB = parseInt(String(b.data.year).replace(/\D/g, '')) || 0;
-    return yearA - yearB;
+  // Sort by year
+  const yearA = parseInt(String(a.data.year).replace(/\D/g, '')) || 0;
+  const yearB = parseInt(String(b.data.year).replace(/\D/g, '')) || 0;
+  return yearA - yearB;
 });
 ---
 
 <Layout title={t('inventions.title')}>
   <div class="mb-8">
-    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">{t('inventions.title')}</h1>
+    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
+      {t('inventions.title')}
+    </h1>
     <p class="text-slate-600 dark:text-slate-400">
-        {lang === 'es' ? 'Descubre cómo se crearon las herramientas que definen nuestra era.' : 'Discover how the tools that define our era were created.'}
+      {t('inventions.desc')}
     </p>
   </div>
-  
+
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {inventions.map((invention) => {
-      const slugPart = invention.slug.split('/')[1];
-      return (
-        <Card 
+    {
+      inventions.map(invention => {
+        const slugPart = invention.slug.split('/')[1];
+        return (
+          <Card
             title={invention.data.title}
             body={`${t('common.year')}: ${invention.data.year}`}
             href={`/${lang}/inventions/${slugPart}`}
             tag={invention.data.inventor}
-        />
-      );
-    })}
+          />
+        );
+      })
+    }
   </div>
 </Layout>

@@ -6,39 +6,65 @@ import Search from './Search.astro';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
-const homePath = lang === 'es' ? '/' : `/${lang}`;
-const elementsPath = lang === 'es' ? '/elementos' : `/${lang}/elements`;
-const materialsPath = lang === 'es' ? '/materiales' : `/${lang}/materials`;
-const inventionsPath = lang === 'es' ? '/inventos' : `/${lang}/inventions`;
-
+const homePath = `/${lang}`;
+const elementsPath = `/${lang}/elements`;
+const materialsPath = `/${lang}/materials`;
+const inventionsPath = `/${lang}/inventions`;
 ---
 
-<header class="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-50">
-  <div class="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-4">
-    <a href={homePath} class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
+<header
+  class="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-50"
+>
+  <div
+    class="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-4"
+  >
+    <a
+      href={homePath}
+      class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent"
+    >
       Survpedia
     </a>
 
     <nav>
       <ul class="flex space-x-6 text-sm font-medium">
-        <li><a href={elementsPath} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{t('nav.elements')}</a></li>
-        <li><a href={materialsPath} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{t('nav.materials')}</a></li>
-        <li><a href={inventionsPath} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{t('nav.inventions')}</a></li>
+        <li>
+          <a
+            href={elementsPath}
+            class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+            >{t('nav.elements')}</a
+          >
+        </li>
+        <li>
+          <a
+            href={materialsPath}
+            class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+            >{t('nav.materials')}</a
+          >
+        </li>
+        <li>
+          <a
+            href={inventionsPath}
+            class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+            >{t('nav.inventions')}</a
+          >
+        </li>
       </ul>
     </nav>
 
     <div class="flex items-center space-x-4">
       <Search />
-      
+
       <div class="flex space-x-2 text-xs font-semibold">
-        {Object.entries(languages).map(([code, label]) => (
-          <a 
-            href={code === 'es' ? '/' : `/${code}`} 
-            class={`px-2 py-1 rounded ${code === lang ? 'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200' : 'text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800'}`}
-          >
-            {code.toUpperCase()}
-          </a>
-        ))}
+        {
+          Object.entries(languages).map(([code, label]) => (
+            <a
+              href={`/${code}`}
+              class={`px-2 py-1 rounded ${code === lang ? 'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200' : 'text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800'}`}
+            >
+              {code.toUpperCase()}
+            </a>
+          ))
+        }
       </div>
     </div>
   </div>
