@@ -1,5 +1,5 @@
 ---
-title: "Fuego"
+title: "Fuego controlado"
 materialsUsed: ["wood", "charcoal", "flint"]
 ---
 
