@@ -6,7 +6,7 @@ export const es = {
   'nav.search': 'Buscar',
   'home.title': 'Survpedia',
   'home.description':
-    'Explora los cimientos del conocimiento humano: desde los elementos básicos hasta los inventos que cambiaron el mundo.',
+    'Tu códice de manual de supervivencia tecnológica: desde los elementos básicos hasta los inventos que reconstruirán el mundo.',
   'home.elements.desc':
     'La tabla periódica interactiva. Descubre los bloques fundamentales del universo.',
   'home.materials.desc':

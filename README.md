@@ -1,6 +1,6 @@
 # Survpedia
 
-A modern, fast, and multilingual survival encyclopedia built with Astro.
+A modern, fast, and multilingual technological survival manual codex built with Astro.
 
 ## 🚀 Technologies
 
