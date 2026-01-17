@@ -1,11 +1,10 @@
 ---
-title: 'Element Name'
-symbol: 'Sy'
+title: "Element Name"
+symbol: "Sy"
 atomicNumber: 0
 atomicMass: 0.00
-category: 'Category Name'
+category: "Category Name"
 naturalAvailability: true
-extractionProcess: 'Description of how it is extracted.'
 ---
 
 Description of the element.
@@ -18,3 +17,7 @@ Description of properties.
 
 - Use 1
 - Use 2
+
+## Extraction Process
+
+Description of the extraction process.
