@@ -1,0 +1,25 @@
+---
+interface Props {
+	title: string;
+	body?: string;
+	href: string;
+    tag?: string;
+}
+
+const { href, title, body, tag } = Astro.props;
+---
+
+<li class="link-card list-none h-full">
+	<a href={href} class="flex flex-col h-full p-6 bg-white dark:bg-slate-800 rounded-xl shadow-sm hover:shadow-md transition-all border border-slate-200 dark:border-slate-700 hover:border-blue-400 dark:hover:border-blue-500">
+		<div class="flex justify-between items-start">
+            <h2 class="text-lg font-bold text-slate-800 dark:text-slate-100 mb-2">
+                {title}
+            </h2>
+            <span class="text-slate-400 group-hover:translate-x-1 transition-transform">&rarr;</span>
+        </div>
+        {tag && <span class="inline-block self-start bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-300 text-xs font-semibold px-2 py-1 rounded mb-3">{tag}</span>}
+		{body && <p class="text-slate-600 dark:text-slate-400 text-sm flex-grow">
+			{body}
+		</p>}
+	</a>
+</li>

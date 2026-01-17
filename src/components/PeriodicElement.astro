@@ -1,0 +1,26 @@
+---
+interface Props {
+    symbol: string;
+    number: number;
+    name: string;
+    category: string;
+    href: string;
+}
+const { symbol, number, name, category, href } = Astro.props;
+
+const categoryLower = category.toLowerCase();
+let colorClass = 'bg-slate-100 dark:bg-slate-800 text-slate-900 dark:text-slate-100';
+
+if (categoryLower.includes('no metal') || categoryLower.includes('nonmetal')) {
+    colorClass = 'bg-green-100 dark:bg-green-900/40 text-green-900 dark:text-green-100 border-green-200 dark:border-green-800';
+} else if (categoryLower.includes('gas noble') || categoryLower.includes('noble gas')) {
+    colorClass = 'bg-purple-100 dark:bg-purple-900/40 text-purple-900 dark:text-purple-100 border-purple-200 dark:border-purple-800';
+}
+// Add more categories as needed
+
+---
+<a href={href} class={`flex flex-col items-center justify-between p-2 rounded-lg shadow-sm hover:shadow-md hover:scale-110 transition-all border ${colorClass} aspect-square`}>
+    <span class="text-xs font-mono self-start opacity-60">{number}</span>
+    <span class="text-3xl font-bold">{symbol}</span>
+    <span class="text-[10px] font-medium truncate w-full text-center uppercase tracking-wider">{name}</span>
+</a>
