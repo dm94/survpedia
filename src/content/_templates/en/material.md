@@ -6,9 +6,11 @@ properties: ["Property 1", "Property 2"]
 uses: ["Use 1", "Use 2"]
 naturalAvailability: true
 manufacturingProcess: "Description of how it is manufactured."
+image: "../../assets/placeholder.jpg" # Optional
 ---
 
 Description of the material.
 
 ## Importance
+
 Description of its importance.

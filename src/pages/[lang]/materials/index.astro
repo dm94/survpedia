@@ -40,6 +40,7 @@ const materials = await getCollection('materials', ({ id }) => {
                 ? t('materials.natural')
                 : t('materials.synthetic')
             }
+            image={material.data.image}
           />
         );
       })

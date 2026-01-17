@@ -43,6 +43,7 @@ inventions.sort((a, b) => {
             body={`${t('common.year')}: ${invention.data.year}`}
             href={`/${lang}/inventions/${slugPart}`}
             tag={invention.data.inventor}
+            image={invention.data.image}
           />
         );
       })

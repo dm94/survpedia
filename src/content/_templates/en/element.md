@@ -5,6 +5,7 @@ atomicNumber: 0
 atomicMass: 0.00
 category: "Category Name"
 naturalAvailability: true
+image: "../../assets/placeholder.jpg" # Optional
 ---
 
 Description of the element.
