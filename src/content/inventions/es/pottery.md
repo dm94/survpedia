@@ -1,0 +1,46 @@
+---
+title: "Cerámica"
+materialsUsed: ["clay", "water", "wood"]
+---
+
+# Breve descripción
+
+La cerámica es el arte y la tecnología de fabricar objetos a partir de arcilla moldeada que luego se endurece mediante la aplicación de calor a altas temperaturas.
+
+## Uso / Función
+
+- **Almacenamiento:** Vasijas para grano, agua o aceite.
+- **Cocina:** Ollas y platos resistentes al fuego.
+- **Construcción:** Ladrillos, tejas y azulejos.
+- **Saneamiento:** Tuberías y conductos.
+
+## Principio de funcionamiento
+
+La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 600°C, pierde esta agua y sufre una transformación irreversible llamada sinterización, donde las partículas se funden parcialmente creando una estructura sólida, rígida y duradera.
+
+## Cómo crearlo
+
+1. **Preparación:** Mezclar arcilla con agua hasta obtener una masa maleable.
+2. **Modelado:** Dar forma a mano, por rollos o usando un torno.
+3. **Secado:** Dejar evaporar el agua a temperatura ambiente para evitar grietas.
+4. **Cocción:** Calentar en un horno o fosa a altas temperaturas (800°C - 1200°C).
+
+## Materiales necesarios
+
+- **Arcilla:** Tierra arcillosa rica en silicatos.
+- **Agua:** Para la plasticidad.
+- **Desgrasante:** Arena o paja picada para reducir la contracción al secar.
+- **Combustible:** Madera o carbón para el horno.
+
+## Variantes y mejoras
+
+- **Terracota:** Cerámica porosa cocida a baja temperatura.
+- **Gres:** Más denso y resistente, cocido a mayor temperatura.
+- **Porcelana:** Blanca y translúcida, de alta calidad.
+- **Vidriado:** Aplicación de una capa vítrea para hacerla totalmente impermeable.
+
+## Límites y riesgos
+
+- **Fragilidad:** Se rompe fácilmente ante impactos o caídas.
+- **Choque térmico:** Cambios bruscos de temperatura pueden agrietarla.
+- **Contaminación:** Algunos barnices antiguos contenían plomo.
