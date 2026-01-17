@@ -1,6 +1,6 @@
 ---
 title: "Electric generator"
-materialsUsed: ["copper", "iron"]
+materialsUsed: ["copper", "iron", "steel", "wood"]
 ---
 
 # Brief description

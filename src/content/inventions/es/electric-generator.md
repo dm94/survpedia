@@ -1,6 +1,6 @@
 ---
 title: "Generador eléctrico"
-materialsUsed: ["copper", "iron"]
+materialsUsed: ["copper", "iron", "steel", "wood"]
 ---
 
 # Breve descripción
