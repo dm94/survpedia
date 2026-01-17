@@ -4,6 +4,7 @@ composition: ["copper", "tin"]
 properties: ["Corrosion resistant", "Durable", "Hard", "Low friction"]
 uses: ["Tools", "Weapons", "Statues", "Musical instruments", "Coins"]
 naturalAvailability: false
+category: "synthetic"
 manufacturingProcess: "Smelting copper and tin together, typically in a ratio of 9:1."
 ---
 

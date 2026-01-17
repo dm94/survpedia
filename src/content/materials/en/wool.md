@@ -3,6 +3,7 @@ title: "Wool"
 properties: ["Warm", "Insulating", "Flame resistant", "Elastic"]
 uses: ["Clothing", "Blankets", "Carpets", "Insulation"]
 naturalAvailability: true
+category: "animal"
 manufacturingProcess: "Obtained by shearing sheep or other animals, then cleaned, carded, and spun."
 ---
 

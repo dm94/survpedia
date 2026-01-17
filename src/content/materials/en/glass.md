@@ -4,6 +4,7 @@ composition: ["silicon", "oxygen"]
 properties: ["Transparent", "Brittle", "Insulator", "Chemically stable"]
 uses: ["Windows", "Lenses", "Bottles", "Laboratory equipment"]
 naturalAvailability: false
+category: "synthetic"
 manufacturingProcess: "Heating sand (silica) until it melts and then cooling it rapidly to prevent crystallization."
 ---
 
