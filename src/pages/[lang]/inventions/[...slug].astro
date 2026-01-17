@@ -1,8 +1,8 @@
 ---
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import Layout from "../../../layouts/Layout.astro";
-import { useTranslations } from "../../../i18n/utils";
+import Layout from "@layouts/Layout.astro";
+import { useTranslations } from "@i18n/utils";
 
 export async function getStaticPaths() {
   const inventions = await getCollection("inventions");
