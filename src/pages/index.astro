@@ -1,4 +1,43 @@
 ---
-// Redirect to default locale
-return Astro.redirect('/es');
+import Layout from '../layouts/Layout.astro';
+import { useTranslations } from '../i18n/utils';
+import { defaultLang } from '../i18n/ui';
+import Card from '../components/Card.astro';
+
+const lang = defaultLang;
+const t = useTranslations(lang);
 ---
+
+<Layout title="Survpedia">
+  <section class="py-20 text-center">
+    <h1
+      class="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 mb-6"
+    >
+      Survpedia
+    </h1>
+    <p
+      class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-10"
+    >
+      Explore the foundation of human knowledge: from basic elements to
+      inventions that changed the world.
+    </p>
+  </section>
+
+  <section class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <Card
+      href={`/${lang}/elements`}
+      title={t('nav.elements')}
+      body="The interactive periodic table. Discover the fundamental blocks of the universe."
+    />
+    <Card
+      href={`/${lang}/materials`}
+      title={t('nav.materials')}
+      body="Compounds, alloys, and natural resources. Learn how to process them."
+    />
+    <Card
+      href={`/${lang}/inventions`}
+      title={t('nav.inventions')}
+      body="Inventions that shaped civilization. Step-by-step guides."
+    />
+  </section>
+</Layout>
