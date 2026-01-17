@@ -1,5 +1,5 @@
 ---
-title: "Fire"
+title: "Controlled Fire"
 materialsUsed: ["wood", "charcoal", "flint"]
 ---
 
