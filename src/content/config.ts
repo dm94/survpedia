@@ -24,6 +24,7 @@ const materials = defineCollection({
     uses: z.array(z.string()),
     naturalAvailability: z.boolean(),
     image: image().optional(),
+    category: z.enum(['mineral', 'plant', 'animal', 'synthetic', 'other']),
   }),
 });
 
