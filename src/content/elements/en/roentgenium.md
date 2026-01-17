@@ -1,0 +1,20 @@
+---
+title: "Roentgenium"
+symbol: "Rg"
+atomicNumber: 111
+atomicMass: 282
+category: "unknown, probably transition metal"
+naturalAvailability: false
+extractionProcess: "" 
+---
+
+Roentgenium is a chemical element with symbol Rg and atomic number 111. It is an extremely radioactive synthetic element (an element that can be created in a laboratory but is not found in nature); the most stable known isotope, roentgenium-282, has a half-life of 2.1 minutes. Roentgenium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany.
+
+## Properties
+- Phase: Solid
+- Density: 28.7 g/cm³
+- Melting Point: null K
+- Boiling Point: null K
+
+## Uses
+<!-- Add uses here -->

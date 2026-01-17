@@ -3,17 +3,18 @@ title: "Oxygen"
 symbol: "O"
 atomicNumber: 8
 atomicMass: 15.999
-category: "Nonmetal"
+category: "diatomic nonmetal"
 naturalAvailability: true
-extractionProcess: "Fractional distillation of liquid air."
+extractionProcess: "" 
 ---
 
-Oxygen is the chemical element with the symbol O and atomic number 8.
+Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.
 
 ## Properties
-It is a highly reactive gas and essential for respiration of most living organisms.
+- Phase: Gas
+- Density: 1.429 g/cm³
+- Melting Point: 54.36 K
+- Boiling Point: 90.188 K
 
 ## Uses
-- Steel production.
-- Medicine (oxygen therapy).
-- Rocket fuel (as oxidizer).
+<!-- Add uses here -->

@@ -3,17 +3,18 @@ title: "Hidrógeno"
 symbol: "H"
 atomicNumber: 1
 atomicMass: 1.008
-category: "No metal"
+category: "diatomic nonmetal"
 naturalAvailability: true
-extractionProcess: "Electrólisis del agua, reformado con vapor de gas natural."
+extractionProcess: "" 
 ---
 
-El hidrógeno es el elemento químico de número atómico 1, representado por el símbolo H. Es el más ligero de la tabla periódica.
+Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 1.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.
 
-## Propiedades
-Es un gas incoloro, inodoro e insípido a temperatura ambiente. Es altamente inflamable.
+## Properties
+- Phase: Gas
+- Density: 0.08988 g/cm³
+- Melting Point: 13.99 K
+- Boiling Point: 20.271 K
 
-## Usos
-- Producción de amoníaco.
-- Hidrogenación de grasas y aceites.
-- Combustible para cohetes.
+## Uses
+<!-- Add uses here -->
