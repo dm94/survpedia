@@ -1,6 +1,6 @@
 ---
 title: "Rueda"
-materialsUsed: ["wood", "stone"]
+materialsUsed: ["wood", "stone", "iron", "animal-fat"]
 ---
 
 # Breve descripción
