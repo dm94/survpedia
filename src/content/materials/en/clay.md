@@ -4,10 +4,60 @@ properties: ["Malleable when wet", "Hard when fired", "Heat resistant"]
 uses: ["Pottery", "Bricks", "Ceramics", "Construction"]
 naturalAvailability: true
 manufacturingProcess: "Found in soil deposits, often along riverbanks. Processed by cleaning and mixing with water."
+category: "mineral"
 ---
 
 Clay is a fine-grained natural soil material containing clay minerals. It becomes plastic when wet and hardens when dried or fired.
 
-## Importance
+## Description of what it is like
 
-Essential for pottery, bricks, and ceramics, playing a crucial role in early civilization for construction, writing tablets, and storage.
+Clay is earthy and soft. When wet, it is highly malleable and can be shaped into almost any form. When dry, it becomes brittle but retains its shape. When fired in a kiln, it becomes stone-like and durable.
+
+## Origin and where to find it
+
+- Environments: Riverbanks, lake beds, and areas with fine-grained soil.
+- Signs: Slippery, sticky mud that holds its shape when squeezed. Usually found beneath the topsoil.
+- It is a natural material.
+
+### Minimum processing required
+
+- Extraction: Digging it out of the ground.
+- Cleaning: Removing stones, roots, and organic matter.
+- Levigation: Mixing with water and allowing heavier particles to settle to get a finer clay.
+- Kneading/Wedging: To remove air bubbles and ensure uniform consistency.
+
+### Tools needed to work on it
+
+- Hands for basic shaping.
+- Pottery wheels for symmetrical vessels.
+- Kilns for firing and hardening.
+- Wire cutters for slicing.
+
+### Common forms of use
+
+- Raw: For simple mud-daub construction.
+- Processed: Dried into sun-baked bricks (adobe).
+- Fired: Hardened into ceramics, pottery, and terracotta.
+
+### Possible substitutes
+
+- Concrete: For construction and bricks.
+- Plastic: For modern containers.
+- Metal: For durable cookware.
+
+### Limitations and common failures
+
+- Cracking: Happens if it dries too quickly or unevenly.
+- Shrinkage: Clay loses volume as it dries and fires.
+- Water Damage: Unfired clay will dissolve back into mud if it gets wet.
+
+### Risks and safety
+
+- Dust: Dry clay dust can be harmful if inhaled (silicosis risk).
+- Burns: During the firing process in kilns.
+
+### Related materials
+
+- Sand: Often mixed with clay to reduce shrinkage (tempering).
+- Stone: What clay becomes after intense heat and pressure over geological time.
+- Water: Essential for making clay malleable.

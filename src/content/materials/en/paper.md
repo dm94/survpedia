@@ -4,6 +4,7 @@ composition: []
 properties: ["Thin", "Flexible", "Absorbent", "Combustible"]
 uses: ["Writing", "Printing", "Packaging", "Cleaning"]
 naturalAvailability: false
+category: "synthetic"
 manufacturingProcess: "Pressing together moist fibers of cellulose pulp derived from wood, rags or grasses, and drying them into flexible sheets."
 ---
 

@@ -4,6 +4,7 @@ composition: ["silicon", "oxygen"]
 properties: ["Hard", "Brittle", "Sharp edges when broken", "Produces sparks"]
 uses: ["Stone tools", "Weapons", "Fire starting"]
 naturalAvailability: true
+category: "mineral"
 manufacturingProcess: "Found naturally in nodules in sedimentary rocks like chalk or limestone."
 ---
 

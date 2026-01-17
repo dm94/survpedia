@@ -3,6 +3,7 @@ title: "Piedra"
 properties: ["Dura", "Resistente", "Pesada", "Duradera"]
 uses: ["Construcción", "Herramientas", "Armas", "Decoración"]
 naturalAvailability: true
+category: "mineral"
 manufacturingProcess: "Se recolecta de la superficie terrestre o se extrae de canteras."
 ---
 
