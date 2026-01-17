@@ -1,0 +1,37 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<Layout title={t('404.title')}>
+  <div class="flex flex-col items-center justify-center py-12 text-center">
+    <h1 class="text-6xl font-bold text-slate-800 dark:text-slate-100 mb-4">404</h1>
+    <p class="text-xl text-slate-600 dark:text-slate-400 mb-8">{t('404.description')}</p>
+    
+    <div class="max-w-2xl w-full bg-white dark:bg-slate-800 rounded-lg shadow-md p-8 text-left border border-slate-200 dark:border-slate-700">
+      <h2 class="text-2xl font-bold mb-4 text-slate-800 dark:text-slate-100">{t('404.contribute.title')}</h2>
+      <p class="mb-6 text-slate-600 dark:text-slate-400">{t('404.contribute.description')}</p>
+      
+      <div class="prose dark:prose-invert max-w-none">
+        <h3 class="text-lg font-semibold mb-2 text-slate-800 dark:text-slate-200">{t('404.contribute.button')}</h3>
+        <ol class="list-decimal pl-5 space-y-2 mb-6 text-slate-700 dark:text-slate-300">
+            <li>{t('contribute.step1')}</li>
+            <li>{t('contribute.step2')}</li>
+            <li>{t('contribute.step3')}</li>
+            <li>{t('contribute.step4')}</li>
+        </ol>
+        
+        <p class="text-sm text-slate-500 dark:text-slate-400 italic">
+          {t('contribute.footer')}
+        </p>
+      </div>
+    </div>
+    
+    <a href={`/${lang === 'en' ? '' : lang}`} class="mt-8 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors font-medium">
+      {t('nav.home')}
+    </a>
+  </div>
+</Layout>
