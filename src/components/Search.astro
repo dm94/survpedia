@@ -85,8 +85,12 @@ const searchNoResults = t('search.noResults');
       }, 100);
     });
 
-    document.addEventListener('click', e => {
-      if (!container?.contains(e.target) && !trigger?.contains(e.target)) {
+    document.addEventListener('click', (e) => {
+      const target = e.target;
+      const isInside = container?.contains(target) || trigger?.contains(target);
+      const isDetached = !document.documentElement.contains(target);
+
+      if (!isInside && !isDetached) {
         container?.classList.add('hidden');
       }
     });
