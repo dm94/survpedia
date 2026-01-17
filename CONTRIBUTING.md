@@ -1,6 +1,6 @@
 # Contributing to Survpedia
 
-Thank you for your interest in contributing to Survpedia! We welcome contributions to help expand our database of survival knowledge.
+Thank you for your interest in contributing to Survpedia! We welcome contributions to help expand our technological survival manual codex.
 
 ## How to Contribute
 

@@ -6,7 +6,7 @@ export const en = {
   'nav.search': 'Search',
   'home.title': 'Survpedia',
   'home.description':
-    'Explore the foundation of human knowledge: from basic elements to inventions that changed the world.',
+    'Your technological survival manual codex: from basic elements to inventions that will rebuild the world.',
   'home.elements.desc':
     'The interactive periodic table. Discover the fundamental blocks of the universe.',
   'home.materials.desc':
