@@ -10,7 +10,7 @@ Gears are toothed wheels designed to mesh with one another to transmit motion an
 ## Use / Function
 
 - **Speed Conversion:** Increasing or decreasing the rotational speed of a mechanism.
-- **Torque Multiplication:** Trading speed for force, essential for heavy lifting or milling.
+- **Torque Multiplication:** Trading speed for force, essential for heavy lifting, watermills, or milling.
 - **Direction Change:** Transmitting power around corners or reversing rotation.
 - **Precision Timing:** Used in clocks and instruments to maintain exact ratios of movement.
 

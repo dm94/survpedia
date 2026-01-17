@@ -33,7 +33,7 @@ Aprovecha una fuente de energía (humana, animal, eólica o hidráulica) para ha
 ## Variantes y mejoras
 
 - **Molino de mano:** Operado manualmente, escala doméstica.
-- **Molino hidráulico:** Usa la fuerza de los ríos.
+- **Molino hidráulico:** Usa la fuerza de los ríos (ver entrada de Molino de agua para más detalles).
 - **Molino de viento:** Usa la energía eólica.
 - **Molino eléctrico:** Versión moderna de alta eficiencia.
 

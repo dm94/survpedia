@@ -31,7 +31,7 @@ La mayoría de los metales se encuentran en la naturaleza en forma de minerales 
 - **Mineral:** Mineral de cobre (malaquita, calcopirita) y mineral de estaño (casiterita).
 - **Combustible:** Carbón vegetal (produce el calor alto necesario y la atmósfera de reducción).
 - **Fundente:** Sustancias como la caliza para ayudar a separar las impurezas (escoria).
-- **Herramientas:** Horno, fuelles, crisoles, moldes y martillos.
+- **Herramientas:** Horno, fuelles (pueden ser accionados por agua), crisoles, moldes y martillos.
 
 ## Variantes y mejoras
 

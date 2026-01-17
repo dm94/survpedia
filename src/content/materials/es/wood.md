@@ -1,7 +1,7 @@
 ---
 title: "Madera"
 properties: ["Fuerte", "Inflamable", "Flotante", "Aislante térmico"]
-uses: ["Construcción", "Herramientas", "Combustible", "Papel", "Maquinaria"]
+uses: ["Construcción", "Herramientas", "Combustible", "Papel", "Maquinaria", "Ruedas hidráulicas"]
 naturalAvailability: true
 manufacturingProcess: "Se obtiene directamente de los troncos de los árboles mediante la tala y el aserrado."
 category: "plant"

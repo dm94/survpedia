@@ -1,7 +1,7 @@
 ---
 title: "Wood"
 properties: ["Strong", "Flammable", "Buoyant", "Thermal insulator"]
-uses: ["Construction", "Tools", "Fuel", "Paper", "Machinery"]
+uses: ["Construction", "Tools", "Fuel", "Paper", "Machinery", "Water wheels"]
 naturalAvailability: true
 manufacturingProcess: "Obtained directly from tree trunks through logging and sawing."
 category: "plant"

@@ -2,7 +2,7 @@
 title: "Iron"
 composition: ["iron"]
 properties: ["Strong", "Magnetic", "High melting point", "Abundant"]
-uses: ["Construction", "Tools", "Weapons", "Machinery"]
+uses: ["Construction", "Tools", "Weapons", "Machinery", "Axles and bearings"]
 naturalAvailability: true
 manufacturingProcess: "Extracted from iron ores (like hematite or magnetite) in a blast furnace using carbon as a reducing agent."
 category: "mineral"

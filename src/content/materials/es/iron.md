@@ -2,7 +2,7 @@
 title: "Hierro"
 composition: ["iron"]
 properties: ["Fuerte", "Magnético", "Alto punto de fusión", "Abundante"]
-uses: ["Construcción", "Herramientas", "Armas", "Maquinaria"]
+uses: ["Construcción", "Herramientas", "Armas", "Maquinaria", "Ejes y cojinetes"]
 naturalAvailability: true
 manufacturingProcess: "Extraído de minerales de hierro (como la hematita o la magnetita) en un alto horno utilizando carbono como agente reductor."
 category: "mineral"

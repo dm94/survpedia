@@ -34,7 +34,7 @@ A basic irrigation system (surface irrigation) involves:
 - **Tools:**
   - Digging tools: Wooden or stone hoes and shovels.
   - Barriers: Large stones, logs, or packed clay.
-  - Manual lifting (optional): Shadoof (a pole with a bucket and counterweight).
+  - Manual/Mechanical lifting: Shadoof (manual) or Noria (waterwheel-driven bucket system).
 
 ## Variants and improvements
 
