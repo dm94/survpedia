@@ -2,7 +2,7 @@
 title: "Bronze"
 composition: ["copper", "tin"]
 properties: ["Corrosion resistant", "Durable", "Hard", "Low friction"]
-uses: ["Tools", "Weapons", "Statues", "Musical instruments", "Coins"]
+uses: ["Tools", "Weapons", "Statues", "Musical instruments", "Coins", "Bearings and Pulleys"]
 naturalAvailability: false
 category: "synthetic"
 manufacturingProcess: "Smelting copper and tin together, typically in a ratio of 9:1."

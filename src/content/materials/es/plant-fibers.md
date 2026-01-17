@@ -1,7 +1,7 @@
 ---
 title: "Fibras vegetales"
 properties: ["Flexibles", "Fuertes en tensión", "Absorbentes", "Biodegradables"]
-uses: ["Textiles", "Cuerdas", "Papel", "Construcción"]
+uses: ["Textiles", "Cuerdas", "Papel", "Construcción", "Sistemas mecánicos"]
 naturalAvailability: true
 manufacturingProcess: "Extraídas de diversas plantas mediante enriado, raspado o separación mecánica."
 category: "plant"

@@ -1,6 +1,6 @@
 ---
 title: "Stone Knife"
-materialsUsed: ["flint", "wood"]
+materialsUsed: ["flint", "wood", "resin"]
 ---
 
 A stone knife is one of the earliest tools made by humans, used for cutting meat, hides, and other materials.

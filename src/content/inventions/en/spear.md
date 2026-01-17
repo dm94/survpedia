@@ -1,6 +1,6 @@
 ---
 title: "Spear"
-materialsUsed: ["wood", "stone"]
+materialsUsed: ["wood", "stone", "resin"]
 ---
 
 A spear is a pole weapon consisting of a shaft, usually of wood, with a pointed head.

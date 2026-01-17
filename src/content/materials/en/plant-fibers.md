@@ -1,7 +1,7 @@
 ---
 title: "Plant Fibers"
 properties: ["Flexible", "Strong in tension", "Absorbent", "Biodegradable"]
-uses: ["Textiles", "Ropes", "Paper", "Construction"]
+uses: ["Textiles", "Ropes", "Paper", "Construction", "Mechanical systems"]
 naturalAvailability: true
 manufacturingProcess: "Extracted from various plants through retting, scraping, or mechanical separation."
 category: "plant"
