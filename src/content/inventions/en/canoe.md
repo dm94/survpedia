@@ -11,7 +11,3 @@ A canoe is a lightweight narrow vessel, typically pointed at both ends and open 
 2. **Hollowing**: The interior of the log is hollowed out. Traditionally, this was done using controlled fire to char the wood, followed by scraping with stone tools.
 3. **Shaping**: The exterior is shaped to improve aerodynamics and stability in water.
 4. **Finishing**: The surface is smoothed and sometimes treated with oils or resins for better water resistance.
-
-## History
-
-The oldest known canoe is the Pesse canoe, found in the Netherlands, dating back to between 8040 and 7510 BC. Canoes were essential for transport, trade, and fishing in many indigenous cultures around the world.

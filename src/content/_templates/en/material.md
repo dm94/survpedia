@@ -11,6 +11,14 @@ image: "../../assets/placeholder.jpg" # Optional
 
 Description of the material.
 
-## Importance
+## Description of what it is like
 
-Description of its importance.
+Description...
+
+## How to extract it if possible
+
+Description...
+
+## How to create it
+
+Description...

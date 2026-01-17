@@ -23,7 +23,6 @@ const materials = defineCollection({
     properties: z.array(z.string()),
     uses: z.array(z.string()),
     naturalAvailability: z.boolean(),
-    manufacturingProcess: z.string().optional(),
     image: image().optional(),
   }),
 });
