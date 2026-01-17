@@ -1,6 +1,6 @@
 ---
 title: "Wheel"
-materialsUsed: ["wood", "stone"]
+materialsUsed: ["wood", "stone", "iron", "animal-fat"]
 ---
 
 # Brief description

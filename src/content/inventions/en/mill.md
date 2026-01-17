@@ -1,6 +1,6 @@
 ---
 title: "Mill"
-materialsUsed: ["stone", "wood"]
+materialsUsed: ["stone", "wood", "iron", "animal-fat"]
 ---
 
 # Brief description
