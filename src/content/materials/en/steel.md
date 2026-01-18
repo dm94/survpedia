@@ -1,64 +1,54 @@
 ---
 title: "Steel"
 composition: ["iron", "carbon"]
-properties: ["Extremely strong", "Durable", "Versatile", "Malleable at high temperatures"]
-uses: ["Construction", "Infrastructure", "Tools", "Vehicles", "Machinery"]
+properties: ["Hardness", "Tensile strength", "Durability", "Malleability"]
+uses: ["Tools", "Weapons", "Construction", "Surgical instruments", "Machinery"]
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "An alloy of iron and carbon, produced by removing impurities from iron ore and adding controlled amounts of carbon."
+manufacturingProcess: "Smelting iron with carbon to remove impurities and adjust carbon content."
+category: synthetic
 ---
 
-Steel is an alloy of iron and carbon, and sometimes other elements. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, trains, automobiles, machines, appliances, and weapons.
+Steel is an alloy of iron and carbon, and sometimes other elements. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, trains, cars, machines, electrical appliances, and weapons.
 
 ## Description of what it is like
 
-Steel is a grey, metallic material. It is harder and stronger than pure iron but remains flexible enough to resist breaking under tension. It can be polished to a high shine.
+Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unlike pure iron, it is much harder and holds a sharp edge better, making it ideal for cutting tools.
 
 ## Origin and where to find it
 
-- Environments: Does not occur naturally. It must be manufactured from iron.
-- Signs: Found in industrial settings or as reclaimed scrap from older structures.
-- It is a synthetic alloy.
+- **Not found in nature**: Steel is a man-made alloy.
+- **Requires processing**: It is created by refining iron and adding a specific amount of carbon (usually between 0.002% and 2.1%).
 
 ### Minimum processing required
 
-- Refining: Removing excess carbon and impurities (like silicon, phosphorus, and sulfur) from molten pig iron.
-- Alloying: Adding precise amounts of carbon (usually between 0.02% and 2.1% by weight).
-- Heat Treatment: Quenching (rapid cooling) and tempering (reheating) to achieve desired hardness and toughness.
+1.  **Smelting**: Iron ore is smelted into pig iron.
+2.  **Refining**: Impurities are removed, and carbon content is adjusted (Bessemmer process or modern basic oxygen steelmaking).
+3.  **Heat Treatment**: Quenching and tempering to adjust hardness and toughness.
 
 ### Tools needed to work on it
 
-- High-temperature furnaces (Bessemer converter, electric arc furnace).
-- Forges and anvils for manual shaping.
-- Power hammers and rolling mills for industrial shaping.
-- Cutting tools made of even harder materials (like tungsten carbide).
+- **Forge/Furnace**: High temperatures are needed to work steel.
+- **Anvil and Hammer**: For shaping.
+- **Grindstone**: For sharpening and polishing.
 
 ### Common forms of use
 
-- Carbon Steel: Used for most structural and mechanical applications.
-- Stainless Steel: Contains chromium to resist corrosion, used in cutlery and medical tools.
-- Tool Steel: Especially hard alloys used for making cutting and drilling tools.
+- **Forged**: Shaped while hot.
+- **Cast**: Poured into molds (less common for tools).
+- **Machined**: Cut and shaped with other harder tools.
 
 ### Possible substitutes
 
-- Iron: Cheaper and easier to produce but much weaker and softer.
-- Aluminum: Lighter and more corrosion-resistant, but generally less strong.
-- Titanium: Stronger and lighter than steel but much more expensive and difficult to work.
+- **Iron**: Softer, loses edge quickly.
+- **Bronze**: Easier to cast, resistant to corrosion, but softer than good steel.
+- **Titanium**: Modern, lighter, stronger, but much harder to process.
 
 ### Limitations and common failures
 
-- Corrosion (Rust): Like iron, most steel will rust if exposed to moisture and oxygen.
-- Fatigue: Can develop cracks after many cycles of stress.
-- Brittleness: If too much carbon is added or if heat treatment is incorrect, it can shatter.
+- **Rust**: Unless stainless (alloyed with chromium), steel rusts easily in damp environments.
+- **Brittleness**: High carbon steel can be brittle if not tempered correctly.
 
 ### Risks and safety
 
-- Heat Hazards: Molten steel and hot metal cause extreme burns.
-- Sharp Edges: Machined or broken steel can be razor-sharp.
-- Heavy Loads: Large steel components are dangerous if dropped.
-
-### Related materials
-
-- Iron: The primary component of steel.
-- Charcoal/Coal: Sources of carbon and heat for production.
-- Bronze: A historical predecessor for strong tools and weapons.
+- **High Heat**: Working with molten or hot steel poses burn risks.
+- **Sharp Edges**: Finished steel tools are very sharp.
