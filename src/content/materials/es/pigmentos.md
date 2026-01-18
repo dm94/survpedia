@@ -62,6 +62,8 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 ### Materiales relacionados
 
 - **[Pintura](../../materials/es/paint.md)**: La aplicación principal de los pigmentos (Pigmento + Aglutinante).
+- **[Cardenillo](/es/materials/verdigris)**: Un pigmento verde común a base de cobre.
+- **[Albayalde](/es/materials/white-lead)**: Un pigmento blanco común a base de plomo.
 - **[Tinta](../../materials/es/ink.md)**: Pigmentos suspendidos en un líquido para escribir.
 - **[Pegamento](../../materials/es/glue.md)**: Puede actuar como aglutinante.
 - **[Arcilla](../../materials/es/clay.md)**: Una fuente de pigmentos de tierra (Ocre).

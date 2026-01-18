@@ -65,5 +65,6 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 ### Materiales relacionados
 
 - **[Alcohol](/es/materials/alcohol)**: El precursor del vinagre.
+- **[Ácidos simples](/es/materials/simple-acids)**: Versión concentrada (Vinagre Fuerte).
 - **Azúcar**: El precursor del alcohol.
 - **Agua**: El disolvente.

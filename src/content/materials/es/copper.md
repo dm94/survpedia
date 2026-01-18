@@ -58,6 +58,7 @@ El cobre tiene un brillo metálico rojizo-anaranjado característico. Es relativ
 
 ### Materiales relacionados
 
-- Bronce: Una aleación de cobre y estaño.
+- **[Cardenillo](/es/materials/verdigris)**: Un pigmento verde hecho de cobre.
+- **Bronce**: Una aleación de cobre y estaño.
 - Latón: Una aleación de cobre y zinc.
 - Oro: A menudo se encuentra en contextos geológicos similares.

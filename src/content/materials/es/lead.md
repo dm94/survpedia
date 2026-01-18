@@ -58,6 +58,7 @@ El plomo es extremadamente pesado y tan blando que puede rayarse con la uña. Ti
 
 ### Materiales relacionados
 
-- Estaño: A menudo se alea con plomo para hacer soldadura o metal de imprenta.
+- **[Albayalde](/es/materials/white-lead)**: Un pigmento blanco hecho de plomo.
+- **Estaño**: A menudo se alea con plomo para hacer soldadura o metal de imprenta.
 - Antimonio: Se añade al plomo para aumentar su dureza.
 - Plata: A menudo se encuentra en los mismos minerales que el plomo.

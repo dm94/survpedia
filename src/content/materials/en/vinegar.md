@@ -58,5 +58,6 @@ A clear to amber liquid with a pungent, sour smell and taste.
 ### Related materials
 
 - **[Alcohol](/en/materials/alcohol)**: The precursor to vinegar.
+- **[Simple Acids](/en/materials/simple-acids)**: Concentrated version (Strong Vinegar).
 - **Sugar**: The precursor to alcohol.
 - **Water**: The solvent.

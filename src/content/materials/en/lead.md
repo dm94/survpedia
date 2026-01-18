@@ -67,6 +67,7 @@ Lead is extremely heavy and so soft that it can be scratched with a fingernail. 
 
 ### Related materials
 
-- Tin: Often alloyed with lead to make solder or type metal.
+- **[White Lead](/en/materials/white-lead)**: A white pigment made from lead.
+- **Tin**: Often alloyed with lead to make solder or type metal.
 - Antimony: Added to lead to increase its hardness.
 - Silver: Often found in the same ores as lead.

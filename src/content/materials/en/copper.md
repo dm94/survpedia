@@ -58,6 +58,7 @@ Copper has a distinctive reddish-orange metallic luster. It is relatively soft a
 
 ### Related materials
 
-- Bronze: An alloy of copper and tin.
+- **[Verdigris](/en/materials/verdigris)**: A green pigment made from copper.
+- **Bronze**: An alloy of copper and tin.
 - Brass: An alloy of copper and zinc.
 - Gold: Often found in similar geological contexts.
