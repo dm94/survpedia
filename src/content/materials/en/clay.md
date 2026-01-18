@@ -29,7 +29,7 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 ### Tools needed to work on it
 
 - Hands for basic shaping.
-- Pottery wheels for symmetrical vessels.
+- [Pottery wheels](/en/inventions/potters-wheel) for symmetrical vessels.
 - Kilns for firing and hardening.
 - Wire cutters for slicing.
 

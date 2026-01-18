@@ -1,6 +1,7 @@
 ---
 title: "Arcilla"
-properties: ["Maleable cuando está húmeda", "Dura cuando se cuece", "Resistente al calor"]
+properties:
+  ["Maleable cuando está húmeda", "Dura cuando se cuece", "Resistente al calor"]
 uses: ["Alfarería", "Ladrillos", "Cerámica", "Construcción"]
 naturalAvailability: true
 manufacturingProcess: "Se encuentra en depósitos de suelo, a menudo a lo largo de las riberas de los ríos. Se procesa mediante limpieza y mezcla con agua."
@@ -29,7 +30,7 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 ### Herramientas necesarias para trabajarla
 
 - Manos para el modelado básico.
-- Tornos de alfarero para vasijas simétricas.
+- [Tornos de alfarero](/es/inventions/potters-wheel) para vasijas simétricas.
 - Hornos para cocer y endurecer.
 - Cortadores de alambre para rebanar.
 

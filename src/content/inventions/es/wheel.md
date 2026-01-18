@@ -11,7 +11,7 @@ La rueda es un componente circular diseñado para girar sobre un eje. Es uno de 
 ## Uso / Función
 
 - **Transporte:** Mover mercancías y personas reduciendo significativamente la fricción.
-- **Alfarería:** El torno de alfarero para crear vasijas simétricas.
+- **Alfarería:** El [torno de alfarero](/es/inventions/potters-wheel) para crear vasijas simétricas.
 - **Maquinaria:** Engranajes y poleas en sistemas mecánicos complejos.
 - **Molienda:** Uso de grandes piedras para moler grano.
 - **Ruedas hidráulicas:** Convertir el flujo de agua en energía rotativa.
