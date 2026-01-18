@@ -1,6 +1,6 @@
 ---
 title: "Drenaje"
-materialsUsed: ["stone", "gravel", "clay", "bamboo"]
+materialsUsed: ["stone", "gravel", "clay", "bambu"]
 ---
 
 # Descripción breve
