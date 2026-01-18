@@ -1,5 +1,6 @@
 ---
 title: "Spear"
+image: ../../../assets/inventions/spear.jpg
 materialsUsed: ["wood", "stone", "resin"]
 ---
 

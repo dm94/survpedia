@@ -1,5 +1,6 @@
 ---
 title: "Prensa mecánica"
+image: ../../../assets/inventions/mechanical-press.jpg
 materialsUsed: ["iron", "steel", "wood", "bronze"]
 ---
 

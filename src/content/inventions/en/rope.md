@@ -1,5 +1,6 @@
 ---
 title: "Rope"
+image: ../../../assets/inventions/rope.jpg
 materialsUsed: ["plant-fibers", "wool", "cotton", "leather"]
 ---
 

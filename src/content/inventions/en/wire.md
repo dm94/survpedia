@@ -1,5 +1,6 @@
 ---
 title: "Wire"
+image: ../../../assets/inventions/wire.jpg
 materialsUsed: ["copper", "iron", "gold", "silver", "bronze"]
 ---
 

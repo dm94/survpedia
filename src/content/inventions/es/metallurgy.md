@@ -1,5 +1,6 @@
 ---
 title: "Metalurgia básica (Cobre y Bronce)"
+image: ../../../assets/inventions/metallurgy.jpg
 materialsUsed: ["copper", "bronze", "charcoal"]
 ---
 

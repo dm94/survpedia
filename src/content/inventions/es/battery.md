@@ -1,7 +1,7 @@
 ---
 title: "Batería"
 materialsUsed: ["zinc", "copper", "sulfuric-acid", "lead", "charcoal", "salt", "water", "fabric"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/battery.jpg
 ---
 
 # Batería (Pila Eléctrica)

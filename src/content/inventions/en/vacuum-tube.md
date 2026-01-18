@@ -1,5 +1,6 @@
 ---
 title: "Vacuum Tube"
+image: ../../../assets/inventions/vacuum-tube.jpg
 materialsUsed: ["glass", "copper", "tungsten", "steel"]
 ---
 

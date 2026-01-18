@@ -1,5 +1,6 @@
 ---
 title: "Máquina de Vapor"
+image: ../../../assets/inventions/steam-engine.jpg
 materialsUsed: ["iron", "steel", "water", "wood", "charcoal", "coal"]
 ---
 

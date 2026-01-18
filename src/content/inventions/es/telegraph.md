@@ -1,7 +1,7 @@
 ---
 title: "Telégrafo"
 materialsUsed: ["copper", "iron", "wood", "battery", "wire"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/telegraph.jpg
 ---
 
 # Descripción breve

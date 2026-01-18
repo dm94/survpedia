@@ -1,5 +1,6 @@
 ---
 title: "Sling"
+image: ../../../assets/inventions/sling.jpg
 materialsUsed: ["plant-fibers", "leather", "stone"]
 ---
 

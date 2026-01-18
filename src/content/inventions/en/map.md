@@ -1,7 +1,7 @@
 ---
 title: "Map"
 materialsUsed: ["paper", "ink"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/map.jpg
 ---
 
 # Brief description

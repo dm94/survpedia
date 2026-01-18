@@ -1,5 +1,6 @@
 ---
 title: "Horno"
+image: ../../../assets/inventions/kiln.jpg
 materialsUsed: ["clay", "stone", "wood", "charcoal"]
 ---
 

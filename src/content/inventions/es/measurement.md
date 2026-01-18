@@ -1,7 +1,7 @@
 ---
 title: "Medición (longitud, masa, tiempo)"
 materialsUsed: ["wood", "stone", "water", "sand", "plant-fibers"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/measurement.jpg
 ---
 
 # Breve descripción

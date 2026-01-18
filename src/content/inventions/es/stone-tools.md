@@ -1,5 +1,6 @@
 ---
 title: "Herramientas de piedra"
+image: ../../../assets/inventions/stone-tools.jpg
 materialsUsed: ["stone", "flint"]
 ---
 

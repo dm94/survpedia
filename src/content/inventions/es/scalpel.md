@@ -1,5 +1,6 @@
 ---
 title: "Bisturí"
+image: ../../../assets/inventions/scalpel.jpg
 materialsUsed: ["steel", "stone-knife"]
 ---
 

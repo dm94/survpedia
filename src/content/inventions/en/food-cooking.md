@@ -1,5 +1,6 @@
 ---
 title: "Food Cooking"
+image: ../../../assets/inventions/food-cooking.jpg
 materialsUsed: ["wood", "stone", "clay", "water"]
 ---
 

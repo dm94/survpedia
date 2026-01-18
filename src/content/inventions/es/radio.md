@@ -1,5 +1,6 @@
 ---
 title: "Radio"
+image: ../../../assets/inventions/radio.jpg
 materialsUsed: ["copper", "wood", "glass", "iron", "steel"]
 ---
 

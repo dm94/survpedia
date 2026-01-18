@@ -1,5 +1,6 @@
 ---
 title: "Raspador"
+image: ../../../assets/inventions/scraper.jpg
 materialsUsed: ["flint"]
 ---
 

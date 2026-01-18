@@ -1,5 +1,6 @@
 ---
 title: "Containers"
+image: ../../../assets/inventions/containers.jpg
 materialsUsed: ["plant-fibers", "leather", "clay", "resin"]
 ---
 

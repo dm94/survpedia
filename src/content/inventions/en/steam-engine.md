@@ -1,5 +1,6 @@
 ---
 title: "Steam Engine"
+image: ../../../assets/inventions/steam-engine.jpg
 materialsUsed: ["iron", "steel", "water", "wood", "charcoal", "coal"]
 ---
 

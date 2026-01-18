@@ -1,5 +1,6 @@
 ---
 title: "Fortificación simple"
+image: ../../../assets/inventions/simple-fortification.jpg
 materialsUsed: ["wood", "stone", "clay", "plant-fibers"]
 ---
 

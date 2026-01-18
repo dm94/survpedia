@@ -1,5 +1,6 @@
 ---
 title: "Distillation"
+image: ../../../assets/inventions/distillation.jpg
 materialsUsed: ["water", "fire", "copper", "glass", "clay"]
 ---
 

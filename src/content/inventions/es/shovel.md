@@ -1,5 +1,6 @@
 ---
 title: "Pala"
+image: ../../../assets/inventions/shovel.jpg
 materialsUsed: ["wood", "stone", "iron", "bone", "plant-fibers", "leather"]
 ---
 

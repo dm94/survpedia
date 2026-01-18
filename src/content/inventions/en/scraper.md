@@ -1,5 +1,6 @@
 ---
 title: "Scraper"
+image: ../../../assets/inventions/scraper.jpg
 materialsUsed: ["flint"]
 ---
 

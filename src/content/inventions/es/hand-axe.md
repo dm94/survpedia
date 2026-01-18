@@ -1,5 +1,6 @@
 ---
 title: "Hacha de mano"
+image: ../../../assets/inventions/hand-axe.jpg
 materialsUsed: ["flint"]
 ---
 

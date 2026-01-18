@@ -1,5 +1,6 @@
 ---
 title: "Electric Motor"
+image: ../../../assets/inventions/electric-motor.jpg
 materialsUsed: ["copper", "iron", "steel", "magnetite", "wood", "wire"]
 ---
 

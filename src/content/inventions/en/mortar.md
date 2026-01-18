@@ -1,5 +1,6 @@
 ---
 title: "Mortar and Pestle"
+image: ../../../assets/inventions/mortar.jpg
 materialsUsed: ["stone", "wood", "pottery"]
 ---
 

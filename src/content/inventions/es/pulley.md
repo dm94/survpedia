@@ -1,5 +1,6 @@
 ---
 title: "Polea"
+image: ../../../assets/inventions/pulley.jpg
 materialsUsed: ["wood", "iron", "bronze", "plant-fibers"]
 ---
 

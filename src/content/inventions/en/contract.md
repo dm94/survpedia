@@ -1,5 +1,6 @@
 ---
 title: "Contract & Registry"
+image: ../../../assets/inventions/contract.jpg
 materialsUsed:
   [
     "paper",

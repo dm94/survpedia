@@ -1,7 +1,7 @@
 ---
 title: "Compass"
 materialsUsed: ["iron", "water", "wood", "magnetite"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/compass.jpg
 ---
 
 # Brief description

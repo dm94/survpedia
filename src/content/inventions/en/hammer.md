@@ -1,5 +1,6 @@
 ---
 title: "Hammer"
+image: ../../../assets/inventions/hammer.jpg
 materialsUsed: ["wood", "stone", "iron", "plant-fibers", "leather"]
 ---
 

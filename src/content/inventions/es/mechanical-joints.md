@@ -1,5 +1,6 @@
 ---
 title: "Clavos y uniones mecánicas"
+image: ../../../assets/inventions/mechanical-joints.jpg
 materialsUsed: ["wood", "copper", "bronze", "iron"]
 ---
 

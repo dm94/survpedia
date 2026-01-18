@@ -1,5 +1,6 @@
 ---
 title: "Alembic"
+image: ../../../assets/inventions/alembic.jpg
 materialsUsed: ["copper", "clay", "glass", "fire"]
 ---
 

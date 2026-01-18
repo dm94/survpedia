@@ -1,5 +1,6 @@
 ---
 title: "Mortero y Maja"
+image: ../../../assets/inventions/mortar.jpg
 materialsUsed: ["stone", "wood", "pottery"]
 ---
 

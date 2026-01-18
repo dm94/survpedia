@@ -1,7 +1,7 @@
 ---
 title: "Latrine"
 materialsUsed: ["wood", "stone"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/latrine.jpg
 ---
 
 # Brief description

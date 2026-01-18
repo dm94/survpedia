@@ -1,5 +1,6 @@
 ---
 title: "Shield"
+image: ../../../assets/inventions/shield.jpg
 materialsUsed: ["wood", "leather", "plant-fibers", "iron", "bronze"]
 ---
 

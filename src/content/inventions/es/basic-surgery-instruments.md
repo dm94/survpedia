@@ -1,5 +1,6 @@
 ---
 title: "Cirugía básica (instrumental)"
+image: ../../../assets/inventions/basic-surgery-instruments.jpg
 materialsUsed: ["steel", "scalpel", "needle", "surgical-thread", "alcohol", "cotton"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Agricultura básica"
+image: "../../../assets/inventions/basic-agriculture.jpg"
 materialsUsed: ["wood", "stone", "plant-fibers", "water"]
 ---
 

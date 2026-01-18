@@ -1,7 +1,7 @@
 ---
 title: "Astronomy"
 materialsUsed: ["stone", "wood", "glass", "paper", "ink"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/astronomy.jpg
 ---
 
 # Brief description

@@ -1,5 +1,6 @@
 ---
 title: "Lanza"
+image: ../../../assets/inventions/spear.jpg
 materialsUsed: ["wood", "stone", "resin"]
 ---
 

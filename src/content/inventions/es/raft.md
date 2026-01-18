@@ -1,5 +1,6 @@
 ---
 title: "Balsa"
+image: ../../../assets/inventions/raft.jpg
 materialsUsed: ["wood", "leather", "plant-fibers"]
 ---
 

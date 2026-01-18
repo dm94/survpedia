@@ -1,7 +1,7 @@
 ---
 title: "Calendario"
 materialsUsed: ["stone", "wood", "clay", "papyrus", "parchment", "paper", "ink"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/calendar.jpg
 ---
 
 # Breve descripción

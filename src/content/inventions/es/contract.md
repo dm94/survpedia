@@ -1,5 +1,6 @@
 ---
 title: "Contrato y Registro"
+image: ../../../assets/inventions/contract.jpg
 materialsUsed: ["paper", "ink", "clay", "parchment", "papyrus", "beeswax", "stone", "leather"]
 ---
 

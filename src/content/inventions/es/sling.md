@@ -1,5 +1,6 @@
 ---
 title: "Honda"
+image: ../../../assets/inventions/sling.jpg
 materialsUsed: ["plant-fibers", "leather", "stone"]
 ---
 

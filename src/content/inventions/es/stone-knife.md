@@ -1,5 +1,6 @@
 ---
 title: "Cuchillo de piedra"
+image: ../../../assets/inventions/stone-knife.jpg
 materialsUsed: ["flint", "wood", "resin"]
 ---
 

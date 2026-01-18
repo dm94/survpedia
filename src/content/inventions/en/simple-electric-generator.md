@@ -1,5 +1,6 @@
 ---
 title: "Simple Electric Generator"
+image: ../../../assets/inventions/simple-electric-generator.jpg
 materialsUsed: ["copper", "magnetite", "wood", "iron", "wire", "resin"]
 ---
 

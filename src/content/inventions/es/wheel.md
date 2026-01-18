@@ -1,5 +1,6 @@
 ---
 title: "Rueda"
+image: ../../../assets/inventions/wheel.jpg
 materialsUsed: ["wood", "stone", "iron", "animal-fat"]
 ---
 

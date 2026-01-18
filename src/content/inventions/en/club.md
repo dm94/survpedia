@@ -1,5 +1,6 @@
 ---
 title: "Club"
+image: ../../../assets/inventions/club.jpg
 materialsUsed: ["wood", "stone"]
 ---
 

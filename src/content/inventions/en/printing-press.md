@@ -1,5 +1,6 @@
 ---
 title: "Printing Press"
+image: ../../../assets/inventions/printing-press.jpg
 materialsUsed: ["iron", "wood", "paper", "ink", "lead", "tin", "antimony"]
 ---
 

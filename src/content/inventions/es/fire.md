@@ -1,5 +1,6 @@
 ---
 title: "Fuego controlado"
+image: ../../../assets/inventions/fire.jpg
 materialsUsed: ["wood", "charcoal", "flint"]
 ---
 

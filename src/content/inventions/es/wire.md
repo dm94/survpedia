@@ -1,5 +1,6 @@
 ---
 title: "Alambre"
+image: ../../../assets/inventions/wire.jpg
 materialsUsed: ["copper", "iron", "gold", "silver", "bronze"]
 ---
 

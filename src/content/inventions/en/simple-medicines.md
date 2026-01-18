@@ -1,5 +1,6 @@
 ---
 title: "Simple Medicines (Extracts, Ointments)"
+image: ../../../assets/inventions/simple-medicines.jpg
 materialsUsed: ["medicinal-plants", "alcohol", "animal-fat", "vegetable-oil", "beeswax"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ruler"
 materialsUsed: ["wood"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/ruler.jpg
 ---
 
 # Brief description

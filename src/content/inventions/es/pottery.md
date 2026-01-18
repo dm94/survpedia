@@ -1,5 +1,6 @@
 ---
 title: "Cerámica"
+image: ../../../assets/inventions/pottery.jpg
 materialsUsed: ["clay", "water", "wood"]
 ---
 

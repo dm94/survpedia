@@ -1,5 +1,6 @@
 ---
 title: "Screw"
+image: ../../../assets/inventions/screw.jpg
 materialsUsed: ["wood", "iron", "bronze", "steel"]
 ---
 

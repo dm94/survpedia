@@ -1,5 +1,6 @@
 ---
 title: "Basic Metallurgy (Copper & Bronze)"
+image: ../../../assets/inventions/metallurgy.jpg
 materialsUsed: ["copper", "bronze", "charcoal"]
 ---
 

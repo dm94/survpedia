@@ -1,5 +1,6 @@
 ---
 title: "Electric generator"
+image: ../../../assets/inventions/electric-generator.jpg
 materialsUsed: ["copper", "iron", "steel", "wood"]
 ---
 

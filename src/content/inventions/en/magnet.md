@@ -1,5 +1,6 @@
 ---
 title: "Magnet"
+image: ../../../assets/inventions/magnet.jpg
 materialsUsed: ["magnetite", "iron", "steel", "copper", "wire"]
 ---
 

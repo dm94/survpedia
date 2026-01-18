@@ -1,7 +1,7 @@
 ---
 title: "Sundial"
 materialsUsed: ["wood", "stone"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/sundial.jpg
 ---
 
 # Brief description

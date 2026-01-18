@@ -1,7 +1,7 @@
 ---
 title: "Balance Scale"
 materialsUsed: ["wood", "plant-fibers", "stone"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/balance-scale.jpg
 ---
 
 # Brief description

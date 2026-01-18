@@ -1,5 +1,6 @@
 ---
 title: "Seal"
+image: ../../../assets/inventions/seal.jpg
 materialsUsed: ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
 ---
 

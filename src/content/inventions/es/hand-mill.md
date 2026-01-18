@@ -1,5 +1,6 @@
 ---
 title: "Molino manual (grano)"
+image: ../../../assets/inventions/hand-mill.jpg
 materialsUsed: ["stone", "wood"]
 ---
 

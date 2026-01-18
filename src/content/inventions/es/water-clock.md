@@ -1,7 +1,7 @@
 ---
 title: "Clepsidra (Reloj de Agua)"
 materialsUsed: ["clay", "water"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/water-clock.jpg
 ---
 
 # Breve descripción

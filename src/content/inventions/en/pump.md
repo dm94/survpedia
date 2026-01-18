@@ -1,5 +1,6 @@
 ---
 title: "Pump"
+image: ../../../assets/inventions/pump.jpg
 materialsUsed: ["wood", "iron", "leather", "animal-fat"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Transistor"
 materialsUsed: ["silicon", "germanium", "gold", "copper", "resin", "aluminum"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/transistor.jpg
 ---
 
 # Brief description

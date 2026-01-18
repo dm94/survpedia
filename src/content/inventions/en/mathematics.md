@@ -1,7 +1,7 @@
 ---
 title: "Mathematics"
 materialsUsed: ["stone", "wood", "clay", "paper", "ink", "sand"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/mathematics.jpg
 ---
 
 # Brief description

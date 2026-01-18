@@ -1,7 +1,7 @@
 ---
 title: "Water Clock (Clepsydra)"
 materialsUsed: ["clay", "water"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/water-clock.jpg
 ---
 
 # Brief description

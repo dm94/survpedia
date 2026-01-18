@@ -1,5 +1,6 @@
 ---
 title: "Porra"
+image: ../../../assets/inventions/club.jpg
 materialsUsed: ["wood", "stone"]
 ---
 

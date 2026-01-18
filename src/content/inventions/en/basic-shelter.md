@@ -1,5 +1,6 @@
 ---
 title: "Basic shelter"
+image: ../../../assets/inventions/basic-shelter.jpg
 materialsUsed: ["wood", "stone", "plant-fibers", "leather", "clay"]
 ---
 

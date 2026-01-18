@@ -1,5 +1,6 @@
 ---
 title: "Basic Surgery (instruments)"
+image: ../../../assets/inventions/basic-surgery-instruments.jpg
 materialsUsed:
   ["steel", "scalpel", "needle", "surgical-thread", "alcohol", "cotton"]
 ---

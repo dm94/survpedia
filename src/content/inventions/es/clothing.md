@@ -1,5 +1,6 @@
 ---
 title: "Ropa y tejidos"
+image: ../../../assets/inventions/clothing.jpg
 materialsUsed: ["leather", "wool", "cotton", "plant-fibers"]
 ---
 

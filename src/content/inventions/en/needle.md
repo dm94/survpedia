@@ -1,5 +1,6 @@
 ---
 title: "Surgical Needle"
+image: ../../../assets/inventions/needle.jpg
 materialsUsed: ["steel", "bone"]
 ---
 

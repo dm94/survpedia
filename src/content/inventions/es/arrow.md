@@ -1,5 +1,6 @@
 ---
 title: "Flecha"
+image: ../../../assets/inventions/arrow.jpg
 materialsUsed: ["wood", "feather", "stone", "bone", "resin", "plant-fibers"]
 ---
 

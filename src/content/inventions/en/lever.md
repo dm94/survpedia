@@ -1,5 +1,6 @@
 ---
 title: "Lever"
+image: ../../../assets/inventions/lever.jpg
 materialsUsed: ["wood", "stone"]
 ---
 

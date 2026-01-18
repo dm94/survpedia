@@ -1,5 +1,6 @@
 ---
 title: "Food Storage"
+image: ../../../assets/inventions/food-storage.jpg
 materialsUsed: ["clay", "plant-fibers", "stone", "salt", "wood"]
 ---
 

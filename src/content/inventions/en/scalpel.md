@@ -1,5 +1,6 @@
 ---
 title: "Scalpel"
+image: ../../../assets/inventions/scalpel.jpg
 materialsUsed: ["steel", "stone-knife"]
 ---
 

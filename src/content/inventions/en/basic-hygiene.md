@@ -1,7 +1,7 @@
 ---
 title: "Basic Hygiene"
 materialsUsed: ["water", "soap", "ash", "sand", "toothpaste"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/basic-hygiene.jpg
 ---
 
 # Brief description

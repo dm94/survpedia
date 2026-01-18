@@ -1,7 +1,7 @@
 ---
 title: "Latrina"
 materialsUsed: ["wood", "stone"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/latrine.jpg
 ---
 
 # Breve descripción

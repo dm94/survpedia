@@ -1,5 +1,6 @@
 ---
 title: "Written Language"
+image: ../../../assets/inventions/written-language.jpg
 materialsUsed: ["clay", "paper", "ink", "papyrus", "parchment", "charcoal", "plant-fibers", "leather"]
 ---
 

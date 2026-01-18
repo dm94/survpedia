@@ -1,5 +1,6 @@
 ---
 title: "Válvula de vacío"
+image: ../../../assets/inventions/vacuum-tube.jpg
 materialsUsed: ["glass", "copper", "tungsten", "steel"]
 ---
 

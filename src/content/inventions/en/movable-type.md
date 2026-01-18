@@ -1,5 +1,6 @@
 ---
 title: "Movable Type"
+image: ../../../assets/inventions/movable-type.jpg
 materialsUsed: ["lead", "tin", "antimony", "steel", "copper", "wood"]
 ---
 

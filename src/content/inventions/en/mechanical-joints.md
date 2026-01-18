@@ -1,5 +1,6 @@
 ---
 title: "Nails and Mechanical Joints"
+image: ../../../assets/inventions/mechanical-joints.jpg
 materialsUsed: ["wood", "copper", "bronze", "iron"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Regla"
 materialsUsed: ["wood"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/ruler.jpg
 ---
 
 # Breve descripción

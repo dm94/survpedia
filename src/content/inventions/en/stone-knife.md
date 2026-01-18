@@ -1,5 +1,6 @@
 ---
 title: "Stone Knife"
+image: ../../../assets/inventions/stone-knife.jpg
 materialsUsed: ["flint", "wood", "resin"]
 ---
 

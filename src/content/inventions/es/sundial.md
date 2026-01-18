@@ -1,7 +1,7 @@
 ---
 title: "Reloj de Sol"
 materialsUsed: ["wood", "stone"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/sundial.jpg
 ---
 
 # Breve descripción

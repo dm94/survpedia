@@ -1,7 +1,7 @@
 ---
 title: "Fermentation"
 materialsUsed: ["sugar", "water", "yeast", "wood", "clay", "glass"]
-image: "../../assets/placeholder.jpg"
+image: ../../../assets/inventions/fermentation.jpg
 ---
 
 # Brief description

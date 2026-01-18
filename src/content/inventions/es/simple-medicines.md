@@ -1,5 +1,6 @@
 ---
 title: "Medicamentos Simples (Extractos, Ungüentos)"
+image: ../../../assets/inventions/simple-medicines.jpg
 materialsUsed: ["medicinal-plants", "alcohol", "animal-fat", "vegetable-oil", "beeswax"]
 ---
 
