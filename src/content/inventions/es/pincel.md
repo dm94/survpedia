@@ -21,12 +21,14 @@ Las cerdas retienen el líquido (pintura/tinta) mediante acción capilar y tensi
 ## Cómo crearlo
 
 ### Versión funcional mínima
+
 1.  Reunir un pequeño manojo de pelo animal o fibras vegetales rígidas.
 2.  Atarlos fuertemente en un extremo.
 3.  Insertar el extremo atado en un palo hueco (caña o pluma) o atarlo a un palo.
 4.  Asegurar con pegamento o resina.
 
 ### Pasos esenciales
+
 1.  **Selección**: Elegir cerdas según la rigidez deseada (jabalí para grueso, marta/ardilla para fino).
 2.  **Limpieza**: Lavar las cerdas para eliminar la grasa (a menos que se deseen aceites naturales).
 3.  **Agrupación**: Alinear las puntas (no cortar las puntas del pelo natural, ya que el extremo cónico es crucial para el flujo).
@@ -36,10 +38,10 @@ Las cerdas retienen el líquido (pintura/tinta) mediante acción capilar y tensi
 ## Materiales necesarios
 
 - **Materiales esenciales**:
-    - Cerdas: Pelo animal (caballo, cerdo, tejón, marta), fibras vegetales (sisal, coco) o sintéticas.
-    - Mango: Madera, bambú, hueso.
-    - Unión: Cuerda, alambre, tira de cuero.
-- **Herramientas**: Cuchillo, tijeras (para recortar la base, no las puntas), pegamento/resina.
+  - Cerdas: Pelo animal (caballo, cerdo, tejón, marta), fibras vegetales (sisal, coco) o sintéticas.
+  - Mango: Madera, bambú, hueso.
+  - Unión: Cuerda, alambre, tira de cuero.
+- **Herramientas**: Cuchillo, tijeras (para recortar la base, no las puntas), [Pegamento](../../materials/es/glue.md)/[Resina](../../materials/es/resin.md).
 
 ## Variantes y mejoras
 

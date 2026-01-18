@@ -61,7 +61,7 @@ Pigments appear as fine, colored powders. The color intensity and coverage depen
 
 ### Related materials
 
-- **Paint**: The primary application of pigments (Pigment + Binder).
-- **Ink**: Pigments suspended in a liquid for writing.
-- **Binder**: The substance (oil, egg, gum) that holds the pigment in place.
-- **Clay**: A source of earth pigments (Ochre).
+- **[Paint](../../materials/en/paint.md)**: The primary application of pigments (Pigment + Binder).
+- **[Ink](../../materials/en/ink.md)**: Pigments suspended in a liquid for writing.
+- **[Glue](../../materials/en/glue.md)**: Can act as a binder.
+- **[Clay](../../materials/en/clay.md)**: A source of earth pigments (Ochre).

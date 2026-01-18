@@ -59,9 +59,9 @@ La tinta suele ser un líquido oscuro, aunque puede presentarse en muchos colore
 
 ### Materiales relacionados
 
-- **Pigmentos**: El agente colorante.
-- **Pincel**: Herramienta de aplicación.
-- **Carbón**: Fuente común de pigmento negro.
-- **Agua**: Solvente más común para la tinta básica.
-- **Papel**: La superficie principal para la aplicación de tinta.
-- **Cuero**: Puede usarse como superficie para escribir con tinta (como pergamino).
+- **[Pigmentos](../../materials/es/pigmentos.md)**: El agente colorante.
+- **[Pincel](../../inventions/es/pincel.md)**: Herramienta de aplicación.
+- **[Carbón](../../materials/es/charcoal.md)**: Fuente común de pigmento negro.
+- **[Agua](../../materials/es/water.md)**: Solvente más común para la tinta básica.
+- **[Papel](../../materials/es/paper.md)**: La superficie principal para la aplicación de tinta.
+- **[Cuero](../../materials/es/leather.md)**: Puede usarse como superficie para escribir con tinta (como pergamino).

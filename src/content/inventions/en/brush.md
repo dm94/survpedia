@@ -21,12 +21,14 @@ The bristles hold the liquid (paint/ink) through capillary action and surface te
 ## How to create it
 
 ### Minimum functional version
+
 1.  Gather a small bundle of animal hair or stiff plant fibers.
 2.  Tie them tightly together at one end.
 3.  Insert the tied end into a hollow stick (reed or quill) or bind it to a stick.
 4.  Secure with glue or resin.
 
 ### Essential steps
+
 1.  **Selection**: Choose bristles based on desired stiffness (boar for coarse, sable/squirrel for fine).
 2.  **Cleaning**: Wash bristles to remove grease (unless natural oils are desired).
 3.  **Bundling**: Align the tips (do not cut the tips of natural hair, as the tapered end is crucial for flow).
@@ -36,10 +38,10 @@ The bristles hold the liquid (paint/ink) through capillary action and surface te
 ## Materials needed
 
 - **Essential materials**:
-    - Bristles: Animal hair (horse, hog, badger, sable), plant fibers (sisal, coconut), or synthetic.
-    - Handle: Wood, bamboo, bone.
-    - Binding: String, wire, leather strip.
-- **Tools**: Knife, scissors (for trimming base, not tips), glue/resin.
+  - Bristles: Animal hair (horse, hog, badger, sable), plant fibers (sisal, coconut), or synthetic.
+  - Handle: Wood, bamboo, bone.
+  - Binding: String, wire, leather strip.
+- **Tools**: Knife, scissors (for trimming base, not tips), [Glue](../../materials/en/glue.md)/[Resin](../../materials/en/resin.md).
 
 ## Variants and improvements
 

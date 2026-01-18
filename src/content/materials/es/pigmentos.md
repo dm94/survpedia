@@ -61,7 +61,7 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 
 ### Materiales relacionados
 
-- **Pintura**: La aplicación principal de los pigmentos (Pigmento + Aglutinante).
-- **Tinta**: Pigmentos suspendidos en un líquido para escribir.
-- **Aglutinante**: La sustancia (aceite, huevo, goma) que mantiene el pigmento en su lugar.
-- **Arcilla**: Una fuente de pigmentos de tierra (Ocre).
+- **[Pintura](../../materials/es/paint.md)**: La aplicación principal de los pigmentos (Pigmento + Aglutinante).
+- **[Tinta](../../materials/es/ink.md)**: Pigmentos suspendidos en un líquido para escribir.
+- **[Pegamento](../../materials/es/glue.md)**: Puede actuar como aglutinante.
+- **[Arcilla](../../materials/es/clay.md)**: Una fuente de pigmentos de tierra (Ocre).
