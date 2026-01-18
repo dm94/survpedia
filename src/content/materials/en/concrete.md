@@ -17,7 +17,7 @@ Initially a semi-liquid slurry that can be poured into molds. When cured, it bec
 ## Origin and where to find it
 
 - **Artificial:** It must be manufactured.
-- **History:** Used extensively by Romans (Roman Concrete) using volcanic ash (pozzolana) and lime.
+- **History:** Used extensively by Romans (Roman Concrete) using volcanic ash (**[pozzolana](/en/materials/pozzolana)**) and lime.
 
 ### Minimum processing required
 
@@ -59,5 +59,6 @@ Initially a semi-liquid slurry that can be poured into molds. When cured, it bec
 ### Related materials
 
 - **Lime:** The binder.
+- **[Primitive Cement](/en/materials/primitive-cement):** The historical version.
 - **Sand/Gravel:** The aggregate.
 - **Mortar:** Similar but without coarse aggregate.

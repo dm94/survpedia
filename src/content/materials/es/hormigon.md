@@ -17,7 +17,7 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 ## Origen y dónde encontrarlo
 
 - **Artificial:** Debe ser fabricado.
-- **Historia:** Usado extensamente por los romanos (Hormigón Romano) usando ceniza volcánica (puzolana) y cal.
+- **Historia:** Usado extensamente por los romanos (Hormigón Romano) usando ceniza volcánica (**[puzolana](/es/materials/puzolana)**) y cal.
 
 ### Procesamiento mínimo requerido
 
@@ -59,5 +59,6 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 ### Materiales relacionados
 
 - **Cal:** El aglomerante.
+- **[Cemento Primitivo](/es/materials/cemento-primitivo):** La versión histórica.
 - **Arena/Grava:** El agregado.
 - **Mortero:** Similar pero sin agregado grueso.

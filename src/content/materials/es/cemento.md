@@ -1,7 +1,13 @@
 ---
 title: "Cemento"
 formula: "Compleja (óxidos de Ca-Si-Al-Fe)"
-properties: ["Hidráulico (fragua bajo agua)", "Duro", "Rígido", "Alta resistencia a la compresión"]
+properties:
+  [
+    "Hidráulico (fragua bajo agua)",
+    "Duro",
+    "Rígido",
+    "Alta resistencia a la compresión",
+  ]
 uses: ["Hormigón", "Mortero", "Estuco", "Lechada"]
 naturalAvailability: false
 manufacturingProcess: "Calcinación de caliza y arcilla a altas temperaturas (1450°C) y molienda del clinker."
@@ -43,7 +49,7 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 ### Posibles sustitutos
 
 - **[Cal](/es/materials/cal) Hidráulica:** Caliza que contiene arcilla, quemada a temperaturas más bajas. (El precursor histórico).
-- **[Cal](/es/materials/cal) Puzolánica:** Cal mezclada con ceniza volcánica (puzolana) o ladrillo triturado. Esto hace que la cal sea hidráulica (capaz de fraguar bajo el agua).
+- **[Cal](/es/materials/cal) Puzolánica:** Cal mezclada con ceniza volcánica (**[puzolana](/es/materials/puzolana)**) o ladrillo triturado. Esto hace que la cal sea hidráulica (capaz de fraguar bajo el agua).
 
 ### Limitaciones y fallos comunes
 

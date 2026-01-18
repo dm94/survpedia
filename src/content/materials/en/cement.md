@@ -43,7 +43,7 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 ### Possible substitutes
 
 - **Hydraulic Lime:** Limestone containing clay, burnt at lower temps. (The historical precursor).
-- **Pozzolanic Lime:** Lime mixed with volcanic ash (pozzolana) or crushed brick. This makes lime hydraulic (able to set underwater).
+- **Pozzolanic Lime:** Lime mixed with volcanic ash (**[pozzolana](/en/materials/pozzolana)**) or crushed brick. This makes lime hydraulic (able to set underwater).
 
 ### Limitations and common failures
 
