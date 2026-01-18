@@ -25,7 +25,7 @@ A simple boat is a watercraft constructed from wooden planks or boards, joined t
 2. **Framing:** Attach curved ribs or frames to the keel to define the shape of the hull.
 3. **Planking:** Attach wooden planks to the frames (carvel) or overlapping each other (clinker) to form the outer shell.
 4. **Caulking:** Fill the gaps between planks with fibrous material (like hemp or oakum) soaked in pitch or resin to make the hull watertight.
-5. **Outfitting:** Add seats (thwarts), oarlocks for **Oars**, or a mast for a **Sail**.
+5. **Outfitting:** Add seats (thwarts), oarlocks for [[oar|Oars]], or a mast for a [[sail|Sail]].
 
 ## Materials needed
 

@@ -25,7 +25,7 @@ Un barco simple es una embarcación construida a partir de tablones o tablas de 
 2. **Armazón:** Unir costillas o cuadernas curvas a la quilla para definir la forma del casco.
 3. **Entablado:** Unir tablones de madera a las cuadernas (a tope) o superpuestos entre sí (tingladillo) para formar la cubierta exterior.
 4. **Calafateado:** Rellenar los huecos entre los tablones con material fibroso (como cáñamo o estopa) empapado en brea o resina para hacer el casco estanco.
-5. **Equipamiento:** Añadir asientos (bancadas), toletes para **Remos**, o un mástil para una **Vela**.
+5. **Equipamiento:** Añadir asientos (bancadas), toletes para [[oar|Remos]], o un mástil para una [[sail|Vela]].
 
 ## Materiales necesarios
 

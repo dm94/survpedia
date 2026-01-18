@@ -28,7 +28,7 @@ An oar is an implement used for waterborne propulsion. It consists of a long sha
 ## Materials needed
 
 - **Wood:** Ash, spruce, or pine are common choices for their strength-to-weight ratio.
-- **Tools:** Axe, drawknife, plane, sandpaper.
+- **Tools:** [[hand-axe|Axe]], [[scraper|Scraper]], [[chisel|Chisel]] (or plane), [[sandpaper|Sandpaper]].
 
 ## Variants and improvements
 

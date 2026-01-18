@@ -28,7 +28,7 @@ Un remo es un instrumento utilizado para la propulsión en el agua. Consiste en 
 ## Materiales necesarios
 
 - **Madera:** Fresno, abeto o pino son opciones comunes por su relación resistencia-peso.
-- **Herramientas:** Hacha, cuchillo de arrastre, cepillo, papel de lija.
+- **Herramientas:** [[hand-axe|Hacha]], [[scraper|Raspador]], [[chisel|Cincel]] (o cepillo), [[sandpaper|Papel de lija]].
 
 ## Variantes y mejoras
 
