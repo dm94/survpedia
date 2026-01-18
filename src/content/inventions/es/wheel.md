@@ -6,7 +6,7 @@ materialsUsed: ["wood", "stone", "iron", "animal-fat"]
 
 # Breve descripción
 
-La rueda es un componente circular diseñado para girar sobre un eje. Es uno de los componentes clave de la rueda y el eje, una de las seis máquinas simples.
+La rueda es un componente circular diseñado para girar sobre un eje. Es uno de los componentes clave de la rueda y el [eje](/es/inventions/axle), una de las seis máquinas simples.
 
 ## Uso / Función
 

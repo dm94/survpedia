@@ -6,7 +6,7 @@ materialsUsed: ["wood", "stone", "iron", "animal-fat"]
 
 # Brief description
 
-A wheel is a circular component that is intended to rotate on an axle bearing. It is one of the key components of the wheel and axle, one of the six simple machines.
+A wheel is a circular component that is intended to rotate on an axle bearing. It is one of the key components of the wheel and [axle](/en/inventions/axle), one of the six simple machines.
 
 ## Use / Function
 
