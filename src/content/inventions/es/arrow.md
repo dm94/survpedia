@@ -1,6 +1,6 @@
 ---
 title: "Flecha"
-image: "../../../assets/inventions/placeholder.jpg"
+
 materialsUsed: ["wood", "feather", "stone", "bone", "resin", "plant-fibers"]
 ---
 

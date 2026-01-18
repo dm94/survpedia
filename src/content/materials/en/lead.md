@@ -1,8 +1,17 @@
 ---
 title: "Lead"
 composition: ["lead"]
-properties: ["Soft", "Malleable", "Heavy", "Low melting point", "Corrosion-resistant"]
-uses: ["Pipes", "Weights", "Batteries", "Radiation shielding", "Type metal alloy"]
+properties:
+  ["Soft", "Malleable", "Heavy", "Low melting point", "Corrosion-resistant"]
+uses:
+  [
+    "Pipes",
+    "Weights",
+    "Batteries",
+    "Radiation shielding",
+    "Type metal alloy",
+    "Plumb bobs",
+  ]
 naturalAvailability: true
 manufacturingProcess: "Extracted from ores, primarily galena (lead sulfide), by roasting and smelting."
 category: "mineral"

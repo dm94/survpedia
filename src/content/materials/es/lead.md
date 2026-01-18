@@ -2,7 +2,7 @@
 title: "Plomo"
 composition: ["lead"]
 properties: ["Blando", "Maleable", "Pesado", "Bajo punto de fusión", "Resistente a la corrosión"]
-uses: ["Tuberías", "Pesas", "Baterías", "Blindaje contra radiación", "Aleación para tipos de imprenta"]
+uses: ["Tuberías", "Pesas", "Baterías", "Blindaje contra radiación", "Aleación para tipos de imprenta", "Plomadas"]
 naturalAvailability: true
 manufacturingProcess: "Extraído de minerales, principalmente galena (sulfuro de plomo), mediante tostación y fundición."
 category: "mineral"

@@ -17,4 +17,9 @@ Lead (/lɛd/) is a chemical element in the carbon group with symbol Pb (from Lat
 - Boiling Point: 2022 K
 
 ## Uses
-<!-- Add uses here -->
+- Batteries (lead-acid)
+- Radiation shielding
+- Ammunition (bullets)
+- Weights and sinkers
+- Plumb bobs
+- Soldering (historical, less common now due to toxicity)
