@@ -59,7 +59,9 @@ Ink is usually a dark liquid, though it can come in many colors. It is designed 
 
 ### Related materials
 
-- Charcoal: Common source of black pigment.
-- Water: Most common solvent for basic ink.
-- Paper: The primary surface for ink application.
-- Leather: Can be used as a surface for writing with ink (as parchment).
+- **Pigments**: The coloring agent.
+- **Brush**: Tool for application.
+- **Charcoal**: Common source of black pigment.
+- **Water**: Most common solvent for basic ink.
+- **Paper**: The primary surface for ink application.
+- **Leather**: Can be used as a surface for writing with ink (as parchment).
