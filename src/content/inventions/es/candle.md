@@ -1,6 +1,7 @@
 ---
-title: "Vela"
+title: "Vela (Iluminación)"
 materialsUsed: ["beeswax", "animal-fat", "plant-fibers", "cotton"]
+image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción

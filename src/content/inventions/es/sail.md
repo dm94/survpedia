@@ -1,5 +1,5 @@
 ---
-title: "Vela"
+title: "Vela (Navegación)"
 materialsUsed: ["fabric", "plant-fibers"]
 image: ../../../assets/inventions/placeholder.jpg
 ---
@@ -16,6 +16,7 @@ Una vela es una estructura tensada —típicamente hecha de tela u otros materia
 ## Principio de funcionamiento
 
 **Aerodinámica:** Las velas funcionan atrapando el viento (arrastre) o creando una diferencia de presión (sustentación).
+
 - **Viento en popa:** La vela actúa como un paracaídas, atrapando el viento y siendo empujada por él (arrastre).
 - **Viento de través/ceñida:** La vela actúa como un perfil aerodinámico (ala de avión). El aire fluye más rápido sobre la superficie exterior curva (sotavento) que sobre la superficie interior (barlovento), creando una presión más baja en el lado de sotavento y generando una sustentación que tira del barco hacia adelante.
 
@@ -30,7 +31,7 @@ Una vela es una estructura tensada —típicamente hecha de tela u otros materia
 
 - **Tela:** Lona (algodón/cáñamo), lino o esteras de caña tejidas (antiguo).
 - **Cuerda:** Para refuerzo y aparejo (fibras vegetales).
-- **Aguja e hilo:** Para el ensamblaje.
+- **[Aguja](/es/inventions/needle)** e hilo: Para el ensamblaje.
 
 ## Variantes y mejoras
 

@@ -29,7 +29,7 @@ Atrapa una capa de aire cerca de la piel que actúa como aislante térmico. Los 
 ## Materiales necesarios
 
 - **Esenciales:** Pieles, lana, algodón o fibras de corteza.
-- **Herramientas:** Raspadores para pieles, husos para hilar, agujas (hueso/madera), telares simples.
+- **Herramientas:** Raspadores para pieles, husos para hilar, **[agujas](/es/inventions/needle)** (hueso/madera), telares simples.
 - **Sustitutos:** Hojas grandes, cortezas batidas (tapa).
 
 ## Variantes y mejoras
