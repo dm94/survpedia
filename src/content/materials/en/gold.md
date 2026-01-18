@@ -1,12 +1,18 @@
 ---
 title: "Gold"
 composition: ["gold"]
-properties: ["Extremely malleable", "Ductile", "Corrosion resistant", "Excellent conductor", "Dense"]
+properties:
+  [
+    "Extremely malleable",
+    "Ductile",
+    "Corrosion resistant",
+    "Excellent conductor",
+    "Dense",
+  ]
 uses: ["Currency", "Jewelry", "Electronics", "Dentistry", "Radiation shielding"]
 naturalAvailability: true
 manufacturingProcess: "Found as native metal in riverbeds (placer) or veins; refined by smelting."
 category: "mineral"
-image: "../../assets/placeholder.jpg"
 ---
 
 # Description of what it is like
@@ -15,7 +21,7 @@ Gold is a dense, soft, shiny, yellow metal. It is one of the least reactive chem
 
 ## Origin and where to find it
 
-- **Environments:** 
+- **Environments:**
   - **Placer deposits:** Particles or nuggets in riverbeds and alluvial deposits (gold panning).
   - **Lode deposits:** Veins in rock, often associated with quartz.
 - **Signs:** Distinctive yellow color that doesn't tarnish. High density (it sinks fast in water).

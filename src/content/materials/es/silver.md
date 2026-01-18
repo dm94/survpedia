@@ -1,12 +1,18 @@
 ---
 title: "Plata"
 composition: ["silver"]
-properties: ["Máxima conductividad", "Maleable", "Dúctil", "Reflectante", "Antibacteriano"]
+properties:
+  [
+    "Máxima conductividad",
+    "Maleable",
+    "Dúctil",
+    "Reflectante",
+    "Antibacteriano",
+  ]
 uses: ["Moneda", "Joyería", "Vajilla", "Espejos", "Electrónica", "Fotografía"]
 naturalAvailability: true
 manufacturingProcess: "Minada a menudo de argentita o galena (mineral de plomo); extraída mediante fundición y copelación."
 category: "mineral"
-image: "../../assets/placeholder.jpg"
 ---
 
 # Descripción de cómo es

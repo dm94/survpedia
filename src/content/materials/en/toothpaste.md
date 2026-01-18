@@ -6,7 +6,6 @@ naturalAvailability: false
 manufacturingProcess: "Mixture of a mild abrasive powder with a binder and cleaning/flavoring agents."
 category: "synthetic"
 composition: ["salt", "ash", "clay", "water"]
-image: "../../assets/placeholder.jpg"
 ---
 
 Toothpaste or dentifrice is a substance used with a toothbrush to clean dental surfaces. Its main function is to help remove bacterial plaque and food debris through a mild abrasive effect, as well as providing freshness and, in modern versions, fluoride to strengthen enamel.

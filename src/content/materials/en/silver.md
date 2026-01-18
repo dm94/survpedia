@@ -1,12 +1,19 @@
 ---
 title: "Silver"
 composition: ["silver"]
-properties: ["Highest conductivity", "Malleable", "Ductile", "Reflective", "Antibacterial"]
-uses: ["Currency", "Jewelry", "Tableware", "Mirrors", "Electronics", "Photography"]
+properties:
+  [
+    "Highest conductivity",
+    "Malleable",
+    "Ductile",
+    "Reflective",
+    "Antibacterial",
+  ]
+uses:
+  ["Currency", "Jewelry", "Tableware", "Mirrors", "Electronics", "Photography"]
 naturalAvailability: true
 manufacturingProcess: "Mined often from argentite or galena (lead ore); extracted via smelting and cupellation."
 category: "mineral"
-image: "../../assets/placeholder.jpg"
 ---
 
 # Description of what it is like

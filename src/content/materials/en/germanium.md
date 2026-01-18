@@ -19,7 +19,7 @@ uses:
   ]
 naturalAvailability: false
 manufacturingProcess: "Extracted from zinc ores or coal ash, purified via chlorination and distillation."
-image: "../../assets/placeholder.jpg"
+
 category: "mineral"
 ---
 

@@ -1,12 +1,16 @@
 ---
 title: "Pasta de dientes"
 properties: ["Abrasivo suave", "Antiséptico", "Refrescante", "Alcalino"]
-uses: ["Higiene dental", "Limpieza de plata (a veces)", "Alivio de picaduras (algunas)"]
+uses:
+  [
+    "Higiene dental",
+    "Limpieza de plata (a veces)",
+    "Alivio de picaduras (algunas)",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Mezcla de un abrasivo suave en polvo con un aglutinante y agentes limpiadores/saborizantes."
 category: "synthetic"
 composition: ["salt", "ash", "clay", "water"]
-image: "../../assets/placeholder.jpg"
 ---
 
 El dentífrico o pasta de dientes es una sustancia utilizada con un cepillo de dientes para limpiar las superficies dentales. Su función principal es ayudar a eliminar la placa bacteriana y los restos de comida mediante un efecto abrasivo suave, además de proporcionar frescor y, en versiones modernas, flúor para fortalecer el esmalte.
