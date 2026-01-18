@@ -6,7 +6,7 @@ properties: ["Viscous", "Waterproof", "Adhesive", "Thermoplastic"]
 uses: ["Waterproofing", "Adhesive", "Road binding", "Roofing"]
 naturalAvailability: true
 manufacturingProcess: "Found in natural deposits (seeps, tar pits) or distilled from crude oil."
-image: "../../assets/placeholder.jpg"
+
 category: mineral
 ---
 

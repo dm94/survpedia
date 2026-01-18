@@ -5,7 +5,7 @@ properties: ["Durable", "Waterproof", "Smooth", "Load-bearing"]
 uses: ["Roads", "Pavements", "Roofing", "Flooring"]
 naturalAvailability: false
 manufacturingProcess: "Heating bitumen and mixing it with hot, dried aggregates."
-image: "../../assets/placeholder.jpg"
+
 category: synthetic
 ---
 

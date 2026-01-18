@@ -1,7 +1,6 @@
 ---
 title: "Carretera Pavimentada"
 materialsUsed: ["stone", "gravel", "sand", "concrete", "asphalt"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -22,6 +21,7 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 ## Cómo crearla
 
 ### Estilo Romano (Piedra/Hormigón)
+
 1.  **Estudio y excavación:** Cavar una zanja hasta terreno sólido (fossa).
 2.  **Cimientos:** Capa de piedras grandes compactadas en la tierra (statumen).
 3.  **Capas intermedias:** Grava y arena, a veces con mortero de cal (rudus/nucleus).
@@ -29,6 +29,7 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 5.  **Peralte:** El centro es más alto que los lados para drenar el agua.
 
 ### Estilo Moderno (Asfalto/Macadam)
+
 1.  **Subbase:** Suelo compactado y grava pesada.
 2.  **Base:** Piedra triturada más pequeña.
 3.  **Capa base:** Agregado grueso con betún.

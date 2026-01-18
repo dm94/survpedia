@@ -6,7 +6,7 @@ properties: ["Viscoso", "Impermeable", "Adhesivo", "Termoplástico"]
 uses: ["Impermeabilización", "Adhesivo", "Aglomerante de carreteras", "Tejados"]
 naturalAvailability: true
 manufacturingProcess: "Se encuentra en depósitos naturales o destilado del petróleo crudo."
-image: "../../assets/placeholder.jpg"
+
 category: mineral
 ---
 

@@ -5,7 +5,7 @@ properties: ["Duradero", "Impermeable", "Liso", "Resistente a la carga"]
 uses: ["Carreteras", "Pavimentos", "Tejados", "Suelos"]
 naturalAvailability: false
 manufacturingProcess: "Calentar betún y mezclarlo con áridos calientes y secos."
-image: "../../assets/placeholder.jpg"
+
 category: synthetic
 ---
 

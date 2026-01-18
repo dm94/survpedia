@@ -1,7 +1,6 @@
 ---
 title: "Paved Road"
 materialsUsed: ["stone", "gravel", "sand", "concrete", "asphalt"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -22,6 +21,7 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 ## How to create it
 
 ### Roman Style (Stone/Concrete)
+
 1.  **Survey & Dig:** Dig a trench to solid ground (fossa).
 2.  **Foundation:** Layer of large stones compacted into the earth (statumen).
 3.  **Middle Layers:** Gravel and sand, sometimes with lime mortar (rudus/nucleus).
@@ -29,6 +29,7 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 5.  **Camber:** The center is higher than the sides to drain water.
 
 ### Modern Style (Asphalt/Macadam)
+
 1.  **Sub-base:** Compacted soil and heavy gravel.
 2.  **Base:** Smaller crushed stone.
 3.  **Binder Course:** Coarse aggregate with bitumen.
