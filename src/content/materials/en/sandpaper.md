@@ -4,7 +4,7 @@ properties: ["Abrasive", "Flexible", "Rough"]
 uses: ["Wood smoothing", "Metal polishing", "Surface preparation"]
 naturalAvailability: false
 manufacturingProcess: "Adhesion of abrasive grains to a flexible backing (paper or cloth)."
-category: "composite"
+category: "other"
 ---
 
 # Brief description
