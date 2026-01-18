@@ -37,7 +37,7 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 
 - Raw: For simple mud-daub construction.
 - Processed: Dried into sun-baked bricks (adobe).
-- Fired: Hardened into ceramics, pottery, and terracotta.
+- **Fired**: Hardened into ceramics, **[Pottery](/en/inventions/pottery)**, and terracotta.
 
 ### Possible substitutes
 

@@ -34,7 +34,7 @@ A tough wax that is brittle when cold but becomes plastic and malleable when war
 
 ### Common forms of use
 
-- **Candles**: Burns slowly and cleanly without smoke.
+- **[Candles](/en/inventions/candle)**: Burns slowly and cleanly without smoke.
 - **Ointments/Salves**: Mixed with **[Vegetable Oil](/en/materials/vegetable-oil)** or **[Animal Fat](/en/materials/animal-fat)** to thicken medicinal mixtures.
 - **Waterproofing**: Rubbed onto leather or fabric and melted in.
 - **Wood Polish**: Mixed with turpentine or oil to protect wood.

@@ -12,6 +12,7 @@ La cerámica es el arte y la tecnología de fabricar objetos a partir de arcilla
 
 - **Almacenamiento:** Vasijas para grano, agua o aceite.
 - **Cocina:** Ollas y platos resistentes al fuego.
+- **Iluminación:** Lámparas de aceite.
 - **Construcción:** Ladrillos, tejas y azulejos.
 - **Saneamiento:** Tuberías y conductos.
 

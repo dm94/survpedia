@@ -37,7 +37,7 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 
 - Cruda: Para construcciones sencillas de barro y paja (bahareque).
 - Procesada: Secada en ladrillos cocidos al sol (adobe).
-- Cocida: Endurecida en cerámica, alfarería y terracota.
+- **Cocida**: Endurecida en cerámica, **[Alfarería](/es/inventions/pottery)** y terracota.
 
 ### Posibles sustitutos
 

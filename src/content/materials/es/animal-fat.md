@@ -34,7 +34,7 @@ Es una sustancia grasienta y pálida que es sólida o semisólida a temperatura 
 
 ### Formas comunes de uso
 
-- Sebo: Grasa dura de vaca u oveja, excelente para velas y lubricación pesada.
+- Sebo: Grasa dura de vaca u oveja, excelente para **[Velas](/es/inventions/candle)**, combustible para **[Lámparas de Aceite](/es/inventions/oil-lamp)** y lubricación pesada.
 - Manteca: Grasa más blanda de cerdo, a menudo utilizada en cocina y lubricación fina.
 - Grasa: Grasa derretida utilizada directamente en ejes y engranajes.
 

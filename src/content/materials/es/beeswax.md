@@ -34,7 +34,7 @@ Una cera resistente que es quebradiza cuando está fría pero se vuelve plástic
 
 ### Formas comunes de uso
 
-- **Velas**: Arde lenta y limpiamente sin humo.
+- **[Velas](/es/inventions/candle)**: Arde lenta y limpiamente sin humo.
 - **Ungüentos/Bálsamos**: Mezclada con **[Aceite Vegetal](/es/materials/vegetable-oil)** o **[Grasa Animal](/es/materials/animal-fat)** para espesar mezclas medicinales.
 - **Impermeabilización**: Frotada sobre cuero o tela y fundida.
 - **Pulimento de Madera**: Mezclada con trementina o aceite para proteger la madera.

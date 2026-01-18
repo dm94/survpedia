@@ -12,6 +12,7 @@ Pottery is the art and technology of making objects from shaped clay that is the
 
 - **Storage:** Vessels for grain, water, or oil.
 - **Cooking:** Fire-resistant pots and plates.
+- **Lighting:** Oil lamps.
 - **Construction:** Bricks, tiles, and floor tiles.
 - **Sanitation:** Pipes and conduits.
 
