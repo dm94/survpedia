@@ -74,6 +74,6 @@ Para obtener un ladrillo útil:
 ### Materiales relacionados
 
 - **Adobe:** Ladrillo sin cocer, secado al sol.
-- **Arcilla:** La materia prima principal.
-- **Mortero:** Necesario para unir los ladrillos.
+- **[Arcilla](/es/materials/clay):** La materia prima principal.
+- **[Mortero](/es/materials/mortero):** Necesario para unir los ladrillos.
 - **Cerámica:** Material relacionado por proceso de cocción.

@@ -36,13 +36,13 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 
 - **Hormigón en masa:** Para presas o grandes cimientos.
 - **Hormigón armado:** Combinado con acero (varilla) para añadir resistencia a la tracción (moderno).
-- **Mortero:** Mezcla más fina para unir ladrillos/piedras.
+- **[Mortero](/es/materials/mortero):** Mezcla más fina para unir ladrillos/piedras.
 
 ### Posibles sustitutos
 
-- **Piedra:** Más difícil de dar forma pero natural.
-- **Ladrillo:** Requiere cocción pero es modular.
-- **Madera:** Para estructuras (pero riesgo de podredumbre/fuego).
+- **[Piedra](/es/materials/stone):** Más difícil de dar forma pero natural.
+- **[Ladrillo](/es/materials/brick):** Requiere cocción pero es modular.
+- **[Madera](/es/materials/wood):** Para estructuras (pero riesgo de podredumbre/fuego).
 
 ### Limitaciones y fallos comunes
 

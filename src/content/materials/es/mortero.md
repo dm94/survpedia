@@ -1,14 +1,20 @@
 ---
 title: "Mortero"
 composition: ["sand", "water", "cal", "clay"]
-properties: ["Adhesión", "Plasticidad", "Impermeabilidad (variable)", "Resistencia"]
-uses: ["Unión de ladrillos y piedras", "Revestimiento de paredes (enfoscado)", "Suelos"]
+properties:
+  ["Adhesión", "Plasticidad", "Impermeabilidad (variable)", "Resistencia"]
+uses:
+  [
+    "Unión de ladrillos y piedras",
+    "Revestimiento de paredes (enfoscado)",
+    "Suelos",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Mezcla de un aglomerante (cal, arcilla, cemento) con árido fino (arena) y agua."
 category: "synthetic"
 ---
 
-El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir ladrillos, piedras o bloques de hormigón, y para rellenar los espacios entre ellos. También se usa para revestir paredes.
+El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir **[ladrillos](/es/materials/brick)**, piedras o bloques de **[hormigón](/es/materials/hormigon)**, y para rellenar los espacios entre ellos. También se usa para revestir paredes.
 
 ## Descripción de cómo es
 
@@ -17,9 +23,10 @@ En estado fresco, es una pasta grisácea o arenosa, moldeable y pegajosa. Al end
 ## Origen y dónde encontrarlo
 
 Es un material compuesto fabricado in situ.
-- **Arena:** Debe estar limpia y libre de materia orgánica o sal.
-- **Aglomerante:** Puede ser cal, arcilla (barro), yeso o cemento.
-- **Agua:** Limpia.
+
+- **[Arena](/es/materials/sand):** Debe estar limpia y libre de materia orgánica o sal.
+- **Aglomerante:** Puede ser **[cal](/es/materials/cal)**, **[arcilla](/es/materials/clay)** (barro), **[yeso](/es/materials/gypsum)** o **[cemento](/es/materials/cemento)**.
+- **[Agua](/es/materials/water):** Limpia.
 
 ### Procesamiento mínimo necesario
 
@@ -36,16 +43,16 @@ Es un material compuesto fabricado in situ.
 
 ### Formas comunes de uso
 
-- **Mortero de barro:** Arcilla + Arena + Paja. El más antiguo y fácil de hacer, pero vulnerable al agua.
-- **Mortero de cal:** Cal + Arena + Agua. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
-- **Mortero de cemento:** Cemento + Arena + Agua. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
+- **Mortero de barro:** **[Arcilla](/es/materials/clay)** + **[Arena](/es/materials/sand)** + **[Paja](/es/materials/straw)**. El más antiguo y fácil de hacer, pero vulnerable al agua.
+- **Mortero de cal:** **[Cal](/es/materials/cal)** + **[Arena](/es/materials/sand)** + **[Agua](/es/materials/water)**. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
+- **Mortero de cemento:** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/sand)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
 - **Mortero bastardo:** Mezcla de cal y cemento para combinar propiedades.
 
 ### Posibles sustitutos
 
 - **Barro simple:** Para construcciones temporales o en climas muy secos.
-- **Yeso:** Para interiores (no resiste la humedad).
-- **Betún/Asfalto:** Usado antiguamente en Mesopotamia para impermeabilizar y unir ladrillos.
+- **[Yeso](/es/materials/gypsum):** Para interiores (no resiste la humedad).
+- **[Betún](/es/materials/bitumen)/[Asfalto](/es/materials/asphalt):** Usado antiguamente en Mesopotamia para impermeabilizar y unir ladrillos.
 
 ### Limitaciones y fallos comunes
 
@@ -57,3 +64,10 @@ Es un material compuesto fabricado in situ.
 
 - **Quemaduras químicas:** La cal y el cemento son alcalinos y pueden quemar la piel y los ojos. Usar guantes.
 - **Polvo:** Inhalar polvo de cal o sílice (arena) es peligroso.
+
+### Materiales relacionados
+
+- **[Cemento](/es/materials/cemento):** Aglomerante moderno común.
+- **[Cal](/es/materials/cal):** Aglomerante tradicional.
+- **[Ladrillo](/es/materials/brick):** Material que suele unir.
+- **[Hormigón](/es/materials/hormigon):** Similar pero con grava.

@@ -1,7 +1,8 @@
 ---
 title: "Piedra"
 properties: ["Dura", "Resistente", "Pesada", "Duradera"]
-uses: ["Construcción", "Herramientas", "Armas", "Decoración", "Piedras de molino"]
+uses:
+  ["Construcción", "Herramientas", "Armas", "Decoración", "Piedras de molino"]
 naturalAvailability: true
 manufacturingProcess: "Se recolecta de la superficie terrestre o se extrae de canteras."
 category: "mineral"
@@ -57,6 +58,6 @@ La piedra es generalmente dura, fría al tacto y no maleable. Se presenta en var
 
 ### Materiales relacionados
 
-- Sílex: Un tipo específico de piedra excelente para herramientas afiladas.
-- Arena: Pequeños fragmentos de piedra.
-- Arcilla: A menudo se encuentra en contextos geológicos similares.
+- **[Sílex](/es/materials/flint):** Un tipo específico de piedra excelente para herramientas afiladas.
+- **[Arena](/es/materials/sand):** Pequeños fragmentos de piedra.
+- **[Arcilla](/es/materials/clay):** A menudo se encuentra en contextos geológicos similares.

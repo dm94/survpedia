@@ -34,16 +34,16 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 
 ### Formas comunes de uso
 
-- **Mortero/Yeso:** Mezclado con arena y agua.
+- **[Mortero](/es/materials/mortero)/[Yeso](/es/materials/gypsum):** Mezclado con arena y agua.
 - **Agricultura:** Para neutralizar suelos ácidos.
 - **Curtido:** Para quitar el pelo de las pieles.
 - **Blanqueo:** Pintura/sellador barato.
 
 ### Posibles sustitutos
 
-- **Cemento:** Alternativa moderna.
-- **Arcilla:** Para mortero simple (adobe).
-- **Yeso:** Para enlucidos.
+- **[Cemento](/es/materials/cemento):** Alternativa moderna.
+- **[Arcilla](/es/materials/clay):** Para mortero simple (adobe).
+- **[Yeso](/es/materials/gypsum):** Para enlucidos.
 
 ### Limitaciones y fallos comunes
 
@@ -58,6 +58,6 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 
 ### Materiales relacionados
 
-- **Piedra caliza:** La materia prima.
+- **[Piedra caliza](/es/materials/caliza):** La materia prima.
 - **Tiza:** Forma más suave de piedra caliza.
-- **Mortero:** El producto.
+- **[Mortero](/es/materials/mortero):** El producto.
