@@ -6,6 +6,8 @@ atomicMass: 32.06
 category: "polyatomic nonmetal"
 naturalAvailability: true
 extractionProcess: "" 
+related_materials:
+  - gunpowder
 ---
 
 Sulfur or sulphur (see spelling differences) is a chemical element with symbol S and atomic number 16. It is an abundant, multivalent non-metal. Under normal conditions, sulfur atoms form cyclic octatomic molecules with chemical formula S8.

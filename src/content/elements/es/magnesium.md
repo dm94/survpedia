@@ -1,20 +1,29 @@
 ---
-title: "Magnesio"
+name: "Magnesio"
 symbol: "Mg"
-atomicNumber: 12
-atomicMass: 24.305
-category: "alkaline earth metal"
-naturalAvailability: true
-extractionProcess: "" 
+atomic_number: 12
+atomic_mass: 24.305
+category: "Metal Alcalinotérreo"
+appearance: "Sólido gris brillante"
+discovery: "Joseph Black (1755)"
+phase: "Sólido"
+related_materials:
+  - steel
+  - glass
+related_inventions:
+  - fireworks
 ---
 
-Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table:they each have the same electron configuration in their outer electron shell producing a similar crystal structure. Magnesium is the ninth most abundant element in the universe.
+## Descripción General
 
-## Properties
-- Phase: Solid
-- Density: 1.738 g/cm³
-- Melting Point: 923 K
-- Boiling Point: 1363 K
+El magnesio es el octavo elemento más abundante en la corteza terrestre. Es un metal ligero, de color blanco plateado, que se empaña ligeramente en el aire. Es esencial para todas las células vivas y es el átomo central de la clorofila.
 
-## Uses
-<!-- Add uses here -->
+## Aplicaciones
+
+- **Aleaciones**: Se utiliza con aluminio para fabricar aleaciones ligeras y fuertes para aviones y automóviles.
+- **Pirotecnia**: Arde con una luz blanca brillante, utilizada en bengalas y fuegos artificiales.
+- **Salud**: Mineral esencial para el cuerpo humano (huesos, músculos).
+
+## Historia
+
+Reconocido por primera vez como elemento por Joseph Black en 1755. Fue aislado por primera vez por Sir Humphry Davy en 1808.

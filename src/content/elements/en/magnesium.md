@@ -1,20 +1,29 @@
 ---
-title: "Magnesium"
+name: "Magnesium"
 symbol: "Mg"
-atomicNumber: 12
-atomicMass: 24.305
-category: "alkaline earth metal"
-naturalAvailability: true
-extractionProcess: "" 
+atomic_number: 12
+atomic_mass: 24.305
+category: "Alkaline Earth Metal"
+appearance: "Shiny gray solid"
+discovery: "Joseph Black (1755)"
+phase: "Solid"
+related_materials:
+  - steel
+  - glass
+related_inventions:
+  - fireworks
 ---
 
-Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table:they each have the same electron configuration in their outer electron shell producing a similar crystal structure. Magnesium is the ninth most abundant element in the universe.
+## Overview
 
-## Properties
-- Phase: Solid
-- Density: 1.738 g/cm³
-- Melting Point: 923 K
-- Boiling Point: 1363 K
+Magnesium is the eighth-most abundant element in the Earth's crust. It is a light, silvery-white metal that tarnishes slightly in air. It is essential to all living cells and is the central atom in chlorophyll.
 
-## Uses
-<!-- Add uses here -->
+## Applications
+
+- **Alloys**: Used with aluminum to make light, strong alloys for aircraft and cars.
+- **Pyrotechnics**: Burns with a brilliant white light, used in flares and fireworks.
+- **Health**: Essential mineral for human body (bones, muscles).
+
+## History
+
+First recognized as an element by Joseph Black in 1755. It was first isolated by Sir Humphry Davy in 1808.
