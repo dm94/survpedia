@@ -1,6 +1,6 @@
 ---
 title: "Arco"
-image: ../../../assets/inventions/bow.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "plant-fibers", "leather", "resin"]
 ---
 

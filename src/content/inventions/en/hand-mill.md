@@ -1,6 +1,6 @@
 ---
 title: "Manual Mill (grain)"
-image: ../../../assets/inventions/hand-mill.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["stone", "wood"]
 ---
 

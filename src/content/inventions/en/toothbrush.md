@@ -1,7 +1,7 @@
 ---
 title: "Toothbrush"
 materialsUsed: ["wood", "bone", "plant-fibers"]
-image: ../../../assets/inventions/toothbrush.jpg
+image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description

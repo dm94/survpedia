@@ -1,6 +1,6 @@
 ---
 title: "Gears"
-image: ../../../assets/inventions/gears.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "bronze", "iron", "steel", "animal-fat"]
 ---
 

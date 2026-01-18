@@ -1,7 +1,7 @@
 ---
 title: "Cepillo de dientes"
 materialsUsed: ["wood", "bone", "plant-fibers"]
-image: ../../../assets/inventions/toothbrush.jpg
+image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción

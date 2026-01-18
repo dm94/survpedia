@@ -1,6 +1,6 @@
 ---
 title: "Canoa"
-image: ../../../assets/inventions/canoe.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "resin"]
 ---
 

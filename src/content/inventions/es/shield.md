@@ -1,6 +1,6 @@
 ---
 title: "Escudo"
-image: ../../../assets/inventions/shield.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "leather", "plant-fibers", "iron", "bronze"]
 ---
 

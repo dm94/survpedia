@@ -1,7 +1,7 @@
 ---
 title: "Arrow"
 materialsUsed: ["wood", "feather", "stone", "bone", "resin", "plant-fibers"]
-image: "../../../assets/inventions/arrow.jpg"
+image: "../../../assets/inventions/placeholder.jpg"
 ---
 
 # Brief description

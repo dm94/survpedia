@@ -1,7 +1,8 @@
 ---
 title: "Sello"
-image: ../../../assets/inventions/seal.jpg
-materialsUsed: ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
+image: ../../../assets/inventions/placeholder.jpg
+materialsUsed:
+  ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
 ---
 
 # Descripción breve
@@ -20,6 +21,7 @@ Su propósito práctico es la seguridad y la identidad:
 ## Principio de funcionamiento
 
 El principio es la **Reproducción Mecánica de un Patrón Único**.
+
 1. **Matriz (El Sello):** Un material duro (piedra, metal) se talla con un diseño único (imagen negativa).
 2. **Impresión:** La matriz se presiona sobre un material blando (arcilla húmeda, cera caliente) o se entinta y se presiona sobre papel.
 3. **Resultado:** Queda una imagen positiva, que es difícil de replicar sin la matriz original.

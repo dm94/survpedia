@@ -1,6 +1,6 @@
 ---
 title: "Hand Axe"
-image: ../../../assets/inventions/hand-axe.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["flint"]
 ---
 

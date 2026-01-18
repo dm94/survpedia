@@ -47,6 +47,7 @@ Survpedia is an educational website built with Astro, documenting periodic eleme
   - Materials: `src/content/_templates/en/material.md`
 - New content files should follow the schema defined in `src/content/config.ts`.
 - Always ensure translations exist for both English (`en`) and Spanish (`es`) if possible, or handle missing translations gracefully.
+- Add the image if possible, and if no image is found, leave it blank.
 
 ## Internationalization (i18n)
 

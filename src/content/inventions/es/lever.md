@@ -1,6 +1,6 @@
 ---
 title: "Palanca"
-image: ../../../assets/inventions/lever.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "stone"]
 ---
 

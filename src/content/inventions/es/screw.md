@@ -1,6 +1,6 @@
 ---
 title: "Tornillo"
-image: ../../../assets/inventions/screw.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["wood", "iron", "bronze", "steel"]
 ---
 

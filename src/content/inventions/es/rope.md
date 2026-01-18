@@ -1,6 +1,6 @@
 ---
 title: "Cuerda"
-image: ../../../assets/inventions/rope.jpg
+image: ../../../assets/inventions/placeholder.jpg
 materialsUsed: ["plant-fibers", "wool", "cotton", "leather"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Comb"
 materialsUsed: ["wood", "bone"]
-image: ../../../assets/inventions/comb.jpg
+image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description
