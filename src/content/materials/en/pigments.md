@@ -44,7 +44,7 @@ Pigments appear as fine, colored powders. The color intensity and coverage depen
 
 ### Possible substitutes
 
-- **Dyes**: Soluble colorants derived from plants (berries, roots). They are often less lightfast and less opaque than pigments.
+- **[Textile Dye](/en/materials/textile-dye)**: Soluble colorants derived from plants (berries, roots). They are often less lightfast and less opaque than pigments.
 - **Colored Clays**: Can be used directly as crude pigment.
 - **Ash/Charcoal**: Readily available substitute for black pigment.
 

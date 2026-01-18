@@ -37,6 +37,7 @@ Atrapa una capa de aire cerca de la piel que actúa como aislante térmico. Los 
 - **Pieles sin coser:** Capas simples.
 - **Ropa cosida:** Ajustada al cuerpo, más eficiente térmicamente.
 - **Tejidos de telar:** Más ligeros, versátiles y fáciles de lavar.
+- **Ropa teñida:** Tratada con **[Tinte textil](/es/materials/textile-dye)** para señalización social o camuflaje.
 
 ## Límites y riesgos
 

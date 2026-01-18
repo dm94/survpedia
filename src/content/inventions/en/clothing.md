@@ -37,6 +37,7 @@ It traps a layer of air near the skin that acts as a thermal insulator. Fabrics 
 - **Unsewn skins:** Simple capes.
 - **Sewn clothing:** Fitted to the body, more thermally efficient.
 - **Loom-woven fabrics:** Lighter, more versatile, and easier to wash.
+- **Dyed clothing:** Treated with **[Textile Dye](/en/materials/textile-dye)** for social signaling or camouflage.
 
 ## Limits and risks
 

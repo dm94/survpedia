@@ -44,7 +44,7 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 
 ### Posibles sustitutos
 
-- **Tintes**: Colorantes solubles derivados de plantas (bayas, raíces). A menudo son menos resistentes a la luz y menos opacos que los pigmentos.
+- **[Tinte textil](/es/materials/textile-dye)**: Colorantes solubles derivados de plantas (bayas, raíces). A menudo son menos resistentes a la luz y menos opacos que los pigmentos.
 - **Arcillas coloreadas**: Pueden usarse directamente como pigmento crudo.
 - **Ceniza/Carbón**: Sustituto fácilmente disponible para pigmento negro.
 
