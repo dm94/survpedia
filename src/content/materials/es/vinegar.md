@@ -2,8 +2,16 @@
 title: "Vinagre"
 formula: "CH3COOH"
 composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Sabor agrio", "Ácido (pH 2-3)", "Conservante", "Líquido", "Antibacteriano"]
-uses: ["Conservación de alimentos", "Saborizante", "Limpieza", "Herbicida", "Médico"]
+properties:
+  ["Sabor agrio", "Ácido (pH 2-3)", "Conservante", "Líquido", "Antibacteriano"]
+uses:
+  [
+    "Conservación de alimentos",
+    "Saborizante",
+    "Limpieza",
+    "Herbicida",
+    "Médico",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Doble fermentación: Azúcar a Alcohol (Levadura), luego Alcohol a Vinagre (Acetobacter)."
 category: "other"
@@ -23,8 +31,8 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 
 ### Procesamiento mínimo requerido
 
-- **Fermentación Alcohólica**: Crear una solución alcohólica débil (sidra, vino, cerveza).
-- **Fermentación Acética**: Exponer el alcohol al oxígeno y a las bacterias *Acetobacter* (Madre del Vinagre).
+- **[Fermentación Alcohólica](/es/inventions/fermentation)**: Crear una solución alcohólica débil (sidra, vino, cerveza).
+- **Fermentación Acética**: Exponer el alcohol al oxígeno y a las bacterias _Acetobacter_ (Madre del Vinagre).
 - **Envejecimiento**: Dar tiempo para que se complete la conversión (semanas a meses).
 
 ### Herramientas necesarias para trabajarlo
@@ -56,6 +64,6 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 
 ### Materiales relacionados
 
-- **Alcohol**: El precursor del vinagre.
+- **[Alcohol](/es/materials/alcohol)**: El precursor del vinagre.
 - **Azúcar**: El precursor del alcohol.
 - **Agua**: El disolvente.

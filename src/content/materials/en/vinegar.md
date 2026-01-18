@@ -2,7 +2,8 @@
 title: "Vinegar"
 formula: "CH3COOH"
 composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Sour taste", "Acidic (pH 2-3)", "Preservative", "Liquid", "Antibacterial"]
+properties:
+  ["Sour taste", "Acidic (pH 2-3)", "Preservative", "Liquid", "Antibacterial"]
 uses: ["Food preservation", "Flavoring", "Cleaning", "Weed killer", "Medical"]
 naturalAvailability: false
 manufacturingProcess: "Double fermentation: Sugar to Alcohol (Yeast), then Alcohol to Vinegar (Acetobacter)."
@@ -23,8 +24,8 @@ A clear to amber liquid with a pungent, sour smell and taste.
 
 ### Minimum processing required
 
-- **Alcoholic Fermentation**: Create a weak alcoholic solution (cider, wine, beer).
-- **Acetic Fermentation**: Expose the alcohol to oxygen and *Acetobacter* bacteria (Mother of Vinegar).
+- **[Alcoholic Fermentation](/en/inventions/fermentation)**: Create a weak alcoholic solution (cider, wine, beer).
+- **Acetic Fermentation**: Expose the alcohol to oxygen and _Acetobacter_ bacteria (Mother of Vinegar).
 - **Aging**: Allow time for the conversion to complete (weeks to months).
 
 ### Tools needed to work on it
@@ -56,6 +57,6 @@ A clear to amber liquid with a pungent, sour smell and taste.
 
 ### Related materials
 
-- **Alcohol**: The precursor to vinegar.
+- **[Alcohol](/en/materials/alcohol)**: The precursor to vinegar.
 - **Sugar**: The precursor to alcohol.
 - **Water**: The solvent.

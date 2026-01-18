@@ -2,8 +2,10 @@
 title: "Alcohol"
 formula: "C2H5OH"
 composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Volatile", "Flammable", "Colorless liquid", "Antiseptic", "Intoxicating"]
-uses: ["Disinfectant", "Fuel", "Solvent", "Recreational beverage", "Preservative"]
+properties:
+  ["Volatile", "Flammable", "Colorless liquid", "Antiseptic", "Intoxicating"]
+uses:
+  ["Disinfectant", "Fuel", "Solvent", "Recreational beverage", "Preservative"]
 naturalAvailability: false
 manufacturingProcess: "Fermentation of sugars by yeast, followed by distillation."
 category: "other"
@@ -23,13 +25,13 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 ### Minimum processing required
 
-- **Fermentation**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
-- **Distillation**: Heating the fermented liquid to separate alcohol (lower boiling point) from water. This yields higher concentrations (up to 95%).
+- **[Fermentation](/en/inventions/fermentation)**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
+- **[Distillation](/en/inventions/distillation)**: Heating the fermented liquid to separate alcohol (lower boiling point) from water. This yields higher concentrations (up to 95%).
 
 ### Tools needed to work on it
 
 - **Fermentation Vessel**: Airlocked container.
-- **Still**: For distillation (Pot, condenser, collection vessel).
+- **[Still (Alembic)](/en/inventions/alembic)**: For distillation (Pot, condenser, collection vessel).
 - **Thermometer**: To monitor distillation temperatures.
 
 ### Common forms of use
@@ -41,7 +43,7 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 ### Possible substitutes
 
-- **Vinegar**: For cleaning (less effective disinfectant).
+- **[Vinegar](/en/materials/vinegar)**: For cleaning (less effective disinfectant).
 - **Oil**: For fuel (lamps).
 
 ### Limitations and common failures

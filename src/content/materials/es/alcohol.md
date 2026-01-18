@@ -2,8 +2,16 @@
 title: "Alcohol"
 formula: "C2H5OH"
 composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Volátil", "Inflamable", "Líquido incoloro", "Antiséptico", "Embriagante"]
-uses: ["Desinfectante", "Combustible", "Disolvente", "Bebida recreativa", "Conservante"]
+properties:
+  ["Volátil", "Inflamable", "Líquido incoloro", "Antiséptico", "Embriagante"]
+uses:
+  [
+    "Desinfectante",
+    "Combustible",
+    "Disolvente",
+    "Bebida recreativa",
+    "Conservante",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Fermentación de azúcares por levadura, seguida de destilación."
 category: "other"
@@ -23,13 +31,13 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 ### Procesamiento mínimo requerido
 
-- **Fermentación**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
-- **Destilación**: Calentar el líquido fermentado para separar el alcohol (punto de ebullición más bajo) del agua. Esto produce concentraciones más altas (hasta 95%).
+- **[Fermentación](/es/inventions/fermentation)**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
+- **[Destilación](/es/inventions/distillation)**: Calentar el líquido fermentado para separar el alcohol (punto de ebullición más bajo) del agua. Esto produce concentraciones más altas (hasta 95%).
 
 ### Herramientas necesarias para trabajarlo
 
 - **Recipiente de fermentación**: Recipiente con cierre de aire (airlock).
-- **Alambique**: Para destilación (Olla, condensador, recipiente de recolección).
+- **[Alambique](/es/inventions/alembic)**: Para destilación (Olla, condensador, recipiente de recolección).
 - **Termómetro**: Para controlar las temperaturas de destilación.
 
 ### Formas comunes de uso
@@ -41,7 +49,7 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 ### Posibles sustitutos
 
-- **Vinagre**: Para limpieza (desinfectante menos efectivo).
+- **[Vinagre](/es/materials/vinegar)**: Para limpieza (desinfectante menos efectivo).
 - **Aceite**: Para combustible (lámparas).
 
 ### Limitaciones y fallos comunes
