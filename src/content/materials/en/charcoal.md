@@ -61,4 +61,4 @@ Charcoal is black, brittle, and lightweight. It soils the hands when touched and
 
 - Wood: The primary raw material.
 - Carbon: The primary element in charcoal.
-- Ash: The byproduct of burning charcoal.
+- Ash: The byproduct of burning charcoal, used to make lye.

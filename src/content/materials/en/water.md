@@ -63,3 +63,4 @@ In its liquid state, water flows and takes the shape of its container. It can al
 - Ice: The solid form of water.
 - Salt: Often found dissolved in water (seawater).
 - Clay: Becomes malleable when mixed with water.
+- Soap: Works with water to clean.

@@ -61,4 +61,4 @@ El carbón vegetal es negro, quebradizo y ligero. Ensucia las manos al tocarlo y
 
 - Madera: La principal materia prima.
 - Carbono: El elemento principal del carbón.
-- Ceniza: El subproducto de la combustión del carbón.
+- Ceniza: El subproducto de la combustión del carbón, usado para hacer lejía.

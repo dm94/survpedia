@@ -62,3 +62,4 @@ Wood is generally light to medium weight, easy to carve or cut, and has a distin
 - Charcoal: Produced by heating wood in the absence of oxygen.
 - Paper: Made from processed wood fibers.
 - Natural Rubber: Harvested from specific types of trees.
+- Ash: Residue left after burning wood.

@@ -59,3 +59,4 @@ Salt typically appears as white or clear crystals. It has a distinctive sharp, "
 - Water: The medium in which salt is often found and dissolved.
 - Sodium: One of the constituent elements.
 - Chlorine: The other constituent element.
+- Soap: Salt is used in the soap-making process to separate soap from glycerin.

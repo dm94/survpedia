@@ -62,3 +62,4 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 - Carbón vegetal: Producido calentando madera en ausencia de oxígeno.
 - Papel: Hecho de fibras de madera procesadas.
 - Caucho natural: Cosechado de tipos específicos de árboles.
+- Ceniza: Residuo restante tras quemar madera.
