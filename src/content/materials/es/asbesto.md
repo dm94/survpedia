@@ -19,7 +19,6 @@ uses:
 naturalAvailability: true
 manufacturingProcess: "Extraído de la tierra, triturado, y las fibras se separan por succión de aire."
 category: mineral
-image: "../../assets/placeholder.jpg"
 ---
 
 El asbesto (o amianto) es un grupo de seis minerales de silicato naturales formados por fibras microscópicas. Alguna vez fue aclamado como un "mineral milagroso" por su resistencia al calor y durabilidad, pero ahora se sabe que es altamente tóxico.

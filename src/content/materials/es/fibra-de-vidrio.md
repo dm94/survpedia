@@ -19,7 +19,6 @@ uses:
 naturalAvailability: false
 manufacturingProcess: "El vidrio fundido se extruye a través de orificios muy finos para crear filamentos."
 category: synthetic
-image: "../../assets/placeholder.jpg"
 ---
 
 La fibra de vidrio es un material que consta de numerosos filamentos extremadamente finos de vidrio. Se utiliza como material aislante y como agente de refuerzo para muchos productos poliméricos (plástico reforzado con vidrio).

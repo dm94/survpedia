@@ -1,7 +1,6 @@
 ---
 title: "Chimney"
 materialsUsed: ["brick", "mortar"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -30,6 +29,7 @@ The taller the chimney and the greater the temperature difference, the stronger 
 ## How to create it
 
 ### Minimum functional version
+
 A simple vertical tube of non-combustible material. However, an efficient chimney requires design:
 
 1.  **Firebox:** Where the fire burns.
@@ -39,15 +39,16 @@ A simple vertical tube of non-combustible material. However, an efficient chimne
 5.  **Cap:** Top protection to prevent rain or downdrafts from entering.
 
 ### Required technical level
+
 Intermediate. Requires masonry knowledge and precise proportions to prevent smoke from returning to the room.
 
 ## Materials needed
 
 - **Essential:**
-    - **Brick:** Preferably refractory for the firebox, or high-quality fired brick.
-    - **Mortar:** Heat resistant (clay/sand mixture or refractory cement).
+  - **Brick:** Preferably refractory for the firebox, or high-quality fired brick.
+  - **Mortar:** Heat resistant (clay/sand mixture or refractory cement).
 - **Tools:**
-    - Trowel, plumb line (very important for verticality), level.
+  - Trowel, plumb line (very important for verticality), level.
 
 ## Variants and improvements
 

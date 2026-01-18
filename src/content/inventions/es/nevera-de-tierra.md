@@ -1,7 +1,6 @@
 ---
 title: "Nevera de tierra"
 materialsUsed: ["clay", "sand", "water", "fabric"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Descripción breve

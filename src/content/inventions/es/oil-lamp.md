@@ -1,7 +1,6 @@
 ---
 title: "Lámpara de Aceite"
 materialsUsed: ["clay", "vegetable-oil", "animal-fat", "plant-fibers", "cotton"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -29,20 +28,22 @@ La mecha actúa como un regulador, limitando la cantidad de combustible que lleg
 ## Cómo crearla
 
 ### Versión mínima funcional
+
 1.  **Recipiente**: Busca o modela un pequeño cuenco o plato hondo de un material no inflamable (arcilla, piedra, concha marina, metal).
 2.  **Combustible**: Llena el recipiente parcialmente con aceite vegetal o grasa animal derretida.
 3.  **Mecha**: Coloca una fibra vegetal trenzada o un trozo de tela de algodón en el aceite, dejando un extremo asomando por el borde o flotando (usando un pequeño soporte flotante de corcho o madera ligera).
 4.  **Encendido**: Aplica fuego al extremo de la mecha empapada en aceite.
 
 ### Nivel técnico
+
 - **Básico**: Requiere solo materiales naturales y modelado simple.
 
 ## Materiales necesarios
 
 - **Esenciales**:
-    - **Recipiente no inflamable**: **[Arcilla](/es/materials/clay)** (alfarería), **[Piedra](/es/materials/stone)** tallada, conchas, metal.
-    - **Combustible**: **[Aceite Vegetal](/es/materials/vegetable-oil)** (oliva, sésamo, nuez) o **[Grasa Animal](/es/materials/animal-fat)** (sebo, manteca).
-    - **Mecha**: **[Fibras Vegetales](/es/materials/plant-fibers)** (lino, papiro, cáñamo), **[Algodón](/es/materials/cotton)**, o tiras de tela vieja.
+  - **Recipiente no inflamable**: **[Arcilla](/es/materials/clay)** (alfarería), **[Piedra](/es/materials/stone)** tallada, conchas, metal.
+  - **Combustible**: **[Aceite Vegetal](/es/materials/vegetable-oil)** (oliva, sésamo, nuez) o **[Grasa Animal](/es/materials/animal-fat)** (sebo, manteca).
+  - **Mecha**: **[Fibras Vegetales](/es/materials/plant-fibers)** (lino, papiro, cáñamo), **[Algodón](/es/materials/cotton)**, o tiras de tela vieja.
 
 ## Variantes y mejoras
 

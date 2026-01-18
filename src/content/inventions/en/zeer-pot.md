@@ -1,7 +1,6 @@
 ---
 title: "Zeer Pot"
 materialsUsed: ["clay", "sand", "water", "fabric"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -28,6 +27,7 @@ It relies on evaporative cooling (simple thermodynamics):
 ## How to create it
 
 ### Minimum functional version
+
 Two porous clay (terracotta) pots of different sizes are required, such that one fits inside the other leaving a gap of about 2-3 cm (1 inch).
 
 1.  Plug any drainage holes in the bottom of the pots with clay, cork, or wax.
@@ -39,19 +39,20 @@ Two porous clay (terracotta) pots of different sizes are required, such that one
 7.  Cover everything with a damp cloth.
 
 ### Required technical level
+
 **Basic**. Requires no complex tools or advanced knowledge, just simple materials.
 
 ## Materials needed
 
 - **Essential materials**:
-    - 2 clay pots (unglazed terracotta) of different sizes.
-    - Sand (preferably fine and clean).
-    - Water.
-    - Cloth or fabric (to cover).
+  - 2 clay pots (unglazed terracotta) of different sizes.
+  - Sand (preferably fine and clean).
+  - Water.
+  - Cloth or fabric (to cover).
 - **Tools**:
-    - None specific (hands, container for pouring water).
+  - None specific (hands, container for pouring water).
 - **Possible substitutes**:
-    - The inner pot can be metal (conducts cold better) or plastic (though glazed clay is ideal for the interior to be waterproof while the exterior must be porous). *Note: For classic operation, the outer pot MUST be porous.*
+  - The inner pot can be metal (conducts cold better) or plastic (though glazed clay is ideal for the interior to be waterproof while the exterior must be porous). _Note: For classic operation, the outer pot MUST be porous._
 
 ## Variants and improvements
 

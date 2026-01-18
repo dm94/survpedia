@@ -1,7 +1,6 @@
 ---
 title: "Chimenea"
 materialsUsed: ["brick", "mortar"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Descripción breve
@@ -30,6 +29,7 @@ Cuanto más alta es la chimenea y mayor la diferencia de temperatura, mayor es e
 ## Cómo crearla
 
 ### Versión mínima funcional
+
 Un tubo vertical simple de material incombustible. Sin embargo, una chimenea eficiente requiere diseño:
 
 1.  **Hogar (Firebox):** Donde arde el fuego.
@@ -39,15 +39,16 @@ Un tubo vertical simple de material incombustible. Sin embargo, una chimenea efi
 5.  **Coronación:** Protección superior para evitar que entre lluvia o viento descendente.
 
 ### Nivel técnico requerido
+
 Intermedio. Requiere conocimientos de albañilería y proporciones precisas para evitar que el humo retorne a la habitación.
 
 ## Materiales necesarios
 
 - **Esenciales:**
-    - **Ladrillo:** Preferiblemente refractario para el hogar, o ladrillo cocido de alta calidad.
-    - **Mortero:** Resistente al calor (mezcla de arcilla/arena o cemento refractario).
+  - **Ladrillo:** Preferiblemente refractario para el hogar, o ladrillo cocido de alta calidad.
+  - **Mortero:** Resistente al calor (mezcla de arcilla/arena o cemento refractario).
 - **Herramientas:**
-    - Llana, plomada (muy importante para la verticalidad), nivel.
+  - Llana, plomada (muy importante para la verticalidad), nivel.
 
 ## Variantes y mejoras
 

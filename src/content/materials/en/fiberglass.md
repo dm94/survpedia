@@ -19,7 +19,6 @@ uses:
 naturalAvailability: false
 manufacturingProcess: "Molten glass is extruded through very fine holes to create filaments."
 category: synthetic
-image: "../../assets/placeholder.jpg"
 ---
 
 Fiberglass is a material consisting of numerous extremely fine fibers of glass. It is used as an insulating material and as a reinforcing agent for many polymer products (glass-reinforced plastic).

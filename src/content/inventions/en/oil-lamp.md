@@ -1,7 +1,6 @@
 ---
 title: "Oil Lamp"
 materialsUsed: ["clay", "vegetable-oil", "animal-fat", "plant-fibers", "cotton"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -29,20 +28,22 @@ The wick acts as a regulator, limiting the amount of fuel reaching the flame to 
 ## How to create it
 
 ### Minimum functional version
+
 1.  **Container**: Find or model a small bowl or deep dish made of non-flammable material (clay, stone, seashell, metal).
 2.  **Fuel**: Partially fill the container with vegetable oil or melted animal fat.
 3.  **Wick**: Place a braided plant fiber or piece of cotton cloth in the oil, leaving one end sticking out over the edge or floating (using a small floating support of cork or light wood).
 4.  **Ignition**: Apply fire to the end of the oil-soaked wick.
 
 ### Technical level
+
 - **Basic**: Requires only natural materials and simple modeling.
 
 ## Materials needed
 
 - **Essential**:
-    - **Non-flammable container**: **[Clay](/en/materials/clay)** (pottery), carved **[Stone](/en/materials/stone)**, shells, metal.
-    - **Fuel**: **[Vegetable Oil](/en/materials/vegetable-oil)** (olive, sesame, nut) or **[Animal Fat](/en/materials/animal-fat)** (tallow, lard).
-    - **Wick**: **[Plant Fibers](/en/materials/plant-fibers)** (flax, papyrus, hemp), **[Cotton](/en/materials/cotton)**, or strips of old cloth.
+  - **Non-flammable container**: **[Clay](/en/materials/clay)** (pottery), carved **[Stone](/en/materials/stone)**, shells, metal.
+  - **Fuel**: **[Vegetable Oil](/en/materials/vegetable-oil)** (olive, sesame, nut) or **[Animal Fat](/en/materials/animal-fat)** (tallow, lard).
+  - **Wick**: **[Plant Fibers](/en/materials/plant-fibers)** (flax, papyrus, hemp), **[Cotton](/en/materials/cotton)**, or strips of old cloth.
 
 ## Variants and improvements
 

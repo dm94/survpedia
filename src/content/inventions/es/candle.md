@@ -1,7 +1,6 @@
 ---
 title: "Vela"
 materialsUsed: ["beeswax", "animal-fat", "plant-fibers", "cotton"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -21,12 +20,18 @@ El calor de la llama de la mecha derrite el combustible sólido justo debajo de 
 ## Cómo crearla
 
 ### Versión mínima funcional (Vela de inmersión)
+
 1.  **Preparar la mecha**: Ata un peso pequeño a una cuerda de algodón o fibra vegetal.
 2.  **Derretir el combustible**: Calienta sebo o cera de abejas en un recipiente alto hasta que sea líquido (¡cuidado, es inflamable!).
 3.  **Inmersión**: Sumerge la mecha en el líquido y sácala rápidamente. Deja que la capa de grasa se enfríe y endurezca.
 4.  **Repetición**: Repite el proceso muchas veces hasta que la vela tenga el grosor deseado.
 
+### Nivel técnico
+
+- **Básico**: Requiere solo materiales naturales y modelado simple.
+
 ### Versión avanzada (Molde)
+
 1.  Coloca la mecha centrada en un tubo o molde (bambú, arcilla, metal).
 2.  Vierte la cera derretida en el molde.
 3.  Espera a que se enfríe completamente y desmolda.
@@ -34,8 +39,8 @@ El calor de la llama de la mecha derrite el combustible sólido justo debajo de 
 ## Materiales necesarios
 
 - **Esenciales**:
-    - **Combustible sólido**: **[Cera de Abejas](/es/materials/beeswax)** (mejor calidad, sin humo), **[Grasa Animal](/es/materials/animal-fat)** (sebo de vaca/oveja; el cerdo es demasiado blando).
-    - **Mecha**: **[Algodón](/es/materials/cotton)** trenzado, lino, **[Fibras Vegetales](/es/materials/plant-fibers)**.
+  - **Combustible sólido**: **[Cera de Abejas](/es/materials/beeswax)** (mejor calidad, sin humo), **[Grasa Animal](/es/materials/animal-fat)** (sebo de vaca/oveja; el cerdo es demasiado blando).
+  - **Mecha**: **[Algodón](/es/materials/cotton)** trenzado, lino, **[Fibras Vegetales](/es/materials/plant-fibers)**.
 
 ## Variantes y mejoras
 
