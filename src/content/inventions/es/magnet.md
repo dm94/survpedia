@@ -1,6 +1,6 @@
 ---
 title: "Imán"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["magnetite", "iron", "steel", "copper", "wire"]
 ---
 

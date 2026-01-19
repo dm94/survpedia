@@ -1,7 +1,8 @@
 ---
 title: "Seal"
-image: ../../../assets/inventions/placeholder.jpg
-materialsUsed: ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
+
+materialsUsed:
+  ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
 ---
 
 # Brief description
@@ -20,6 +21,7 @@ Its practical purpose is security and identity:
 ## Operating principle
 
 The principle is the **Mechanical Reproduction of a Unique Pattern**.
+
 1. **Matrix (The Seal):** A hard material (stone, metal) is carved with a unique design (negative image).
 2. **Impression:** The matrix is pressed into a soft material (wet clay, hot wax) or inked and pressed onto paper.
 3. **Result:** A positive image is left behind, which is difficult to replicate without the original matrix.

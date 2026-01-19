@@ -1,6 +1,6 @@
 ---
 title: "Chisel"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["iron", "steel", "wood", "stone"]
 ---
 

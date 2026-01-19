@@ -1,6 +1,6 @@
 ---
 title: "Bow"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "plant-fibers", "leather", "resin"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hammer"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "stone", "iron", "plant-fibers", "leather"]
 ---
 

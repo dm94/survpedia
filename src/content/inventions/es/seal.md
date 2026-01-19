@@ -1,6 +1,6 @@
 ---
 title: "Sello"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed:
   ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
 ---

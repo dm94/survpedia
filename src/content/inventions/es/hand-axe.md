@@ -1,6 +1,6 @@
 ---
 title: "Hacha de mano"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["flint", "stone"]
 ---
 

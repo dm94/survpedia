@@ -1,6 +1,6 @@
 ---
 title: "Scissors"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["bronze", "iron", "steel"]
 ---
 
@@ -22,12 +22,14 @@ Scissors operate by applying **shearing force**. The two blades are sharpened on
 ## How to create it
 
 ### Spring Scissors (Easier, Ancient style)
+
 1.  **Forming:** Take a long, flat bar of metal (bronze or iron).
 2.  **Shaping:** Flatten the two ends to form blades.
 3.  **Bending:** Bend the bar in the middle into a 'U' or 'C' shape so the blades cross each other under tension.
 4.  **Sharpening:** Sharpen the inner edges of the blades. The spring tension keeps them pressed together.
 
 ### Pivoted Scissors (Modern style)
+
 1.  **Forging:** Forge two separate identical halves, each with a blade and a handle (ring).
 2.  **Drilling:** Drill a hole in the center of each piece where they will cross.
 3.  **Assembly:** Place the two halves together and insert a rivet or screw through the hole.

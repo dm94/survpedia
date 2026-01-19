@@ -1,7 +1,6 @@
 ---
 title: "Oar"
 materialsUsed: ["wood"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description

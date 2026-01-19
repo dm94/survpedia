@@ -1,6 +1,6 @@
 ---
 title: "Shoes"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["leather", "wood", "plant-fibers", "natural-rubber"]
 ---
 

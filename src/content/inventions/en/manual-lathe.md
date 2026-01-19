@@ -1,6 +1,6 @@
 ---
 title: "Manual Lathe"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "iron", "rope", "chisel"]
 ---
 

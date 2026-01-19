@@ -1,6 +1,6 @@
 ---
 title: "Molino manual (grano)"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["stone", "wood"]
 ---
 
@@ -17,12 +17,14 @@ Un molino manual, específicamente un molino de mano o quern, es una herramienta
 ## Principio de funcionamiento
 
 El molino manual funciona mediante la fricción y la presión entre dos superficies abrasivas:
+
 1. **Molino de vaivén:** Una piedra plana o cóncava (piedra base) y una piedra más pequeña sostenida con la mano (maneta) que se empuja hacia adelante y hacia atrás.
 2. **Molino rotatorio:** Dos piedras circulares; la piedra superior (volandera) se hace girar mediante un mango sobre una piedra inferior fija (solera). El grano se introduce por un agujero en el centro de la piedra superior.
 
 ## Cómo crearlo
 
 Para fabricar un molino manual rotatorio simple:
+
 1. **Selección de piedra:** Buscar dos piedras gruesas y planas de roca dura y abrasiva (como basalto o granito).
 2. **Modelado:** Tallar ambas piedras en formas circulares.
 3. **Perforación:** Taladrar un agujero central en la piedra superior para la alimentación del grano y un agujero lateral más pequeño para el mango.

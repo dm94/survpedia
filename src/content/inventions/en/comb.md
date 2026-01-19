@@ -1,7 +1,6 @@
 ---
 title: "Comb"
 materialsUsed: ["wood", "bone"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description
@@ -28,6 +27,7 @@ The teeth of the comb act as parallel wedges that separate strands of hair as th
 4.  **Finishing**: Sand the teeth very well so they don't have splinters that break the hair.
 
 ### Required technological level
+
 Basic to intermediate (requires precision in cutting).
 
 ## Materials needed

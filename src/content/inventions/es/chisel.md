@@ -1,6 +1,6 @@
 ---
 title: "Cincel / Formón"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["iron", "steel", "wood", "stone"]
 ---
 

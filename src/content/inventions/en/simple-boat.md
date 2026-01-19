@@ -1,7 +1,6 @@
 ---
 title: "Simple Boat"
 materialsUsed: ["wood", "resin", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description

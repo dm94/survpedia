@@ -1,6 +1,6 @@
 ---
 title: "Awl"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
 ---
 

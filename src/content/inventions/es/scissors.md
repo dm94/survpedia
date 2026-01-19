@@ -1,6 +1,6 @@
 ---
 title: "Tijeras"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["bronze", "iron", "steel"]
 ---
 
@@ -22,12 +22,14 @@ Las tijeras funcionan aplicando **fuerza de cizallamiento**. Las dos cuchillas e
 ## Cómo crearlo
 
 ### Tijeras de Muelle (Más fáciles, estilo antiguo)
+
 1.  **Formado:** Toma una barra larga y plana de metal (bronce o hierro).
 2.  **Moldeado:** Aplana los dos extremos para formar cuchillas.
 3.  **Doblado:** Dobla la barra por la mitad en forma de 'U' o 'C' para que las cuchillas se crucen bajo tensión.
 4.  **Afilado:** Afila los bordes interiores de las cuchillas. La tensión del muelle las mantiene presionadas juntas.
 
 ### Tijeras Pivotantes (Estilo moderno)
+
 1.  **Forjado:** Forja dos mitades separadas idénticas, cada una con una cuchilla y un mango (anillo).
 2.  **Perforación:** Taladra un agujero en el centro de cada pieza donde se cruzarán.
 3.  **Montaje:** Coloca las dos mitades juntas e inserta un remache o tornillo a través del agujero.

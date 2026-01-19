@@ -1,6 +1,6 @@
 ---
 title: "Torno Manual"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "iron", "rope", "chisel"]
 ---
 
@@ -22,15 +22,18 @@ La pieza se sujeta entre dos puntos (cabezal y contrapunto) o en un plato fronta
 ## Cómo crearlo
 
 ### Torno de Pértiga (Primitivo)
+
 1.  **Bastidor:** Construir una base de madera robusta con dos montantes.
 2.  **Puntos:** Insertar puntas de metal (centros) en los montantes para sujetar la madera. Uno debe ser ajustable.
 3.  **Potencia:** Colocar una rama flexible o pértiga sobre el torno. Atar una cuerda a la punta, enrollarla alrededor de la pieza y atar el otro extremo a un pedal.
 4.  **Acción:** Al presionar el pedal, la madera gira (golpe de corte); la pértiga la devuelve (golpe de retorno).
 
 ### Torno de Arco (Portátil)
+
 1.  Configuración similar pero impulsada moviendo un arco hacia adelante y hacia atrás, enrollando la cuerda alrededor de la pieza.
 
 ### Torno de Volante (Continuo)
+
 1.  Utiliza un volante pesado y un mecanismo de manivela o pedal para mantener una rotación y momento continuos.
 
 ## Materiales necesarios

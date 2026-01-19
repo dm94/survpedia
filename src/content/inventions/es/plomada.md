@@ -1,7 +1,6 @@
 ---
 title: "Plomada"
 materialsUsed: ["lead", "brass", "rope", "wood", "stone"]
-image: "../../../assets/inventions/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -29,8 +28,8 @@ La plomada funciona gracias a la gravedad. El peso de la plomada tensa la cuerda
 ## Materiales necesarios
 
 - **Esenciales:**
-    - **Peso:** Plomo, latón, hierro o una piedra simétrica.
-    - **Cuerda:** Hilo fuerte, cordel o cuerda fina que no se estire demasiado.
+  - **Peso:** Plomo, latón, hierro o una piedra simétrica.
+  - **Cuerda:** Hilo fuerte, cordel o cuerda fina que no se estire demasiado.
 - **Herramientas:** Cuchillo para cortar la cuerda, molde si se funde el plomo.
 
 ## Variantes y mejoras

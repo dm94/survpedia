@@ -1,7 +1,6 @@
 ---
 title: "Vela (Navegación)"
 materialsUsed: ["fabric", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción

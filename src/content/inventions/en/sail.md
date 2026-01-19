@@ -1,7 +1,6 @@
 ---
 title: "Sail"
 materialsUsed: ["fabric", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description
@@ -16,6 +15,7 @@ A sail is a tensile structure—typically made of fabric or other membrane mater
 ## Operating principle
 
 **Aerodynamics:** Sails work by trapping the wind (drag) or by creating a pressure difference (lift).
+
 - **Downwind:** The sail acts as a parachute, catching the wind and being pushed by it (drag).
 - **Upwind/Crosswind:** The sail acts like an airfoil (airplane wing). The air flows faster over the curved outer surface (lee side) than the inner surface (windward side), creating lower pressure on the lee side and generating lift that pulls the boat forward.
 

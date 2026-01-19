@@ -1,7 +1,6 @@
 ---
 title: "Remo"
 materialsUsed: ["wood"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción

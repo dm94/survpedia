@@ -1,7 +1,6 @@
 ---
 title: "Cepillo de dientes"
 materialsUsed: ["wood", "bone", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción
@@ -31,6 +30,7 @@ Funciona mediante abrasión suave y barrido mecánico. Las cerdas flexibles pene
 4.  **Fijación**: Insertar las cerdas en los agujeros y asegurarlas con hilo o pegamento natural (resina), o atarlas firmemente si se usa el método de "palo de mascar".
 
 ### Versión simplificada (Palo de mascar)
+
 Tomar una ramita de un árbol adecuado (como el neem, olivo o regaliz), pelar la punta y masticarla hasta que las fibras se separen formando un cepillo natural.
 
 ## Materiales necesarios

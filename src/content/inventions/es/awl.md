@@ -1,6 +1,6 @@
 ---
 title: "Punzón"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
 ---
 
@@ -22,11 +22,13 @@ El punzón funciona por **desplazamiento** y **cuña**. La punta afilada concent
 ## Cómo crearlo
 
 ### Punzón Primitivo
+
 1.  **Material:** Selecciona una astilla de hueso fuerte (asta o hueso de la pierna) o una espina dura.
 2.  **Formado:** Muele contra arenisca para formar una punta robusta y afilada.
 3.  **Mango:** Envuelve un extremo en cuero o encájalo en un mango de madera para un mejor agarre.
 
 ### Punzón de Metal
+
 1.  **Forjado:** Martilla una varilla de metal hasta obtener una punta en un extremo y una espiga (cola cónica) en el otro.
 2.  **Endurecimiento:** Si usas acero, calienta y templa la punta para endurecerla.
 3.  **Enmangado:** Taladra un agujero en un mango de madera. Inserta la espiga de la punta de metal. La fricción o el pegamento (resina) lo mantienen en su lugar.

@@ -1,6 +1,6 @@
 ---
 title: "Clothing and fabrics"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["leather", "wool", "cotton", "plant-fibers"]
 ---
 

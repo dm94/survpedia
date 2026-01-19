@@ -1,7 +1,6 @@
 ---
 title: "Peine"
 materialsUsed: ["wood", "bone"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción
@@ -28,6 +27,7 @@ Los dientes del peine actúan como cuñas paralelas que separan las hebras de ca
 4.  **Acabado**: Lijar muy bien los dientes para que no tengan astillas que rompan el cabello.
 
 ### Nivel tecnológico requerido
+
 Básico a intermedio (requiere precisión en el corte).
 
 ## Materiales necesarios

@@ -1,6 +1,6 @@
 ---
 title: "Tornillo"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "iron", "bronze", "steel"]
 ---
 
@@ -19,6 +19,7 @@ Un tornillo es una máquina simple que consiste en un plano inclinado enrollado 
 ## Principio de funcionamiento
 
 El tornillo funciona convirtiendo el par (fuerza rotacional) en fuerza lineal. La distancia entre las roscas se llama "paso".
+
 - **Ventaja mecánica:** Una pequeña fuerza rotacional aplicada sobre una larga distancia (la circunferencia de la vuelta) crea una gran fuerza axial sobre una corta distancia (el paso).
 - **Autobloqueo:** En muchos diseños, la fricción evita que el tornillo gire hacia atrás bajo carga, manteniéndolo seguro.
 

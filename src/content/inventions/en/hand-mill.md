@@ -1,6 +1,6 @@
 ---
 title: "Manual Mill (grain)"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["stone", "wood"]
 ---
 
@@ -17,12 +17,14 @@ A manual mill, specifically a hand mill or quern, is a simple tool used for grin
 ## Operating principle
 
 The hand mill works through friction and pressure between two abrasive surfaces:
+
 1. **Saddle Quern:** A flat or concave stone (the bedstone) and a smaller handheld stone (the rubber or muller) that is pushed back and forth.
 2. **Rotary Quern:** Two circular stones; the top stone (runner) is rotated by a handle over a stationary bottom stone (bedstone). Grain is fed through a hole in the center of the top stone.
 
 ## How to create it
 
 To make a simple rotary hand mill:
+
 1. **Stone Selection:** Find two thick, flat stones of hard, abrasive rock (like basalt or granite).
 2. **Shaping:** Carve both stones into circular shapes.
 3. **Drilling:** Drill a central hole in the top stone for the grain feed and a smaller off-center hole for the handle.

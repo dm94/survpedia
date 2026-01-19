@@ -1,6 +1,6 @@
 ---
 title: "Engranajes"
-image: ../../../assets/inventions/placeholder.jpg
+
 materialsUsed: ["wood", "bronze", "iron", "steel", "animal-fat"]
 ---
 

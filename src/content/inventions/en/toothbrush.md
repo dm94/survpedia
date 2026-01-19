@@ -1,7 +1,6 @@
 ---
 title: "Toothbrush"
 materialsUsed: ["wood", "bone", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description
@@ -31,6 +30,7 @@ It works through gentle abrasion and mechanical sweeping. Flexible bristles pene
 4.  **Fixing**: Insert bristles into holes and secure with thread or natural glue (resin), or tie firmly if using the "chewing stick" method.
 
 ### Simplified version (Chewing Stick)
+
 Take a twig from a suitable tree (like neem, olive, or licorice), peel the tip, and chew it until the fibers separate forming a natural brush.
 
 ## Materials needed

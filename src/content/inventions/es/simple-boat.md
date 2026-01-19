@@ -1,7 +1,6 @@
 ---
 title: "Barco simple"
 materialsUsed: ["wood", "resin", "plant-fibers"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Breve descripción

@@ -1,7 +1,6 @@
 ---
 title: "Candle"
 materialsUsed: ["beeswax", "animal-fat", "plant-fibers", "cotton"]
-image: ../../../assets/inventions/placeholder.jpg
 ---
 
 # Brief description
