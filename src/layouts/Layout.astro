@@ -1,22 +1,96 @@
 ---
 import { getLangFromUrl } from '@i18n/utils';
+import { languages, defaultLang } from '@i18n/ui';
 import Header from '@components/Header.astro';
 import '@styles/global.css';
 
 interface Props {
   title: string;
+  description?: string;
+  image?: string;
+  noindex?: boolean;
 }
 
-const { title } = Astro.props;
+const { title, description, image, noindex } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
+const siteUrl = Astro.site ?? new URL(Astro.url.origin);
+const defaultDescription = 'Survpedia - Technological Survival Manual Codex';
+const metaDescription = description ?? defaultDescription;
+const canonicalUrl = new URL(Astro.url.pathname, siteUrl);
+const ogImageUrl = image?.startsWith('http')
+  ? image
+  : new URL(image ?? '/logo.png', siteUrl).toString();
+const langCodes = Object.keys(languages);
+const pathSegments = Astro.url.pathname.split('/').filter(Boolean);
+const hasLangPrefix = langCodes.includes(pathSegments[0] ?? '');
+const getLocalizedPath = (targetLang: string) => {
+  if (hasLangPrefix) {
+    const segments = [...pathSegments];
+    segments[0] = targetLang;
+    return `/${segments.join('/')}`;
+  }
+
+  if (targetLang === defaultLang) {
+    return `/${pathSegments.join('/')}`;
+  }
+
+  return `/${[targetLang, ...pathSegments].join('/')}`;
+};
+const localeMap: Record<string, string> = {
+  en: 'en_US',
+  es: 'es_ES',
+};
+const ogLocale = localeMap[lang] ?? lang;
+const alternateLocales = langCodes
+  .filter(code => code !== lang)
+  .map(code => localeMap[code] ?? code);
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    url: siteUrl.toString(),
+    name: 'Survpedia',
+    description: defaultDescription,
+    inLanguage: lang,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    url: canonicalUrl.toString(),
+    name: title,
+    description: metaDescription,
+    inLanguage: lang,
+    isPartOf: {
+      '@type': 'WebSite',
+      url: siteUrl.toString(),
+      name: 'Survpedia',
+    },
+  },
+];
 ---
 
 <!doctype html>
 <html lang={lang}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Survpedia - Technological Survival Manual Codex" />
+    <meta name="description" content={metaDescription} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={canonicalUrl} />
+    {
+      langCodes.map(code => (
+        <link
+          rel="alternate"
+          hreflang={code}
+          href={new URL(getLocalizedPath(code), siteUrl).toString()}
+        />
+      ))
+    }
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href={new URL(getLocalizedPath(defaultLang), siteUrl).toString()}
+    />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/logo.png" />
     <meta name="generator" content={Astro.generator} />
@@ -24,23 +98,26 @@ const lang = getLangFromUrl(Astro.url);
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={Astro.url} />
+    <meta property="og:url" content={canonicalUrl} />
     <meta property="og:title" content={title} />
-    <meta
-      property="og:description"
-      content="Survpedia - Technological Survival Manual Codex"
-    />
-    <meta property="og:image" content={new URL('/logo.png', Astro.url)} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:locale" content={ogLocale} />
+    {
+      alternateLocales.map(locale => (
+        <meta property="og:locale:alternate" content={locale} />
+      ))
+    }
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:url" content={canonicalUrl} />
     <meta property="twitter:title" content={title} />
-    <meta
-      property="twitter:description"
-      content="Survpedia - Technological Survival Manual Codex"
-    />
-    <meta property="twitter:image" content={new URL('/logo.png', Astro.url)} />
+    <meta property="twitter:description" content={metaDescription} />
+    <meta property="twitter:image" content={ogImageUrl} />
+    <script type="application/ld+json">
+      {JSON.stringify(structuredData)}
+    </script>
   </head>
   <body
     class="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col"

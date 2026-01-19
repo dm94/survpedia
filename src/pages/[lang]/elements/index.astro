@@ -18,7 +18,7 @@ const elements = await getCollection('elements', ({ id }) => {
 elements.sort((a, b) => a.data.atomicNumber - b.data.atomicNumber);
 ---
 
-<Layout title={t('elements.title')}>
+<Layout title={t('elements.title')} description={t('elements.desc')}>
   <div class="mb-8">
     <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
       {t('elements.title')}

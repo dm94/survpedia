@@ -16,7 +16,7 @@ const inventions = await getCollection("inventions", ({ id }) => {
 });
 ---
 
-<Layout title={t("inventions.title")}>
+<Layout title={t("inventions.title")} description={t("inventions.desc")}>
   <div class="mb-8">
     <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
       {t("inventions.title")}

@@ -6,7 +6,11 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 ---
 
-<Layout title={t('404.title')}>
+<Layout
+  title={t('404.title')}
+  description={t('404.description')}
+  noindex={true}
+>
   <div class="flex flex-col items-center justify-center py-12 text-center">
     <h1 class="text-6xl font-bold text-slate-800 dark:text-slate-100 mb-4">404</h1>
     <p class="text-xl text-slate-600 dark:text-slate-400 mb-8">{t('404.description')}</p>
