@@ -1,17 +1,10 @@
 ---
-name: "Magnesio"
+title: "Magnesio"
 symbol: "Mg"
-atomic_number: 12
-atomic_mass: 24.305
+atomicNumber: 12
+atomicMass: 24.305
 category: "Metal Alcalinotérreo"
-appearance: "Sólido gris brillante"
-discovery: "Joseph Black (1755)"
-phase: "Sólido"
-related_materials:
-  - steel
-  - glass
-related_inventions:
-  - fireworks
+naturalAvailability: true
 ---
 
 ## Descripción General

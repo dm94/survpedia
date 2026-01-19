@@ -1,15 +1,9 @@
 ---
-name: "Fireworks"
-description: "Devices capable of creating visual and/or sound effects for entertainment purposes through the combustion of pyrotechnic compositions."
-inventor: "Chinese Alchemists"
-year: 800
-location: "China"
-category: "Entertainment"
-related_materials:
+title: "Fireworks"
+materialsUsed:
   - gunpowder
   - paper
   - charcoal
-related_elements:
   - iron
   - copper
   - magnesium

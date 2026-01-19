@@ -1,26 +1,24 @@
 ---
-name: "Pólvora"
-description: "El explosivo químico más antiguo conocido, una mezcla de azufre, carbón vegetal y nitrato de potasio."
-category: "Explosivo"
-chemical_formula: "75% KNO3 + 15% C + 10% S"
+title: "Pólvora"
+category: "synthetic"
+formula: "75% KNO3 + 15% C + 10% S"
 properties:
   - "Deflagra (arde rápidamente)"
   - "Produce gas y calor"
   - "Sensible al choque (bajo)"
   - "Higroscópica"
-common_uses:
+uses:
   - "Armas de fuego"
   - "Artillería"
   - "Fuegos artificiales"
   - "Voladuras (minería)"
-related_elements:
+composition:
   - sulfur
   - carbon
   - potassium
   - nitrogen
   - oxygen
-related_inventions:
-  - fireworks
+naturalAvailability: false
 ---
 
 ## Historia

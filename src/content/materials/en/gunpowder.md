@@ -1,26 +1,24 @@
 ---
-name: "Gunpowder"
-description: "The earliest known chemical explosive, a mixture of sulfur, charcoal, and potassium nitrate."
-category: "Explosive"
-chemical_formula: "75% KNO3 + 15% C + 10% S"
+title: "Gunpowder"
+category: "synthetic"
+formula: "75% KNO3 + 15% C + 10% S"
 properties:
   - "Deflagrates (burns rapidly)"
   - "Produces gas and heat"
   - "Shock sensitive (low)"
   - "Hygroscopic"
-common_uses:
+uses:
   - "Firearms"
   - "Artillery"
   - "Fireworks"
   - "Blasting (mining)"
-related_elements:
+composition:
   - sulfur
   - carbon
   - potassium
   - nitrogen
   - oxygen
-related_inventions:
-  - fireworks
+naturalAvailability: false
 ---
 
 ## History

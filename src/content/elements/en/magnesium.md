@@ -1,17 +1,10 @@
 ---
-name: "Magnesium"
+title: "Magnesium"
 symbol: "Mg"
-atomic_number: 12
-atomic_mass: 24.305
+atomicNumber: 12
+atomicMass: 24.305
 category: "Alkaline Earth Metal"
-appearance: "Shiny gray solid"
-discovery: "Joseph Black (1755)"
-phase: "Solid"
-related_materials:
-  - steel
-  - glass
-related_inventions:
-  - fireworks
+naturalAvailability: true
 ---
 
 ## Overview

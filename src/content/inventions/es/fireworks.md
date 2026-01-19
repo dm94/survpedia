@@ -1,15 +1,9 @@
 ---
-name: "Fuegos Artificiales"
-description: "Dispositivos capaces de crear efectos visuales y/o sonoros con fines de entretenimiento mediante la combustión de composiciones pirotécnicas."
-inventor: "Alquimistas Chinos"
-year: 800
-location: "China"
-category: "Entretenimiento"
-related_materials:
+title: "Fuegos Artificiales"
+materialsUsed:
   - gunpowder
   - paper
   - charcoal
-related_elements:
   - iron
   - copper
   - magnesium
