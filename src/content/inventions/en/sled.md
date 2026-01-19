@@ -20,7 +20,7 @@ The sled works by distributing the load's weight over a surface area that slides
 
 - **Runners:** Narrow strips (skis) reduce the contact area, minimizing friction on hard ice or packed snow.
 - **Flat Bottom (Toboggan):** Maximizes surface area to "float" on top of deep, soft snow, preventing the vehicle from sinking.
-- **Lashing:** Traditional sleds use flexible lashings ([rope](/en/inventions/rope), leather) instead of rigid nails. This allows the sled to flex and twist over uneven terrain without breaking.
+- **Lashing:** Traditional sleds use flexible lashings ([rope](/en/inventions/rope), **[leather](/en/materials/leather)**) instead of rigid nails. This allows the sled to flex and twist over uneven terrain without breaking.
 
 ## How to create it
 

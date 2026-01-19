@@ -3,7 +3,7 @@ title: "Water"
 formula: "H2O"
 composition: ["hydrogen", "oxygen"]
 properties: ["Liquid at room temperature", "Universal solvent", "Colorless", "Odorless"]
-uses: ["Human consumption", "Agriculture", "Industry", "Cooling", "Motive power"]
+uses: ["Human consumption", "Agriculture", "Industry", "Cooling", "Motive power", "Tanning"]
 naturalAvailability: true
 manufacturingProcess: "Found naturally in oceans, rivers, and lakes. Can be synthesized by burning hydrogen in oxygen."
 category: "other"

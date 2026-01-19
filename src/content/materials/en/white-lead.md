@@ -19,7 +19,7 @@ A heavy, dense, brilliant white powder. It provides excellent coverage and opaci
 ## Origin and where to find it
 
 - **Not natural**: Manufactured product.
-- **Raw Materials**: [Lead](/en/materials/lead), [Simple Acids (Vinegar)](/en/materials/simple-acids), and a source of CO2 (manure/tanbark).
+- **Raw Materials**: [Lead](/en/materials/lead), [Simple Acids (Vinegar)](/en/materials/simple-acids), and a source of CO2 (manure/[tanbark](/en/inventions/tanning)).
 
 ### Minimum processing required
 

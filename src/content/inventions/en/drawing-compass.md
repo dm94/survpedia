@@ -22,7 +22,7 @@ The compass works on the principle of a fixed radius. By fixing one leg (the nee
 
 1.  **Legs**: Shape two straight legs from wood, bone, or metal. They should be sturdy and straight.
 2.  **Hinge**: Connect the two legs at the top.
-    - _Simple_: Tie them together tightly with cord/leather (lash compass).
+    - _Simple_: Tie them together tightly with cord/[leather](/en/materials/leather) (lash compass).
     - _Better_: Use a rivet or a screw that allows movement but provides enough friction to hold the position.
 3.  **Points**:
     - _Anchor Point_: Sharpen one leg to a point or attach a metal needle.
@@ -31,7 +31,7 @@ The compass works on the principle of a fixed radius. By fixing one leg (the nee
 ## Materials needed
 
 - **Legs**: Hardwood, Bone, Brass, Iron, or Steel.
-- **Hinge**: Leather thong, rivet, or screw.
+- **Hinge**: [Leather](/en/materials/leather) thong, rivet, or screw.
 - **Tips**: Hardened steel or iron for the points; charcoal or lead for drawing.
 
 ## Variants and improvements

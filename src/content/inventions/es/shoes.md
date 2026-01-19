@@ -22,16 +22,19 @@ El calzado proporciona una barrera duradera (suela) entre el pie y el suelo, dis
 ## Cómo crearlo
 
 ### Sandalias Simples (Fibra Vegetal/Cuero)
+
 1.  **Suela:** Corta una pieza de cuero grueso o teje fibras vegetales resistentes (yuca, paja) con la forma del pie.
 2.  **Correas:** Coloca tiras o cuerdas en la suela (entre los dedos, alrededor del tobillo) para sujetarla.
 
 ### Mocasines/Zapatos Simples (Cuero)
+
 1.  **Patrón:** Corta una sola pieza grande de cuero suave. El pie se coloca en el centro.
 2.  **Formado:** Recoge el cuero alrededor del pie.
 3.  **Costura:** Cose los bordes a lo largo de la parte superior o el talón usando un punzón y tendón/hilo.
 4.  **Ajuste:** Usa un cordón alrededor del tobillo para un ajuste ceñido.
 
 ### Zapatos Complejos (Suela + Empeine)
+
 1.  **Horma:** Talla una forma de madera (horma) con la forma de un pie.
 2.  **Suela:** Corta una suela gruesa y duradera (cuero duro, madera, banda de rodadura).
 3.  **Empeine:** Corta y cose piezas de cuero más suave para formar la cubierta superior.
@@ -39,8 +42,8 @@ El calzado proporciona una barrera duradera (suela) entre el pie y el suelo, dis
 
 ## Materiales necesarios
 
-- **Suela:** Cuero grueso (piel), Madera, Corteza, Caucho.
-- **Empeine:** Cuero suave, Tela, Fieltro.
+- **Suela:** **[Cuero](/es/materials/leather)** grueso (piel), Madera, Corteza, Caucho.
+- **Empeine:** **[Cuero](/es/materials/leather)** suave, Tela, Fieltro.
 - **Sujeciones:** Cordones, Hebillas, Botones.
 - **Herramientas:** Punzón, Aguja, Cuchillo, Horma (para zapatos avanzados).
 

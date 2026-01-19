@@ -26,7 +26,7 @@ El carro utiliza la rueda y el eje para reducir la fricción.
 2.  **Montaje del eje:** Fijar firmemente el eje (ver [Eje](/es/inventions/axle)) a la parte inferior del marco.
 3.  **Montaje de las ruedas:** Montar las ruedas (ver [Rueda](/es/inventions/wheel)) en el eje.
 4.  **Varas/Lanza:** Fijar dos varas largas (para un solo animal) o una lanza central (para pares) a la parte delantera del marco.
-5.  **Arneses:** Usar cuero o cuerda para conectar las varas al animal.
+5.  **Arneses:** Usar **[cuero](/es/materials/leather)** o cuerda para conectar las varas al animal.
 
 ## Materiales necesarios
 

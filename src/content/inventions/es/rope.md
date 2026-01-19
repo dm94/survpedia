@@ -28,7 +28,7 @@ La torsión de las fibras individuales aumenta la fricción entre ellas. Cuando 
 ## Materiales necesarios
 
 - **Fibras vegetales:** Cáñamo, lino, yute, sisal.
-- **Animales:** Tiras de cuero, lana, crin de caballo.
+- **Animales:** Tiras de **[cuero](/es/materials/leather)**, lana, crin de caballo.
 - **Sustitutos:** Raíces flexibles o lianas en situaciones de emergencia.
 
 ## Variantes y mejoras

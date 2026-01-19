@@ -28,7 +28,7 @@ Twisting individual fibers increases the friction between them. When tension is 
 ## Materials needed
 
 - **Plant fibers:** Hemp, flax, jute, sisal.
-- **Animal:** Leather strips, wool, horsehair.
+- **Animal:** **[Leather](/en/materials/leather)** strips, wool, horsehair.
 - **Substitutes:** Flexible roots or vines in emergency situations.
 
 ## Variants and improvements

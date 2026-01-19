@@ -57,6 +57,6 @@ It is a greasy, pale substance that is solid or semi-solid at room temperature b
 
 ### Related materials
 
-- Leather: Often treated with fats to keep it supple.
-- Soap: Produced by reacting fats with an alkali.
-- Wood: Wooden axles and gears require frequent application of fat.
+- **[Leather](/en/materials/leather)**: Often treated with fats to keep it supple (part of [Tanning](/en/inventions/tanning)).
+- **[Soap](/en/materials/soap)**: Produced by reacting fats with an alkali.
+- **[Wood](/en/materials/wood)**: Wooden axles and gears require frequent application of fat.

@@ -40,7 +40,7 @@ Las cerdas retienen el líquido (pintura/tinta) mediante acción capilar y tensi
 - **Materiales esenciales**:
   - Cerdas: Pelo animal (caballo, cerdo, tejón, marta), fibras vegetales (sisal, coco) o sintéticas.
   - Mango: Madera, bambú, hueso.
-  - Unión: Cuerda, alambre, tira de cuero.
+  - Unión: Cuerda, alambre, tira de **[cuero](/es/materials/leather)**.
 - **Herramientas**: Cuchillo, tijeras (para recortar la base, no las puntas), [Pegamento](../../materials/es/glue.md)/[Resina](../../materials/es/resin.md).
 
 ## Variantes y mejoras

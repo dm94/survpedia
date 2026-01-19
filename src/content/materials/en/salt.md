@@ -35,9 +35,9 @@ Salt typically appears as white or clear crystals. It has a distinctive sharp, "
 
 ### Common forms of use
 
-- Coarse Salt: For curing and industrial use.
-- Fine Salt: For seasoning.
-- Brine: Salt dissolved in water for pickling and preservation.
+- **Coarse Salt:** For curing (meat, **[hides](/en/inventions/tanning)**) and industrial use.
+- **Fine Salt:** For seasoning.
+- **Brine:** Salt dissolved in water for pickling and preservation.
 
 ### Possible substitutes
 

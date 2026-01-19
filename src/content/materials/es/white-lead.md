@@ -3,7 +3,13 @@ title: "Albayalde (Blanco de Plomo)"
 formula: "2PbCO3·Pb(OH)2"
 composition: ["plomo", "carbono", "hidrógeno", "oxígeno"]
 properties: ["Polvo blanco denso", "Tóxico", "Opaco", "Sabor dulce (¡Mortal!)"]
-uses: ["Pigmento blanco", "Cosméticos (Histórico)", "Esmalte cerámico", "Base de pintura"]
+uses:
+  [
+    "Pigmento blanco",
+    "Cosméticos (Histórico)",
+    "Esmalte cerámico",
+    "Base de pintura",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Proceso de apilado: Exponer bobinas de plomo a vapores de vinagre y CO2 de estiércol fermentado."
 category: "synthetic"
@@ -26,7 +32,7 @@ Un polvo blanco brillante, pesado y denso. Proporciona una excelente cobertura y
 1.  **Proceso Holandés (de apilado)**:
     - Colocar vinagre en ollas de barro.
     - Colocar bobinas/hebillas de plomo dentro de las ollas, por encima del vinagre.
-    - Apilar las ollas y cubrirlas con estiércol fermentado o corteza de curtido.
+    - Apilar las ollas y cubrirlas con estiércol fermentado o [corteza de curtido](/es/inventions/curtido).
     - El estiércol genera calor y CO2. El vinagre genera vapores de ácido acético.
     - Dejar durante semanas/meses.
 2.  **Cosecha**:

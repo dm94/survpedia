@@ -6,7 +6,7 @@ materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
 
 # Breve descripción
 
-Una aguja es una herramienta delgada y alargada con una punta afilada en un extremo y un ojo (o agujero) en el otro para sostener un hilo. Es la herramienta fundamental para la costura, permitiendo unir materiales flexibles como pieles, telas o textiles.
+Una aguja es una herramienta delgada y alargada con una punta afilada en un extremo y un ojo (o agujero) en el otro para sostener un hilo. Es la herramienta fundamental para la costura, permitiendo unir materiales flexibles como **[pieles](/es/materials/leather)**, telas o textiles.
 
 ## Uso / Función
 
@@ -46,7 +46,7 @@ La aguja actúa como una guía de penetración. La punta afilada separa las fibr
 - **Aguja de Hueso:** Más gruesa, buena para pieles y tejidos toscos.
 - **Aguja de Metal:** Más fina y resistente, permite puntadas más finas y tejidos más densos.
 - **Aguja Curva:** Usada en cirugía y tapicería para trabajar en espacios donde una aguja recta no puede girar.
-- **Punzón:** Una herramienta relacionada sin ojo, usada solo para perforar agujeros a través de los cuales luego se pasa un hilo (común en el trabajo de cuero grueso).
+- **[Punzón](/es/inventions/awl):** Una herramienta relacionada sin ojo, usada solo para perforar agujeros a través de los cuales luego se pasa un hilo (común en el trabajo de **[cuero](/es/materials/leather)** grueso).
 
 ## Límites y riesgos
 

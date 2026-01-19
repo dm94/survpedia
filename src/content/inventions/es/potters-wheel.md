@@ -27,13 +27,13 @@ Un volante pesado (en el torno de pie) o un mecanismo motorizado hace girar un d
 2.  **Eje:** Instalar un eje vertical de madera dura o metal. Debe girar libremente pero sin tambalearse.
 3.  **Volante:** Fijar una rueda pesada y equilibrada (piedra o madera pesada) en la parte inferior del eje. Esto actúa como volante de inercia para almacenar el momento.
 4.  **Cabeza del torno:** Fijar un disco circular plano en la parte superior del eje. Aquí es donde se colocará la arcilla.
-5.  **Cojinetes:** Utilizar cuero engrasado o huecos en piedra como cojinetes para el eje para minimizar la fricción.
+5.  **Cojinetes:** Utilizar **[cuero](/es/materials/leather)** engrasado o huecos en piedra como cojinetes para el eje para minimizar la fricción.
 
 ## Materiales necesarios
 
 - **Madera:** Para la estructura, el banco, el eje y la cabeza del torno.
 - **Piedra:** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
-- **Cuero/Grasa:** Para lubricar los puntos de contacto (cojinetes).
+- **[Cuero](/es/materials/leather)**/Grasa:\*\* Para lubricar los puntos de contacto (cojinetes).
 - **Arcilla:** ¡Para probar y usar el torno!
 
 ## Variantes y mejoras

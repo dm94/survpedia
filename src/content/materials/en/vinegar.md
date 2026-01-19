@@ -39,6 +39,7 @@ A clear to amber liquid with a pungent, sour smell and taste.
 - **Pickling**: Preserving vegetables in an acidic environment.
 - **Culinary**: Salad dressings, sauces.
 - **Cleaning**: Removing limescale, cleaning glass, neutralizing odors.
+- **Tanning**: Deliming hides in **[Tanning](/en/inventions/tanning)**.
 
 ### Possible substitutes
 

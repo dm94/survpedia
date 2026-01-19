@@ -23,12 +23,12 @@ El arco funciona como un resorte. Cuando el arquero tensa la cuerda, la energía
 1.  **Selección de la vara**: Encuentra una pieza de madera que sea flexible pero fuerte (por ejemplo, tejo, fresno, nogal o correhielo). Debe ser aproximadamente de la altura del arquero.
 2.  **Tallado**: Quita la corteza. Talla el vientre (el lado que mira al arquero) plano y deja el dorso (el lado opuesto) natural (seguir un solo anillo de crecimiento es lo mejor). Adelgaza las palas hacia los extremos para que se doblen uniformemente.
 3.  **Muescas**: Corta pequeñas ranuras (muescas) en ambos extremos de la vara para sujetar la cuerda.
-4.  **Encordado**: Tuerce fibras vegetales, tendones o cuero crudo para crear una cuerda fuerte. Colócala sobre las muescas. La cuerda debe ser más corta que el arco para mantener la tensión.
+4.  **Encordado**: Tuerce fibras vegetales, tendones o **[cuero crudo](/es/materials/leather)** para crear una cuerda fuerte. Colócala sobre las muescas. La cuerda debe ser más corta que el arco para mantener la tensión.
 
 ## Materiales necesarios
 
 - **Madera**: Flexible y resistente (ej. Tejo, Fresno, Olmo, Nogal).
-- **Material de cuerda**: Fibras vegetales (cáñamo, lino), tendones de animales o tiras de cuero crudo.
+- **Material de cuerda**: Fibras vegetales (cáñamo, lino), tendones de animales o tiras de **[cuero crudo](/es/materials/leather)**.
 - **Herramientas**: Cuchillo, raspador, piedra para lijar.
 
 ## Variantes y mejoras

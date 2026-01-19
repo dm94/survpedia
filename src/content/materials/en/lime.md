@@ -36,7 +36,7 @@ A versatile chemical derived from limestone. It exists as Quicklime (CaO) and Sl
 
 - **Mortar/Plaster:** Mixed with sand and water.
 - **Agriculture:** To neutralize acidic soil.
-- **Tanning:** To remove hair from hides.
+- **[Tanning](/en/inventions/tanning):** To remove hair from hides.
 - **Whitewash:** Cheap paint/sealant.
 
 ### Possible substitutes

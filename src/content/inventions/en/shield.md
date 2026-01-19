@@ -23,16 +23,16 @@ The shield acts as a mobile barrier. It absorbs the kinetic energy of a blow or 
 1.  **Core Construction**:
     - **Plank Shield**: Join flat wooden planks together using glue or dowels. Cut to a circular or rectangular shape.
     - **Wicker Shield**: Weave flexible branches (willow) into a disc.
-2.  **Reinforcement**: Cover the face and edge with rawhide or leather. When wet rawhide dries, it shrinks, pulling the wood together tightly and adding significant strength.
+2.  **Reinforcement**: Cover the face and edge with rawhide or **[leather](/en/materials/leather)**. When wet rawhide dries, it shrinks, pulling the wood together tightly and adding significant strength.
 3.  **Handle**: Attach a handle (wood or leather strap) to the center back.
 4.  **Boss (Optional)**: Add a metal or hard wood dome (boss) in the center to protect the hand and deflect blows.
 
 ## Materials needed
 
 - **Base**: Wood (planks or plywood), Wicker.
-- **Covering**: Rawhide, Leather.
+- **Covering**: Rawhide, **[Leather](/en/materials/leather)**.
 - **Binding**: Glue (cheese glue, hide glue), nails, or rim reinforcement (metal/leather).
-- **Handle**: Wood, Leather.
+- **Handle**: Wood, **[Leather](/en/materials/leather)**.
 
 ## Variants and improvements
 

@@ -37,7 +37,7 @@ La pieza se sujeta entre dos puntos (cabezal y contrapunto) o en un plato fronta
 
 - **Bastidor:** Madera resistente (roble, haya).
 - **Centros:** Puntas de hierro o acero endurecido (esencial para reducir la fricción y el desgaste).
-- **Transmisión:** Cuerda (cuero o fibra).
+- **Transmisión**: Cuerda ([cuero](/es/materials/leather) o fibra).
 - **Resorte:** Pértiga de madera flexible.
 - **Herramientas de corte:** Cinceles o formones de acero o hierro endurecido.
 

@@ -57,6 +57,6 @@ Es una sustancia grasienta y pálida que es sólida o semisólida a temperatura 
 
 ### Materiales relacionados
 
-- Cuero: A menudo tratado con grasas para mantenerlo flexible.
-- Jabón: Producido al reaccionar grasas con un álcali.
-- Madera: Los ejes y engranajes de madera requieren una aplicación frecuente de grasa.
+- **[Cuero](/es/materials/leather)**: A menudo tratado con grasas para mantenerlo flexible (parte del [Curtido](/es/inventions/curtido)).
+- **[Jabón](/es/materials/soap)**: Producido al reaccionar grasas con un álcali.
+- **[Madera](/es/materials/wood)**: Los ejes y engranajes de madera requieren una aplicación frecuente de grasa.

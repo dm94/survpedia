@@ -36,7 +36,7 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 
 - **[Mortero](/es/materials/mortero)/[Yeso](/es/materials/gypsum):** Mezclado con arena y agua.
 - **Agricultura:** Para neutralizar suelos ácidos.
-- **Curtido:** Para quitar el pelo de las pieles.
+- **[Curtido](/es/inventions/curtido):** Para quitar el pelo de las pieles.
 - **Blanqueo:** Pintura/sellador barato.
 
 ### Posibles sustitutos

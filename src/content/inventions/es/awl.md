@@ -6,11 +6,11 @@ materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
 
 # Breve descripción
 
-Un punzón es una herramienta simple que consiste en una punta delgada y cónica de metal o hueso, generalmente fijada a un mango. Se utiliza para perforar pequeños agujeros en cuero, madera u otros materiales, a menudo como paso preliminar para coser o insertar sujetadores.
+Un punzón es una herramienta simple que consiste en una punta delgada y cónica de metal o hueso, generalmente fijada a un mango. Se utiliza para perforar pequeños agujeros en **[cuero](/es/materials/leather)**, madera u otros materiales, a menudo como paso preliminar para coser o insertar sujetadores.
 
 ## Uso / Función
 
-- **Perforación:** Hacer agujeros en materiales resistentes (cuero, lona gruesa) que una aguja no puede penetrar por sí sola.
+- **Perforación:** Hacer agujeros en materiales resistentes (**[cuero](/es/materials/leather)**, lona gruesa) que una aguja no puede penetrar por sí sola.
 - **Marcado:** Marcar líneas en madera o metal (punzón de trazar).
 - **Cestería:** Manipular hebras en el tejido.
 - **Costura:** Ayudar en la costura de materiales pesados (zapatería, talabartería).

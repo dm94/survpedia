@@ -46,6 +46,7 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 - **Encurtido**: Conservación de vegetales en un ambiente ácido.
 - **Culinario**: Aderezos para ensaladas, salsas.
 - **Limpieza**: Eliminación de cal, limpieza de vidrios, neutralización de olores.
+- **Curtido**: Desencalado de pieles en **[Curtido](/es/inventions/curtido)**.
 
 ### Posibles sustitutos
 

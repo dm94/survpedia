@@ -21,7 +21,7 @@ Atrapa una capa de aire cerca de la piel que actúa como aislante térmico. Los 
 
 ## Cómo crearlo
 
-1. **Obtención:** Curtir pieles de animales o recolectar fibras vegetales/animales (lino, algodón, lana).
+1. **Obtención:** **[Curtir](/es/inventions/curtido)** pieles de animales (**[Cuero](/es/materials/leather)**) o recolectar fibras vegetales/animales (lino, algodón, lana).
 2. **Procesado:** Hilar las fibras para crear hilos largos y resistentes.
 3. **Unión:** Tejer los hilos en un telar o coser piezas de piel usando agujas de hueso y tendones o hilos.
 4. **Nivel técnico:** Básico (pieles) a Intermedio (tejidos).
@@ -29,7 +29,7 @@ Atrapa una capa de aire cerca de la piel que actúa como aislante térmico. Los 
 ## Materiales necesarios
 
 - **Esenciales:** Pieles, lana, algodón o fibras de corteza.
-- **Herramientas:** Raspadores para pieles, husos para hilar, **[agujas](/es/inventions/needle)** (hueso/madera), telares simples.
+- **Herramientas:** **[Raspadores](/es/inventions/scraper)** para pieles, husos para hilar, **[agujas](/es/inventions/needle)** (hueso/madera), telares simples.
 - **Sustitutos:** Hojas grandes, cortezas batidas (tapa).
 
 ## Variantes y mejoras

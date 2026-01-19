@@ -51,7 +51,7 @@ It appears as transparent or white crystals or powder. It has a sweetish, astrin
 ### Common forms of use
 
 - **Crystal**: Rubbed directly on skin (deodorant, styptic).
-- **Powder**: Dissolved in water for dyeing or tanning baths.
+- **Powder**: Dissolved in water for dyeing or [tanning](/en/inventions/tanning) baths.
 - **Solution**: Added to muddy water to clarify it (flocculation).
 
 ### Possible substitutes
@@ -74,5 +74,5 @@ It appears as transparent or white crystals or powder. It has a sweetish, astrin
 ### Related materials
 
 - **[Textile Dye](/en/materials/textile-dye)**: Alum is the primary mordant for bright colors.
-- **[Leather](/en/materials/leather)**: Used in tawing (making white leather).
+- **[Leather](/en/materials/leather)**: Used in [tawing](/en/inventions/tanning) (making white leather).
 - **[Water](/en/materials/water)**: Used to purify drinking water.

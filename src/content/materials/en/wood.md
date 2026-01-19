@@ -59,7 +59,8 @@ Wood is generally light to medium weight, easy to carve or cut, and has a distin
 
 ### Related materials
 
-- Charcoal: Produced by heating wood in the absence of oxygen.
-- Paper: Made from processed wood fibers.
-- Natural Rubber: Harvested from specific types of trees.
-- Ash: Residue left after burning wood.
+- **[Charcoal](/en/materials/charcoal)**: Produced by heating wood in the absence of oxygen.
+- **[Paper](/en/materials/paper)**: Made from processed wood fibers.
+- **[Natural Rubber](/en/materials/natural-rubber)**: Harvested from specific types of trees.
+- **[Ash](/en/materials/ash)**: Residue left after burning wood.
+- **[Tanning](/en/inventions/tanning)**: Bark is a primary source of tannins.

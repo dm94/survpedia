@@ -27,8 +27,8 @@ Pumps typically use energy to create a pressure difference (suction or positive 
 
 **Simple Piston Pump:**
 1.  **Cylinder:** A hollow tube (wood or metal).
-2.  **Piston:** A plug that fits tightly inside the cylinder (often wrapped in leather for a seal).
-3.  **Valves:** Two one-way valves (leather flaps). One at the inlet (bottom) and one on the piston itself.
+2.  **Piston:** A plug that fits tightly inside the cylinder (often wrapped in **[leather](/en/materials/leather)** for a seal).
+3.  **Valves:** Two one-way valves (**[leather](/en/materials/leather)** flaps). One at the inlet (bottom) and one on the piston itself.
 4.  **Mechanism:** A handle or lever to move the piston up and down.
     - *Upstroke:* Inlet valve opens, water is sucked in. Piston valve closes.
     - *Downstroke:* Inlet valve closes, piston valve opens, allowing water to pass above the piston.

@@ -23,16 +23,16 @@ El escudo actúa como una barrera móvil. Absorbe la energía cinética de un go
 1.  **Construcción del núcleo**:
     - **Escudo de tablones**: Une tablones de madera planos usando pegamento o espigas. Córtalo en forma circular o rectangular.
     - **Escudo de mimbre**: Teje ramas flexibles (sauce) en un disco.
-2.  **Refuerzo**: Cubre la cara y el borde con cuero crudo o cuero. Cuando el cuero crudo húmedo se seca, se encoge, uniendo la madera firmemente y añadiendo una fuerza significativa.
+2.  **Refuerzo**: Cubre la cara y el borde con cuero crudo o **[cuero](/es/materials/leather)**. Cuando el cuero crudo húmedo se seca, se encoge, uniendo la madera firmemente y añadiendo una fuerza significativa.
 3.  **Mango**: Coloca un mango (madera o correa de cuero) en la parte central trasera.
 4.  **Umbo (Opcional)**: Añade una cúpula de metal o madera dura (umbo) en el centro para proteger la mano y desviar golpes.
 
 ## Materiales necesarios
 
 - **Base**: Madera (tablones o contrachapado), Mimbre.
-- **Cubierta**: Cuero crudo, Cuero.
+- **Cubierta**: Cuero crudo, **[Cuero](/es/materials/leather)**.
 - **Unión**: Pegamento (pegamento de queso, cola animal), clavos o refuerzo de borde (metal/cuero).
-- **Mango**: Madera, Cuero.
+- **Mango**: Madera, **[Cuero](/es/materials/leather)**.
 
 ## Variantes y mejoras
 

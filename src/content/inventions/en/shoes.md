@@ -22,16 +22,19 @@ Shoes provide a durable barrier (sole) between the foot and the ground, distribu
 ## How to create it
 
 ### Simple Sandals (Plant Fiber/Leather)
+
 1.  **Sole:** Cut a piece of thick leather or weave tough plant fibers (yucca, straw) to the shape of the foot.
 2.  **Straps:** Attach thongs or cords to the sole (between toes, around ankle) to hold it in place.
 
 ### Moccasins/Simple Shoes (Leather)
+
 1.  **Pattern:** Cut a single large piece of soft leather. The foot is placed in the center.
 2.  **Forming:** Gather the leather up around the foot.
 3.  **Stitching:** Sew the edges together along the top or heel using an awl and sinew/thread.
 4.  **Fitting:** Use a drawstring around the ankle for a tight fit.
 
 ### Complex Shoes (Sole + Upper)
+
 1.  **Lasting:** Carve a wooden form (last) shaped like a foot.
 2.  **Sole:** Cut a thick, durable sole (hard leather, wood, tire tread).
 3.  **Upper:** Cut and sew softer leather pieces to form the upper shell.
@@ -39,8 +42,8 @@ Shoes provide a durable barrier (sole) between the foot and the ground, distribu
 
 ## Materials needed
 
-- **Sole:** Thick leather (hide), Wood, Bark, Rubber.
-- **Upper:** Soft leather, Fabric, Felt.
+- **Sole:** Thick **[leather](/en/materials/leather)** (hide), Wood, Bark, Rubber.
+- **Upper:** Soft **[leather](/en/materials/leather)**, Fabric, Felt.
 - **Fasteners:** Laces (cord), Buckles, Buttons.
 - **Tools:** Awl, Needle, Knife, Last (for advanced shoes).
 

@@ -10,7 +10,7 @@ Un raspador es una herramienta de piedra unifacial (trabajada principalmente por
 
 ## Uso / Función
 
-- **Procesamiento de pieles:** Eliminar la carne y la grasa de las pieles de animales (descarnado) y suavizarlas para la producción de cuero.
+- **Procesamiento de pieles:** Eliminar la carne y la grasa de las pieles de animales (descarnado) y suavizarlas para la producción de **[Cuero](/es/materials/leather)** (parte del **[Curtido](/es/inventions/curtido)**).
 - **Trabajo de la madera:** Dar forma a ejes de madera para lanzas o flechas, y alisar superficies.
 - **Procesamiento de fibras:** Pelar cortezas o procesar fibras vegetales para cuerdas.
 

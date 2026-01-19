@@ -32,7 +32,7 @@ The printing press operates on several key principles:
 - **Step 2: Create the Type:** Cast individual letters in molds using type metal alloy.
 - **Step 3: Prepare the Ink:** Mix soot or charcoal with linseed oil and resin to create a thick, tacky ink.
 - **Step 4: Setting the Type:** Arrange the characters in a "chase" (a metal frame) to form the page of text.
-- **Step 5: Printing:** Apply ink to the type using leather ink balls, place the paper on top, and use the press to apply pressure.
+- **Step 5: Printing:** Apply ink to the type using **[leather](/en/materials/leather)** ink balls, place the paper on top, and use the press to apply pressure.
 
 ## Materials needed
 
@@ -40,7 +40,7 @@ The printing press operates on several key principles:
 - **Type:** Lead, Tin, and Antimony alloy.
 - **Surface:** Paper or Parchment.
 - **Ink:** Linseed oil, Charcoal/Soot, and Resin.
-- **Tools:** Type molds, leather ink balls, composing sticks, and chases.
+- **Tools:** Type molds, **[leather](/en/materials/leather)** ink balls, composing sticks, and chases.
 
 ## Variants and improvements
 

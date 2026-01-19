@@ -40,7 +40,7 @@ The bristles hold the liquid (paint/ink) through capillary action and surface te
 - **Essential materials**:
   - Bristles: Animal hair (horse, hog, badger, sable), plant fibers (sisal, coconut), or synthetic.
   - Handle: Wood, bamboo, bone.
-  - Binding: String, wire, leather strip.
+  - Binding: String, wire, **[leather](/en/materials/leather)** strip.
 - **Tools**: Knife, scissors (for trimming base, not tips), [Glue](../../materials/en/glue.md)/[Resin](../../materials/en/resin.md).
 
 ## Variants and improvements

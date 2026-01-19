@@ -10,7 +10,7 @@ A scraper is a unifacial stone tool (worked primarily on one side) designed with
 
 ## Use / Function
 
-- **Hide Processing:** Removing flesh and fat from animal skins (fleshing) and softening them for leather production.
+- **Hide Processing:** Removing flesh and fat from animal skins (fleshing) and softening them for **[Leather](/en/materials/leather)** production (part of **[Tanning](/en/inventions/tanning)**).
 - **Woodworking:** Shaping wooden shafts for spears or arrows, and smoothing surfaces.
 - **Fiber Processing:** Stripping bark or processing plant fibers for cordage.
 

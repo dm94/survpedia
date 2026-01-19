@@ -19,14 +19,14 @@ The sling works by extending the length of the human arm, allowing the stone to 
 
 ## How to create it
 
-1.  **Cords**: Braid two lengths of strong cord from plant fibers (hemp, flax) or cut leather strips. One cord should have a loop for a finger, the other a knot or tab for gripping.
-2.  **Pouch**: Create a pouch in the center to hold the stone. This can be a wider piece of leather or a split/woven section of the cords.
+1.  **Cords**: Braid two lengths of strong cord from plant fibers (hemp, flax) or cut **[leather](/en/materials/leather)** strips. One cord should have a loop for a finger, the other a knot or tab for gripping.
+2.  **Pouch**: Create a pouch in the center to hold the stone. This can be a wider piece of **[leather](/en/materials/leather)** or a split/woven section of the cords.
 3.  **Assembly**: Sew or tie the cords securely to the pouch. Total length is usually from chest to ground or arm's length.
 
 ## Materials needed
 
-- **Cordage**: Plant fibers, leather strips, or wool.
-- **Pouch Material**: Leather, heavy fabric, or woven fibers.
+- **Cordage**: Plant fibers, **[leather](/en/materials/leather)** strips, or wool.
+- **Pouch Material**: **[Leather](/en/materials/leather)**, heavy fabric, or woven fibers.
 - **Ammunition**: Smooth, round stones (river rocks) or molded clay/lead bullets.
 
 ## Variants and improvements

@@ -23,12 +23,12 @@ The bow functions as a spring. As the archer draws the string back, energy is st
 1.  **Stave Selection**: Find a piece of wood that is flexible but strong (e.g., yew, ash, hickory, or elm). It should be about the height of the archer.
 2.  **Shaping**: Remove bark. Carve the belly (the side facing the archer) flat and leave the back (the side facing away) natural (following a single growth ring is best). Taper the limbs towards the ends so they bend evenly.
 3.  **Nocking**: Cut small grooves (nocks) at both ends of the stave to hold the string.
-4.  **Stringing**: Twist plant fibers, sinew, or rawhide to create a strong cord. Loop it over the nocks. The string should be shorter than the bow to maintain tension.
+4.  **Stringing**: Twist plant fibers, sinew, or **[rawhide](/en/materials/leather)** to create a strong cord. Loop it over the nocks. The string should be shorter than the bow to maintain tension.
 
 ## Materials needed
 
 - **Wood**: Flexible and resilient (e.g., Yew, Ash, Elm, Hickory).
-- **String Material**: Plant fibers (hemp, linen), animal sinew, or rawhide strips.
+- **String Material**: Plant fibers (hemp, linen), animal sinew, or **[rawhide](/en/materials/leather)** strips.
 - **Tools**: Knife, scraper, stone for sanding.
 
 ## Variants and improvements

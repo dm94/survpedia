@@ -22,7 +22,7 @@ Crean una barrera física que agrupa elementos dispersos y, en el caso de líqui
 ## Cómo crearlo
 
 - **Cestería:** Entrelazar fibras vegetales flexibles para crear una estructura rígida o semirrígida.
-- **Sacos:** Coser piezas de cuero o tela.
+- **Sacos:** Coser piezas de **[Cuero](/es/materials/leather)** o tela.
 - **Vasijas:** Moldear arcilla y cocerla para lograr impermeabilidad y resistencia térmica.
 - **Nivel técnico:** Básico a Intermedio.
 

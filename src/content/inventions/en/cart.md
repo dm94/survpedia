@@ -26,7 +26,7 @@ The cart utilizes the wheel and axle to reduce friction.
 2.  **Axle Mounting:** Securely attach the axle (see [Axle](/en/inventions/axle)) to the underside of the frame.
 3.  **Wheel Attachment:** Mount the wheels (see [Wheel](/en/inventions/wheel)) onto the axle.
 4.  **Shafts/Tongue:** Attach two long shafts (for a single animal) or a central tongue (for pairs) to the front of the frame.
-5.  **Harnessing:** Use leather or rope to connect the shafts to the animal.
+5.  **Harnessing:** Use **[leather](/en/materials/leather)** or rope to connect the shafts to the animal.
 
 ## Materials needed
 

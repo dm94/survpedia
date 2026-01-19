@@ -22,7 +22,7 @@ They create a physical barrier that groups dispersed elements and, in the case o
 ## How to create it
 
 - **Basketry:** Interweaving flexible plant fibers (plant-fibers) to create a rigid or semi-rigid structure.
-- **Sacks:** Sewing pieces of leather or fabric together.
+- **Sacks:** Sewing pieces of **[Leather](/en/materials/leather)** or fabric together.
 - **Vessels:** Shaping clay and firing it to achieve impermeability and thermal resistance.
 - **Technical level:** Basic to Intermediate.
 

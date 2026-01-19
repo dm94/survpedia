@@ -19,6 +19,7 @@ Una bomba es un dispositivo mecánico diseñado para mover fluidos (líquidos o 
 ## Principio de funcionamiento
 
 Las bombas suelen utilizar energía para crear una diferencia de presión (succión o presión positiva).
+
 1.  **Succión:** Creación de un vacío parcial para que la presión atmosférica empuje el fluido hacia la cámara.
 2.  **Desplazamiento:** Empujar físicamente el fluido fuera de la cámara.
 3.  **Válvulas de retención:** Aletas que permiten el flujo en una sola dirección, evitando el reflujo.
@@ -26,21 +27,22 @@ Las bombas suelen utilizar energía para crear una diferencia de presión (succi
 ## Cómo crearlo
 
 **Bomba de pistón simple:**
+
 1.  **Cilindro:** Un tubo hueco (madera o metal).
-2.  **Pistón:** Un tapón que encaja ajustadamente dentro del cilindro (a menudo envuelto en cuero para sellar).
-3.  **Válvulas:** Dos válvulas unidireccionales (aletas de cuero). Una en la entrada (fondo) y otra en el propio pistón.
+2.  **Pistón:** Un tapón que encaja ajustadamente dentro del cilindro (a menudo envuelto en **[cuero](/es/materials/leather)** para sellar).
+3.  **Válvulas:** Dos válvulas unidireccionales (aletas de **[cuero](/es/materials/leather)**). Una en la entrada (fondo) y otra en el propio pistón.
 4.  **Mecanismo:** Una manivela o palanca para mover el pistón hacia arriba y hacia abajo.
-    - *Carrera ascendente:* La válvula de entrada se abre, el agua es succionada. La válvula del pistón se cierra.
-    - *Carrera descendente:* La válvula de entrada se cierra, la válvula del pistón se abre, permitiendo que el agua pase por encima del pistón.
-    - *Siguiente carrera ascendente:* Eleva el agua sobre el pistón hacia la salida mientras succiona nueva agua debajo.
+    - _Carrera ascendente:_ La válvula de entrada se abre, el agua es succionada. La válvula del pistón se cierra.
+    - _Carrera descendente:_ La válvula de entrada se cierra, la válvula del pistón se abre, permitiendo que el agua pase por encima del pistón.
+    - _Siguiente carrera ascendente:_ Eleva el agua sobre el pistón hacia la salida mientras succiona nueva agua debajo.
 
 ## Materiales necesarios
 
 - **Cuerpo:** Tronco ahuecado o tubo de metal fundido.
 - **Pistón:** Tapón de madera o metal.
-- **Sellos:** **Cuero** o trapos engrasados para asegurar un ajuste hermético.
-- **Válvulas:** Aletas de **cuero** o válvulas de bola simples (bola de piedra/metal).
-- **Lubricante:** **Grasa animal** para reducir la fricción y mejorar el sellado.
+- **Sellos:** **[Cuero](/es/materials/leather)** o trapos engrasados para asegurar un ajuste hermético.
+- **Válvulas:** Aletas de **[cuero](/es/materials/leather)** o válvulas de bola simples (bola de piedra/metal).
+- **Lubricante:** **[Grasa animal](/es/materials/animal-fat)** para reducir la fricción y mejorar el sellado.
 
 ## Variantes y mejoras
 

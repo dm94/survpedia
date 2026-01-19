@@ -35,9 +35,9 @@ La sal suele aparecer como cristales blancos o transparentes. Tiene un sabor "sa
 
 ### Formas comunes de uso
 
-- Sal gruesa: Para curado y uso industrial.
-- Sal fina: Para sazonar.
-- Salmuera: Sal disuelta en agua para encurtidos y preservación.
+- **Sal gruesa:** Para curado (carne, **[pieles](/es/inventions/curtido)**) y uso industrial.
+- **Sal fina:** Para sazonar.
+- **Salmuera:** Sal disuelta en agua para encurtidos y preservación.
 
 ### Posibles sustitutos
 

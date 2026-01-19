@@ -20,7 +20,7 @@ El trineo funciona distribuyendo el peso de la carga sobre un área de superfici
 
 - **Patines:** Tiras estrechas (esquíes) que reducen el área de contacto, minimizando la fricción en hielo duro o nieve compactada.
 - **Fondo Plano (Tobogán):** Maximiza el área de superficie para "flotar" sobre nieve profunda y blanda, evitando que el vehículo se hunda.
-- **Amarres:** Los trineos tradicionales utilizan amarres flexibles ([cuerda](/es/inventions/rope), cuero) en lugar de clavos rígidos. Esto permite que el trineo se flexione y tuerza sobre terreno irregular sin romperse.
+- **Amarres:** Los trineos tradicionales utilizan amarres flexibles ([cuerda](/es/inventions/rope), **[cuero](/es/materials/leather)**) en lugar de clavos rígidos. Esto permite que el trineo se flexione y tuerza sobre terreno irregular sin romperse.
 
 ## Cómo crearlo
 
@@ -29,7 +29,7 @@ El trineo funciona distribuyendo el peso de la carga sobre un área de superfici
 1.  **Patines:** Selecciona dos postes o tablones largos y resistentes. Si se usa madera, se pueden doblar al vapor en la parte delantera para deslizarse sobre obstáculos.
 2.  **Calzado (Opcional):** Coloca hueso, asta o una capa de barro/hielo congelado en la parte inferior de los patines para reducir la fricción y proteger la madera.
 3.  **Travesaños:** Coloca piezas de madera transversales sobre los patines.
-4.  **Amarre:** Ata los travesaños a los patines usando [cuerda](/es/inventions/rope) o cuero crudo. _No_ uses uniones rígidas (clavos/tornillos) si vas a atravesar terreno irregular; la flexibilidad es clave.
+4.  **Amarre:** Ata los travesaños a los patines usando [cuerda](/es/inventions/rope) o **[cuero crudo](/es/materials/leather)**. _No_ uses uniones rígidas (clavos/tornillos) si vas a atravesar terreno irregular; la flexibilidad es clave.
 5.  **Plataforma:** Añade una plataforma de listones o piel sobre los travesaños para sostener la carga.
 
 ## Materiales necesarios

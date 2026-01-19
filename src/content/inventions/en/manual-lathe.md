@@ -40,7 +40,7 @@ The workpiece is held between two points (headstock and tailstock) or on a facep
 
 - **Frame:** Sturdy wood (oak, beech).
 - **Centers:** Hardened iron or steel spikes (essential for reducing friction and wear).
-- **Drive:** Rope (leather or fiber).
+- **Drive**: Rope ([leather](/en/materials/leather) or fiber).
 - **Spring:** Flexible wood pole or bungee.
 - **Cutting Tools:** Chisels made of hardened steel or iron.
 

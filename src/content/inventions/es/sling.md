@@ -19,14 +19,14 @@ La honda funciona extendiendo la longitud del brazo humano, permitiendo que la p
 
 ## Cómo crearlo
 
-1.  **Cuerdas**: Trenza dos longitudes de cuerda fuerte de fibras vegetales (cáñamo, lino) o corta tiras de cuero. Una cuerda debe tener un bucle para un dedo, la otra un nudo o pestaña para agarrar.
-2.  **Bolsa**: Crea una bolsa en el centro para sostener la piedra. Esto puede ser una pieza más ancha de cuero o una sección dividida/tejida de las cuerdas.
+1.  **Cuerdas**: Trenza dos longitudes de cuerda fuerte de fibras vegetales (cáñamo, lino) o corta tiras de **[cuero](/es/materials/leather)**. Una cuerda debe tener un bucle para un dedo, la otra un nudo o pestaña para agarrar.
+2.  **Bolsa**: Crea una bolsa en el centro para sostener la piedra. Esto puede ser una pieza más ancha de **[cuero](/es/materials/leather)** o una sección dividida/tejida de las cuerdas.
 3.  **Ensamblaje**: Cose o ata las cuerdas de forma segura a la bolsa. La longitud total suele ser desde el pecho hasta el suelo o la longitud del brazo.
 
 ## Materiales necesarios
 
-- **Cordaje**: Fibras vegetales, tiras de cuero o lana.
-- **Material de la bolsa**: Cuero, tela gruesa o fibras tejidas.
+- **Cordaje**: Fibras vegetales, tiras de **[cuero](/es/materials/leather)** o lana.
+- **Material de la bolsa**: **[Cuero](/es/materials/leather)**, tela gruesa o fibras tejidas.
 - **Munición**: Piedras redondas y lisas (rocas de río) o balas de arcilla/plomo moldeadas.
 
 ## Variantes y mejoras

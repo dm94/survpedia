@@ -40,7 +40,7 @@ La imprenta funciona sobre la base de varios principios clave:
 - **Tipos:** Aleación de Plomo, Estaño y Antimonio.
 - **Soporte:** Papel o Pergamino.
 - **Tinta:** Aceite de linaza, Carbón/Hollín y Resina.
-- **Herramientas:** Moldes de tipos, balas de tinta de cuero, componedores y ramas.
+- **Herramientas:** Moldes de tipos, balas de tinta de **[cuero](/es/materials/leather)**, componedores y ramas.
 
 ## Variantes y mejoras
 
