@@ -26,6 +26,20 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 - Secado/Curado: Secar la madera para eliminar la humedad y evitar que se tuerza o se pudra.
 - Modelado: Serrado en tablones o tallado en formas.
 
+### Selección y corte
+
+- Especie: Maderas duras para estructuras y herramientas; blandas para combustible o tallas rápidas.
+- Estado: Evitar troncos con pudrición, hongos visibles o demasiados nudos.
+- Dirección de corte: Cortes rectos y paralelos a la veta reducen grietas.
+- Temporada: Cortes en épocas secas reducen humedad y plagas.
+
+### Secado y curado eficientes
+
+- Apilado con separadores para permitir flujo de aire.
+- Protección contra lluvia directa, sin encerrar completamente.
+- Sellado de extremos con resina o barro para reducir rajaduras.
+- Rotación y control de deformaciones durante el secado.
+
 ### Herramientas necesarias para trabajarla
 
 - Hachas y sierras para la tala y el corte.
@@ -38,6 +52,18 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 - Cruda: Como leña o postes estructurales simples.
 - Procesada: Madera, tablones y vigas para la construcción.
 - Combinada: Con pegamentos o sujetadores para crear estructuras complejas.
+
+### Conservación y protección
+
+- Elevar del suelo para evitar humedad y termitas.
+- Carbonizado superficial para resistencia a insectos y agua.
+- Aceites y resinas para sellar superficies expuestas.
+- Ventilación constante en almacenes para evitar moho.
+
+### Uniones y fijaciones básicas
+
+- Ensambles: Espiga y mortaja, cola de milano, media madera.
+- Fijaciones: Clavijas de madera, cuñas, cuerdas y pegamentos naturales.
 
 ### Posibles sustitutos
 

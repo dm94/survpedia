@@ -2,8 +2,22 @@
 title: "Agua"
 formula: "H2O"
 composition: ["hydrogen", "oxygen"]
-properties: ["Líquida a temperatura ambiente", "Solvente universal", "Incolora", "Inodora"]
-uses: ["Consumo humano", "Agricultura", "Industria", "Enfriamiento", "Energía motriz", "Curtido"]
+properties:
+  [
+    "Líquida a temperatura ambiente",
+    "Solvente universal",
+    "Incolora",
+    "Inodora",
+  ]
+uses:
+  [
+    "Consumo humano",
+    "Agricultura",
+    "Industria",
+    "Enfriamiento",
+    "Energía motriz",
+    "Curtido",
+  ]
 naturalAvailability: true
 manufacturingProcess: "Se encuentra naturalmente en océanos, ríos y lagos. Puede sintetizarse quemando hidrógeno en presencia de oxígeno."
 category: "other"
@@ -40,6 +54,29 @@ En su estado líquido, el agua fluye y toma la forma de su recipiente. También 
 - Cruda: Para lavado y enfriamiento básico.
 - Purificada: Para beber y cocinar.
 - Vapor: Para la generación de energía y esterilización.
+
+### Calidad y potabilidad
+
+- Claridad y olor: El agua turbia u olorosa requiere tratamiento completo.
+- Sedimentación: Dejar reposar para que partículas sólidas se depositen.
+- Filtrado múltiple: Tela, arena y carbón vegetal para mejorar la limpieza.
+- Desinfección: Hervido, exposición solar en recipientes transparentes o tratamiento químico cuando esté disponible.
+- Separación: Mantener el agua potable aislada de la no potable.
+
+### Almacenamiento y conservación
+
+- Recipientes limpios con tapa para evitar recontaminación.
+- Priorizar cerámica vidriada, vidrio o materiales inertes.
+- Evitar contacto con metales reactivos o recipientes corroídos.
+- Ubicación fresca y sombreada para reducir algas y evaporación.
+- Rotación: Consumir primero el agua almacenada más antigua.
+
+### Usos críticos para reconstrucción
+
+- Salud pública: Higiene básica, limpieza de heridas y control de enfermedades.
+- Procesos industriales: Enfriamiento, lavado de fibras, fabricación de cal y morteros.
+- Energía y mecánica: Vapor, molinos hidráulicos, transporte fluvial.
+- Alimentos: Cocción, fermentación y conservación.
 
 ### Posibles sustitutos
 

@@ -34,6 +34,24 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 - Hornos para cocer y endurecer.
 - Cortadores de alambre para rebanar.
 
+### Pruebas rápidas de calidad
+
+- Prueba de rollo: Hacer un cilindro fino y curvarlo; si se rompe fácilmente, necesita más plasticidad.
+- Prueba de lámina: Aplastar una pieza; si se agrieta en los bordes, hay exceso de arena o falta de humedad.
+- Prueba de frasco: Mezclar con agua, agitar y dejar reposar hasta que se separen capas para ver proporciones de arena y limo.
+
+### Mejoras y mezclas útiles
+
+- Desgrasantes: Arena fina, chamota o ceniza para reducir contracción y grietas.
+- Fibras: Paja o pelo para adobes y revoques resistentes.
+- Aditivos: Ceniza o cal para modificar dureza y resistencia al agua.
+
+### Almacenamiento y conservación
+
+- Mantener la arcilla húmeda y cubierta para evitar secado desigual.
+- Guardar en bloques envueltos en tela o plástico reutilizable.
+- Evitar contaminación con raíces, hojas o sales.
+
 ### Formas comunes de uso
 
 - Cruda: Para construcciones sencillas de barro y paja (bahareque).
@@ -51,6 +69,7 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 - Agrietamiento: Ocurre si se seca demasiado rápido o de manera desigual.
 - Contracción: La arcilla pierde volumen al secarse y cocerse.
 - Daño por agua: La arcilla sin cocer se disolverá de nuevo en barro si se moja.
+- Cocción deficiente: Una quema irregular deja piezas frágiles o porosas.
 
 ### Riesgos y seguridad
 
