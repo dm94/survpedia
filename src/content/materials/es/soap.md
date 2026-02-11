@@ -58,7 +58,7 @@ El jabón sólido generalmente viene en barras o pastillas. Es resbaladizo cuand
 
 ### Materiales relacionados
 
-- **Grasa animal**: Ingrediente base común.
-- **Ceniza**: Fuente de álcali (lejía).
-- **Agua**: Solvente requerido para el proceso.
-- **Sal**: Utilizada para endurecer el jabón o separarlo de la glicerina.
+- **[Grasa animal](/es/materials/animal-fat)**: Ingrediente base común.
+- **[Ceniza](/es/materials/ash)**: Fuente de álcali (lejía).
+- **[Agua](/es/materials/water)**: Solvente requerido para el proceso.
+- **[Sal](/es/materials/salt)**: Utilizada para endurecer el jabón o separarlo de la glicerina.

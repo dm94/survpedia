@@ -64,5 +64,5 @@ Es un polvo gris o blanco, suave al tacto y muy ligero. Es alcalina (básica) y 
 
 - **Madera**: La fuente más común.
 - **Carbón vegetal**: A menudo se encuentra mezclado con ceniza.
-- **Jabón**: Hecho usando lejía derivada de la ceniza.
+- **[Jabón](/es/materials/soap)**: Hecho usando lejía derivada de la ceniza.
 - **Vidrio**: Algunos tipos de vidrio usan ceniza como fundente.

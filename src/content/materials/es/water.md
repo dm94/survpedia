@@ -100,4 +100,4 @@ En su estado líquido, el agua fluye y toma la forma de su recipiente. También 
 - Hielo: La forma sólida del agua.
 - Sal: A menudo se encuentra disuelta en el agua (agua de mar).
 - Arcilla: Se vuelve maleable cuando se mezcla con agua.
-- Jabón: Funciona con agua para limpiar.
+- **[Jabón](/es/materials/soap)**: Funciona con agua para limpiar.

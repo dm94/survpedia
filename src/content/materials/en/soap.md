@@ -58,7 +58,7 @@ Solid soap usually comes in bars or cakes. It is slippery when wet and produces 
 
 ### Related materials
 
-- **Animal Fat**: Common base ingredient.
-- **Ash**: Source of alkali (lye).
-- **Water**: Required solvent for the process.
-- **Salt**: Used to harden soap or separate it from glycerin.
+- **[Animal Fat](/en/materials/animal-fat)**: Common base ingredient.
+- **[Ash](/en/materials/ash)**: Source of alkali (lye).
+- **[Water](/en/materials/water)**: Required solvent for the process.
+- **[Salt](/en/materials/salt)**: Used to harden soap or separate it from glycerin.

@@ -59,4 +59,4 @@ La sal suele aparecer como cristales blancos o transparentes. Tiene un sabor "sa
 - Agua: El medio en el que a menudo se encuentra y se disuelve la sal.
 - Sodio: Uno de los elementos constitutivos.
 - Cloro: El otro elemento constitutivo.
-- Jabón: La sal se usa en el proceso de fabricación de jabón para separar el jabón de la glicerina.
+- **[Jabón](/es/materials/soap)**: La sal se usa en el proceso de fabricación de jabón para separar el jabón de la glicerina.
