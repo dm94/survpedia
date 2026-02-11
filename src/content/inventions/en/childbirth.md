@@ -1,18 +1,17 @@
 ---
-title: "Childbirth"
+title: Childbirth
 materialsUsed:
-  [
-    "water",
-    "soap",
-    "cotton",
-    "fabric",
-    "surgical-thread",
-    "plant-fibers",
-    "alcohol",
-    "beeswax",
-    "animal-fat",
-    "wood",
-  ]
+  - water
+  - soap
+  - cotton
+  - fabric
+  - surgical-thread
+  - plant-fibers
+  - alcohol
+  - beeswax
+  - animal-fat
+  - wood
+image: ../../../assets/images/inventions/childbirth.jpg
 ---
 
 # Brief description

@@ -1,6 +1,11 @@
 ---
-title: "Saw"
-materialsUsed: ["wood", "iron", "steel", "stone"]
+title: Saw
+materialsUsed:
+  - wood
+  - iron
+  - steel
+  - stone
+image: ../../../assets/images/inventions/saw.jpg
 ---
 
 # Brief description

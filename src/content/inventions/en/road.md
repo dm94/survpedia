@@ -1,6 +1,12 @@
 ---
-title: "Paved Road"
-materialsUsed: ["stone", "gravel", "sand", "concrete", "asphalt"]
+title: Paved Road
+materialsUsed:
+  - stone
+  - gravel
+  - sand
+  - concrete
+  - asphalt
+image: ../../../assets/images/inventions/road.jpg
 ---
 
 # Brief description

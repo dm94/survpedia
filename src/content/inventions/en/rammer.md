@@ -1,6 +1,10 @@
 ---
-title: "Rammer"
-materialsUsed: ["wood", "stone", "iron"]
+title: Rammer
+materialsUsed:
+  - wood
+  - stone
+  - iron
+image: ../../../assets/images/inventions/rammer.jpg
 ---
 
 # Brief description
