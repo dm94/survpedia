@@ -1,23 +1,26 @@
 ---
-title: "Dentistry"
+title: Dentistry
 relatedMaterials:
-  [
-    "water",
-    "salt",
-    "soap",
-    "alcohol",
-    "cotton",
-    "ash",
-    "charcoal",
-    "clay",
-    "toothpaste",
-    "surgical-thread",
-    "bone",
-    "wood",
-    "plant-fibers",
-  ]
+  - water
+  - salt
+  - soap
+  - alcohol
+  - cotton
+  - ash
+  - charcoal
+  - clay
+  - toothpaste
+  - surgical-thread
+  - bone
+  - wood
+  - plant-fibers
 relatedInventions:
-  ["toothbrush", "needle", "scalpel", "surgery-tools", "dental-filling"]
+  - toothbrush
+  - needle
+  - scalpel
+  - surgery-tools
+  - dental-filling
+image: ../../../assets/images/knowledge/dentistry.jpg
 ---
 
 # Brief description

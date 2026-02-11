@@ -65,6 +65,15 @@ Básico a intermedio. Un trabajo de parto seguro requiere higiene, observación 
 - **Kit estéril**: Paños y ataduras limpias para reducir infección.
 - **Equipo de apoyo**: Una persona para confort, otra para vigilancia.
 
+## Asistencia de emergencia
+
+- **Señales de alarma maternas**: Sangrado abundante, dolor continuo intenso, fiebre, olor fuerte en el líquido, desmayo o convulsiones.
+- **Señales de alarma del bebé**: No respira o no llora, color azulado o pálido persistente, tono muy débil.
+- **Acción inmediata**: Pedir ayuda, preparar traslado y mantener a la madre en posición lateral si está mareada.
+- **Control de sangrado externo**: Presión suave con paños limpios sin introducir manos ni instrumentos.
+- **Calor e hidratación**: Mantener abrigo y ofrecer líquidos si la madre puede beber.
+- **Recién nacido**: Secar, abrigar, despejar nariz y boca con paño limpio y estimular suavemente.
+
 ## Límites y riesgos
 
 - **Trabajo de parto prolongado**: Cansancio, deshidratación y más complicaciones.
@@ -78,5 +87,6 @@ Básico a intermedio. Un trabajo de parto seguro requiere higiene, observación 
 - **[Parto](/es/inventions/childbirth)**: Preparación y proceso completo del nacimiento.
 - **[Higiene básica](/es/knowledge/basic-hygiene)**: Prácticas limpias que reducen infección.
 - **[Anestesia](/es/knowledge/anesthesia)**: Control del dolor y sus riesgos.
+- **[Fracturas, quemaduras y heridas](/es/knowledge/fracturas-quemaduras-heridas)**: Atención básica de emergencia y control de sangrado.
 - **[Herramientas de cirugía](/es/inventions/surgery-tools)**: Instrumentos usados ante complicaciones.
 - **[Aguja](/es/inventions/needle)**: Usada para sutura cuando hay personal entrenado.

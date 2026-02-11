@@ -67,6 +67,15 @@ Basic to intermediate. Safe labor support requires hygiene, observation, and exp
 - **Sterile kit**: Pre-cleaned cloths and ties to reduce infection risk.
 - **Support team**: One person focused on comfort, one on monitoring.
 
+## Emergency assistance
+
+- **Maternal danger signs**: Heavy bleeding, continuous severe pain, fever, foul odor in fluids, fainting, or seizures.
+- **Newborn danger signs**: Not breathing or crying, persistent blue or pale color, very weak tone.
+- **Immediate action**: Call for help, prepare transfer, and keep the mother on her side if dizzy.
+- **External bleeding control**: Gentle pressure with clean cloths without inserting hands or tools.
+- **Warmth and fluids**: Keep both warm and offer fluids if the mother can drink.
+- **Newborn support**: Dry, warm, clear nose and mouth with a clean cloth, and stimulate gently.
+
 ## Limits and risks
 
 - **Prolonged labor**: Exhaustion, dehydration, and rising risk of complications.
@@ -80,5 +89,6 @@ Basic to intermediate. Safe labor support requires hygiene, observation, and exp
 - **[Childbirth](/en/inventions/childbirth)**: The full delivery process and preparation.
 - **[Basic Hygiene](/en/knowledge/basic-hygiene)**: Clean practices that reduce infection.
 - **[Anesthesia](/en/knowledge/anesthesia)**: Pain control options and risks.
+- **[Breaks, Burns & Wounds](/en/knowledge/breaks-burns-wounds)**: Emergency care fundamentals and bleeding control.
 - **[Surgery Tools](/en/inventions/surgery-tools)**: Instruments used if complications occur.
 - **[Needle](/en/inventions/needle)**: Used for suturing when trained help is present.

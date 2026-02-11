@@ -1,6 +1,9 @@
 ---
-title: "How to Identify Edible and Non-Edible Plants"
-relatedMaterials: ["water", "plant-fibers"]
+title: How to Identify Edible and Non-Edible Plants
+relatedMaterials:
+  - water
+  - plant-fibers
+image: ../../../assets/images/knowledge/identify-edible-plants.jpg
 ---
 
 # Brief description
