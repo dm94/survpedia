@@ -75,6 +75,7 @@ Basic to intermediate. Prevention is low tech; repairs and extractions require t
 
 - **[Basic Hygiene](/en/knowledge/basic-hygiene)**: Daily routines that prevent oral disease.
 - **[Tooth Structure](/en/knowledge/tooth-structure)**: Key layers and tissues for safe care.
+- **[Anesthesia](/en/knowledge/anesthesia)**: Pain control and safe procedure support.
 - **[Toothbrush](/en/inventions/toothbrush)**: Primary tool for plaque control.
 - **[Dental Filling](/en/inventions/dental-filling)**: Basic sealing of cavities and cracks.
 - **[Toothpaste](/en/materials/toothpaste)**: Mild abrasive and cleanser.

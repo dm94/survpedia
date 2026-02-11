@@ -74,6 +74,7 @@ Básico a intermedio. La prevención es de baja tecnología; reparaciones y extr
 
 - **[Higiene básica](/es/knowledge/basic-hygiene)**: Rutinas diarias que previenen enfermedad oral.
 - **[Estructura del diente](/es/knowledge/tooth-structure)**: Capas y tejidos clave para prevenir daño.
+- **[Anestesia](/es/knowledge/anesthesia)**: Control del dolor y apoyo a procedimientos seguros.
 - **[Cepillo de dientes](/es/inventions/toothbrush)**: Herramienta principal para controlar placa.
 - **[Empaste dental](/es/inventions/dental-filling)**: Sellado básico de cavidades y fisuras.
 - **[Pasta de dientes](/es/materials/toothpaste)**: Abrasivo suave y limpiador.

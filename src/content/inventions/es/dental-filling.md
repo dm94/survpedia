@@ -1,6 +1,7 @@
 ---
 title: "Empaste dental"
 materialsUsed: ["clay", "resin", "beeswax", "charcoal", "tin", "silver", "gold"]
+image: ../../../assets/images/inventions/dental-filling.jpg
 ---
 
 # Breve descripción
