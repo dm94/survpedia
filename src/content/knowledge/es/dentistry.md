@@ -16,7 +16,7 @@ relatedMaterials:
     "wood",
     "plant-fibers",
   ]
-relatedInventions: ["toothbrush", "needle", "scalpel", "surgery-tools"]
+relatedInventions: ["toothbrush", "needle", "scalpel", "surgery-tools", "dental-filling"]
 ---
 
 # Breve descripción
@@ -75,5 +75,6 @@ Básico a intermedio. La prevención es de baja tecnología; reparaciones y extr
 - **[Higiene básica](/es/knowledge/basic-hygiene)**: Rutinas diarias que previenen enfermedad oral.
 - **[Estructura del diente](/es/knowledge/tooth-structure)**: Capas y tejidos clave para prevenir daño.
 - **[Cepillo de dientes](/es/inventions/toothbrush)**: Herramienta principal para controlar placa.
+- **[Empaste dental](/es/inventions/dental-filling)**: Sellado básico de cavidades y fisuras.
 - **[Pasta de dientes](/es/materials/toothpaste)**: Abrasivo suave y limpiador.
 - **[Herramientas de cirugía](/es/inventions/surgery-tools)**: Para trabajo dental preciso cuando se requiere.

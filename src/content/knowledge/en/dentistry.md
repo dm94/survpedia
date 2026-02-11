@@ -16,7 +16,8 @@ relatedMaterials:
     "wood",
     "plant-fibers",
   ]
-relatedInventions: ["toothbrush", "needle", "scalpel", "surgery-tools"]
+relatedInventions:
+  ["toothbrush", "needle", "scalpel", "surgery-tools", "dental-filling"]
 ---
 
 # Brief description
@@ -75,5 +76,6 @@ Basic to intermediate. Prevention is low tech; repairs and extractions require t
 - **[Basic Hygiene](/en/knowledge/basic-hygiene)**: Daily routines that prevent oral disease.
 - **[Tooth Structure](/en/knowledge/tooth-structure)**: Key layers and tissues for safe care.
 - **[Toothbrush](/en/inventions/toothbrush)**: Primary tool for plaque control.
+- **[Dental Filling](/en/inventions/dental-filling)**: Basic sealing of cavities and cracks.
 - **[Toothpaste](/en/materials/toothpaste)**: Mild abrasive and cleanser.
 - **[Surgery Tools](/en/inventions/surgery-tools)**: For precise dental work when needed.
