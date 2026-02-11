@@ -1,7 +1,7 @@
 ---
 title: "Fuego controlado"
 image: ../../../assets/inventions/fire.jpg
-materialsUsed: ["wood", "charcoal", "flint"]
+materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers"]
 ---
 
 # Breve descripción
@@ -25,8 +25,10 @@ Se basa en el Triángulo del Fuego, que requiere tres componentes:
 
 ## Cómo crearlo
 
-- **Fricción:** Frotar dos maderas (taladro manual o de arco) hasta generar una brasa.
-- **Percusión:** Golpear una piedra de pedernal contra una pirita o acero para generar chispas.
+- **Fricción:** [Fuego por taladro manual](/es/inventions/hand-drill-fire), [Fuego con taladro de arco](/es/inventions/bow-drill-fire), [Arado de fuego](/es/inventions/fire-plow), [Sierra de fuego](/es/inventions/fire-saw).
+- **Percusión:** [Encendido con pedernal y pirita](/es/inventions/flint-and-pyrite).
+- **Compresión:** [Pistón de fuego](/es/inventions/fire-piston).
+- **Solar:** [Encendido solar](/es/inventions/solar-ignition).
 
 ## Materiales necesarios
 

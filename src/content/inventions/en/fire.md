@@ -1,7 +1,7 @@
 ---
 title: "Controlled Fire"
 image: ../../../assets/inventions/fire.jpg
-materialsUsed: ["wood", "charcoal", "flint"]
+materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers"]
 ---
 
 # Brief description
@@ -25,8 +25,10 @@ It is based on the Fire Triangle, which requires three components:
 
 ## How to create it
 
-- **Friction:** Rubbing two pieces of wood (hand or bow drill) until an ember is generated.
-- **Percussion:** Striking a flint stone against a pyrite or steel to generate sparks.
+- **Friction:** [Hand Drill Fire](/en/inventions/hand-drill-fire), [Bow Drill Fire](/en/inventions/bow-drill-fire), [Fire Plow](/en/inventions/fire-plow), [Fire Saw](/en/inventions/fire-saw).
+- **Percussion:** [Flint and Pyrite Ignition](/en/inventions/flint-and-pyrite).
+- **Compression:** [Fire Piston](/en/inventions/fire-piston).
+- **Solar:** [Solar Ignition](/en/inventions/solar-ignition).
 
 ## Materials needed
 
