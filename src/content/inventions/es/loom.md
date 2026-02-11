@@ -1,6 +1,10 @@
 ---
-title: "Telar"
-materialsUsed: ["wood", "yarn", "plant-fibers"]
+title: Telar
+materialsUsed:
+  - wood
+  - yarn
+  - plant-fibers
+image: ../../../assets/images/inventions/loom.jpg
 ---
 
 # Breve descripción

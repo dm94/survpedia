@@ -1,16 +1,15 @@
 ---
-title: "Torch"
+title: Torch
 materialsUsed:
-  [
-    "wood",
-    "resin",
-    "fabric",
-    "animal-fat",
-    "vegetable-oil",
-    "plant-fibers",
-    "beeswax",
-    "bitumen",
-  ]
+  - wood
+  - resin
+  - fabric
+  - animal-fat
+  - vegetable-oil
+  - plant-fibers
+  - beeswax
+  - bitumen
+image: ../../../assets/images/inventions/torch.jpg
 ---
 
 # Brief description

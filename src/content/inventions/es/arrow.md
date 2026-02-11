@@ -1,7 +1,13 @@
 ---
-title: "Flecha"
-
-materialsUsed: ["wood", "feather", "stone", "bone", "resin", "plant-fibers"]
+title: Flecha
+materialsUsed:
+  - wood
+  - feather
+  - stone
+  - bone
+  - resin
+  - plant-fibers
+image: ../../../assets/images/inventions/arrow.jpg
 ---
 
 # Breve descripción

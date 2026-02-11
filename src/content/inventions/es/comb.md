@@ -1,6 +1,9 @@
 ---
-title: "Peine"
-materialsUsed: ["wood", "bone"]
+title: Peine
+materialsUsed:
+  - wood
+  - bone
+image: ../../../assets/images/inventions/comb.jpg
 ---
 
 # Breve descripción

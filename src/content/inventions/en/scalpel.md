@@ -1,7 +1,9 @@
 ---
-title: "Scalpel"
-
-materialsUsed: ["steel", "stone-knife"]
+title: Scalpel
+materialsUsed:
+  - steel
+  - stone-knife
+image: ../../../assets/images/inventions/scalpel.jpg
 ---
 
 # Brief description

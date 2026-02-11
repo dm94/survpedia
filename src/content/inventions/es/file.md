@@ -1,6 +1,9 @@
 ---
-title: "Lima"
-materialsUsed: ["steel", "iron"]
+title: Lima
+materialsUsed:
+  - steel
+  - iron
+image: ../../../assets/images/inventions/file.jpg
 ---
 
 # Breve descripción

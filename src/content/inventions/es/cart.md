@@ -1,6 +1,10 @@
 ---
-title: "Carro"
-materialsUsed: ["wood", "iron", "leather"]
+title: Carro
+materialsUsed:
+  - wood
+  - iron
+  - leather
+image: ../../../assets/images/inventions/cart.jpg
 ---
 
 # Breve descripción

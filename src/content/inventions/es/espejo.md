@@ -1,6 +1,11 @@
 ---
-title: "Espejo"
-materialsUsed: ["glass", "silver", "tin", "copper"]
+title: Espejo
+materialsUsed:
+  - glass
+  - silver
+  - tin
+  - copper
+image: ../../../assets/images/inventions/espejo.jpg
 ---
 
 # Breve descripción

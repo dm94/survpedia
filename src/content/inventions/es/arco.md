@@ -1,6 +1,12 @@
 ---
-title: "Arco"
-materialsUsed: ["stone", "brick", "concrete", "mortar", "wood"]
+title: Arco
+materialsUsed:
+  - stone
+  - brick
+  - concrete
+  - mortar
+  - wood
+image: ../../../assets/images/inventions/arco.jpg
 ---
 
 # Breve descripción

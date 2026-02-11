@@ -1,6 +1,9 @@
 ---
-title: "Arado de fuego"
-materialsUsed: ["wood", "plant-fibers"]
+title: Arado de fuego
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/fire-plow.jpg
 ---
 
 # Breve descripción

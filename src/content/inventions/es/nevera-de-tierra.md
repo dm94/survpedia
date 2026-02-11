@@ -1,6 +1,11 @@
 ---
-title: "Nevera de tierra"
-materialsUsed: ["clay", "sand", "water", "fabric"]
+title: Nevera de tierra
+materialsUsed:
+  - clay
+  - sand
+  - water
+  - fabric
+image: ../../../assets/images/inventions/nevera-de-tierra.jpg
 ---
 
 # Descripción breve

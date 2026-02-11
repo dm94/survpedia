@@ -1,7 +1,9 @@
 ---
-title: "Scraper"
-
-materialsUsed: ["flint", "stone"]
+title: Scraper
+materialsUsed:
+  - flint
+  - stone
+image: ../../../assets/images/inventions/scraper.jpg
 ---
 
 # Brief description

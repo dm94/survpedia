@@ -1,6 +1,10 @@
 ---
-title: "Broca"
-materialsUsed: ["steel", "iron", "flint"]
+title: Broca
+materialsUsed:
+  - steel
+  - iron
+  - flint
+image: ../../../assets/images/inventions/drill-bit.jpg
 ---
 
 # Breve descripción

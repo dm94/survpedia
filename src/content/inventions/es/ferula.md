@@ -1,6 +1,12 @@
 ---
-title: "Férula"
-materialsUsed: ["wood", "fabric", "plant-fibers", "leather", "bone"]
+title: Férula
+materialsUsed:
+  - wood
+  - fabric
+  - plant-fibers
+  - leather
+  - bone
+image: ../../../assets/images/inventions/ferula.jpg
 ---
 
 # Breve descripción

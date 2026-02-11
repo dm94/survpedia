@@ -1,6 +1,11 @@
 ---
-title: "Spinning Wheel"
-materialsUsed: ["wood", "leather", "iron", "animal-fat"]
+title: Spinning Wheel
+materialsUsed:
+  - wood
+  - leather
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/spinning-wheel.jpg
 ---
 
 # Brief description

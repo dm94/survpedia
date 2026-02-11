@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - hormigon
   - clay
+image: ../../../assets/images/inventions/passive-ventilation.jpg
 ---
 
 La ventilación pasiva es el proceso de suministrar y extraer aire de un espacio interior sin utilizar sistemas mecánicos (como ventiladores o aire acondicionado). Aprovecha las fuerzas naturales, como el viento y las diferencias de temperatura, para renovar el aire y enfriar los espacios.

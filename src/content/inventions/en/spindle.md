@@ -1,6 +1,10 @@
 ---
-title: "Spindle"
-materialsUsed: ["wood", "clay", "stone"]
+title: Spindle
+materialsUsed:
+  - wood
+  - clay
+  - stone
+image: ../../../assets/images/inventions/spindle.jpg
 ---
 
 # Brief description

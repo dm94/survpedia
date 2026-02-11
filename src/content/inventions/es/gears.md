@@ -1,7 +1,12 @@
 ---
-title: "Engranajes"
-
-materialsUsed: ["wood", "bronze", "iron", "steel", "animal-fat"]
+title: Engranajes
+materialsUsed:
+  - wood
+  - bronze
+  - iron
+  - steel
+  - animal-fat
+image: ../../../assets/images/inventions/gears.jpg
 ---
 
 # Breve descripción

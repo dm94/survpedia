@@ -1,6 +1,11 @@
 ---
-title: "Truss"
-materialsUsed: ["wood", "steel", "iron", "mechanical-joints"]
+title: Truss
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - mechanical-joints
+image: ../../../assets/images/inventions/truss.jpg
 ---
 
 # Brief description

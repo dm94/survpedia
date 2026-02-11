@@ -1,6 +1,11 @@
 ---
-title: "Pincel"
-materialsUsed: ["madera", "pelo-animal", "cuerda", "pegamento"]
+title: Pincel
+materialsUsed:
+  - madera
+  - pelo-animal
+  - cuerda
+  - pegamento
+image: ../../../assets/images/inventions/pincel.jpg
 ---
 
 # Breve descripción

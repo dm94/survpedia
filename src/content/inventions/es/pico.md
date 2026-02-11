@@ -1,6 +1,11 @@
 ---
-title: "Pico"
-materialsUsed: ["wood", "iron", "stone", "bone"]
+title: Pico
+materialsUsed:
+  - wood
+  - iron
+  - stone
+  - bone
+image: ../../../assets/images/inventions/pico.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,9 @@
 ---
-title: "Sierra de fuego"
-materialsUsed: ["wood", "plant-fibers"]
+title: Sierra de fuego
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/fire-saw.jpg
 ---
 
 # Breve descripción

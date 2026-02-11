@@ -1,6 +1,11 @@
 ---
-title: "Window"
-materialsUsed: ["glass", "wood", "iron", "stone"]
+title: Window
+materialsUsed:
+  - glass
+  - wood
+  - iron
+  - stone
+image: ../../../assets/images/inventions/window.jpg
 ---
 
 # Brief description

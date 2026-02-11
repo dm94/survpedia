@@ -1,7 +1,11 @@
 ---
-title: "Arco"
-
-materialsUsed: ["wood", "plant-fibers", "leather", "resin"]
+title: Arco
+materialsUsed:
+  - wood
+  - plant-fibers
+  - leather
+  - resin
+image: ../../../assets/images/inventions/bow.jpg
 ---
 
 # Breve descripción

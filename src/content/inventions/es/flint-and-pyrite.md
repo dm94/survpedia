@@ -1,6 +1,10 @@
 ---
-title: "Encendido con pedernal y pirita"
-materialsUsed: ["flint", "pyrite", "plant-fibers"]
+title: Encendido con pedernal y pirita
+materialsUsed:
+  - flint
+  - pyrite
+  - plant-fibers
+image: ../../../assets/images/inventions/flint-and-pyrite.jpg
 ---
 
 # Breve descripción

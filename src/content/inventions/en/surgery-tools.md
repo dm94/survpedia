@@ -1,7 +1,13 @@
 ---
-title: "Surgery Tools"
+title: Surgery Tools
 materialsUsed:
-  ["steel", "alcohol", "cotton", "surgical-thread", "soap", "water"]
+  - steel
+  - alcohol
+  - cotton
+  - surgical-thread
+  - soap
+  - water
+image: ../../../assets/images/inventions/surgery-tools.jpg
 ---
 
 # Brief description

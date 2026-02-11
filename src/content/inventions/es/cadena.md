@@ -1,6 +1,9 @@
 ---
-title: "Cadena"
-materialsUsed: ["iron", "steel"]
+title: Cadena
+materialsUsed:
+  - iron
+  - steel
+image: ../../../assets/images/inventions/cadena.jpg
 ---
 
 Una cadena es una serie de eslabones conectados que suelen estar hechos de metal. Existen principalmente dos estilos: las diseñadas para levantar/tirar (cadena de eslabones) y las diseñadas para transmitir potencia en máquinas (cadena de rodillos).

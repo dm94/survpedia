@@ -1,6 +1,11 @@
 ---
-title: "Vela (Iluminación)"
-materialsUsed: ["beeswax", "animal-fat", "plant-fibers", "cotton"]
+title: Vela (Iluminación)
+materialsUsed:
+  - beeswax
+  - animal-fat
+  - plant-fibers
+  - cotton
+image: ../../../assets/images/inventions/candle.jpg
 ---
 
 # Breve descripción

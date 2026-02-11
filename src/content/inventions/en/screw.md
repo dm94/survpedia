@@ -1,7 +1,11 @@
 ---
-title: "Screw"
-
-materialsUsed: ["wood", "iron", "bronze", "steel"]
+title: Screw
+materialsUsed:
+  - wood
+  - iron
+  - bronze
+  - steel
+image: ../../../assets/images/inventions/screw.jpg
 ---
 
 # Brief description

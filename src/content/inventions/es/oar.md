@@ -1,6 +1,8 @@
 ---
-title: "Remo"
-materialsUsed: ["wood"]
+title: Remo
+materialsUsed:
+  - wood
+image: ../../../assets/images/inventions/oar.jpg
 ---
 
 # Breve descripción

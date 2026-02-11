@@ -1,7 +1,10 @@
 ---
-title: "Scissors"
-
-materialsUsed: ["bronze", "iron", "steel"]
+title: Scissors
+materialsUsed:
+  - bronze
+  - iron
+  - steel
+image: ../../../assets/images/inventions/scissors.jpg
 ---
 
 # Brief description

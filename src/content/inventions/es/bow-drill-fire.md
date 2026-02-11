@@ -1,6 +1,10 @@
 ---
-title: "Fuego con taladro de arco"
-materialsUsed: ["wood", "plant-fibers", "stone"]
+title: Fuego con taladro de arco
+materialsUsed:
+  - wood
+  - plant-fibers
+  - stone
+image: ../../../assets/images/inventions/bow-drill-fire.jpg
 ---
 
 # Breve descripción

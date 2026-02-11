@@ -1,6 +1,9 @@
 ---
-title: "Lente"
-materialsUsed: ["glass", "water"]
+title: Lente
+materialsUsed:
+  - glass
+  - water
+image: ../../../assets/images/inventions/lente.jpg
 ---
 
 # Breve descripción

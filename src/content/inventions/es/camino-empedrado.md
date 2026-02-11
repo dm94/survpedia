@@ -1,6 +1,14 @@
 ---
-title: "Camino Empedrado"
-materialsUsed: ["stone", "sand", "gravel", "pico", "pison", "shovel", "hammer"]
+title: Camino Empedrado
+materialsUsed:
+  - stone
+  - sand
+  - gravel
+  - pico
+  - pison
+  - shovel
+  - hammer
+image: ../../../assets/images/inventions/camino-empedrado.jpg
 ---
 
 # Breve descripción

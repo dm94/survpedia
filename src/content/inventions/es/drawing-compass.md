@@ -1,6 +1,12 @@
 ---
-title: "Compás"
-materialsUsed: ["wood", "brass", "steel", "bone", "iron"]
+title: Compás
+materialsUsed:
+  - wood
+  - brass
+  - steel
+  - bone
+  - iron
+image: ../../../assets/images/inventions/drawing-compass.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,10 @@
 ---
-title: "Eje"
-materialsUsed: ["wood", "iron", "steel"]
+title: Eje
+materialsUsed:
+  - wood
+  - iron
+  - steel
+image: ../../../assets/images/inventions/axle.jpg
 ---
 
 # Breve descripción

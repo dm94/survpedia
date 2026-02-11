@@ -1,8 +1,15 @@
 ---
-title: "Seal"
-
+title: Seal
 materialsUsed:
-  ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
+  - stone
+  - clay
+  - bone
+  - beeswax
+  - gold
+  - silver
+  - bronze
+  - wood
+image: ../../../assets/images/inventions/seal.jpg
 ---
 
 # Brief description

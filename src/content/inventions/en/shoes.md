@@ -1,7 +1,11 @@
 ---
-title: "Shoes"
-
-materialsUsed: ["leather", "wood", "plant-fibers", "natural-rubber"]
+title: Shoes
+materialsUsed:
+  - leather
+  - wood
+  - plant-fibers
+  - natural-rubber
+image: ../../../assets/images/inventions/shoes.jpg
 ---
 
 # Brief description

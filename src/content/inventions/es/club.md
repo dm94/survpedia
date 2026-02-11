@@ -1,7 +1,9 @@
 ---
-title: "Porra"
-
-materialsUsed: ["wood", "stone"]
+title: Porra
+materialsUsed:
+  - wood
+  - stone
+image: ../../../assets/images/inventions/club.jpg
 ---
 
 # Breve descripción

@@ -9,7 +9,7 @@ import autoImages from './src/integrations/auto-images';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://survpedia.deeme.dev',
-  integrations: [autoImages(), tailwind(), mdx(), sitemap()],
+  integrations: [tailwind(), mdx(), sitemap()],
   i18n: {
     defaultLocale: 'en',
     locales: ['es', 'en'],

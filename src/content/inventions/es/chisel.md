@@ -1,7 +1,11 @@
 ---
-title: "Cincel / Formón"
-
-materialsUsed: ["iron", "steel", "wood", "stone"]
+title: Cincel / Formón
+materialsUsed:
+  - iron
+  - steel
+  - wood
+  - stone
+image: ../../../assets/images/inventions/chisel.jpg
 ---
 
 # Descripción breve

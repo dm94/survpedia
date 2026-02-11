@@ -1,7 +1,14 @@
 ---
-title: "Simple housing"
+title: Simple housing
 materialsUsed:
-  ["wood", "stone", "clay", "plant-fibers", "sand", "gravel", "lime"]
+  - wood
+  - stone
+  - clay
+  - plant-fibers
+  - sand
+  - gravel
+  - lime
+image: ../../../assets/images/inventions/simple-housing.jpg
 ---
 
 # Brief description

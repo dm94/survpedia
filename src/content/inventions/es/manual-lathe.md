@@ -1,7 +1,11 @@
 ---
-title: "Torno Manual"
-
-materialsUsed: ["wood", "iron", "rope", "chisel"]
+title: Torno Manual
+materialsUsed:
+  - wood
+  - iron
+  - rope
+  - chisel
+image: ../../../assets/images/inventions/manual-lathe.jpg
 ---
 
 # Descripción breve

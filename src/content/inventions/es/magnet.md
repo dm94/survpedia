@@ -1,7 +1,12 @@
 ---
-title: "Imán"
-
-materialsUsed: ["magnetite", "iron", "steel", "copper", "wire"]
+title: Imán
+materialsUsed:
+  - magnetite
+  - iron
+  - steel
+  - copper
+  - wire
+image: ../../../assets/images/inventions/magnet.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,11 @@
 ---
-title: "Armadura (Cercha)"
-materialsUsed: ["wood", "steel", "iron", "mechanical-joints"]
+title: Armadura (Cercha)
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - mechanical-joints
+image: ../../../assets/images/inventions/armadura.jpg
 ---
 
 # Breve descripción

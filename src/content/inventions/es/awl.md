@@ -1,7 +1,13 @@
 ---
-title: "Punzón"
-
-materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
+title: Punzón
+materialsUsed:
+  - bone
+  - wood
+  - copper
+  - bronze
+  - iron
+  - steel
+image: ../../../assets/images/inventions/awl.jpg
 ---
 
 # Breve descripción

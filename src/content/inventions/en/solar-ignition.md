@@ -1,6 +1,10 @@
 ---
-title: "Solar Ignition"
-materialsUsed: ["glass", "wood", "plant-fibers"]
+title: Solar Ignition
+materialsUsed:
+  - glass
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/solar-ignition.jpg
 ---
 
 # Brief description

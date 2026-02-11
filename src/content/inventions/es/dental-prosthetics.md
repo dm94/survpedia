@@ -1,6 +1,15 @@
 ---
-title: "Prótesis dentales"
-materialsUsed: ["bone", "wood", "resin", "beeswax", "gold", "silver", "clay", "natural-rubber"]
+title: Prótesis dentales
+materialsUsed:
+  - bone
+  - wood
+  - resin
+  - beeswax
+  - gold
+  - silver
+  - clay
+  - natural-rubber
+image: ../../../assets/images/inventions/dental-prosthetics.jpg
 ---
 
 # Breve descripción

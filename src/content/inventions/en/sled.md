@@ -1,6 +1,11 @@
 ---
-title: "Sled"
-materialsUsed: ["wood", "plant-fibers", "bone", "leather"]
+title: Sled
+materialsUsed:
+  - wood
+  - plant-fibers
+  - bone
+  - leather
+image: ../../../assets/images/inventions/sled.jpg
 ---
 
 # Brief description
