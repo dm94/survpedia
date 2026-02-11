@@ -64,6 +64,7 @@ El tipo de sangre no es visible. Se define por los antígenos de superficie pres
 
 - **[Antígenos](/es/materials/antigens)**: Los marcadores que definen el tipo de sangre.
 - **[Anatomía y sangre](/es/inventions/anatomy-blood)**: Referencia de circulación y pérdida sanguínea.
+- **[Sistema circulatorio](/es/inventions/circulatory-system)**: Red de vasos y corazón donde circula la sangre.
 - **[Alcohol](/es/materials/alcohol)**: Usado para desinfección.
 - **[Algodón](/es/materials/cotton)**: Hisopos y presión local.
 - **[Vidrio](/es/materials/glass)**: Recipientes limpios y láminas.

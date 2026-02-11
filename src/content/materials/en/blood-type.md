@@ -75,6 +75,7 @@ Blood type is not a visible feature. It is defined by which surface antigens are
 
 - **[Antigens](/en/materials/antigens)**: The markers that define blood type.
 - **[Anatomy & Blood](/en/inventions/anatomy-blood)**: Field reference for circulation and blood loss.
+- **[Circulatory System](/en/inventions/circulatory-system)**: The vessel and heart network where blood moves.
 - **[Alcohol](/en/materials/alcohol)**: Used for disinfection.
 - **[Cotton](/en/materials/cotton)**: Swabs and pressure dressings.
 - **[Glass](/en/materials/glass)**: Clean containers and slides.
