@@ -1,10 +1,10 @@
 ---
-import { getLangFromUrl, useTranslations } from '@i18n/utils';
+import { getLangFromUrl, useTranslations } from "@i18n/utils";
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const searchPlaceholder = t('search.placeholder');
-const searchNoResults = t('search.noResults');
+const searchPlaceholder = t("search.placeholder");
+const searchNoResults = t("search.noResults");
 ---
 
 <div id="search-container" class="relative group">
@@ -25,7 +25,9 @@ const searchNoResults = t('search.noResults');
         stroke-width="2"
         d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
     </svg>
-    <span class="text-sm text-slate-700 dark:text-slate-200">{t('nav.search')}</span>
+    <span class="text-sm text-slate-700 dark:text-slate-200"
+      >{t("nav.search")}</span
+    >
   </div>
 
   <div
@@ -45,19 +47,19 @@ const searchNoResults = t('search.noResults');
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 <script src="/pagefind/pagefind-ui.js" is:inline></script>
 
-<script define:vars={{ lang, searchPlaceholder, searchNoResults }}>
-  window.addEventListener('DOMContentLoaded', () => {
-    const container = document.getElementById('pagefind-ui');
-    const trigger = document.getElementById('search-trigger');
+<script define:vars={{ searchPlaceholder, searchNoResults }}>
+  window.addEventListener("DOMContentLoaded", () => {
+    const container = document.getElementById("pagefind-ui");
+    const trigger = document.getElementById("search-trigger");
     let initialized = false;
 
     const initSearch = () => {
       if (initialized) return;
       // @ts-ignore
-      if (typeof PagefindUI !== 'undefined') {
+      if (typeof PagefindUI !== "undefined") {
         // @ts-ignore
         new PagefindUI({
-          element: '#pagefind-ui',
+          element: "#pagefind-ui",
           showSubResults: true,
           resetStyles: false,
           translations: {
@@ -67,31 +69,28 @@ const searchNoResults = t('search.noResults');
         });
         initialized = true;
       } else {
-        console.warn(
-          'PagefindUI not found. Search is only available after build.'
-        );
         container.innerHTML =
           '<p class="text-sm text-red-500 p-2">Search available in production build.</p>';
       }
     };
 
-    trigger?.addEventListener('click', () => {
-      container?.classList.toggle('hidden');
+    trigger?.addEventListener("click", () => {
+      container?.classList.toggle("hidden");
       initSearch();
       // Focus input if possible
       setTimeout(() => {
-        const input = container?.querySelector('input');
+        const input = container?.querySelector("input");
         if (input) input.focus();
       }, 100);
     });
 
-    document.addEventListener('click', (e) => {
+    document.addEventListener("click", e => {
       const target = e.target;
       const isInside = container?.contains(target) || trigger?.contains(target);
       const isDetached = !document.documentElement.contains(target);
 
       if (!isInside && !isDetached) {
-        container?.classList.add('hidden');
+        container?.classList.add("hidden");
       }
     });
   });
