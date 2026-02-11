@@ -1,7 +1,18 @@
 ---
 title: "Fracturas, quemaduras y heridas"
 materialsUsed:
-  ["water", "alcohol", "cotton", "fabric", "wood", "soap", "healing-herbs", "animal-fat", "beeswax", "surgical-thread"]
+  [
+    "water",
+    "alcohol",
+    "cotton",
+    "fabric",
+    "wood",
+    "soap",
+    "healing-herbs",
+    "animal-fat",
+    "beeswax",
+    "surgical-thread",
+  ]
 ---
 
 # Breve descripción
@@ -25,7 +36,7 @@ Atención básica para fracturas, quemaduras y heridas abiertas orientada a prev
 ## Cómo crearlo
 
 1. **Evaluación**: Revisar vía aérea, respiración y circulación, y localizar sangrado, quemaduras o deformidades.
-2. **Fracturas**: Inmovilizar la articulación por encima y por debajo con férulas acolchadas de **[Madera](/es/materials/wood)** y **[Tela](/es/materials/fabric)**. Verificar la circulación después de atar.
+2. **Fracturas**: Inmovilizar la articulación por encima y por debajo con **[férulas](/es/inventions/ferula)** acolchadas de **[Madera](/es/materials/wood)** y **[Tela](/es/materials/fabric)**. Verificar la circulación después de atar.
 3. **Quemaduras**: Enfriar con **[Agua](/es/materials/water)** limpia durante varios minutos y cubrir con **[Algodón](/es/materials/cotton)** o **[Tela](/es/materials/fabric)** limpia.
 4. **Heridas**: Enjuagar con agua limpia, lavar la piel alrededor con **[Jabón](/es/materials/soap)** y cubrir con un apósito limpio. Usar **[Alcohol](/es/materials/alcohol)** en herramientas y manos, no dentro de heridas profundas.
 5. **Cierre (solo si hay formación)**: Usar **[Aguja](/es/inventions/needle)** y **[Hilo quirúrgico](/es/materials/surgical-thread)** en cortes limpios y rectos, o tiras de tela como vendaje de presión.

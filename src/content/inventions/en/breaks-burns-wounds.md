@@ -36,7 +36,7 @@ Essential field care for fractures, burns, and open wounds focused on preventing
 ## How to create it
 
 1. **Assessment**: Check airway, breathing, and circulation, then identify bleeding, burns, or deformity.
-2. **Fracture care**: Immobilize the joint above and below using padded splints made from **[Wood](/en/materials/wood)** and **[Fabric](/en/materials/fabric)**. Check circulation after tying.
+2. **Fracture care**: Immobilize the joint above and below using padded **[splints](/en/inventions/ferula)** made from **[Wood](/en/materials/wood)** and **[Fabric](/en/materials/fabric)**. Check circulation after tying.
 3. **Burn care**: Cool with clean **[Water](/en/materials/water)** for several minutes, then cover with clean **[Cotton](/en/materials/cotton)** or **[Fabric](/en/materials/fabric)**.
 4. **Wound care**: Rinse with clean water, wash surrounding skin with **[Soap](/en/materials/soap)**, then apply a clean dressing. Use **[Alcohol](/en/materials/alcohol)** for tools and hands, not directly in deep wounds.
 5. **Closure (only if trained)**: Use **[Needle](/en/inventions/needle)** and **[Surgical Thread](/en/materials/surgical-thread)** for clean, straight wounds, or use strips of fabric for pressure bandages.
