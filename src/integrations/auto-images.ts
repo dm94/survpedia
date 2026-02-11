@@ -31,7 +31,10 @@ export default function autoImages(): AstroIntegration {
   return {
     name: "auto-images",
     hooks: {
-      "astro:config:setup": async ({ logger }) => {
+      "astro:config:setup": async ({ logger, command }) => {
+        if (command === "build") {
+          return;
+        }
         logger.info("Auto-Images: Checking for missing images in content...");
 
         const contentDir = path.join(process.cwd(), "src/content");
