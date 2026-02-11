@@ -52,3 +52,9 @@ Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unli
 
 - **High Heat**: Working with molten or hot steel poses burn risks.
 - **Sharp Edges**: Finished steel tools are very sharp.
+
+### Related materials
+
+- **[Iron](/en/materials/iron)**: Base metal for steelmaking.
+- **[Coal](/en/materials/coal)**: Carbon source for smelting and refining.
+- **[Bronze](/en/materials/bronze)**: Alternative tool alloy with different properties.

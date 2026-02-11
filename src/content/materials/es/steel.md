@@ -60,3 +60,9 @@ El acero es un metal duro, fuerte y grisáceo. Puede pulirse hasta obtener un gr
 
 - **Alto calor**: Trabajar con acero fundido o caliente plantea riesgos de quemaduras.
 - **Bordes afilados**: Las herramientas de acero acabadas son muy afiladas.
+
+### Materiales relacionados
+
+- **[Hierro](/es/materials/iron)**: Metal base para la producción de acero.
+- **[Carbón](/es/materials/coal)**: Fuente de carbono para fundición y refinado.
+- **[Bronce](/es/materials/bronze)**: Aleación alternativa para herramientas.
