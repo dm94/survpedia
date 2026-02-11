@@ -48,7 +48,7 @@ export default [
       'prefer-template': 'error',
 
       // Import rules
-      'import/no-unresolved': 'error',
+      'import/no-unresolved': ['error', { ignore: ['^astro:'] }],
       'import/named': 'error',
       'import/default': 'error',
       'import/namespace': 'error',
