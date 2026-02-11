@@ -1,12 +1,27 @@
 ---
-title: "White Lead"
-formula: "2PbCO3·Pb(OH)2"
-composition: ["lead", "carbon", "hydrogen", "oxygen"]
-properties: ["Dense white powder", "Toxic", "Opaque", "Sweet taste (Deadly!)"]
-uses: ["White pigment", "Cosmetics (Historical)", "Ceramic glaze", "Paint base"]
+title: White Lead
+formula: 2PbCO3·Pb(OH)2
+composition:
+  - lead
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Dense white powder
+  - Toxic
+  - Opaque
+  - Sweet taste (Deadly!)
+uses:
+  - White pigment
+  - Cosmetics (Historical)
+  - Ceramic glaze
+  - Paint base
 naturalAvailability: false
-manufacturingProcess: "Stack process: Exposing lead coils to vinegar vapors and CO2 from fermenting manure."
-category: "synthetic"
+manufacturingProcess: >-
+  Stack process: Exposing lead coils to vinegar vapors and CO2 from fermenting
+  manure.
+category: synthetic
+image: ../../../assets/images/materials/white-lead.jpg
 ---
 
 White lead is a complex salt containing both carbonate and hydroxide of lead. For centuries, it was the principal white pigment used in European painting and cosmetics, despite its toxicity.

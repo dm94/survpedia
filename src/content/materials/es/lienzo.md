@@ -1,13 +1,24 @@
 ---
-title: "Lienzo"
-composition: ["algodón", "lino", "cáñamo"]
-properties: ["Resistencia", "Durabilidad", "Flexibilidad", "Absorbencia"]
+title: Lienzo
+composition:
+  - algodón
+  - lino
+  - cáñamo
+properties:
+  - Resistencia
+  - Durabilidad
+  - Flexibilidad
+  - Absorbencia
 uses:
-  ["Superficie de pintura", "Velas", "Tiendas de campaña", "Bolsas", "Zapatos"]
+  - Superficie de pintura
+  - Velas
+  - Tiendas de campaña
+  - Bolsas
+  - Zapatos
 naturalAvailability: false
-manufacturingProcess: "Tejer hilo resistente en una tela de tejido liso."
-
+manufacturingProcess: Tejer hilo resistente en una tela de tejido liso.
 category: plant
+image: ../../../assets/images/materials/lienzo.jpg
 ---
 
 El lienzo es una tela de tejido liso extremadamente duradera que se utiliza para fabricar velas, tiendas de campaña, marquesinas, mochilas y otros artículos para los que se requiere robustez, así como en objetos de moda como bolsos, fundas para dispositivos electrónicos y zapatos. También es popularmente utilizado por artistas como superficie de pintura, típicamente estirada sobre un marco de madera.

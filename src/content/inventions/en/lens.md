@@ -1,6 +1,9 @@
 ---
-title: "Lens"
-materialsUsed: ["glass", "water"]
+title: Lens
+materialsUsed:
+  - glass
+  - water
+image: ../../../assets/images/inventions/lens.jpg
 ---
 
 # Brief description

@@ -1,17 +1,24 @@
 ---
-title: "Brick"
-composition: ["clay", "sand", "water", "straw"]
+title: Brick
+composition:
+  - clay
+  - sand
+  - water
+  - straw
 properties:
-  [
-    "Compressive strength",
-    "Thermal insulation",
-    "Fire resistance",
-    "Durability",
-  ]
-uses: ["Wall construction", "Kilns", "Chimneys", "Paving"]
+  - Compressive strength
+  - Thermal insulation
+  - Fire resistance
+  - Durability
+uses:
+  - Wall construction
+  - Kilns
+  - Chimneys
+  - Paving
 naturalAvailability: false
-manufacturingProcess: "Molding of clay followed by sun drying or kiln firing."
-category: "synthetic"
+manufacturingProcess: Molding of clay followed by sun drying or kiln firing.
+category: synthetic
+image: ../../../assets/images/materials/brick.jpg
 ---
 
 A brick is a block of ceramic material or concrete, primarily used in masonry to build walls, foundations, arches, and other structures. It is one of the oldest and most versatile construction materials.

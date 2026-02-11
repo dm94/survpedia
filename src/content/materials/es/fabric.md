@@ -1,10 +1,20 @@
 ---
-title: "Tela"
-properties: ["Flexible", "Duradera", "Aislante", "Transpirable"]
-uses: ["Ropa", "Velas", "Tiendas", "Bolsas", "Vendajes"]
+title: Tela
+properties:
+  - Flexible
+  - Duradera
+  - Aislante
+  - Transpirable
+uses:
+  - Ropa
+  - Velas
+  - Tiendas
+  - Bolsas
+  - Vendajes
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Entrelazado de fibras (tejido, punto, fieltro) para crear una lámina cohesiva."
+category: synthetic
+manufacturingProcess: 'Entrelazado de fibras (tejido, punto, fieltro) para crear una lámina cohesiva.'
+image: ../../../assets/images/materials/fabric.jpg
 ---
 
 La tela es un material flexible que consiste en una red de fibras naturales o artificiales (hilo o hebra). Es esencial para la protección, el transporte y la comodidad.

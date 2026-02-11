@@ -1,11 +1,24 @@
 ---
-title: "Concrete"
-composition: ["stone", "sand", "lime", "water"]
-properties: ["Hard", "Durable", "Moldable", "Compressive Strength"]
-uses: ["Foundations", "Walls", "Dams", "Roads"]
+title: Concrete
+composition:
+  - stone
+  - sand
+  - lime
+  - water
+properties:
+  - Hard
+  - Durable
+  - Moldable
+  - Compressive Strength
+uses:
+  - Foundations
+  - Walls
+  - Dams
+  - Roads
 naturalAvailability: false
-manufacturingProcess: "Mixing cement/lime binder with aggregate and water."
-category: "synthetic"
+manufacturingProcess: Mixing cement/lime binder with aggregate and water.
+category: synthetic
+image: ../../../assets/images/materials/concrete.jpg
 ---
 
 A composite material composed of fine and coarse aggregate bonded together with a fluid cement (cement paste) that hardens over time.

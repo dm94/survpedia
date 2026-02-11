@@ -1,6 +1,9 @@
 ---
-title: "Chimney"
-materialsUsed: ["brick", "mortar"]
+title: Chimney
+materialsUsed:
+  - brick
+  - mortar
+image: ../../../assets/images/inventions/chimney.jpg
 ---
 
 # Brief description

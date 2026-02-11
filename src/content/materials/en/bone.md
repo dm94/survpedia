@@ -1,10 +1,19 @@
 ---
-title: "Bone"
-properties: ["Hard", "Rigid", "Durable", "Lightweight relative to stone"]
-uses: ["Tools", "Weapons", "Jewelry", "Fertilizer"]
+title: Bone
+properties:
+  - Hard
+  - Rigid
+  - Durable
+  - Lightweight relative to stone
+uses:
+  - Tools
+  - Weapons
+  - Jewelry
+  - Fertilizer
 naturalAvailability: true
-manufacturingProcess: "Obtained from the skeletons of deceased vertebrates."
-category: "animal"
+manufacturingProcess: Obtained from the skeletons of deceased vertebrates.
+category: animal
+image: ../../../assets/images/materials/bone.jpg
 ---
 
 Bone is a rigid organ that constitutes part of the vertebrate skeleton. It is a composite material made of both organic (collagen) and inorganic (calcium phosphate) components.

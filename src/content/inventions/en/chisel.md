@@ -1,7 +1,11 @@
 ---
-title: "Chisel"
-
-materialsUsed: ["iron", "steel", "wood", "stone"]
+title: Chisel
+materialsUsed:
+  - iron
+  - steel
+  - wood
+  - stone
+image: ../../../assets/images/inventions/chisel.jpg
 ---
 
 # Brief description

@@ -1,11 +1,24 @@
 ---
-title: "Bronze"
-composition: ["copper", "tin"]
-properties: ["Corrosion-resistant", "Durable", "Hard", "Low friction"]
-uses: ["Tools", "Weapons", "Statues", "Musical instruments", "Coins", "Bearings"]
+title: Bronze
+composition:
+  - copper
+  - tin
+properties:
+  - Corrosion-resistant
+  - Durable
+  - Hard
+  - Low friction
+uses:
+  - Tools
+  - Weapons
+  - Statues
+  - Musical instruments
+  - Coins
+  - Bearings
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Smelting copper and tin together, typically in a 9:1 ratio."
+category: synthetic
+manufacturingProcess: 'Smelting copper and tin together, typically in a 9:1 ratio.'
+image: ../../../assets/images/materials/bronze.jpg
 ---
 
 Bronze is an alloy consisting primarily of copper, usually with 12–12.5% tin and often with the addition of other metals. It was the first alloy to be used by humans on a large scale.

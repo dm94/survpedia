@@ -1,11 +1,22 @@
 ---
-title: "Cement"
-formula: "Complex (Ca-Si-Al-Fe oxides)"
-properties: ["Hydraulic (sets underwater)", "Hard", "Rigid", "High compressive strength"]
-uses: ["Concrete", "Mortar", "Stucco", "Grout"]
+title: Cement
+formula: Complex (Ca-Si-Al-Fe oxides)
+properties:
+  - Hydraulic (sets underwater)
+  - Hard
+  - Rigid
+  - High compressive strength
+uses:
+  - Concrete
+  - Mortar
+  - Stucco
+  - Grout
 naturalAvailability: false
-manufacturingProcess: "Calcining limestone and clay at high temperatures (1450°C) and grinding the clinker."
-category: "synthetic"
+manufacturingProcess: >-
+  Calcining limestone and clay at high temperatures (1450°C) and grinding the
+  clinker.
+category: synthetic
+image: ../../../assets/images/materials/cement.jpg
 ---
 
 Cement is a binder, a substance used for construction that sets, hardens, and adheres to other materials to bind them together. The most common type is Portland cement, but historically, "Roman cement" was crucial.

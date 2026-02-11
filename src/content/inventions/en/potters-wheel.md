@@ -1,6 +1,10 @@
 ---
-title: "Potter's Wheel"
-materialsUsed: ["wood", "stone", "leather"]
+title: Potter's Wheel
+materialsUsed:
+  - wood
+  - stone
+  - leather
+image: ../../../assets/images/inventions/potters-wheel.jpg
 ---
 
 # Brief description

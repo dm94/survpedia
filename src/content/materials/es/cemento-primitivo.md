@@ -1,17 +1,25 @@
 ---
-title: "Cemento Primitivo"
-composition: ["cal", "puzolana", "water"]
+title: Cemento Primitivo
+composition:
+  - cal
+  - puzolana
+  - water
 properties:
-  [
-    "Hidráulico (fragua bajo agua)",
-    "Impermeable",
-    "Duradero",
-    "Alta resistencia",
-  ]
-uses: ["Hormigón Romano", "Cisternas", "Puertos y muelles", "Cimientos húmedos"]
+  - Hidráulico (fragua bajo agua)
+  - Impermeable
+  - Duradero
+  - Alta resistencia
+uses:
+  - Hormigón Romano
+  - Cisternas
+  - Puertos y muelles
+  - Cimientos húmedos
 naturalAvailability: false
-manufacturingProcess: "Mezcla de cal apagada con puzolana (ceniza volcánica o polvo de ladrillo) y agua."
-category: "synthetic"
+manufacturingProcess: >-
+  Mezcla de cal apagada con puzolana (ceniza volcánica o polvo de ladrillo) y
+  agua.
+category: synthetic
+image: ../../../assets/images/materials/cemento-primitivo.jpg
 ---
 
 El cemento primitivo, a menudo conocido como **Cemento Romano** u **Hormigón Romano** (Opus Caementicium), es la tecnología que permitió a las civilizaciones antiguas construir estructuras que han sobrevivido milenios, incluso bajo el agua. A diferencia del mortero de cal simple, este cemento es **hidráulico**: fragua y se endurece debido a una reacción química con el agua, no por secarse al aire.

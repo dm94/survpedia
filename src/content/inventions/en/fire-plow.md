@@ -1,6 +1,9 @@
 ---
-title: "Fire Plow"
-materialsUsed: ["wood", "plant-fibers"]
+title: Fire Plow
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/fire-plow.jpg
 ---
 
 # Brief description

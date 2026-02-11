@@ -1,10 +1,22 @@
 ---
-title: "Cuero"
-properties: ["Duradero", "Flexible", "Resistente", "Resistente al agua"]
-uses: ["Ropa", "Calzado", "Bolsos", "Armadura", "Ataduras de embarcaciones"]
+title: Cuero
+properties:
+  - Duradero
+  - Flexible
+  - Resistente
+  - Resistente al agua
+uses:
+  - Ropa
+  - Calzado
+  - Bolsos
+  - Armadura
+  - Ataduras de embarcaciones
 naturalAvailability: false
-manufacturingProcess: "Producido mediante el curtido de pieles y cueros de animales para preservarlos y hacerlos flexibles."
-category: "animal"
+manufacturingProcess: >-
+  Producido mediante el curtido de pieles y cueros de animales para preservarlos
+  y hacerlos flexibles.
+category: animal
+image: ../../../assets/images/materials/leather.jpg
 ---
 
 El cuero es un material duradero y flexible creado mediante el curtido de pieles y cueros de animales. La materia prima más común es la piel de vaca.

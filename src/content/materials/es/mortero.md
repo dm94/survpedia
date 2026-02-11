@@ -1,17 +1,25 @@
 ---
-title: "Mortero"
-composition: ["sand", "water", "cal", "clay"]
+title: Mortero
+composition:
+  - sand
+  - water
+  - cal
+  - clay
 properties:
-  ["Adhesión", "Plasticidad", "Impermeabilidad (variable)", "Resistencia"]
+  - Adhesión
+  - Plasticidad
+  - Impermeabilidad (variable)
+  - Resistencia
 uses:
-  [
-    "Unión de ladrillos y piedras",
-    "Revestimiento de paredes (enfoscado)",
-    "Suelos",
-  ]
+  - Unión de ladrillos y piedras
+  - Revestimiento de paredes (enfoscado)
+  - Suelos
 naturalAvailability: false
-manufacturingProcess: "Mezcla de un aglomerante (cal, arcilla, cemento) con árido fino (arena) y agua."
-category: "synthetic"
+manufacturingProcess: >-
+  Mezcla de un aglomerante (cal, arcilla, cemento) con árido fino (arena) y
+  agua.
+category: synthetic
+image: ../../../assets/images/materials/mortero.jpg
 ---
 
 El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir **[ladrillos](/es/materials/brick)**, piedras o bloques de **[hormigón](/es/materials/hormigon)**, y para rellenar los espacios entre ellos. También se usa para revestir paredes.

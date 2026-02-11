@@ -1,12 +1,27 @@
 ---
-title: "Pigmentos"
-composition: ["óxido de hierro", "carbono", "carbonato de cobre", "lapislázuli"]
-properties: ["Color", "Opacidad", "Insolubilidad", "Resistencia a la luz"]
-uses: ["Pintura", "Tinta", "Cosméticos", "Cerámica", "Textiles"]
+title: Pigmentos
+composition:
+  - óxido de hierro
+  - carbono
+  - carbonato de cobre
+  - lapislázuli
+properties:
+  - Color
+  - Opacidad
+  - Insolubilidad
+  - Resistencia a la luz
+uses:
+  - Pintura
+  - Tinta
+  - Cosméticos
+  - Cerámica
+  - Textiles
 naturalAvailability: true
-manufacturingProcess: "Molienda de minerales naturales o materiales orgánicos hasta obtener un polvo fino, lavado para eliminar impurezas y secado."
-
+manufacturingProcess: >-
+  Molienda de minerales naturales o materiales orgánicos hasta obtener un polvo
+  fino, lavado para eliminar impurezas y secado.
 category: mineral
+image: ../../../assets/images/materials/pigmentos.jpg
 ---
 
 Los pigmentos son partículas sólidas insolubles finamente molidas que se utilizan para dar color a otros materiales, como pintura, tinta, plástico, tela y cosméticos. A diferencia de los tintes, los pigmentos no se disuelven en el medio, sino que permanecen suspendidos en él.

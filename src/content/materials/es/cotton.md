@@ -1,10 +1,21 @@
 ---
-title: "Algodón"
-properties: ["Suave", "Transpirable", "Absorbente", "Hipoalergénico"]
-uses: ["Ropa", "Textiles para el hogar", "Productos médicos", "Papel moneda"]
+title: Algodón
+properties:
+  - Suave
+  - Transpirable
+  - Absorbente
+  - Hipoalergénico
+uses:
+  - Ropa
+  - Textiles para el hogar
+  - Productos médicos
+  - Papel moneda
 naturalAvailability: true
-category: "plant"
-manufacturingProcess: "Cosechado de la cápsula de la planta de algodón, desmotado para eliminar las semillas e hilado en hilo."
+category: plant
+manufacturingProcess: >-
+  Cosechado de la cápsula de la planta de algodón, desmotado para eliminar las
+  semillas e hilado en hilo.
+image: ../../../assets/images/materials/cotton.jpg
 ---
 
 El algodón es una fibra de semilla suave y básica que crece en una cápsula, o caja protectora, alrededor de las semillas de las plantas de algodón del género Gossypium de la familia de las malváceas.

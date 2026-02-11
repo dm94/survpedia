@@ -1,6 +1,10 @@
 ---
-title: "Loom"
-materialsUsed: ["wood", "yarn", "plant-fibers"]
+title: Loom
+materialsUsed:
+  - wood
+  - yarn
+  - plant-fibers
+image: ../../../assets/images/inventions/loom.jpg
 ---
 
 # Brief description

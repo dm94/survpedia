@@ -1,6 +1,12 @@
 ---
-title: "Passive Ventilation"
-materialsUsed: ["brick", "stone", "wood", "concrete", "clay"]
+title: Passive Ventilation
+materialsUsed:
+  - brick
+  - stone
+  - wood
+  - concrete
+  - clay
+image: ../../../assets/images/inventions/passive-ventilation.jpg
 ---
 
 Passive ventilation is the process of supplying and extracting air from an interior space without using mechanical systems (like fans or air conditioning). It harnesses natural forces, such as wind and temperature differences, to renew air and cool spaces.

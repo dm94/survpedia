@@ -1,12 +1,27 @@
 ---
-title: "Pigments"
-composition: ["iron oxide", "carbon", "copper carbonate", "lapis lazuli"]
-properties: ["Color", "Opacity", "Insolubility", "Lightfastness"]
-uses: ["Paint", "Ink", "Cosmetics", "Ceramics", "Textiles"]
+title: Pigments
+composition:
+  - iron oxide
+  - carbon
+  - copper carbonate
+  - lapis lazuli
+properties:
+  - Color
+  - Opacity
+  - Insolubility
+  - Lightfastness
+uses:
+  - Paint
+  - Ink
+  - Cosmetics
+  - Ceramics
+  - Textiles
 naturalAvailability: true
-manufacturingProcess: "Grinding natural minerals or organic materials into a fine powder, washing to remove impurities, and drying."
-
+manufacturingProcess: >-
+  Grinding natural minerals or organic materials into a fine powder, washing to
+  remove impurities, and drying.
 category: mineral
+image: ../../../assets/images/materials/pigments.jpg
 ---
 
 Pigments are finely ground, insoluble solid particles that are used to impart color to other materials, such as paint, ink, plastic, fabric, and cosmetics. Unlike dyes, pigments do not dissolve in the medium but remain suspended in it.

@@ -1,13 +1,23 @@
 ---
-title: "Bitumen"
-formula: "CnH2n+2"
-composition: ["carbon", "hydrogen"]
-properties: ["Viscous", "Waterproof", "Adhesive", "Thermoplastic"]
-uses: ["Waterproofing", "Adhesive", "Road binding", "Roofing"]
+title: Bitumen
+formula: CnH2n+2
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - Viscous
+  - Waterproof
+  - Adhesive
+  - Thermoplastic
+uses:
+  - Waterproofing
+  - Adhesive
+  - Road binding
+  - Roofing
 naturalAvailability: true
-manufacturingProcess: "Found in natural deposits (seeps, tar pits) or distilled from crude oil."
-
+manufacturingProcess: 'Found in natural deposits (seeps, tar pits) or distilled from crude oil.'
 category: mineral
+image: ../../../assets/images/materials/bitumen.jpg
 ---
 
 A black or dark brown non-crystalline soil or viscous material, composed principally of high molecular weight hydrocarbons.

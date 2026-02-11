@@ -1,5 +1,5 @@
 ---
-title: "Fireworks"
+title: Fireworks
 materialsUsed:
   - gunpowder
   - paper
@@ -8,6 +8,7 @@ materialsUsed:
   - copper
   - magnesium
   - aluminum
+image: ../../../assets/images/inventions/fireworks.jpg
 ---
 
 ## History

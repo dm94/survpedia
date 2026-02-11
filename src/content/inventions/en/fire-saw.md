@@ -1,6 +1,9 @@
 ---
-title: "Fire Saw"
-materialsUsed: ["wood", "plant-fibers"]
+title: Fire Saw
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/fire-saw.jpg
 ---
 
 # Brief description

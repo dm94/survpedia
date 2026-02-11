@@ -1,10 +1,20 @@
 ---
-title: "Fabric"
-properties: ["Flexible", "Durable", "Insulating", "Breathable"]
-uses: ["Clothing", "Sails", "Tents", "Bags", "Bandages"]
+title: Fabric
+properties:
+  - Flexible
+  - Durable
+  - Insulating
+  - Breathable
+uses:
+  - Clothing
+  - Sails
+  - Tents
+  - Bags
+  - Bandages
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Interlacing fibers (weaving, knitting, felting) to create a cohesive sheet."
+category: synthetic
+manufacturingProcess: 'Interlacing fibers (weaving, knitting, felting) to create a cohesive sheet.'
+image: ../../../assets/images/materials/fabric.jpg
 ---
 
 Fabric is a flexible material consisting of a network of natural or artificial fibers (yarn or thread). It is essential for protection, transport, and comfort.

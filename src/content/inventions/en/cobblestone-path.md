@@ -1,7 +1,14 @@
 ---
-title: "Cobblestone Path"
+title: Cobblestone Path
 materialsUsed:
-  ["stone", "sand", "gravel", "pickaxe", "rammer", "shovel", "hammer"]
+  - stone
+  - sand
+  - gravel
+  - pickaxe
+  - rammer
+  - shovel
+  - hammer
+image: ../../../assets/images/inventions/cobblestone-path.jpg
 ---
 
 # Brief description

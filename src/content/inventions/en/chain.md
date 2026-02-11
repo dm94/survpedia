@@ -1,6 +1,9 @@
 ---
-title: "Chain"
-materialsUsed: ["iron", "steel"]
+title: Chain
+materialsUsed:
+  - iron
+  - steel
+image: ../../../assets/images/inventions/chain.jpg
 ---
 
 A chain is a series of connected links which are typically made of metal. A chain has two styles: those designed for lifting/pulling (link chain) and those designed for transferring power in machines (roller chain).

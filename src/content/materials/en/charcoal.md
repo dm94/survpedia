@@ -1,11 +1,23 @@
 ---
-title: "Charcoal"
-composition: ["carbon"]
-properties: ["Lightweight", "Porous", "High heat", "Low smoke"]
-uses: ["Fuel", "Metallurgy", "Cooking", "Filtration"]
+title: Charcoal
+composition:
+  - carbon
+properties:
+  - Lightweight
+  - Porous
+  - High heat
+  - Low smoke
+uses:
+  - Fuel
+  - Metallurgy
+  - Cooking
+  - Filtration
 naturalAvailability: false
-manufacturingProcess: "Produced by heating wood in low oxygen (pyrolysis) to drive off water and volatiles."
-category: "synthetic"
+manufacturingProcess: >-
+  Produced by heating wood in low oxygen (pyrolysis) to drive off water and
+  volatiles.
+category: synthetic
+image: ../../../assets/images/materials/charcoal.jpg
 ---
 
 Charcoal is a carbon-rich fuel made from wood or plant matter heated without enough oxygen to allow full combustion. It burns hotter and cleaner than raw wood.

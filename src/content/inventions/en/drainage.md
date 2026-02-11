@@ -1,6 +1,11 @@
 ---
-title: "Drainage"
-materialsUsed: ["stone", "gravel", "clay", "bamboo"]
+title: Drainage
+materialsUsed:
+  - stone
+  - gravel
+  - clay
+  - bamboo
+image: ../../../assets/images/inventions/drainage.jpg
 ---
 
 # Brief description

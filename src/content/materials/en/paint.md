@@ -1,12 +1,25 @@
 ---
-title: "Paint"
-composition: ["pigment", "binder", "solvent"]
-properties: ["Adhesion", "Coverage", "Color", "Viscosity", "Drying Time"]
-uses: ["Art", "Decoration", "Protection", "Signaling", "Camouflage"]
+title: Paint
+composition:
+  - pigment
+  - binder
+  - solvent
+properties:
+  - Adhesion
+  - Coverage
+  - Color
+  - Viscosity
+  - Drying Time
+uses:
+  - Art
+  - Decoration
+  - Protection
+  - Signaling
+  - Camouflage
 naturalAvailability: false
-manufacturingProcess: "Dispersing pigment particles into a liquid binder."
-
+manufacturingProcess: Dispersing pigment particles into a liquid binder.
 category: synthetic
+image: ../../../assets/images/materials/paint.jpg
 ---
 
 Paint is a colored substance that is spread over a surface and dries to leave a thin decorative or protective coating. It consists of three main components: pigment (color), binder (glue), and solvent (thinner).

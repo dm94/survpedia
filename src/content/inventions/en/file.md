@@ -1,6 +1,9 @@
 ---
-title: "File"
-materialsUsed: ["steel", "iron"]
+title: File
+materialsUsed:
+  - steel
+  - iron
+image: ../../../assets/images/inventions/file.jpg
 ---
 
 # Brief description

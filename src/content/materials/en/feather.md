@@ -1,9 +1,18 @@
 ---
-title: "Feather"
-properties: ["Lightweight", "Aerodynamic", "Insulating", "Flexible"]
-uses: ["Arrow fletching", "Insulation", "Writing quills", "Decoration"]
+title: Feather
+properties:
+  - Lightweight
+  - Aerodynamic
+  - Insulating
+  - Flexible
+uses:
+  - Arrow fletching
+  - Insulation
+  - Writing quills
+  - Decoration
 naturalAvailability: true
-category: "animal"
+category: animal
+image: ../../../assets/images/materials/feather.jpg
 ---
 
 # Brief description

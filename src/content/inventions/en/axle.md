@@ -1,6 +1,10 @@
 ---
-title: "Axle"
-materialsUsed: ["wood", "iron", "steel"]
+title: Axle
+materialsUsed:
+  - wood
+  - iron
+  - steel
+image: ../../../assets/images/inventions/axle.jpg
 ---
 
 # Brief description

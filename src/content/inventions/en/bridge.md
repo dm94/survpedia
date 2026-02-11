@@ -1,7 +1,15 @@
 ---
-title: "Bridge"
+title: Bridge
 materialsUsed:
-  ["wood", "stone", "rope", "iron", "steel", "concrete", "brick", "mortar"]
+  - wood
+  - stone
+  - rope
+  - iron
+  - steel
+  - concrete
+  - brick
+  - mortar
+image: ../../../assets/images/inventions/bridge.jpg
 ---
 
 # Brief description

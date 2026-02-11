@@ -1,6 +1,10 @@
 ---
-title: "Drill Bit"
-materialsUsed: ["steel", "iron", "flint"]
+title: Drill Bit
+materialsUsed:
+  - steel
+  - iron
+  - flint
+image: ../../../assets/images/inventions/drill-bit.jpg
 ---
 
 # Brief description

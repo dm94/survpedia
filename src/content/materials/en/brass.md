@@ -1,11 +1,25 @@
 ---
-title: "Brass"
-composition: ["copper", "zinc"]
-properties: ["Corrosion-resistant", "Malleable", "Acoustic", "Low friction", "Non-sparking"]
-uses: ["Musical instruments", "Plumbing", "Locks", "Gears", "Decoration", "Plumb bobs"]
+title: Brass
+composition:
+  - copper
+  - zinc
+properties:
+  - Corrosion-resistant
+  - Malleable
+  - Acoustic
+  - Low friction
+  - Non-sparking
+uses:
+  - Musical instruments
+  - Plumbing
+  - Locks
+  - Gears
+  - Decoration
+  - Plumb bobs
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Alloying copper and zinc, typically with 30-40% zinc."
+category: synthetic
+manufacturingProcess: 'Alloying copper and zinc, typically with 30-40% zinc.'
+image: ../../../assets/images/materials/brass.jpg
 ---
 
 Brass is a metal alloy made of copper and zinc. The proportions of zinc and copper can be varied to create a range of brasses with varying properties. It is known for its bright gold-like appearance.

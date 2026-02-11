@@ -1,6 +1,12 @@
 ---
-title: "Plumb Bob"
-materialsUsed: ["lead", "brass", "rope", "wood", "stone"]
+title: Plumb Bob
+materialsUsed:
+  - lead
+  - brass
+  - rope
+  - wood
+  - stone
+image: ../../../assets/images/inventions/plumb-bob.jpg
 ---
 
 # Brief description

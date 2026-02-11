@@ -1,10 +1,21 @@
 ---
-title: "Bamboo"
-properties: ["Lightweight", "Strong", "Hollow", "Flexible", "Fast-growing"]
-uses: ["Construction", "Pipes", "Containers", "Weapons", "Food"]
+title: Bamboo
+properties:
+  - Lightweight
+  - Strong
+  - Hollow
+  - Flexible
+  - Fast-growing
+uses:
+  - Construction
+  - Pipes
+  - Containers
+  - Weapons
+  - Food
 naturalAvailability: true
-manufacturingProcess: "Harvested and dried."
-category: "plant"
+manufacturingProcess: Harvested and dried.
+category: plant
+image: ../../../assets/images/materials/bamboo.jpg
 ---
 
 A giant woody grass that grows mainly in the tropics and subtropics. It is one of the fastest-growing plants in the world.

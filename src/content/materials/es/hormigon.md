@@ -1,11 +1,24 @@
 ---
-title: "Hormigón"
-composition: ["stone", "sand", "lime", "water"]
-properties: ["Duro", "Duradero", "Moldeable", "Resistencia a la compresión"]
-uses: ["Cimientos", "Muros", "Presas", "Carreteras"]
+title: Hormigón
+composition:
+  - stone
+  - sand
+  - lime
+  - water
+properties:
+  - Duro
+  - Duradero
+  - Moldeable
+  - Resistencia a la compresión
+uses:
+  - Cimientos
+  - Muros
+  - Presas
+  - Carreteras
 naturalAvailability: false
-manufacturingProcess: "Mezcla de aglomerante de cemento/cal con agregados y agua."
-category: "synthetic"
+manufacturingProcess: Mezcla de aglomerante de cemento/cal con agregados y agua.
+category: synthetic
+image: ../../../assets/images/materials/hormigon.jpg
 ---
 
 Un material compuesto formado por agregados finos y gruesos unidos mediante un cemento fluido (pasta de cemento) que se endurece con el tiempo.

@@ -1,7 +1,11 @@
 ---
-title: "Manual Lathe"
-
-materialsUsed: ["wood", "iron", "rope", "chisel"]
+title: Manual Lathe
+materialsUsed:
+  - wood
+  - iron
+  - rope
+  - chisel
+image: ../../../assets/images/inventions/manual-lathe.jpg
 ---
 
 # Brief description

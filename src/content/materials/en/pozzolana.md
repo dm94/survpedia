@@ -1,11 +1,22 @@
 ---
-title: "Pozzolana"
-composition: ["silicon", "aluminum"]
-properties: ["Pozzolanic", "Reacts with lime", "Fine powder", "Abrasive"]
-uses: ["Roman cement", "Hydraulic concrete", "Waterproof mortar", "Filters"]
+title: Pozzolana
+composition:
+  - silicon
+  - aluminum
+properties:
+  - Pozzolanic
+  - Reacts with lime
+  - Fine powder
+  - Abrasive
+uses:
+  - Roman cement
+  - Hydraulic concrete
+  - Waterproof mortar
+  - Filters
 naturalAvailability: true
-manufacturingProcess: "Collection of volcanic ash or crushing of bricks/fired ceramics."
-category: "mineral"
+manufacturingProcess: Collection of volcanic ash or crushing of bricks/fired ceramics.
+category: mineral
+image: ../../../assets/images/materials/pozzolana.jpg
 ---
 
 Pozzolana is a siliceous or aluminosiliceous material that, by itself, possesses little or no cementitious value, but which, in finely divided form and in the presence of moisture, chemically reacts with calcium hydroxide (**[Lime](/en/materials/lime)**) at ordinary temperatures to form compounds with cementitious properties.

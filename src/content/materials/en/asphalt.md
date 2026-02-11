@@ -1,12 +1,24 @@
 ---
-title: "Asphalt"
-composition: ["bitumen", "gravel", "sand", "stone"]
-properties: ["Durable", "Waterproof", "Smooth", "Load-bearing"]
-uses: ["Roads", "Pavements", "Roofing", "Flooring"]
+title: Asphalt
+composition:
+  - bitumen
+  - gravel
+  - sand
+  - stone
+properties:
+  - Durable
+  - Waterproof
+  - Smooth
+  - Load-bearing
+uses:
+  - Roads
+  - Pavements
+  - Roofing
+  - Flooring
 naturalAvailability: false
-manufacturingProcess: "Heating bitumen and mixing it with hot, dried aggregates."
-
+manufacturingProcess: 'Heating bitumen and mixing it with hot, dried aggregates.'
 category: synthetic
+image: ../../../assets/images/materials/asphalt.jpg
 ---
 
 A composite material commonly used to surface roads, parking lots, and airports. It consists of mineral aggregate bound together with bitumen.

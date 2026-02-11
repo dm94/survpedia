@@ -1,7 +1,12 @@
 ---
-title: "Magnet"
-
-materialsUsed: ["magnetite", "iron", "steel", "copper", "wire"]
+title: Magnet
+materialsUsed:
+  - magnetite
+  - iron
+  - steel
+  - copper
+  - wire
+image: ../../../assets/images/inventions/magnet.jpg
 ---
 
 # Brief description

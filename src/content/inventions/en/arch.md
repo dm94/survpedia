@@ -1,6 +1,12 @@
 ---
-title: "Arch"
-materialsUsed: ["stone", "brick", "concrete", "mortar", "wood"]
+title: Arch
+materialsUsed:
+  - stone
+  - brick
+  - concrete
+  - mortar
+  - wood
+image: ../../../assets/images/inventions/arch.jpg
 ---
 
 # Brief description

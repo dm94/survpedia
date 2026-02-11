@@ -1,12 +1,25 @@
 ---
-title: "Verdigris"
-formula: "Cu(CH3COO)2"
-composition: ["copper", "carbon", "hydrogen", "oxygen"]
-properties: ["Green-blue color", "Toxic", "Crystalline", "Soluble in water"]
-uses: ["Green pigment", "Fungicide", "Dye mordant", "Medical (historical)"]
+title: Verdigris
+formula: Cu(CH3COO)2
+composition:
+  - copper
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Green-blue color
+  - Toxic
+  - Crystalline
+  - Soluble in water
+uses:
+  - Green pigment
+  - Fungicide
+  - Dye mordant
+  - Medical (historical)
 naturalAvailability: false
-manufacturingProcess: "Exposing copper plates to vapors of strong vinegar (acetic acid)."
-category: "synthetic"
+manufacturingProcess: Exposing copper plates to vapors of strong vinegar (acetic acid).
+category: synthetic
+image: ../../../assets/images/materials/verdigris.jpg
 ---
 
 Verdigris is the common name for a green pigment obtained through the application of acetic acid to copper plates or the natural patina formed when copper, brass or bronze is weathered and exposed to air or seawater over time.

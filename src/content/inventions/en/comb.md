@@ -1,6 +1,9 @@
 ---
-title: "Comb"
-materialsUsed: ["wood", "bone"]
+title: Comb
+materialsUsed:
+  - wood
+  - bone
+image: ../../../assets/images/inventions/comb.jpg
 ---
 
 # Brief description

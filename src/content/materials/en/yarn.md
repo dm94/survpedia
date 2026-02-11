@@ -1,10 +1,19 @@
 ---
-title: "Yarn"
-properties: ["Flexible", "Continuous", "Tensile Strength", "Twisted"]
-uses: ["Weaving", "Knitting", "Sewing", "Rope making"]
+title: Yarn
+properties:
+  - Flexible
+  - Continuous
+  - Tensile Strength
+  - Twisted
+uses:
+  - Weaving
+  - Knitting
+  - Sewing
+  - Rope making
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Twisting fibers together to form a continuous strand."
+category: synthetic
+manufacturingProcess: Twisting fibers together to form a continuous strand.
+image: ../../../assets/images/materials/yarn.jpg
 ---
 
 A long, continuous length of interlocked fibers, used for the production of textiles, sewing, crocheting, knitting, weaving, embroidery, and rope making.

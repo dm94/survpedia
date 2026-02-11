@@ -1,17 +1,20 @@
 ---
-title: "Paja"
-properties: ["Aislante térmico", "Ligera", "Inflamable", "Biodegradable"]
+title: Paja
+properties:
+  - Aislante térmico
+  - Ligera
+  - Inflamable
+  - Biodegradable
 uses:
-  [
-    "Techos de paja",
-    "Cama para animales",
-    "Aglomerante para adobe",
-    "Aislamiento térmico",
-    "Cestería",
-  ]
+  - Techos de paja
+  - Cama para animales
+  - Aglomerante para adobe
+  - Aislamiento térmico
+  - Cestería
 naturalAvailability: true
-manufacturingProcess: "Subproducto de la cosecha de cereales; los tallos se secan y empacan."
+manufacturingProcess: Subproducto de la cosecha de cereales; los tallos se secan y empacan.
 category: plant
+image: ../../../assets/images/materials/paja.jpg
 ---
 
 La paja es el tallo seco de las plantas de cereales (trigo, cebada, avena, arroz) después de que se han eliminado el grano y la cascarilla. Se distingue del heno, que es hierba seca utilizada para alimentar animales.

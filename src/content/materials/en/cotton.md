@@ -1,10 +1,21 @@
 ---
-title: "Cotton"
-properties: ["Soft", "Absorbent", "Breathable", "Flammable"]
-uses: ["Clothing", "Textiles", "Medical supplies", "Paper"]
+title: Cotton
+properties:
+  - Soft
+  - Absorbent
+  - Breathable
+  - Flammable
+uses:
+  - Clothing
+  - Textiles
+  - Medical supplies
+  - Paper
 naturalAvailability: true
-category: "plant"
-manufacturingProcess: "Harvested from the boll of the cotton plant, ginned to remove seeds, and spun into thread."
+category: plant
+manufacturingProcess: >-
+  Harvested from the boll of the cotton plant, ginned to remove seeds, and spun
+  into thread.
+image: ../../../assets/images/materials/cotton.jpg
 ---
 
 Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae.

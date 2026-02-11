@@ -1,11 +1,21 @@
 ---
-title: "Cal"
-formula: "CaO / Ca(OH)2"
-properties: ["Cáustica", "Blanca", "Aglomerante", "Alcalina"]
-uses: ["Mortero", "Hormigón", "Agricultura", "Curtido", "Saneamiento"]
+title: Cal
+formula: CaO / Ca(OH)2
+properties:
+  - Cáustica
+  - Blanca
+  - Aglomerante
+  - Alcalina
+uses:
+  - Mortero
+  - Hormigón
+  - Agricultura
+  - Curtido
+  - Saneamiento
 naturalAvailability: false
-manufacturingProcess: "Calcinación de piedra caliza."
-category: "synthetic"
+manufacturingProcess: Calcinación de piedra caliza.
+category: synthetic
+image: ../../../assets/images/materials/cal.jpg
 ---
 
 Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y Cal apagada (Ca(OH)2).

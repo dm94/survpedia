@@ -1,7 +1,11 @@
 ---
-title: "Bow"
-
-materialsUsed: ["wood", "plant-fibers", "leather", "resin"]
+title: Bow
+materialsUsed:
+  - wood
+  - plant-fibers
+  - leather
+  - resin
+image: ../../../assets/images/inventions/bow.jpg
 ---
 
 # Brief description

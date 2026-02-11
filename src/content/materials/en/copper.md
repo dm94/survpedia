@@ -1,11 +1,23 @@
 ---
-title: "Copper"
-composition: ["copper"]
-properties: ["Excellent conductor", "Malleable", "Ductile", "Corrosion resistant"]
-uses: ["Electrical wiring", "Plumbing", "Cookware", "Alloys (Bronze/Brass)"]
+title: Copper
+composition:
+  - copper
+properties:
+  - Excellent conductor
+  - Malleable
+  - Ductile
+  - Corrosion resistant
+uses:
+  - Electrical wiring
+  - Plumbing
+  - Cookware
+  - Alloys (Bronze/Brass)
 naturalAvailability: true
-manufacturingProcess: "Mined as ore (e.g., chalcopyrite) and extracted via smelting or found as native copper."
-category: "mineral"
+manufacturingProcess: >-
+  Mined as ore (e.g., chalcopyrite) and extracted via smelting or found as
+  native copper.
+category: mineral
+image: ../../../assets/images/materials/copper.jpg
 ---
 
 Copper is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. It was the first metal to be worked by humans.

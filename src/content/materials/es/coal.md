@@ -1,11 +1,22 @@
 ---
-title: "Carbón mineral"
-composition: ["carbon"]
-properties: ["Alta densidad energética", "Combustible", "Sólido"]
-uses: ["Combustible", "Fundición", "Calefacción", "Máquinas de vapor"]
+title: Carbón mineral
+composition:
+  - carbon
+properties:
+  - Alta densidad energética
+  - Combustible
+  - Sólido
+uses:
+  - Combustible
+  - Fundición
+  - Calefacción
+  - Máquinas de vapor
 naturalAvailability: true
-manufacturingProcess: "Extraído de la tierra mediante la minería de rocas sedimentarias formadas a partir de vegetación prehistórica."
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de la tierra mediante la minería de rocas sedimentarias formadas a
+  partir de vegetación prehistórica.
+category: mineral
+image: ../../../assets/images/materials/coal.jpg
 ---
 
 El carbón mineral es una roca sedimentaria de color negro o marrón oscuro, combustible, que se presenta en estratos rocosos llamados vetas de carbón. Está compuesto principalmente por carbono con cantidades variables de otros elementos.

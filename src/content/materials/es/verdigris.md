@@ -1,13 +1,25 @@
 ---
-title: "Cardenillo (Verdigris)"
-formula: "Cu(CH3COO)2"
-composition: ["cobre", "carbono", "hidrógeno", "oxígeno"]
-properties: ["Color verde azulado", "Tóxico", "Cristalino", "Soluble en agua"]
+title: Cardenillo (Verdigris)
+formula: Cu(CH3COO)2
+composition:
+  - cobre
+  - carbono
+  - hidrógeno
+  - oxígeno
+properties:
+  - Color verde azulado
+  - Tóxico
+  - Cristalino
+  - Soluble en agua
 uses:
-  ["Pigmento verde", "Fungicida", "Mordiente para tintes", "Médico (histórico)"]
+  - Pigmento verde
+  - Fungicida
+  - Mordiente para tintes
+  - Médico (histórico)
 naturalAvailability: false
-manufacturingProcess: "Exponer placas de cobre a vapores de vinagre fuerte (ácido acético)."
-category: "synthetic"
+manufacturingProcess: Exponer placas de cobre a vapores de vinagre fuerte (ácido acético).
+category: synthetic
+image: ../../../assets/images/materials/verdigris.jpg
 ---
 
 El cardenillo (o verdigris) es el nombre común de un pigmento verde obtenido mediante la aplicación de ácido acético a placas de cobre o la pátina natural que se forma cuando el cobre, el latón o el bronce se exponen al aire o al agua de mar con el tiempo.

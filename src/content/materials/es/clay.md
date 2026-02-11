@@ -1,11 +1,20 @@
 ---
-title: "Arcilla"
+title: Arcilla
 properties:
-  ["Maleable cuando está húmeda", "Dura cuando se cuece", "Resistente al calor"]
-uses: ["Alfarería", "Ladrillos", "Cerámica", "Construcción"]
+  - Maleable cuando está húmeda
+  - Dura cuando se cuece
+  - Resistente al calor
+uses:
+  - Alfarería
+  - Ladrillos
+  - Cerámica
+  - Construcción
 naturalAvailability: true
-manufacturingProcess: "Se encuentra en depósitos de suelo, a menudo a lo largo de las riberas de los ríos. Se procesa mediante limpieza y mezcla con agua."
-category: "mineral"
+manufacturingProcess: >-
+  Se encuentra en depósitos de suelo, a menudo a lo largo de las riberas de los
+  ríos. Se procesa mediante limpieza y mezcla con agua.
+category: mineral
+image: ../../../assets/images/materials/clay.jpg
 ---
 
 La arcilla es un material de suelo natural de grano fino que contiene minerales arcillosos. Se vuelve plástica cuando está húmeda y se endurece cuando se seca o se cuece.

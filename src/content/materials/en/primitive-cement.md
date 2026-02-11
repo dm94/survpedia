@@ -1,12 +1,23 @@
 ---
-title: "Primitive Cement"
-composition: ["lime", "pozzolana", "water"]
+title: Primitive Cement
+composition:
+  - lime
+  - pozzolana
+  - water
 properties:
-  ["Hydraulic (sets underwater)", "Waterproof", "Durable", "High strength"]
-uses: ["Roman Concrete", "Cisterns", "Ports and piers", "Wet foundations"]
+  - Hydraulic (sets underwater)
+  - Waterproof
+  - Durable
+  - High strength
+uses:
+  - Roman Concrete
+  - Cisterns
+  - Ports and piers
+  - Wet foundations
 naturalAvailability: false
-manufacturingProcess: "Mixing slaked lime with pozzolana (volcanic ash or crushed brick) and water."
-category: "synthetic"
+manufacturingProcess: Mixing slaked lime with pozzolana (volcanic ash or crushed brick) and water.
+category: synthetic
+image: ../../../assets/images/materials/primitive-cement.jpg
 ---
 
 Primitive cement, often known as **Roman Cement** or **Roman Concrete** (Opus Caementicium), is the technology that allowed ancient civilizations to build structures that have survived millennia, even underwater. Unlike simple lime mortar, this cement is **hydraulic**: it sets and hardens due to a chemical reaction with water, not by drying in the air.

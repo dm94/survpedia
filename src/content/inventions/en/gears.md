@@ -1,7 +1,12 @@
 ---
-title: "Gears"
-
-materialsUsed: ["wood", "bronze", "iron", "steel", "animal-fat"]
+title: Gears
+materialsUsed:
+  - wood
+  - bronze
+  - iron
+  - steel
+  - animal-fat
+image: ../../../assets/images/inventions/gears.jpg
 ---
 
 # Brief description

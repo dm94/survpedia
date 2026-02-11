@@ -1,10 +1,20 @@
 ---
-title: "Beeswax"
-properties: ["Waterproof", "Malleable", "Flammable", "Adhesive"]
-uses: ["Candles", "Waterproofing", "Ointments", "Polishes", "Sealing"]
+title: Beeswax
+properties:
+  - Waterproof
+  - Malleable
+  - Flammable
+  - Adhesive
+uses:
+  - Candles
+  - Waterproofing
+  - Ointments
+  - Polishes
+  - Sealing
 naturalAvailability: true
-manufacturingProcess: "Harvested from honeycombs and melted to purify."
-category: "animal"
+manufacturingProcess: Harvested from honeycombs and melted to purify.
+category: animal
+image: ../../../assets/images/materials/beeswax.jpg
 ---
 
 Beeswax is a natural wax produced by honey bees of the genus Apis. It is an incredibly versatile material used for lighting, waterproofing, and as a structural component in mixtures.

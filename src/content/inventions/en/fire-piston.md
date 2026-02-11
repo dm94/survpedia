@@ -1,6 +1,10 @@
 ---
-title: "Fire Piston"
-materialsUsed: ["wood", "plant-fibers", "leather"]
+title: Fire Piston
+materialsUsed:
+  - wood
+  - plant-fibers
+  - leather
+image: ../../../assets/images/inventions/fire-piston.jpg
 ---
 
 # Brief description

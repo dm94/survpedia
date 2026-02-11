@@ -1,6 +1,10 @@
 ---
-title: "Flint and Pyrite Ignition"
-materialsUsed: ["flint", "pyrite", "plant-fibers"]
+title: Flint and Pyrite Ignition
+materialsUsed:
+  - flint
+  - pyrite
+  - plant-fibers
+image: ../../../assets/images/inventions/flint-and-pyrite.jpg
 ---
 
 # Brief description

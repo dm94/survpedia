@@ -1,7 +1,11 @@
 ---
-title: "Clothing and fabrics"
-
-materialsUsed: ["leather", "wool", "cotton", "plant-fibers"]
+title: Clothing and fabrics
+materialsUsed:
+  - leather
+  - wool
+  - cotton
+  - plant-fibers
+image: ../../../assets/images/inventions/clothing.jpg
 ---
 
 # Brief description

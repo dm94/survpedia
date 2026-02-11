@@ -1,6 +1,11 @@
 ---
-title: "Pickaxe"
-materialsUsed: ["wood", "iron", "stone", "bone"]
+title: Pickaxe
+materialsUsed:
+  - wood
+  - iron
+  - stone
+  - bone
+image: ../../../assets/images/inventions/pickaxe.jpg
 ---
 
 # Brief description

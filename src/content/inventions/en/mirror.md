@@ -1,6 +1,11 @@
 ---
-title: "Mirror"
-materialsUsed: ["glass", "silver", "tin", "copper"]
+title: Mirror
+materialsUsed:
+  - glass
+  - silver
+  - tin
+  - copper
+image: ../../../assets/images/inventions/mirror.jpg
 ---
 
 # Brief description

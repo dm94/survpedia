@@ -1,6 +1,11 @@
 ---
-title: "Brush"
-materialsUsed: ["wood", "animal-hair", "string", "glue"]
+title: Brush
+materialsUsed:
+  - wood
+  - animal-hair
+  - string
+  - glue
+image: ../../../assets/images/inventions/brush.jpg
 ---
 
 # Brief description

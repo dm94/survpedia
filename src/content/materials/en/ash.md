@@ -1,11 +1,22 @@
 ---
-title: "Ash"
-properties: ["Alkaline", "Powdery", "Absorbent", "Fertilizer"]
+title: Ash
+properties:
+  - Alkaline
+  - Powdery
+  - Absorbent
+  - Fertilizer
 uses:
-  ["Lye production", "Soap making", "Fertilizer", "Ceramic glazes", "Cleaning"]
+  - Lye production
+  - Soap making
+  - Fertilizer
+  - Ceramic glazes
+  - Cleaning
 naturalAvailability: false
-manufacturingProcess: "Residue remaining after the complete combustion of wood or other organic materials."
-category: "synthetic"
+manufacturingProcess: >-
+  Residue remaining after the complete combustion of wood or other organic
+  materials.
+category: synthetic
+image: ../../../assets/images/materials/ash.jpg
 ---
 
 Ash is the powdery residue left after the combustion of a substance. Wood ash is of particular importance in a survival context as a source of potash (potassium carbonate) and lye.

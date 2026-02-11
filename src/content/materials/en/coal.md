@@ -1,11 +1,22 @@
 ---
-title: "Coal"
-composition: ["carbon"]
-properties: ["High energy density", "Combustible", "Solid"]
-uses: ["Fuel", "Smelting", "Heating", "Steam Engines"]
+title: Coal
+composition:
+  - carbon
+properties:
+  - High energy density
+  - Combustible
+  - Solid
+uses:
+  - Fuel
+  - Smelting
+  - Heating
+  - Steam Engines
 naturalAvailability: true
-manufacturingProcess: "Extracted from the earth via mining of sedimentary rock formed from prehistoric vegetation."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from the earth via mining of sedimentary rock formed from
+  prehistoric vegetation.
+category: mineral
+image: ../../../assets/images/materials/coal.jpg
 ---
 
 Coal is a combustible black or brownish-black sedimentary rock, formed as rock strata called coal seams. It is mostly carbon with variable amounts of other elements.

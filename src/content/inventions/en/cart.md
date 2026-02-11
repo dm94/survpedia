@@ -1,6 +1,10 @@
 ---
-title: "Cart"
-materialsUsed: ["wood", "iron", "leather"]
+title: Cart
+materialsUsed:
+  - wood
+  - iron
+  - leather
+image: ../../../assets/images/inventions/cart.jpg
 ---
 
 # Brief description

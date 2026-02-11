@@ -1,18 +1,23 @@
 ---
-title: "Cork"
+title: Cork
 properties:
-  ["Impermeable", "Elastic", "Thermal insulator", "Buoyant", "Fire retardant"]
+  - Impermeable
+  - Elastic
+  - Thermal insulator
+  - Buoyant
+  - Fire retardant
 uses:
-  [
-    "Bottle stoppers",
-    "Thermal insulation",
-    "Flooring",
-    "Fishing floats",
-    "Gaskets",
-  ]
+  - Bottle stoppers
+  - Thermal insulation
+  - Flooring
+  - Fishing floats
+  - Gaskets
 naturalAvailability: true
-manufacturingProcess: "Harvested from the bark of the cork oak tree every 9-12 years, boiled, and cut."
+manufacturingProcess: >-
+  Harvested from the bark of the cork oak tree every 9-12 years, boiled, and
+  cut.
 category: plant
+image: ../../../assets/images/materials/cork.jpg
 ---
 
 Cork is a natural material obtained from the bark of the cork oak (_Quercus suber_). It consists of suberin, a hydrophobic substance, and is composed of millions of microscopic air-filled cells, making it lightweight and compressible.

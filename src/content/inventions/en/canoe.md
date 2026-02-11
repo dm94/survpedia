@@ -1,7 +1,9 @@
 ---
-title: "Canoe"
-
-materialsUsed: ["wood", "resin"]
+title: Canoe
+materialsUsed:
+  - wood
+  - resin
+image: ../../../assets/images/inventions/canoe.jpg
 ---
 
 # Brief description

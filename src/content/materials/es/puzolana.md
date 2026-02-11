@@ -1,12 +1,22 @@
 ---
-title: "Puzolana"
-composition: ["silicon", "aluminum"]
-properties: ["Puzolánica", "Reactiva con cal", "Polvo fino", "Abrasivo"]
+title: Puzolana
+composition:
+  - silicon
+  - aluminum
+properties:
+  - Puzolánica
+  - Reactiva con cal
+  - Polvo fino
+  - Abrasivo
 uses:
-  ["Cemento romano", "Hormigón hidráulico", "Mortero impermeable", "Filtros"]
+  - Cemento romano
+  - Hormigón hidráulico
+  - Mortero impermeable
+  - Filtros
 naturalAvailability: true
-manufacturingProcess: "Recolección de ceniza volcánica o trituración de ladrillos/cerámica cocida."
-category: "mineral"
+manufacturingProcess: Recolección de ceniza volcánica o trituración de ladrillos/cerámica cocida.
+category: mineral
+image: ../../../assets/images/materials/puzolana.jpg
 ---
 
 La puzolana es un material silíceo o aluminosilíceo que, por sí solo, posee poco o ningún valor cementante, pero que, en forma finamente dividida y en presencia de humedad, reacciona químicamente con el hidróxido de calcio (**[Cal](/es/materials/cal)**) a temperaturas ordinarias para formar compuestos con propiedades cementantes.

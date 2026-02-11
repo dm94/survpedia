@@ -1,12 +1,25 @@
 ---
-title: "Pintura"
-composition: ["pigmento", "aglutinante", "solvente"]
-properties: ["Adhesión", "Cobertura", "Color", "Viscosidad", "Tiempo de secado"]
-uses: ["Arte", "Decoración", "Protección", "Señalización", "Camuflaje"]
+title: Pintura
+composition:
+  - pigmento
+  - aglutinante
+  - solvente
+properties:
+  - Adhesión
+  - Cobertura
+  - Color
+  - Viscosidad
+  - Tiempo de secado
+uses:
+  - Arte
+  - Decoración
+  - Protección
+  - Señalización
+  - Camuflaje
 naturalAvailability: false
-manufacturingProcess: "Dispersión de partículas de pigmento en un aglutinante líquido."
-
+manufacturingProcess: Dispersión de partículas de pigmento en un aglutinante líquido.
 category: synthetic
+image: ../../../assets/images/materials/pintura.jpg
 ---
 
 La pintura es una sustancia coloreada que se extiende sobre una superficie y se seca para dejar una capa decorativa o protectora delgada. Consta de tres componentes principales: pigmento (color), aglutinante (pegamento) y solvente (diluyente).

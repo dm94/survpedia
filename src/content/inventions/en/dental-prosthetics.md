@@ -1,16 +1,15 @@
 ---
-title: "Dental Prosthetics"
+title: Dental Prosthetics
 materialsUsed:
-  [
-    "bone",
-    "wood",
-    "resin",
-    "beeswax",
-    "gold",
-    "silver",
-    "clay",
-    "natural-rubber",
-  ]
+  - bone
+  - wood
+  - resin
+  - beeswax
+  - gold
+  - silver
+  - clay
+  - natural-rubber
+image: ../../../assets/images/inventions/dental-prosthetics.jpg
 ---
 
 # Brief description

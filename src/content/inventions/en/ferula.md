@@ -1,6 +1,12 @@
 ---
-title: "Splint"
-materialsUsed: ["wood", "fabric", "plant-fibers", "leather", "bone"]
+title: Splint
+materialsUsed:
+  - wood
+  - fabric
+  - plant-fibers
+  - leather
+  - bone
+image: ../../../assets/images/inventions/ferula.jpg
 ---
 
 # Brief description

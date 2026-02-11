@@ -1,7 +1,9 @@
 ---
-title: "Club"
-
-materialsUsed: ["wood", "stone"]
+title: Club
+materialsUsed:
+  - wood
+  - stone
+image: ../../../assets/images/inventions/club.jpg
 ---
 
 # Brief description

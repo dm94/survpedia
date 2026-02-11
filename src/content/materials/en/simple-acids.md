@@ -1,25 +1,25 @@
 ---
-title: "Simple Acids (Strong Vinegar)"
-formula: "CH3COOH"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Simple Acids (Strong Vinegar)
+formula: CH3COOH
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  [
-    "Corrosive",
-    "Strong sour smell",
-    "Liquid (or crystals if very pure)",
-    "Solvent for metals",
-  ]
+  - Corrosive
+  - Strong sour smell
+  - Liquid (or crystals if very pure)
+  - Solvent for metals
 uses:
-  [
-    "Dissolving metals",
-    "Making pigments",
-    "Chemical synthesis",
-    "Strong cleaner",
-    "Medical cauterization",
-  ]
+  - Dissolving metals
+  - Making pigments
+  - Chemical synthesis
+  - Strong cleaner
+  - Medical cauterization
 naturalAvailability: false
-manufacturingProcess: "Concentrating vinegar via fractional freezing or distillation."
-category: "synthetic"
+manufacturingProcess: Concentrating vinegar via fractional freezing or distillation.
+category: synthetic
+image: ../../../assets/images/materials/simple-acids.jpg
 ---
 
 Simple acids, specifically concentrated acetic acid (often called "Strong Vinegar" or "Spirit of Vinegar"), are a step up from household vinegar. While normal vinegar is 5-8% acid, strong vinegar can reach much higher concentrations, making it useful for chemical reactions that weak vinegar cannot sustain.

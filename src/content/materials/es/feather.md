@@ -1,9 +1,18 @@
 ---
-title: "Pluma"
-properties: ["Ligera", "Aerodinámica", "Aislante", "Flexible"]
-uses: ["Estabilización de flechas", "Aislamiento", "Plumas de escribir", "Decoración"]
+title: Pluma
+properties:
+  - Ligera
+  - Aerodinámica
+  - Aislante
+  - Flexible
+uses:
+  - Estabilización de flechas
+  - Aislamiento
+  - Plumas de escribir
+  - Decoración
 naturalAvailability: true
-category: "animal"
+category: animal
+image: ../../../assets/images/materials/feather.jpg
 ---
 
 # Breve descripción

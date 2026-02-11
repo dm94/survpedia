@@ -1,6 +1,14 @@
 ---
-title: "Dental Filling"
-materialsUsed: ["clay", "resin", "beeswax", "charcoal", "tin", "silver", "gold"]
+title: Dental Filling
+materialsUsed:
+  - clay
+  - resin
+  - beeswax
+  - charcoal
+  - tin
+  - silver
+  - gold
+image: ../../../assets/images/inventions/dental-filling.jpg
 ---
 
 # Brief description

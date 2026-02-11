@@ -1,18 +1,27 @@
 ---
-title: "Albayalde (Blanco de Plomo)"
-formula: "2PbCO3·Pb(OH)2"
-composition: ["plomo", "carbono", "hidrógeno", "oxígeno"]
-properties: ["Polvo blanco denso", "Tóxico", "Opaco", "Sabor dulce (¡Mortal!)"]
+title: Albayalde (Blanco de Plomo)
+formula: 2PbCO3·Pb(OH)2
+composition:
+  - plomo
+  - carbono
+  - hidrógeno
+  - oxígeno
+properties:
+  - Polvo blanco denso
+  - Tóxico
+  - Opaco
+  - Sabor dulce (¡Mortal!)
 uses:
-  [
-    "Pigmento blanco",
-    "Cosméticos (Histórico)",
-    "Esmalte cerámico",
-    "Base de pintura",
-  ]
+  - Pigmento blanco
+  - Cosméticos (Histórico)
+  - Esmalte cerámico
+  - Base de pintura
 naturalAvailability: false
-manufacturingProcess: "Proceso de apilado: Exponer bobinas de plomo a vapores de vinagre y CO2 de estiércol fermentado."
-category: "synthetic"
+manufacturingProcess: >-
+  Proceso de apilado: Exponer bobinas de plomo a vapores de vinagre y CO2 de
+  estiércol fermentado.
+category: synthetic
+image: ../../../assets/images/materials/white-lead.jpg
 ---
 
 El albayalde (o blanco de plomo) es una sal compleja que contiene carbonato e hidróxido de plomo. Durante siglos, fue el principal pigmento blanco utilizado en la pintura y cosmética europea, a pesar de su toxicidad.

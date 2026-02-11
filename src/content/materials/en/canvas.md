@@ -1,12 +1,24 @@
 ---
-title: "Canvas"
-composition: ["cotton", "linen", "hemp"]
-properties: ["Strength", "Durability", "Flexibility", "Absorbency"]
-uses: ["Painting surface", "Sails", "Tents", "Bags", "Shoes"]
+title: Canvas
+composition:
+  - cotton
+  - linen
+  - hemp
+properties:
+  - Strength
+  - Durability
+  - Flexibility
+  - Absorbency
+uses:
+  - Painting surface
+  - Sails
+  - Tents
+  - Bags
+  - Shoes
 naturalAvailability: false
-manufacturingProcess: "Weaving heavy-duty yarn into a plain weave fabric."
-
+manufacturingProcess: Weaving heavy-duty yarn into a plain weave fabric.
 category: plant
+image: ../../../assets/images/materials/canvas.jpg
 ---
 
 Canvas is an extremely durable plain-woven fabric used for making sails, tents, marquees, backpacks, and other items for which sturdiness is required, as well as in such fashion objects as handbags, electronic device cases, and shoes. It is also popularly used by artists as a painting surface, typically stretched across a wooden frame.

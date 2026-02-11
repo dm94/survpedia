@@ -1,10 +1,20 @@
 ---
-title: "Clay"
-properties: ["Malleable when wet", "Hard when fired", "Heat resistant"]
-uses: ["Pottery", "Bricks", "Ceramics", "Construction"]
+title: Clay
+properties:
+  - Malleable when wet
+  - Hard when fired
+  - Heat resistant
+uses:
+  - Pottery
+  - Bricks
+  - Ceramics
+  - Construction
 naturalAvailability: true
-manufacturingProcess: "Found in soil deposits, often along riverbanks. Processed by cleaning and mixing with water."
-category: "mineral"
+manufacturingProcess: >-
+  Found in soil deposits, often along riverbanks. Processed by cleaning and
+  mixing with water.
+category: mineral
+image: ../../../assets/images/materials/clay.jpg
 ---
 
 Clay is a fine-grained natural soil material containing clay minerals. It becomes plastic when wet and hardens when dried or fired.

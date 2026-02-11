@@ -1,6 +1,12 @@
 ---
-title: "Drawing Compass"
-materialsUsed: ["wood", "brass", "steel", "bone", "iron"]
+title: Drawing Compass
+materialsUsed:
+  - wood
+  - brass
+  - steel
+  - bone
+  - iron
+image: ../../../assets/images/inventions/drawing-compass.jpg
 ---
 
 # Brief description

@@ -1,24 +1,21 @@
 ---
-title: "Corcho"
+title: Corcho
 properties:
-  [
-    "Impermeable",
-    "Elástico",
-    "Aislante térmico",
-    "Flotante",
-    "Retardante de fuego",
-  ]
+  - Impermeable
+  - Elástico
+  - Aislante térmico
+  - Flotante
+  - Retardante de fuego
 uses:
-  [
-    "Tapones de botella",
-    "Aislamiento térmico",
-    "Suelos",
-    "Flotadores de pesca",
-    "Juntas",
-  ]
+  - Tapones de botella
+  - Aislamiento térmico
+  - Suelos
+  - Flotadores de pesca
+  - Juntas
 naturalAvailability: true
-manufacturingProcess: "Cosechado de la corteza del alcornoque cada 9-12 años, hervido y cortado."
+manufacturingProcess: 'Cosechado de la corteza del alcornoque cada 9-12 años, hervido y cortado.'
 category: plant
+image: ../../../assets/images/materials/corcho.jpg
 ---
 
 El corcho es un material natural obtenido de la corteza del alcornoque (_Quercus suber_). Consiste en suberina, una sustancia hidrofóbica, y está compuesto por millones de células microscópicas llenas de aire, lo que lo hace ligero y compresible.

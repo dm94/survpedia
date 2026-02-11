@@ -1,6 +1,8 @@
 ---
-title: "Oar"
-materialsUsed: ["wood"]
+title: Oar
+materialsUsed:
+  - wood
+image: ../../../assets/images/inventions/oar.jpg
 ---
 
 # Brief description

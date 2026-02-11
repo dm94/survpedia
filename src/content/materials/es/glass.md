@@ -1,21 +1,31 @@
 ---
-title: "Vidrio"
-formula: "SiO2 (principal)"
-composition: ["silicon", "oxygen", "sodium", "calcium"]
+title: Vidrio
+formula: SiO2 (principal)
+composition:
+  - silicon
+  - oxygen
+  - sodium
+  - calcium
 properties:
-  ["Transparente", "Duro", "Frágil", "Inerte", "Impermeable", "Aislante"]
+  - Transparente
+  - Duro
+  - Frágil
+  - Inerte
+  - Impermeable
+  - Aislante
 uses:
-  [
-    "Ventanas",
-    "Contenedores",
-    "Lentes",
-    "Espejos",
-    "Aislamiento térmico",
-    "Instrumental de laboratorio",
-  ]
+  - Ventanas
+  - Contenedores
+  - Lentes
+  - Espejos
+  - Aislamiento térmico
+  - Instrumental de laboratorio
 naturalAvailability: false
-manufacturingProcess: "Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un enfriamiento rápido pero controlado (recocido)."
-category: "synthetic"
+manufacturingProcess: >-
+  Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un
+  enfriamiento rápido pero controlado (recocido).
+category: synthetic
+image: ../../../assets/images/materials/glass.jpg
 ---
 
 El vidrio es un material sólido inorgánico, no cristalino (amorfo), que suele ser transparente. Es esencial para la civilización moderna, permitiendo desde la protección contra el clima manteniendo la luz, hasta la corrección de la visión y el avance de la química.
