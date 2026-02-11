@@ -1,6 +1,12 @@
 ---
-title: "Pozo de Nieve"
-materialsUsed: ["stone", "brick", "wood", "straw", "water"]
+title: Pozo de Nieve
+materialsUsed:
+  - stone
+  - brick
+  - wood
+  - straw
+  - water
+image: ../../../assets/images/inventions/pozo-de-nieve.jpg
 ---
 
 # Descripción breve

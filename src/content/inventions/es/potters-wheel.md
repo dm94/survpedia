@@ -1,6 +1,10 @@
 ---
-title: "Torno de Alfarero"
-materialsUsed: ["wood", "stone", "leather"]
+title: Torno de Alfarero
+materialsUsed:
+  - wood
+  - stone
+  - leather
+image: ../../../assets/images/inventions/potters-wheel.jpg
 ---
 
 # Breve descripción
