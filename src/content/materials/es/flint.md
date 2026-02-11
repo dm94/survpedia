@@ -1,11 +1,23 @@
 ---
-title: "Sílex"
-composition: ["silicon", "oxygen"]
-properties: ["Duro", "Frágil", "Bordes afilados al romperse", "Produce chispas"]
-uses: ["Herramientas de piedra", "Armas", "Encendido de fuego"]
+title: Sílex
+composition:
+  - silicon
+  - oxygen
+properties:
+  - Duro
+  - Frágil
+  - Bordes afilados al romperse
+  - Produce chispas
+uses:
+  - Herramientas de piedra
+  - Armas
+  - Encendido de fuego
 naturalAvailability: true
-category: "mineral"
-manufacturingProcess: "Se encuentra naturalmente en nódulos en rocas sedimentarias como la tiza o la caliza."
+category: mineral
+manufacturingProcess: >-
+  Se encuentra naturalmente en nódulos en rocas sedimentarias como la tiza o la
+  caliza.
+image: ../../../assets/images/materials/flint.jpg
 ---
 
 El sílex es una forma sedimentaria criptocristalina del mineral cuarzo, categorizada como una variedad de calcedonia. Se presenta principalmente como nódulos y masas en rocas sedimentarias, como tizas y calizas.

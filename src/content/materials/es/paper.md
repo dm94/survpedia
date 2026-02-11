@@ -1,11 +1,25 @@
 ---
-title: "Papel"
-composition: ["cellulose"]
-properties: ["Fino", "Flexible", "Absorbente", "Imprimible", "Combustible"]
-uses: ["Escritura", "Impresión", "Embalaje", "Higiene", "Filtración"]
+title: Papel
+composition:
+  - cellulose
+properties:
+  - Fino
+  - Flexible
+  - Absorbente
+  - Imprimible
+  - Combustible
+uses:
+  - Escritura
+  - Impresión
+  - Embalaje
+  - Higiene
+  - Filtración
 naturalAvailability: false
-manufacturingProcess: "Prensado de fibras húmedas de pulpa de celulosa derivadas de madera, trapos o hierbas, y secado en hojas flexibles."
-category: "synthetic"
+manufacturingProcess: >-
+  Prensado de fibras húmedas de pulpa de celulosa derivadas de madera, trapos o
+  hierbas, y secado en hojas flexibles.
+category: synthetic
+image: ../../../assets/images/materials/paper.jpg
 ---
 
 El papel es un material laminar delgado producido por el entretejido (fieltrado) de fibras de celulosa procedentes de plantas, que se depositan sobre un tamiz a partir de una suspensión acuosa y luego se secan.

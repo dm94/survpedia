@@ -1,10 +1,21 @@
 ---
-title: "Grasa animal"
-properties: ["Lubricante", "Combustible", "Hidrófugo", "Blando a temperatura ambiente"]
-uses: ["Lubricación", "Fabricación de jabón", "Velas", "Cocina"]
+title: Grasa animal
+properties:
+  - Lubricante
+  - Combustible
+  - Hidrófugo
+  - Blando a temperatura ambiente
+uses:
+  - Lubricación
+  - Fabricación de jabón
+  - Velas
+  - Cocina
 naturalAvailability: true
-manufacturingProcess: "Extraída de los tejidos adiposos de los animales (como vacas, ovejas o cerdos) mediante calentamiento (derretido)."
-category: "animal"
+manufacturingProcess: >-
+  Extraída de los tejidos adiposos de los animales (como vacas, ovejas o cerdos)
+  mediante calentamiento (derretido).
+category: animal
+image: ../../../assets/images/materials/animal-fat.jpg
 ---
 
 La grasa animal, específicamente cuando se procesa como sebo o manteca, es un material orgánico versátil utilizado desde la antigüedad tanto para energía como para lubricación.
@@ -57,6 +68,6 @@ Es una sustancia grasienta y pálida que es sólida o semisólida a temperatura 
 
 ### Materiales relacionados
 
-- **[Cuero](/es/materials/leather)**: A menudo tratado con grasas para mantenerlo flexible (parte del [Curtido](/es/inventions/curtido)).
+- **[Cuero](/es/materials/leather)**: A menudo tratado con grasas para mantenerlo flexible (parte del [Curtido](/es/knowledge/curtido)).
 - **[Jabón](/es/materials/soap)**: Producido al reaccionar grasas con un álcali.
 - **[Madera](/es/materials/wood)**: Los ejes y engranajes de madera requieren una aplicación frecuente de grasa.

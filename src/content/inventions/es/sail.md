@@ -1,6 +1,9 @@
 ---
-title: "Vela (Navegación)"
-materialsUsed: ["fabric", "plant-fibers"]
+title: Vela (Navegación)
+materialsUsed:
+  - fabric
+  - plant-fibers
+image: ../../../assets/images/inventions/sail.jpg
 ---
 
 # Breve descripción

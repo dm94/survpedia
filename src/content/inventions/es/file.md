@@ -1,7 +1,6 @@
 ---
 title: "Lima"
 materialsUsed: ["steel", "iron"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -26,6 +25,7 @@ La lima funciona por cizallamiento. Cada diente en la lima actúa como una peque
 ## Cómo crearla
 
 ### Pasos de fabricación
+
 1.  **Forjado**: Dar forma a una pieza de acero con alto contenido de carbono en el perfil deseado (plana, redonda, media caña).
 2.  **Recocido**: Ablandar el acero para que se puedan cortar los dientes.
 3.  **Rectificado**: Rectificar la superficie para que quede plana y lisa.
@@ -35,10 +35,10 @@ La lima funciona por cizallamiento. Cada diente en la lima actúa como una peque
 ## Materiales necesarios
 
 - **Materiales esenciales**:
-    - **Acero de alto carbono**: Esencial para mantener un borde afilado y ser más duro que otros metales.
+  - **Acero de alto carbono**: Esencial para mantener un borde afilado y ser más duro que otros metales.
 - **Herramientas**:
-    - **Cincel**: Un cincel corto y duro especial para cortar los dientes.
-    - **Martillo**: Para golpear el cincel.
+  - **Cincel**: Un cincel corto y duro especial para cortar los dientes.
+  - **Martillo**: Para golpear el cincel.
 
 ## Variantes y mejoras
 

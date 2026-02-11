@@ -2,7 +2,6 @@
 title: "Puente"
 materialsUsed:
   ["wood", "stone", "rope", "iron", "steel", "concrete", "brick", "mortar"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

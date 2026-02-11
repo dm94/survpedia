@@ -1,12 +1,26 @@
 ---
-title: "Sulfuric Acid"
-formula: "H2SO4"
-composition: ["sulfur", "hydrogen", "oxygen"]
-properties: ["Highly corrosive", "Strong dehydrating agent", "Colorless liquid", "Oily texture"]
-uses: ["Battery electrolyte", "Fertilizer production", "Ore processing", "Cleaning metal"]
+title: Sulfuric Acid
+formula: H2SO4
+composition:
+  - sulfur
+  - hydrogen
+  - oxygen
+properties:
+  - Highly corrosive
+  - Strong dehydrating agent
+  - Colorless liquid
+  - Oily texture
+uses:
+  - Battery electrolyte
+  - Fertilizer production
+  - Ore processing
+  - Cleaning metal
 naturalAvailability: false
-manufacturingProcess: "Produced by burning sulfur and dissolving the resulting oxides in water (Contact Process or Lead Chamber Process)."
-category: "synthetic"
+manufacturingProcess: >-
+  Produced by burning sulfur and dissolving the resulting oxides in water
+  (Contact Process or Lead Chamber Process).
+category: synthetic
+image: ../../../assets/images/materials/sulfuric-acid.jpg
 ---
 
 Sulfuric acid is a strong mineral acid. It is colorless, odorless, and viscous. It is one of the most important industrial chemicals.

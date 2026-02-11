@@ -1,10 +1,22 @@
 ---
-title: "Soap"
-properties: ["Water Soluble", "Emulsifier", "Slippery", "Cleaning Agent"]
-uses: ["Hygiene", "Laundry", "Cleaning", "Lubricant", "Insecticide"]
+title: Soap
+properties:
+  - Water Soluble
+  - Emulsifier
+  - Slippery
+  - Cleaning Agent
+uses:
+  - Hygiene
+  - Laundry
+  - Cleaning
+  - Lubricant
+  - Insecticide
 naturalAvailability: false
-manufacturingProcess: "Produced by the chemical reaction (saponification) of a fat or oil with a strong alkali (lye)."
-category: "synthetic"
+manufacturingProcess: >-
+  Produced by the chemical reaction (saponification) of a fat or oil with a
+  strong alkali (lye).
+category: synthetic
+image: ../../../assets/images/materials/soap.jpg
 ---
 
 Soap is a salt of a fatty acid used primarily for washing, bathing, and cleaning. It works as a surfactant, emulsifying oils to enable them to be carried away by water. It is a fundamental technology for hygiene and disease prevention.

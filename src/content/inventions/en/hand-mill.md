@@ -1,7 +1,9 @@
 ---
-title: "Manual Mill (grain)"
-
-materialsUsed: ["stone", "wood"]
+title: Manual Mill (grain)
+materialsUsed:
+  - stone
+  - wood
+image: ../../../assets/images/inventions/hand-mill.jpg
 ---
 
 # Brief description

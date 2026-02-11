@@ -1,10 +1,21 @@
 ---
-title: "Wood"
-properties: ["Strong", "Flammable", "Buoyant", "Thermal insulator"]
-uses: ["Construction", "Tools", "Fuel", "Paper", "Machinery", "Water wheels"]
+title: Wood
+properties:
+  - Strong
+  - Flammable
+  - Buoyant
+  - Thermal insulator
+uses:
+  - Construction
+  - Tools
+  - Fuel
+  - Paper
+  - Machinery
+  - Water wheels
 naturalAvailability: true
-manufacturingProcess: "Obtained directly from tree trunks through logging and sawing."
-category: "plant"
+manufacturingProcess: Obtained directly from tree trunks through logging and sawing.
+category: plant
+image: ../../../assets/images/materials/wood.jpg
 ---
 
 Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants. It is an organic material—a natural composite of cellulose fibers that are strong in tension and embedded in a matrix of lignin that resists compression.
@@ -63,4 +74,4 @@ Wood is generally light to medium weight, easy to carve or cut, and has a distin
 - **[Paper](/en/materials/paper)**: Made from processed wood fibers.
 - **[Natural Rubber](/en/materials/natural-rubber)**: Harvested from specific types of trees.
 - **[Ash](/en/materials/ash)**: Residue left after burning wood.
-- **[Tanning](/en/inventions/tanning)**: Bark is a primary source of tannins.
+- **[Tanning](/en/knowledge/tanning)**: Bark is a primary source of tannins.

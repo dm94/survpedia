@@ -1,11 +1,21 @@
 ---
-title: "Tin"
-composition: ["tin"]
-properties: ["Malleable", "Ductile", "Corrosion-resistant", "Low melting point"]
-uses: ["Soldering", "Tin-plating", "Bronze production", "Type metal alloy"]
+title: Tin
+composition:
+  - tin
+properties:
+  - Malleable
+  - Ductile
+  - Corrosion-resistant
+  - Low melting point
+uses:
+  - Soldering
+  - Tin-plating
+  - Bronze production
+  - Type metal alloy
 naturalAvailability: true
-manufacturingProcess: "Extracted from cassiterite (tin oxide) by smelting with charcoal."
-category: "mineral"
+manufacturingProcess: Extracted from cassiterite (tin oxide) by smelting with charcoal.
+category: mineral
+image: ../../../assets/images/materials/tin.jpg
 ---
 
 Tin is a silvery-white, soft, and malleable metal. It is most famous for its use in making bronze (alloyed with copper) and for its resistance to corrosion.

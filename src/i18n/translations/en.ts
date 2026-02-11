@@ -3,6 +3,7 @@ export const en = {
   'nav.elements': 'Elements',
   'nav.materials': 'Materials',
   'nav.inventions': 'Inventions',
+  'nav.knowledge': 'Knowledge',
   'nav.search': 'Search',
   'home.title': 'Survpedia',
   'home.description':
@@ -13,10 +14,14 @@ export const en = {
     'Compounds, alloys, and natural resources. Learn how to process them.',
   'home.inventions.desc':
     'Inventions that shaped civilization. Step-by-step guides.',
+  'home.knowledge.desc':
+    'Essential concepts, guides, and skills for survival.',
   'elements.title': 'Periodic Table',
   'materials.title': 'Materials',
   'inventions.title': 'Inventions',
+  'knowledge.title': 'Knowledge',
   'common.madeOf': 'Made of',
+  'common.relatedMaterials': 'Related Materials',
   'common.usedFor': 'Used for',
   'common.properties': 'Properties',
   'common.readMore': 'Read more',
@@ -26,6 +31,7 @@ export const en = {
   'materials.natural': 'Natural',
   'materials.synthetic': 'Synthetic',
   'inventions.desc': 'Discover how the tools that define our era were created.',
+  'knowledge.desc': 'Essential concepts, guides, and skills for survival.',
   'search.placeholder': 'Search Survpedia...',
   'search.noResults': 'No results found for "[SEARCH_TERM]"',
   '404.title': 'Page Not Found',

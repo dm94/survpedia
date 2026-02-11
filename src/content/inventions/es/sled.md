@@ -1,7 +1,6 @@
 ---
 title: "Trineo"
 materialsUsed: ["wood", "plant-fibers", "bone", "leather"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

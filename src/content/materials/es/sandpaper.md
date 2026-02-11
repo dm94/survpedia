@@ -1,10 +1,17 @@
 ---
-title: "Papel de lija"
-properties: ["Abrasivo", "Flexible", "Rugoso"]
-uses: ["Alisado de madera", "Pulido de metal", "Preparación de superficies"]
+title: Papel de lija
+properties:
+  - Abrasivo
+  - Flexible
+  - Rugoso
+uses:
+  - Alisado de madera
+  - Pulido de metal
+  - Preparación de superficies
 naturalAvailability: false
-manufacturingProcess: "Adhesión de granos abrasivos a un soporte flexible (papel o tela)."
-category: "other"
+manufacturingProcess: Adhesión de granos abrasivos a un soporte flexible (papel o tela).
+category: other
+image: ../../../assets/images/materials/sandpaper.jpg
 ---
 
 # Breve descripción

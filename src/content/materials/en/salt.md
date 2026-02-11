@@ -1,12 +1,25 @@
 ---
-title: "Salt"
-formula: "NaCl"
-composition: ["sodium", "chlorine"]
-properties: ["Crystalline", "Soluble in water", "Preservative", "Flavor enhancer"]
-uses: ["Food preservation", "Seasoning", "Chemical industry", "De-icing"]
+title: Salt
+formula: NaCl
+composition:
+  - sodium
+  - chlorine
+properties:
+  - Crystalline
+  - Soluble in water
+  - Preservative
+  - Flavor enhancer
+uses:
+  - Food preservation
+  - Seasoning
+  - Chemical industry
+  - De-icing
 naturalAvailability: true
-manufacturingProcess: "Extracted from seawater by evaporation or mined from underground deposits (halite)."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from seawater by evaporation or mined from underground deposits
+  (halite).
+category: mineral
+image: ../../../assets/images/materials/salt.jpg
 ---
 
 Salt, specifically table salt, is a mineral composed primarily of sodium chloride. It is essential for life and has been a highly valued commodity throughout history.
@@ -35,7 +48,7 @@ Salt typically appears as white or clear crystals. It has a distinctive sharp, "
 
 ### Common forms of use
 
-- **Coarse Salt:** For curing (meat, **[hides](/en/inventions/tanning)**) and industrial use.
+- **Coarse Salt:** For curing (meat, **[hides](/en/knowledge/tanning)**) and industrial use.
 - **Fine Salt:** For seasoning.
 - **Brine:** Salt dissolved in water for pickling and preservation.
 

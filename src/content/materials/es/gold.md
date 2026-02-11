@@ -1,25 +1,25 @@
 ---
-title: "Oro"
-composition: ["gold"]
+title: Oro
+composition:
+  - gold
 properties:
-  [
-    "Extremadamente maleable",
-    "Dúctil",
-    "Resistente a la corrosión",
-    "Excelente conductor",
-    "Denso",
-  ]
+  - Extremadamente maleable
+  - Dúctil
+  - Resistente a la corrosión
+  - Excelente conductor
+  - Denso
 uses:
-  [
-    "Moneda",
-    "Joyería",
-    "Electrónica",
-    "Odontología",
-    "Blindaje contra radiación",
-  ]
+  - Moneda
+  - Joyería
+  - Electrónica
+  - Odontología
+  - Blindaje contra radiación
 naturalAvailability: true
-manufacturingProcess: "Se encuentra como metal nativo en lechos de ríos (placer) o vetas; refinado por fundición."
-category: "mineral"
+manufacturingProcess: >-
+  Se encuentra como metal nativo en lechos de ríos (placer) o vetas; refinado
+  por fundición.
+category: mineral
+image: ../../../assets/images/materials/gold.jpg
 ---
 
 # Descripción de cómo es

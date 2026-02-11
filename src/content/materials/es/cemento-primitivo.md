@@ -1,11 +1,16 @@
 ---
 title: "Cemento Primitivo"
 composition: ["cal", "puzolana", "water"]
-properties: ["Hidráulico (fragua bajo agua)", "Impermeable", "Duradero", "Alta resistencia"]
+properties:
+  [
+    "Hidráulico (fragua bajo agua)",
+    "Impermeable",
+    "Duradero",
+    "Alta resistencia",
+  ]
 uses: ["Hormigón Romano", "Cisternas", "Puertos y muelles", "Cimientos húmedos"]
 naturalAvailability: false
 manufacturingProcess: "Mezcla de cal apagada con puzolana (ceniza volcánica o polvo de ladrillo) y agua."
-image: ../../../assets/placeholder.jpg
 category: "synthetic"
 ---
 
@@ -41,7 +46,7 @@ Es un material compuesto sintético. No se encuentra en la naturaleza, pero sus 
 
 ### Formas comunes de uso
 
-- **Hormigón Romano:** Mezcla de cemento primitivo con *caementa* (piedras de puño). Usado para cúpulas (Panteón), acueductos y muros.
+- **Hormigón Romano:** Mezcla de cemento primitivo con _caementa_ (piedras de puño). Usado para cúpulas (Panteón), acueductos y muros.
 - **Revestimiento Impermeable:** Para sellar el interior de cisternas y tuberías.
 - **Mortero de Unión:** Para pegar ladrillos en ambientes muy húmedos donde el mortero de cal normal no secaría.
 

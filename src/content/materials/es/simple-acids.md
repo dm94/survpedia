@@ -2,12 +2,24 @@
 title: "Ácidos simples (vinagre fuerte)"
 formula: "CH3COOH"
 composition: ["carbono", "hidrógeno", "oxígeno"]
-properties: ["Corrosivo", "Olor agrio fuerte", "Líquido (o cristales si es muy puro)", "Disolvente de metales"]
-uses: ["Disolver metales", "Hacer pigmentos", "Síntesis química", "Limpiador fuerte", "Cauterización médica"]
+properties:
+  [
+    "Corrosivo",
+    "Olor agrio fuerte",
+    "Líquido (o cristales si es muy puro)",
+    "Disolvente de metales",
+  ]
+uses:
+  [
+    "Disolver metales",
+    "Hacer pigmentos",
+    "Síntesis química",
+    "Limpiador fuerte",
+    "Cauterización médica",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Concentración de vinagre mediante congelación fraccionada o destilación."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 Los ácidos simples, específicamente el ácido acético concentrado (a menudo llamado "Vinagre Fuerte" o "Espíritu de Vinagre"), son un paso más allá del vinagre doméstico. Mientras que el vinagre normal tiene un 5-8% de ácido, el vinagre fuerte puede alcanzar concentraciones mucho más altas, lo que lo hace útil para reacciones químicas que el vinagre débil no puede sostener.

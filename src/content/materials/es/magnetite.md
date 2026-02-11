@@ -1,11 +1,23 @@
 ---
-title: "Magnetita"
-composition: ["iron", "oxygen"]
-properties: ["Magnético", "Pesado", "Negro", "Metálico"]
-uses: ["Brújula", "Producción de Hierro", "Navegación"]
+title: Magnetita
+composition:
+  - iron
+  - oxygen
+properties:
+  - Magnético
+  - Pesado
+  - Negro
+  - Metálico
+uses:
+  - Brújula
+  - Producción de Hierro
+  - Navegación
 naturalAvailability: true
-manufacturingProcess: "Extraído de la tierra. Las piezas magnetizadas naturalmente se conocen como Piedra Imán."
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de la tierra. Las piezas magnetizadas naturalmente se conocen como
+  Piedra Imán.
+category: mineral
+image: ../../../assets/images/materials/magnetite.jpg
 ---
 
 La magnetita es un mineral rocoso y una de las principales menas de hierro. Es ferrimagnética; es atraída por un imán y puede ser magnetizada para convertirse en un imán permanente. Es el más magnético de todos los minerales naturales de la Tierra.

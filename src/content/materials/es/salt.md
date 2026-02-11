@@ -1,12 +1,23 @@
 ---
-title: "Sal"
-formula: "NaCl"
-composition: ["sodium", "chlorine"]
-properties: ["Cristalina", "Soluble en agua", "Conservante", "Potenciador del sabor"]
-uses: ["Preservación de alimentos", "Sazonado", "Industria química", "Deshielo"]
+title: Sal
+formula: NaCl
+composition:
+  - sodium
+  - chlorine
+properties:
+  - Cristalina
+  - Soluble en agua
+  - Conservante
+  - Potenciador del sabor
+uses:
+  - Preservación de alimentos
+  - Sazonado
+  - Industria química
+  - Deshielo
 naturalAvailability: true
-manufacturingProcess: "Extraída del agua de mar por evaporación o de depósitos subterráneos (halita)."
-category: "mineral"
+manufacturingProcess: Extraída del agua de mar por evaporación o de depósitos subterráneos (halita).
+category: mineral
+image: ../../../assets/images/materials/salt.jpg
 ---
 
 La sal, específicamente la sal de mesa, es un mineral compuesto principalmente de cloruro de sodio. Es esencial para la vida y ha sido un producto muy valorado a lo largo de la historia.
@@ -35,7 +46,7 @@ La sal suele aparecer como cristales blancos o transparentes. Tiene un sabor "sa
 
 ### Formas comunes de uso
 
-- **Sal gruesa:** Para curado (carne, **[pieles](/es/inventions/curtido)**) y uso industrial.
+- **Sal gruesa:** Para curado (carne, **[pieles](/es/knowledge/curtido)**) y uso industrial.
 - **Sal fina:** Para sazonar.
 - **Salmuera:** Sal disuelta en agua para encurtidos y preservación.
 

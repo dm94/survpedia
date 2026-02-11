@@ -1,12 +1,22 @@
 ---
-title: "Zinc"
-formula: "Zn"
-composition: ["zinc"]
-properties: ["Resistente a la corrosión", "Bajo punto de fusión", "Quebradizo a temperatura ambiente", "Maleable al calentarse"]
-uses: ["Galvanizado", "Producción de latón", "Baterías", "Ánodos de sacrificio"]
+title: Zinc
+formula: Zn
+composition:
+  - zinc
+properties:
+  - Resistente a la corrosión
+  - Bajo punto de fusión
+  - Quebradizo a temperatura ambiente
+  - Maleable al calentarse
+uses:
+  - Galvanizado
+  - Producción de latón
+  - Baterías
+  - Ánodos de sacrificio
 naturalAvailability: false
-manufacturingProcess: "Extraído de minerales como la esfalerita a través de tostado y reducción."
-category: "mineral"
+manufacturingProcess: Extraído de minerales como la esfalerita a través de tostado y reducción.
+category: mineral
+image: ../../../assets/images/materials/zinc.jpg
 ---
 
 El zinc es un metal de color blanco azulado y brillante. Es quebradizo a la mayoría de las temperaturas, pero se vuelve maleable entre 100 °C y 150 °C. Es un metal moderadamente reactivo.

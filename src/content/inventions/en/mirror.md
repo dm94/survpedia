@@ -1,7 +1,6 @@
 ---
 title: "Mirror"
 materialsUsed: ["glass", "silver", "tin", "copper"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

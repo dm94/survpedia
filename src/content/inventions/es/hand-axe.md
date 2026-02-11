@@ -1,7 +1,9 @@
 ---
-title: "Hacha de mano"
-
-materialsUsed: ["flint", "stone"]
+title: Hacha de mano
+materialsUsed:
+  - flint
+  - stone
+image: ../../../assets/images/inventions/hand-axe.jpg
 ---
 
 # Breve descripción

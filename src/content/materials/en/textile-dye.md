@@ -1,11 +1,24 @@
 ---
-title: "Textile Dye"
-composition: ["water", "pigments", "mordant"]
-properties: ["Soluble", "Colorful", "Permanent (if mordanted)", "Liquid"]
-uses: ["Clothing coloration", "Art", "Camouflage", "Status identification", "Ink manufacturing"]
+title: Textile Dye
+composition:
+  - water
+  - pigments
+  - mordant
+properties:
+  - Soluble
+  - Colorful
+  - Permanent (if mordanted)
+  - Liquid
+uses:
+  - Clothing coloration
+  - Art
+  - Camouflage
+  - Status identification
+  - Ink manufacturing
 naturalAvailability: true
-manufacturingProcess: "Extraction of pigments from plants/insects and fixation with mordants."
-category: "other"
+manufacturingProcess: Extraction of pigments from plants/insects and fixation with mordants.
+category: other
+image: ../../../assets/images/materials/textile-dye.jpg
 ---
 
 Textile dyes are substances capable of chemically bonding with fibers to impart permanent color. Unlike pigments (which sit on the surface), dyes penetrate the fiber structure.

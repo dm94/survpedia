@@ -1,6 +1,9 @@
 ---
-title: "Fuego por taladro manual"
-materialsUsed: ["wood", "plant-fibers"]
+title: Fuego por taladro manual
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/hand-drill-fire.jpg
 ---
 
 # Breve descripción

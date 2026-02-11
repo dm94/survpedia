@@ -1,6 +1,12 @@
 ---
-title: "Baño de Vapor"
-materialsUsed: ["water", "stone", "wood", "brick", "mortar"]
+title: Baño de Vapor
+materialsUsed:
+  - water
+  - stone
+  - wood
+  - brick
+  - mortar
+image: ../../../assets/images/inventions/steam-bath.jpg
 ---
 
 # Breve descripción
@@ -42,7 +48,7 @@ Un baño de vapor es un recinto calentado que se llena de calor húmedo para lim
 - **Sudatorio:** Domo bajo con fuego externo y piedras introducidas.
 - **Estilo sauna:** Calor seco con salpicaduras de agua.
 - **Estilo hammam:** Varias salas con calor gradual.
-- **Vapor herbal:** Añadir **[hierbas curativas](/es/materials/healing-herbs)** para aroma y confort respiratorio.
+- **Vapor herbal:** Añadir **[hierbas curativas](/es/knowledge/healing-herbs)** para aroma y confort respiratorio.
 - **Tiro de chimenea:** Incorporar una **[chimenea](/es/inventions/chimney)** para aire más limpio y control de calor.
 
 ## Límites y riesgos

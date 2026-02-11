@@ -1,6 +1,10 @@
 ---
-title: "Pistón de fuego"
-materialsUsed: ["wood", "plant-fibers", "leather"]
+title: Pistón de fuego
+materialsUsed:
+  - wood
+  - plant-fibers
+  - leather
+image: ../../../assets/images/inventions/fire-piston.jpg
 ---
 
 # Breve descripción

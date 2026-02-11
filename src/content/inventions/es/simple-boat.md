@@ -1,6 +1,10 @@
 ---
-title: "Barco simple"
-materialsUsed: ["wood", "resin", "plant-fibers"]
+title: Barco simple
+materialsUsed:
+  - wood
+  - resin
+  - plant-fibers
+image: ../../../assets/images/inventions/simple-boat.jpg
 ---
 
 # Breve descripción

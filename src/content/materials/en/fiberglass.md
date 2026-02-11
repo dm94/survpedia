@@ -1,24 +1,21 @@
 ---
-title: "Fiberglass"
+title: Fiberglass
 properties:
-  [
-    "Thermal insulator",
-    "Electrical insulator",
-    "Fire resistant",
-    "High tensile strength",
-    "Rot resistant",
-  ]
+  - Thermal insulator
+  - Electrical insulator
+  - Fire resistant
+  - High tensile strength
+  - Rot resistant
 uses:
-  [
-    "Building insulation",
-    "Reinforced plastics (GRP)",
-    "Circuit boards",
-    "Pipes",
-    "Boat hulls",
-  ]
+  - Building insulation
+  - Reinforced plastics (GRP)
+  - Circuit boards
+  - Pipes
+  - Boat hulls
 naturalAvailability: false
-manufacturingProcess: "Molten glass is extruded through very fine holes to create filaments."
+manufacturingProcess: Molten glass is extruded through very fine holes to create filaments.
 category: synthetic
+image: ../../../assets/images/materials/fiberglass.jpg
 ---
 
 Fiberglass is a material consisting of numerous extremely fine fibers of glass. It is used as an insulating material and as a reinforcing agent for many polymer products (glass-reinforced plastic).

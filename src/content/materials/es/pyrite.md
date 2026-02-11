@@ -1,12 +1,22 @@
 ---
-title: "Pirita"
-formula: "FeS2"
-composition: ["iron", "sulfur"]
-properties: ["Dura", "Frágil", "Brillo metálico", "Produce chispas"]
-uses: ["Encendido de fuego", "Fuente de azufre", "Piedra decorativa"]
+title: Pirita
+formula: FeS2
+composition:
+  - iron
+  - sulfur
+properties:
+  - Dura
+  - Frágil
+  - Brillo metálico
+  - Produce chispas
+uses:
+  - Encendido de fuego
+  - Fuente de azufre
+  - Piedra decorativa
 naturalAvailability: true
-manufacturingProcess: "Recolectada en vetas minerales de rocas sedimentarias, metamórficas o ígneas."
-category: "mineral"
+manufacturingProcess: 'Recolectada en vetas minerales de rocas sedimentarias, metamórficas o ígneas.'
+category: mineral
+image: ../../../assets/images/materials/pyrite.jpg
 ---
 
 La pirita es un sulfuro de hierro con brillo metálico intenso, conocida como "oro de los tontos" por su color amarillo.

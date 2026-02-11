@@ -1,7 +1,6 @@
 ---
 title: "Sled"
 materialsUsed: ["wood", "plant-fibers", "bone", "leather"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

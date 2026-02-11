@@ -1,11 +1,23 @@
 ---
-title: "Steel"
-composition: ["iron", "carbon"]
-properties: ["Hardness", "Tensile strength", "Durability", "Malleability"]
-uses: ["Tools", "Weapons", "Construction", "Surgical instruments", "Machinery"]
+title: Steel
+composition:
+  - iron
+  - carbon
+properties:
+  - Hardness
+  - Tensile strength
+  - Durability
+  - Malleability
+uses:
+  - Tools
+  - Weapons
+  - Construction
+  - Surgical instruments
+  - Machinery
 naturalAvailability: false
-manufacturingProcess: "Smelting iron with carbon to remove impurities and adjust carbon content."
+manufacturingProcess: Smelting iron with carbon to remove impurities and adjust carbon content.
 category: synthetic
+image: ../../../assets/images/materials/steel.jpg
 ---
 
 Steel is an alloy of iron and carbon, and sometimes other elements. Because of its high tensile strength and low cost, it is a major component used in buildings, infrastructure, tools, ships, trains, cars, machines, electrical appliances, and weapons.

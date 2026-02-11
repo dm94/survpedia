@@ -1,7 +1,6 @@
 ---
 title: "Invention Name"
 materialsUsed: ["material_id_1", "material_id_2"]
-image: "../../assets/placeholder.jpg" # Optional
 ---
 
 # Brief description

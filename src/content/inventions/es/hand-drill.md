@@ -1,6 +1,10 @@
 ---
-title: "Taladro Manual"
-materialsUsed: ["wood", "steel", "iron"]
+title: Taladro Manual
+materialsUsed:
+  - wood
+  - steel
+  - iron
+image: ../../../assets/images/inventions/hand-drill.jpg
 ---
 
 # Breve descripción

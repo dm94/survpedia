@@ -1,17 +1,24 @@
 ---
-title: "Ladrillo"
-composition: ["clay", "sand", "water", "paja"]
+title: Ladrillo
+composition:
+  - clay
+  - sand
+  - water
+  - paja
 properties:
-  [
-    "Resistencia a la compresión",
-    "Aislamiento térmico",
-    "Resistencia al fuego",
-    "Durabilidad",
-  ]
-uses: ["Construcción de muros", "Hornos", "Chimeneas", "Pavimentación"]
+  - Resistencia a la compresión
+  - Aislamiento térmico
+  - Resistencia al fuego
+  - Durabilidad
+uses:
+  - Construcción de muros
+  - Hornos
+  - Chimeneas
+  - Pavimentación
 naturalAvailability: false
-manufacturingProcess: "Moldeado de arcilla y posterior secado al sol o cocción en horno."
-category: "synthetic"
+manufacturingProcess: Moldeado de arcilla y posterior secado al sol o cocción en horno.
+category: synthetic
+image: ../../../assets/images/materials/brick.jpg
 ---
 
 El ladrillo es un bloque de material cerámico u hormigón, utilizado principalmente en albañilería para construir muros, cimientos, arcos y otras estructuras. Es uno de los materiales de construcción más antiguos y versátiles.

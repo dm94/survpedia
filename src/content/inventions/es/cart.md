@@ -1,7 +1,6 @@
 ---
 title: "Carro"
 materialsUsed: ["wood", "iron", "leather"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -17,6 +16,7 @@ Un carro es un vehículo de dos ruedas diseñado para el transporte, típicament
 ## Principio de funcionamiento
 
 El carro utiliza la rueda y el eje para reducir la fricción.
+
 - **Distribución de la carga:** La carga se equilibra sobre el eje, lo que significa que el animal de tiro (o persona) solo necesita vencer la resistencia a la rodadura y la inercia, en lugar de soportar todo el peso.
 - **Rodar vs. Deslizar:** Las ruedas ruedan sobre el suelo, reduciendo drásticamente la fricción en comparación con un trineo.
 

@@ -1,27 +1,26 @@
 ---
-title: "Silicio"
-formula: "Si"
-composition: ["Silicio"]
+title: Silicio
+formula: Si
+composition:
+  - Silicio
 properties:
-  [
-    "Semiconductor",
-    "Frágil",
-    "Cristalino",
-    "Alto punto de fusión",
-    "Térmicamente estable",
-  ]
+  - Semiconductor
+  - Frágil
+  - Cristalino
+  - Alto punto de fusión
+  - Térmicamente estable
 uses:
-  [
-    "Semiconductores (transistores, chips)",
-    "Células solares",
-    "Fabricación de vidrio",
-    "Siliconas",
-    "Aleaciones de acero",
-  ]
+  - 'Semiconductores (transistores, chips)'
+  - Células solares
+  - Fabricación de vidrio
+  - Siliconas
+  - Aleaciones de acero
 naturalAvailability: false
-manufacturingProcess: "Reducido de arena de sílice en hornos de arco, luego altamente purificado para electrónica."
-
-category: "mineral"
+manufacturingProcess: >-
+  Reducido de arena de sílice en hornos de arco, luego altamente purificado para
+  electrónica.
+category: mineral
+image: ../../../assets/images/materials/silicon.jpg
 ---
 
 # Breve descripción

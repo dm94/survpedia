@@ -36,11 +36,11 @@ It is a gray or white powder, soft to the touch, and very light. It is alkaline 
 
 - **Dry Powder**: Applied to soil as fertilizer or used as a mild abrasive for cleaning.
 - **Lye (Liquid)**: Extracted with water for soap making.
-- **Paste**: Mixed with water for **[tanning](/en/inventions/tanning)** hides or cleaning.
+- **Paste**: Mixed with water for **[tanning](/en/knowledge/tanning)** hides or cleaning.
 
 ### Possible substitutes
 
-- **Lime (Calcium Oxide)**: For alkaline applications (mortar, **[tanning](/en/inventions/tanning)**).
+- **Lime (Calcium Oxide)**: For alkaline applications (mortar, **[tanning](/en/knowledge/tanning)**).
 - **Soda Ash**: Found in some mineral deposits or burnt seaweed.
 
 ### Limitations and common failures

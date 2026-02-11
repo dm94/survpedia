@@ -1,7 +1,6 @@
 ---
 title: "Telar"
 materialsUsed: ["wood", "yarn", "plant-fibers"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

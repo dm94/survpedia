@@ -1,10 +1,22 @@
 ---
-title: "Plant Fibers"
-properties: ["Flexible", "Strong in tension", "Absorbent", "Biodegradable"]
-uses: ["Textiles", "Ropes", "Paper", "Construction", "Mechanical systems"]
+title: Plant Fibers
+properties:
+  - Flexible
+  - Strong in tension
+  - Absorbent
+  - Biodegradable
+uses:
+  - Textiles
+  - Ropes
+  - Paper
+  - Construction
+  - Mechanical systems
 naturalAvailability: true
-manufacturingProcess: "Extracted from various plants through retting, scraping, or mechanical separation."
-category: "plant"
+manufacturingProcess: >-
+  Extracted from various plants through retting, scraping, or mechanical
+  separation.
+category: plant
+image: ../../../assets/images/materials/plant-fibers.jpg
 ---
 
 Plant fibers are elongated cells found in many plants, especially in the stems (bast fibers), leaves, or around seeds. They are primarily composed of cellulose.

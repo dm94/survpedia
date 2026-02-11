@@ -1,7 +1,6 @@
 ---
 title: "Lens"
 materialsUsed: ["glass", "water"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

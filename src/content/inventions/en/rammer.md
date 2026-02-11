@@ -1,7 +1,6 @@
 ---
 title: "Rammer"
 materialsUsed: ["wood", "stone", "iron"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

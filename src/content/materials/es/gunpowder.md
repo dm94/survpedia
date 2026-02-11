@@ -1,17 +1,17 @@
 ---
-title: "Pólvora"
-category: "synthetic"
-formula: "75% KNO3 + 15% C + 10% S"
+title: Pólvora
+category: synthetic
+formula: 75% KNO3 + 15% C + 10% S
 properties:
-  - "Deflagra (arde rápidamente)"
-  - "Produce gas y calor"
-  - "Sensible al choque (bajo)"
-  - "Higroscópica"
+  - Deflagra (arde rápidamente)
+  - Produce gas y calor
+  - Sensible al choque (bajo)
+  - Higroscópica
 uses:
-  - "Armas de fuego"
-  - "Artillería"
-  - "Fuegos artificiales"
-  - "Voladuras (minería)"
+  - Armas de fuego
+  - Artillería
+  - Fuegos artificiales
+  - Voladuras (minería)
 composition:
   - sulfur
   - carbon
@@ -19,6 +19,7 @@ composition:
   - nitrogen
   - oxygen
 naturalAvailability: false
+image: ../../../assets/images/materials/gunpowder.jpg
 ---
 
 ## Historia

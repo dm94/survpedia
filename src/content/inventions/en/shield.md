@@ -1,7 +1,12 @@
 ---
-title: "Shield"
-
-materialsUsed: ["wood", "leather", "plant-fibers", "iron", "bronze"]
+title: Shield
+materialsUsed:
+  - wood
+  - leather
+  - plant-fibers
+  - iron
+  - bronze
+image: ../../../assets/images/inventions/shield.jpg
 ---
 
 # Brief description

@@ -1,6 +1,12 @@
 ---
-title: "Lámpara de Aceite"
-materialsUsed: ["clay", "vegetable-oil", "animal-fat", "plant-fibers", "cotton"]
+title: Lámpara de Aceite
+materialsUsed:
+  - clay
+  - vegetable-oil
+  - animal-fat
+  - plant-fibers
+  - cotton
+image: ../../../assets/images/inventions/oil-lamp.jpg
 ---
 
 # Breve descripción

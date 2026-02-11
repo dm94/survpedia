@@ -1,12 +1,24 @@
 ---
-title: "Ácido Sulfúrico"
-formula: "H2SO4"
-composition: ["azufre", "hidrógeno", "oxígeno"]
-properties: ["Altamente corrosivo", "Agente deshidratante fuerte", "Líquido incoloro", "Textura aceitosa"]
-uses: ["Electrolito de baterías", "Producción de fertilizantes", "Procesamiento de minerales", "Limpieza de metales"]
+title: Ácido Sulfúrico
+formula: H2SO4
+composition:
+  - azufre
+  - hidrógeno
+  - oxígeno
+properties:
+  - Altamente corrosivo
+  - Agente deshidratante fuerte
+  - Líquido incoloro
+  - Textura aceitosa
+uses:
+  - Electrolito de baterías
+  - Producción de fertilizantes
+  - Procesamiento de minerales
+  - Limpieza de metales
 naturalAvailability: false
-manufacturingProcess: "Producido quemando azufre y disolviendo los óxidos resultantes en agua."
-category: "synthetic"
+manufacturingProcess: Producido quemando azufre y disolviendo los óxidos resultantes en agua.
+category: synthetic
+image: ../../../assets/images/materials/sulfuric-acid.jpg
 ---
 
 El ácido sulfúrico es un ácido mineral fuerte. Es incoloro, inodoro y viscoso. Es uno de los productos químicos industriales más importantes.

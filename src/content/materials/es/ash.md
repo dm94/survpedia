@@ -1,17 +1,22 @@
 ---
-title: "Ceniza"
-properties: ["Alcalina", "Polvorienta", "Absorbente", "Fertilizante"]
+title: Ceniza
+properties:
+  - Alcalina
+  - Polvorienta
+  - Absorbente
+  - Fertilizante
 uses:
-  [
-    "Producción de lejía",
-    "Fabricación de jabón",
-    "Fertilizante",
-    "Esmaltes cerámicos",
-    "Limpieza",
-  ]
+  - Producción de lejía
+  - Fabricación de jabón
+  - Fertilizante
+  - Esmaltes cerámicos
+  - Limpieza
 naturalAvailability: false
-manufacturingProcess: "Residuo restante tras la combustión completa de madera u otros materiales orgánicos."
-category: "synthetic"
+manufacturingProcess: >-
+  Residuo restante tras la combustión completa de madera u otros materiales
+  orgánicos.
+category: synthetic
+image: ../../../assets/images/materials/ash.jpg
 ---
 
 La ceniza es el residuo polvoriento que queda tras la combustión de una sustancia. La ceniza de madera es de particular importancia en un contexto de supervivencia como fuente de potasa (carbonato de potasio) y lejía.
@@ -42,11 +47,11 @@ Es un polvo gris o blanco, suave al tacto y muy ligero. Es alcalina (básica) y 
 
 - **Polvo seco**: Aplicado al suelo como fertilizante o utilizado como abrasivo suave para limpiar.
 - **Lejía (Líquida)**: Extraída con agua para la fabricación de jabón.
-- **Pasta**: Mezclada con agua para **[curtir](/es/inventions/curtido)** pieles o limpiar.
+- **Pasta**: Mezclada con agua para **[curtir](/es/knowledge/curtido)** pieles o limpiar.
 
 ### Posibles sustitutos
 
-- **Cal (Óxido de Calcio)**: Para aplicaciones alcalinas (mortero, **[curtido](/es/inventions/curtido)**).
+- **Cal (Óxido de Calcio)**: Para aplicaciones alcalinas (mortero, **[curtido](/es/knowledge/curtido)**).
 - **Sosa**: Encontrada en algunos depósitos minerales o algas quemadas.
 
 ### Limitaciones y fallos comunes

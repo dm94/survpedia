@@ -1,7 +1,6 @@
 ---
 title: "Huso"
 materialsUsed: ["wood", "clay", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -17,6 +16,7 @@ Una vara recta, generalmente de madera, utilizada para hilar y torcer fibras com
 ## Principio de funcionamiento
 
 El huso se basa en el **momento angular**.
+
 1. **Giro**: El huso se hace girar con la mano o contra el muslo.
 2. **Inercia**: El peso (tortera) mantiene el huso rotando.
 3. **Transferencia**: A medida que rota, el giro viaja hacia arriba por las fibras, uniéndolas.
@@ -25,12 +25,14 @@ El huso se basa en el **momento angular**.
 ## Cómo crearlo
 
 ### Versión funcional mínima (Huso suspendido)
+
 1. **Eje**: Un palo recto (aprox. 20-30 cm).
 2. **Tortera**: Un peso en forma de disco (arcilla, piedra, madera o incluso una patata) con un agujero en el centro.
 3. **Ensamblaje**: Ajustar la tortera en el eje (cerca de la parte inferior o superior).
 4. **Gancho/Muesca**: Una muesca o gancho en la parte superior para asegurar el hilo mientras gira.
 
 ### Nivel técnico
+
 Básico.
 
 ## Materiales necesarios

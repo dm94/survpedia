@@ -1,7 +1,6 @@
 ---
 title: "Eje"
 materialsUsed: ["wood", "iron", "steel"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

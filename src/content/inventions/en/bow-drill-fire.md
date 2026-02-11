@@ -1,6 +1,10 @@
 ---
-title: "Bow Drill Fire"
-materialsUsed: ["wood", "plant-fibers", "stone"]
+title: Bow Drill Fire
+materialsUsed:
+  - wood
+  - plant-fibers
+  - stone
+image: ../../../assets/images/inventions/bow-drill-fire.jpg
 ---
 
 # Brief description

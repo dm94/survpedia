@@ -20,6 +20,7 @@
     "sharp": "^0.34.1"
   },
   "devDependencies": {
+    "gray-matter": "^4.0.3",
     "@tailwindcss/typography": "^0.5.19",
     "@typescript-eslint/eslint-plugin": "^8.45.0",
     "@typescript-eslint/parser": "^8.53.0",

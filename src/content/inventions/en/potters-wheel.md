@@ -1,7 +1,6 @@
 ---
 title: "Potter's Wheel"
 materialsUsed: ["wood", "stone", "leather"]
-image: ../../../assets/placeholder.jpg
 ---
 
 # Brief description

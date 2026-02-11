@@ -4,10 +4,12 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 import { defineConfig } from 'astro/config';
 
+import autoImages from './src/integrations/auto-images';
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://survpedia.deeme.dev',
-  integrations: [tailwind(), mdx(), sitemap()],
+  integrations: [autoImages(), tailwind(), mdx(), sitemap()],
   i18n: {
     defaultLocale: 'en',
     locales: ['es', 'en'],

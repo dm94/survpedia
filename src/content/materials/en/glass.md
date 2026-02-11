@@ -2,12 +2,20 @@
 title: "Glass"
 formula: "SiO2 (main)"
 composition: ["silicon", "oxygen", "sodium", "calcium"]
-properties: ["Transparent", "Hard", "Brittle", "Inert", "Impermeable", "Insulator"]
-uses: ["Windows", "Containers", "Lenses", "Mirrors", "Thermal insulation", "Lab equipment"]
+properties:
+  ["Transparent", "Hard", "Brittle", "Inert", "Impermeable", "Insulator"]
+uses:
+  [
+    "Windows",
+    "Containers",
+    "Lenses",
+    "Mirrors",
+    "Thermal insulation",
+    "Lab equipment",
+  ]
 naturalAvailability: false
 manufacturingProcess: "Melting silica sand with soda and lime at high temperatures, followed by rapid but controlled cooling (annealing)."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 Glass is a solid inorganic, non-crystalline (amorphous) material that is typically transparent. It is essential for modern civilization, enabling everything from weather protection while maintaining light, to vision correction and chemical advancements.

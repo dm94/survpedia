@@ -1,17 +1,22 @@
 ---
-title: "Cemento"
-formula: "Compleja (óxidos de Ca-Si-Al-Fe)"
+title: Cemento
+formula: Compleja (óxidos de Ca-Si-Al-Fe)
 properties:
-  [
-    "Hidráulico (fragua bajo agua)",
-    "Duro",
-    "Rígido",
-    "Alta resistencia a la compresión",
-  ]
-uses: ["Hormigón", "Mortero", "Estuco", "Lechada"]
+  - Hidráulico (fragua bajo agua)
+  - Duro
+  - Rígido
+  - Alta resistencia a la compresión
+uses:
+  - Hormigón
+  - Mortero
+  - Estuco
+  - Lechada
 naturalAvailability: false
-manufacturingProcess: "Calcinación de caliza y arcilla a altas temperaturas (1450°C) y molienda del clinker."
-category: "synthetic"
+manufacturingProcess: >-
+  Calcinación de caliza y arcilla a altas temperaturas (1450°C) y molienda del
+  clinker.
+category: synthetic
+image: ../../../assets/images/materials/cemento.jpg
 ---
 
 El cemento es un aglomerante, una sustancia utilizada en la construcción que fragua, endurece y se adhiere a otros materiales para unirlos. El tipo más común es el cemento Portland, pero históricamente, el "cemento romano" fue crucial.

@@ -23,7 +23,7 @@ El cuero es resistente pero flexible. Tiene un olor característico y una textur
 
 - Desollado: Quitar la piel del animal.
 - Limpieza: Eliminación de carne, grasa y pelo.
-- [Curtido](/es/inventions/curtido): Tratamiento con taninos (de corteza, etc.) o minerales para detener la descomposición y mantenerlo flexible.
+- [Curtido](/es/knowledge/curtido): Tratamiento con taninos (de corteza, etc.) o minerales para detener la descomposición y mantenerlo flexible.
 - Acabado: Aceitado, teñido o pulido.
 
 ### Herramientas necesarias para trabajarla

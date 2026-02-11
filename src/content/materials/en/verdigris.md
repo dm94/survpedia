@@ -7,7 +7,6 @@ uses: ["Green pigment", "Fungicide", "Dye mordant", "Medical (historical)"]
 naturalAvailability: false
 manufacturingProcess: "Exposing copper plates to vapors of strong vinegar (acetic acid)."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 Verdigris is the common name for a green pigment obtained through the application of acetic acid to copper plates or the natural patina formed when copper, brass or bronze is weathered and exposed to air or seawater over time.

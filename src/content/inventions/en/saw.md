@@ -1,7 +1,6 @@
 ---
 title: "Saw"
 materialsUsed: ["wood", "iron", "steel", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -26,12 +25,14 @@ The saw works by abrasion or cutting. The teeth of the saw act as a series of sm
 ## How to create it
 
 ### Minimum functional version
+
 A jagged edge on a hard material.
 
 - **Stone Age**: A piece of flint or obsidian with a serrated edge (denticulation).
 - **Iron/Steel Age**: A metal strip with teeth filed into one edge.
 
 ### Fabrication steps (Metal Saw)
+
 1.  **Forging**: Shape a flat bar of iron or steel.
 2.  **Toothing**: Use a chisel or file to cut teeth into one edge.
 3.  **Setting**: Bend the teeth slightly in alternating directions (one left, one right) to create clearance for the blade.
@@ -41,12 +42,12 @@ A jagged edge on a hard material.
 ## Materials needed
 
 - **Essential materials**:
-    - **Blade**: Iron, Steel (best for durability), or Flint/Obsidian (primitive).
-    - **Handle**: Wood, Bone, or Antler.
+  - **Blade**: Iron, Steel (best for durability), or Flint/Obsidian (primitive).
+  - **Handle**: Wood, Bone, or Antler.
 - **Tools**:
-    - **File**: To sharpen the teeth.
-    - **Hammer & Anvil**: To shape the blade.
-    - **Pliers/Wrench**: To set the teeth.
+  - **File**: To sharpen the teeth.
+  - **Hammer & Anvil**: To shape the blade.
+  - **Pliers/Wrench**: To set the teeth.
 
 ## Variants and improvements
 

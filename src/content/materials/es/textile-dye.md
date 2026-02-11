@@ -1,11 +1,24 @@
 ---
-title: "Tinte textil"
-composition: ["agua", "pigmentos", "mordiente"]
-properties: ["Soluble", "Colorido", "Permanente (si se muerde)", "Líquido"]
-uses: ["Coloración de ropa", "Arte", "Camuflaje", "Identificación de estatus", "Fabricación de tinta"]
+title: Tinte textil
+composition:
+  - agua
+  - pigmentos
+  - mordiente
+properties:
+  - Soluble
+  - Colorido
+  - Permanente (si se muerde)
+  - Líquido
+uses:
+  - Coloración de ropa
+  - Arte
+  - Camuflaje
+  - Identificación de estatus
+  - Fabricación de tinta
 naturalAvailability: true
-manufacturingProcess: "Extracción de pigmentos de plantas/insectos y fijación con mordientes."
-category: "other"
+manufacturingProcess: Extracción de pigmentos de plantas/insectos y fijación con mordientes.
+category: other
+image: ../../../assets/images/materials/textile-dye.jpg
 ---
 
 Los tintes textiles son sustancias capaces de unirse químicamente con las fibras para impartir un color permanente. A diferencia de los pigmentos (que se asientan en la superficie), los tintes penetran en la estructura de la fibra.

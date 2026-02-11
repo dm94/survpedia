@@ -1,6 +1,12 @@
 ---
-title: "Steam Bath"
-materialsUsed: ["water", "stone", "wood", "brick", "mortar"]
+title: Steam Bath
+materialsUsed:
+  - water
+  - stone
+  - wood
+  - brick
+  - mortar
+image: ../../../assets/images/inventions/steam-bath.jpg
 ---
 
 # Brief description
@@ -42,7 +48,7 @@ A steam bath is a heated enclosure that fills with moist heat to clean the body,
 - **Sweat lodge:** Low dome with a fire pit outside and stones brought in.
 - **Sauna style:** Dry heat with optional water splashes.
 - **Hammam style:** Multiple rooms with gradually increasing heat.
-- **Herbal steam:** Add **[healing herbs](/en/materials/healing-herbs)** for aroma and respiratory comfort.
+- **Herbal steam:** Add **[healing herbs](/en/knowledge/healing-herbs)** for aroma and respiratory comfort.
 - **Chimney draft:** Add a **[chimney](/en/inventions/chimney)** for cleaner air and better heat control.
 
 ## Limits and risks

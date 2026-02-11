@@ -1,11 +1,21 @@
 ---
-title: "Magnetite"
-composition: ["iron", "oxygen"]
-properties: ["Magnetic", "Heavy", "Black", "Metallic"]
-uses: ["Compass", "Iron Production", "Navigation"]
+title: Magnetite
+composition:
+  - iron
+  - oxygen
+properties:
+  - Magnetic
+  - Heavy
+  - Black
+  - Metallic
+uses:
+  - Compass
+  - Iron Production
+  - Navigation
 naturalAvailability: true
-manufacturingProcess: "Mined from the earth. Naturally magnetized pieces are known as Lodestones."
-category: "mineral"
+manufacturingProcess: Mined from the earth. Naturally magnetized pieces are known as Lodestones.
+category: mineral
+image: ../../../assets/images/materials/magnetite.jpg
 ---
 
 Magnetite is a rock mineral and one of the main iron ores. It is ferrimagnetic; it is attracted to a magnet and can be magnetized to become a permanent magnet itself. It is the most magnetic of all the naturally-occurring minerals on Earth.

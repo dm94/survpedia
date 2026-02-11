@@ -1,11 +1,25 @@
 ---
-title: "Paper"
-composition: ["cellulose"]
-properties: ["Thin", "Flexible", "Absorbent", "Combustible", "Printable"]
-uses: ["Writing", "Printing", "Packaging", "Cleaning", "Filtration"]
+title: Paper
+composition:
+  - cellulose
+properties:
+  - Thin
+  - Flexible
+  - Absorbent
+  - Combustible
+  - Printable
+uses:
+  - Writing
+  - Printing
+  - Packaging
+  - Cleaning
+  - Filtration
 naturalAvailability: false
-manufacturingProcess: "Pressing together moist fibers of cellulose pulp derived from wood, rags or grasses, and drying them into flexible sheets."
-category: "synthetic"
+manufacturingProcess: >-
+  Pressing together moist fibers of cellulose pulp derived from wood, rags or
+  grasses, and drying them into flexible sheets.
+category: synthetic
+image: ../../../assets/images/materials/paper.jpg
 ---
 
 Paper is a thin sheet material produced by mechanically or chemically processing cellulose fibers derived from wood, rags, grasses or other vegetable sources in water, draining the water through fine mesh leaving the fiber evenly distributed on the surface, followed by pressing and drying.

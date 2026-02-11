@@ -1,10 +1,17 @@
 ---
-title: "Sandpaper"
-properties: ["Abrasive", "Flexible", "Rough"]
-uses: ["Wood smoothing", "Metal polishing", "Surface preparation"]
+title: Sandpaper
+properties:
+  - Abrasive
+  - Flexible
+  - Rough
+uses:
+  - Wood smoothing
+  - Metal polishing
+  - Surface preparation
 naturalAvailability: false
-manufacturingProcess: "Adhesion of abrasive grains to a flexible backing (paper or cloth)."
-category: "other"
+manufacturingProcess: Adhesion of abrasive grains to a flexible backing (paper or cloth).
+category: other
+image: ../../../assets/images/materials/sandpaper.jpg
 ---
 
 # Brief description

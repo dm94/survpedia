@@ -1,19 +1,26 @@
 ---
-title: "Silver"
-composition: ["silver"]
+title: Silver
+composition:
+  - silver
 properties:
-  [
-    "Highest conductivity",
-    "Malleable",
-    "Ductile",
-    "Reflective",
-    "Antibacterial",
-  ]
+  - Highest conductivity
+  - Malleable
+  - Ductile
+  - Reflective
+  - Antibacterial
 uses:
-  ["Currency", "Jewelry", "Tableware", "Mirrors", "Electronics", "Photography"]
+  - Currency
+  - Jewelry
+  - Tableware
+  - Mirrors
+  - Electronics
+  - Photography
 naturalAvailability: true
-manufacturingProcess: "Mined often from argentite or galena (lead ore); extracted via smelting and cupellation."
-category: "mineral"
+manufacturingProcess: >-
+  Mined often from argentite or galena (lead ore); extracted via smelting and
+  cupellation.
+category: mineral
+image: ../../../assets/images/materials/silver.jpg
 ---
 
 # Description of what it is like

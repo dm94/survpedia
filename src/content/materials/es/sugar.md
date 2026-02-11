@@ -1,12 +1,24 @@
 ---
-title: "Azúcar"
-formula: "C12H22O11"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Sabor dulce", "Soluble en agua", "Sólido cristalino", "Alto contenido energético"]
-uses: ["Conservación de alimentos", "Endulzante", "Sustrato de fermentación", "Fuente de energía"]
+title: Azúcar
+formula: C12H22O11
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Sabor dulce
+  - Soluble en agua
+  - Sólido cristalino
+  - Alto contenido energético
+uses:
+  - Conservación de alimentos
+  - Endulzante
+  - Sustrato de fermentación
+  - Fuente de energía
 naturalAvailability: true
-manufacturingProcess: "Extraído de la caña de azúcar, remolacha o frutas."
-category: "plant"
+manufacturingProcess: 'Extraído de la caña de azúcar, remolacha o frutas.'
+category: plant
+image: ../../../assets/images/materials/sugar.jpg
 ---
 
 El azúcar es el nombre genérico para los carbohidratos solubles de sabor dulce, muchos de los cuales se usan en la alimentación. Los azúcares simples incluyen glucosa, fructosa y galactosa.

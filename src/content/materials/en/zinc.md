@@ -1,18 +1,24 @@
 ---
-title: "Zinc"
-formula: "Zn"
-composition: ["zinc"]
+title: Zinc
+formula: Zn
+composition:
+  - zinc
 properties:
-  [
-    "Corrosion resistant",
-    "Low melting point",
-    "Brittle at room temperature",
-    "Malleable when heated",
-  ]
-uses: ["Galvanization", "Brass production", "Batteries", "Sacrificial anodes"]
+  - Corrosion resistant
+  - Low melting point
+  - Brittle at room temperature
+  - Malleable when heated
+uses:
+  - Galvanization
+  - Brass production
+  - Batteries
+  - Sacrificial anodes
 naturalAvailability: false
-manufacturingProcess: "Extracted from ores like sphalerite (zinc blende) through roasting and reduction."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from ores like sphalerite (zinc blende) through roasting and
+  reduction.
+category: mineral
+image: ../../../assets/images/materials/zinc.jpg
 ---
 
 Zinc is a bluish-white, lustrous metal. It is brittle at most temperatures but becomes malleable between 100 °C and 150 °C. It is a moderately reactive metal that combines with oxygen and other non-metals, and reacts with dilute acids to release hydrogen.

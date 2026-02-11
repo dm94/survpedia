@@ -1,20 +1,28 @@
 ---
-title: "Vinagre"
-formula: "CH3COOH"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Vinagre
+formula: CH3COOH
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  ["Sabor agrio", "Ácido (pH 2-3)", "Conservante", "Líquido", "Antibacteriano"]
+  - Sabor agrio
+  - Ácido (pH 2-3)
+  - Conservante
+  - Líquido
+  - Antibacteriano
 uses:
-  [
-    "Conservación de alimentos",
-    "Saborizante",
-    "Limpieza",
-    "Herbicida",
-    "Médico",
-  ]
+  - Conservación de alimentos
+  - Saborizante
+  - Limpieza
+  - Herbicida
+  - Médico
 naturalAvailability: false
-manufacturingProcess: "Doble fermentación: Azúcar a Alcohol (Levadura), luego Alcohol a Vinagre (Acetobacter)."
-category: "other"
+manufacturingProcess: >-
+  Doble fermentación: Azúcar a Alcohol (Levadura), luego Alcohol a Vinagre
+  (Acetobacter).
+category: other
+image: ../../../assets/images/materials/vinegar.jpg
 ---
 
 El vinagre es una solución acuosa de ácido acético y compuestos traza que pueden incluir saborizantes. Típicamente es 5-8% de ácido acético por volumen.
@@ -31,7 +39,7 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 
 ### Procesamiento mínimo requerido
 
-- **[Fermentación Alcohólica](/es/inventions/fermentation)**: Crear una solución alcohólica débil (sidra, vino, cerveza).
+- **[Fermentación Alcohólica](/es/knowledge/fermentation)**: Crear una solución alcohólica débil (sidra, vino, cerveza).
 - **Fermentación Acética**: Exponer el alcohol al oxígeno y a las bacterias _Acetobacter_ (Madre del Vinagre).
 - **Envejecimiento**: Dar tiempo para que se complete la conversión (semanas a meses).
 
@@ -46,7 +54,7 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 - **Encurtido**: Conservación de vegetales en un ambiente ácido.
 - **Culinario**: Aderezos para ensaladas, salsas.
 - **Limpieza**: Eliminación de cal, limpieza de vidrios, neutralización de olores.
-- **Curtido**: Desencalado de pieles en **[Curtido](/es/inventions/curtido)**.
+- **Curtido**: Desencalado de pieles en **[Curtido](/es/knowledge/curtido)**.
 
 ### Posibles sustitutos
 

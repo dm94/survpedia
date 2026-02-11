@@ -1,11 +1,26 @@
 ---
-title: "Pergamino"
-composition: ["carbon", "hydrogen", "oxygen", "nitrogen"]
-properties: ["Extremadamente duradero", "Fuerte", "Liso", "Flexible"]
-uses: ["Superficie de escritura", "Encuadernación", "Parches de tambor", "Documentos legales"]
+title: Pergamino
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+  - nitrogen
+properties:
+  - Extremadamente duradero
+  - Fuerte
+  - Liso
+  - Flexible
+uses:
+  - Superficie de escritura
+  - Encuadernación
+  - Parches de tambor
+  - Documentos legales
 naturalAvailability: false
-manufacturingProcess: "Preparado a partir de pieles de animales (generalmente ternera, oveja o cabra) mediante encalado, raspado y secado bajo tensión en un bastidor."
-category: "animal"
+manufacturingProcess: >-
+  Preparado a partir de pieles de animales (generalmente ternera, oveja o cabra)
+  mediante encalado, raspado y secado bajo tensión en un bastidor.
+category: animal
+image: ../../../assets/images/materials/parchment.jpg
 ---
 
 El pergamino es un material de escritura hecho de pieles de animales sin curtir, preparadas especialmente, principalmente de ovejas, terneros y cabras. Se ha utilizado como medio de escritura durante más de dos milenios.

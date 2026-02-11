@@ -1,7 +1,6 @@
 ---
 title: "Pickaxe"
 materialsUsed: ["wood", "iron", "stone", "bone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

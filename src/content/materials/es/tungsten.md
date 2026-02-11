@@ -1,9 +1,18 @@
 ---
-title: "Tungsteno"
-properties: ["Punto de fusión más alto de todos los metales", "Alta densidad", "Duro", "Frágil a bajas temperaturas"]
-uses: ["Filamentos de bombillas", "Cátodos de válvulas de vacío", "Electrodos", "Aleaciones de acero rápido"]
+title: Tungsteno
+properties:
+  - Punto de fusión más alto de todos los metales
+  - Alta densidad
+  - Duro
+  - Frágil a bajas temperaturas
+uses:
+  - Filamentos de bombillas
+  - Cátodos de válvulas de vacío
+  - Electrodos
+  - Aleaciones de acero rápido
 naturalAvailability: false
-category: "mineral"
+category: mineral
+image: ../../../assets/images/materials/tungsten.jpg
 ---
 
 # Breve descripción

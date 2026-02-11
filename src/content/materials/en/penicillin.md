@@ -1,14 +1,27 @@
 ---
-title: "Penicillin"
-formula: "C16H18N2O4S"
-composition: ["carbon", "hydrogen", "nitrogen", "oxygen", "sulfur"]
+title: Penicillin
+formula: C16H18N2O4S
+composition:
+  - carbon
+  - hydrogen
+  - nitrogen
+  - oxygen
+  - sulfur
 properties:
-  ["Antibiotic", "Bioactive", "Heat sensitive", "Degraded by strong acids"]
+  - Antibiotic
+  - Bioactive
+  - Heat sensitive
+  - Degraded by strong acids
 uses:
-  ["Treating bacterial infections", "Topical wound care", "Laboratory cultures"]
+  - Treating bacterial infections
+  - Topical wound care
+  - Laboratory cultures
 naturalAvailability: false
-manufacturingProcess: "Cultured from Penicillium mold in controlled fermentation, then extracted and purified."
-category: "other"
+manufacturingProcess: >-
+  Cultured from Penicillium mold in controlled fermentation, then extracted and
+  purified.
+category: other
+image: ../../../assets/images/materials/penicillin.jpg
 ---
 
 Penicillin is a family of beta-lactam antibiotics produced by _Penicillium_ molds. It was the first widely used antibiotic and remains a model for understanding antibacterial drugs.
@@ -66,6 +79,6 @@ If poorly processed, potency is low or contaminated, and the product may be unsa
 
 ### Related materials
 
-- **[Fermentation](/en/inventions/fermentation)**: Industrial production depends on controlled microbial growth.
+- **[Fermentation](/en/knowledge/fermentation)**: Industrial production depends on controlled microbial growth.
 - **[Alcohol](/en/materials/alcohol)**: Used as a solvent in extraction and cleaning.
 - **[Water](/en/materials/water)**: Base medium for culture and dilution.

@@ -1,11 +1,25 @@
 ---
-title: "Papyrus"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Lightweight", "Flexible", "Durable in dry climates", "Fibrous"]
-uses: ["Writing surface", "Boats", "Mats", "Sandals"]
+title: Papyrus
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Lightweight
+  - Flexible
+  - Durable in dry climates
+  - Fibrous
+uses:
+  - Writing surface
+  - Boats
+  - Mats
+  - Sandals
 naturalAvailability: false
-manufacturingProcess: "Made from the pith of the Cyperus papyrus plant by slicing it into strips, layering them crosswise, and pressing them together."
-category: "plant"
+manufacturingProcess: >-
+  Made from the pith of the Cyperus papyrus plant by slicing it into strips,
+  layering them crosswise, and pressing them together.
+category: plant
+image: ../../../assets/images/materials/papyrus.jpg
 ---
 
 Papyrus is a material similar to thick paper that was used in ancient times as a writing surface. It was made from the pith of the papyrus plant, *Cyperus papyrus*, a wetland sedge.

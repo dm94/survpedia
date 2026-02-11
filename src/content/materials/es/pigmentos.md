@@ -5,7 +5,7 @@ properties: ["Color", "Opacidad", "Insolubilidad", "Resistencia a la luz"]
 uses: ["Pintura", "Tinta", "Cosméticos", "Cerámica", "Textiles"]
 naturalAvailability: true
 manufacturingProcess: "Molienda de minerales naturales o materiales orgánicos hasta obtener un polvo fino, lavado para eliminar impurezas y secado."
-image: "../../assets/placeholder.jpg"
+
 category: mineral
 ---
 

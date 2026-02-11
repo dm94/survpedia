@@ -1,11 +1,23 @@
 ---
-title: "Antimony"
-composition: ["antimony"]
-properties: ["Brittle", "Hard", "Crystalline", "Expands upon cooling"]
-uses: ["Alloying", "Hardening lead", "Flame retardants", "Type metal alloy"]
+title: Antimony
+composition:
+  - antimony
+properties:
+  - Brittle
+  - Hard
+  - Crystalline
+  - Expands upon cooling
+uses:
+  - Alloying
+  - Hardening lead
+  - Flame retardants
+  - Type metal alloy
 naturalAvailability: true
-manufacturingProcess: "Extracted from stibnite (antimony sulfide) by roasting and then reduction with carbon."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from stibnite (antimony sulfide) by roasting and then reduction with
+  carbon.
+category: mineral
+image: ../../../assets/images/materials/antimony.jpg
 ---
 
 Antimony is a lustrous gray metalloid. While brittle on its own, its most valuable property in technology is its ability to harden other metals, particularly lead.

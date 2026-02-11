@@ -1,6 +1,12 @@
 ---
-title: "Pipes"
-materialsUsed: ["clay", "lead", "wood", "bamboo", "copper"]
+title: Pipes
+materialsUsed:
+  - clay
+  - lead
+  - wood
+  - bamboo
+  - copper
+image: ../../../assets/images/inventions/pipes.jpg
 ---
 
 # Brief description

@@ -5,7 +5,7 @@ properties: ["Strength", "Durability", "Flexibility", "Absorbency"]
 uses: ["Painting surface", "Sails", "Tents", "Bags", "Shoes"]
 naturalAvailability: false
 manufacturingProcess: "Weaving heavy-duty yarn into a plain weave fabric."
-image: "../../assets/placeholder.jpg"
+
 category: plant
 ---
 

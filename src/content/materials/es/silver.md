@@ -1,18 +1,26 @@
 ---
-title: "Plata"
-composition: ["silver"]
+title: Plata
+composition:
+  - silver
 properties:
-  [
-    "Máxima conductividad",
-    "Maleable",
-    "Dúctil",
-    "Reflectante",
-    "Antibacteriano",
-  ]
-uses: ["Moneda", "Joyería", "Vajilla", "Espejos", "Electrónica", "Fotografía"]
+  - Máxima conductividad
+  - Maleable
+  - Dúctil
+  - Reflectante
+  - Antibacteriano
+uses:
+  - Moneda
+  - Joyería
+  - Vajilla
+  - Espejos
+  - Electrónica
+  - Fotografía
 naturalAvailability: true
-manufacturingProcess: "Minada a menudo de argentita o galena (mineral de plomo); extraída mediante fundición y copelación."
-category: "mineral"
+manufacturingProcess: >-
+  Minada a menudo de argentita o galena (mineral de plomo); extraída mediante
+  fundición y copelación.
+category: mineral
+image: ../../../assets/images/materials/silver.jpg
 ---
 
 # Descripción de cómo es

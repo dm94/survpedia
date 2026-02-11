@@ -1,11 +1,25 @@
 ---
-title: "Latón"
-composition: ["copper", "zinc"]
-properties: ["Resistente a la corrosión", "Maleable", "Acústico", "Baja fricción", "No produce chispas"]
-uses: ["Instrumentos musicales", "Fontanería", "Cerraduras", "Engranajes", "Decoración", "Plomadas"]
+title: Latón
+composition:
+  - copper
+  - zinc
+properties:
+  - Resistente a la corrosión
+  - Maleable
+  - Acústico
+  - Baja fricción
+  - No produce chispas
+uses:
+  - Instrumentos musicales
+  - Fontanería
+  - Cerraduras
+  - Engranajes
+  - Decoración
+  - Plomadas
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Aleación de cobre y zinc, típicamente con un 30-40% de zinc."
+category: synthetic
+manufacturingProcess: 'Aleación de cobre y zinc, típicamente con un 30-40% de zinc.'
+image: ../../../assets/images/materials/brass.jpg
 ---
 
 El latón es una aleación metálica compuesta de cobre y zinc. Las proporciones de zinc y cobre pueden variar para crear una gama de latones con propiedades variables. Es conocido por su apariencia brillante similar al oro.

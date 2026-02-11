@@ -1,18 +1,21 @@
 ---
-title: "Limestone"
-formula: "CaCO3"
-properties: ["Sedimentary", "Alkaline", "Soft", "Abundant"]
+title: Limestone
+formula: CaCO3
+properties:
+  - Sedimentary
+  - Alkaline
+  - Soft
+  - Abundant
 uses:
-  [
-    "Lime production",
-    "Construction stone",
-    "Flux (Metallurgy)",
-    "Glass making",
-    "Agriculture",
-  ]
+  - Lime production
+  - Construction stone
+  - Flux (Metallurgy)
+  - Glass making
+  - Agriculture
 naturalAvailability: true
-manufacturingProcess: "Sedimentation of marine organisms (natural)."
-category: "mineral"
+manufacturingProcess: Sedimentation of marine organisms (natural).
+category: mineral
+image: ../../../assets/images/materials/limestone.jpg
 ---
 
 Limestone is a sedimentary rock composed mainly of calcium carbonate (CaCO3). It is one of the most useful and abundant minerals in history, serving as a building block and a chemical raw material.

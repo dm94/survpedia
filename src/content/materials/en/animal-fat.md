@@ -1,10 +1,21 @@
 ---
-title: "Animal Fat"
-properties: ["Lubricant", "Combustible", "Water-repellent", "Soft at room temperature"]
-uses: ["Lubrication", "Soap making", "Candles", "Cooking"]
+title: Animal Fat
+properties:
+  - Lubricant
+  - Combustible
+  - Water-repellent
+  - Soft at room temperature
+uses:
+  - Lubrication
+  - Soap making
+  - Candles
+  - Cooking
 naturalAvailability: true
-manufacturingProcess: "Rendered from the fatty tissues of animals (such as cattle, sheep, or pigs) by heating."
-category: "animal"
+manufacturingProcess: >-
+  Rendered from the fatty tissues of animals (such as cattle, sheep, or pigs) by
+  heating.
+category: animal
+image: ../../../assets/images/materials/animal-fat.jpg
 ---
 
 Animal fat, specifically when rendered as tallow or lard, is a versatile organic material used since antiquity for both energy and lubrication.
@@ -57,6 +68,6 @@ It is a greasy, pale substance that is solid or semi-solid at room temperature b
 
 ### Related materials
 
-- **[Leather](/en/materials/leather)**: Often treated with fats to keep it supple (part of [Tanning](/en/inventions/tanning)).
+- **[Leather](/en/materials/leather)**: Often treated with fats to keep it supple (part of [Tanning](/en/knowledge/tanning)).
 - **[Soap](/en/materials/soap)**: Produced by reacting fats with an alkali.
 - **[Wood](/en/materials/wood)**: Wooden axles and gears require frequent application of fat.

@@ -1,6 +1,11 @@
 ---
-title: "Ancla"
-materialsUsed: ["stone", "wood", "iron", "lead"]
+title: Ancla
+materialsUsed:
+  - stone
+  - wood
+  - iron
+  - lead
+image: ../../../assets/images/inventions/ancla.jpg
 ---
 
 Un ancla es un dispositivo, normalmente hecho de metal, que se utiliza para conectar una embarcación al lecho de un cuerpo de agua para evitar que la nave derive debido al viento o la corriente.

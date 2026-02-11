@@ -1,11 +1,24 @@
 ---
-title: "Iron"
-composition: ["iron"]
-properties: ["Strong", "Magnetic", "High melting point", "Abundant"]
-uses: ["Construction", "Tools", "Weapons", "Machinery", "Axles and bearings"]
+title: Iron
+composition:
+  - iron
+properties:
+  - Strong
+  - Magnetic
+  - High melting point
+  - Abundant
+uses:
+  - Construction
+  - Tools
+  - Weapons
+  - Machinery
+  - Axles and bearings
 naturalAvailability: true
-manufacturingProcess: "Extracted from iron ores (like hematite or magnetite) in a blast furnace using carbon as a reducing agent."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from iron ores (like hematite or magnetite) in a blast furnace using
+  carbon as a reducing agent.
+category: mineral
+image: ../../../assets/images/materials/iron.jpg
 ---
 
 Iron is a lustrous, silvery-soft metal. It is the most common element on Earth by mass, forming much of Earth's outer and inner core.

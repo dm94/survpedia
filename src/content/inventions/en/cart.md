@@ -1,7 +1,6 @@
 ---
 title: "Cart"
 materialsUsed: ["wood", "iron", "leather"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -17,6 +16,7 @@ A cart is a two-wheeled vehicle designed for transport, typically pulled by a pe
 ## Operating principle
 
 The cart utilizes the wheel and axle to reduce friction.
+
 - **Load Distribution:** The load is balanced over the axle, meaning the draft animal (or person) only needs to overcome rolling resistance and inertia, rather than supporting the full weight.
 - **Rolling vs. Sliding:** Wheels roll over the ground, drastically reducing friction compared to a sled.
 

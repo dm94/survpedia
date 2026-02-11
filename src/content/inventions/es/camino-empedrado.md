@@ -1,7 +1,6 @@
 ---
 title: "Camino Empedrado"
 materialsUsed: ["stone", "sand", "gravel", "pico", "pison", "shovel", "hammer"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

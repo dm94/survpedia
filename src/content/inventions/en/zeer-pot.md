@@ -1,6 +1,11 @@
 ---
-title: "Zeer Pot"
-materialsUsed: ["clay", "sand", "water", "fabric"]
+title: Zeer Pot
+materialsUsed:
+  - clay
+  - sand
+  - water
+  - fabric
+image: ../../../assets/images/inventions/zeer-pot.jpg
 ---
 
 # Brief description

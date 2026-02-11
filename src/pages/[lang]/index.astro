@@ -1,17 +1,17 @@
 ---
-import Layout from '@layouts/Layout.astro';
-import { useTranslations } from '@i18n/utils';
-import Card from '@components/Card.astro';
+import Layout from "@layouts/Layout.astro";
+import { useTranslations } from "@i18n/utils";
+import Card from "@components/Card.astro";
 
 export function getStaticPaths() {
-  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
+  return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
 }
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
 ---
 
-<Layout title="Survpedia" description={t('home.description')}>
+<Layout title="Survpedia" description={t("home.description")}>
   <section class="py-20 text-center">
     <h1
       class="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 mb-6"
@@ -21,24 +21,29 @@ const t = useTranslations(lang as any);
     <p
       class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-10"
     >
-      {t('home.description')}
+      {t("home.description")}
     </p>
 
-    <section class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <Card
         href={`/${lang}/elements`}
-        title={t('nav.elements')}
-        body={t('home.elements.desc')}
+        title={t("nav.elements")}
+        body={t("home.elements.desc")}
       />
       <Card
         href={`/${lang}/materials`}
-        title={t('nav.materials')}
-        body={t('home.materials.desc')}
+        title={t("nav.materials")}
+        body={t("home.materials.desc")}
       />
       <Card
         href={`/${lang}/inventions`}
-        title={t('nav.inventions')}
-        body={t('home.inventions.desc')}
+        title={t("nav.inventions")}
+        body={t("home.inventions.desc")}
+      />
+      <Card
+        href={`/${lang}/knowledge`}
+        title={t("nav.knowledge")}
+        body={t("home.knowledge.desc")}
       />
     </section>
   </section>

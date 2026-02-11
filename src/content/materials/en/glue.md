@@ -1,11 +1,25 @@
 ---
-title: "Glue"
-composition: ["collagen", "water"]
-properties: ["Adhesive", "Water-soluble", "Rigid when dry", "Reversible"]
-uses: ["Woodworking", "Bookbinding", "Tool making", "Sizing", "Hafting"]
+title: Glue
+composition:
+  - collagen
+  - water
+properties:
+  - Adhesive
+  - Water-soluble
+  - Rigid when dry
+  - Reversible
+uses:
+  - Woodworking
+  - Bookbinding
+  - Tool making
+  - Sizing
+  - Hafting
 naturalAvailability: false
-manufacturingProcess: "Boiling animal connective tissues (skin, bones, tendons) in water to extract collagen, then concentrating the solution."
-category: "animal"
+manufacturingProcess: >-
+  Boiling animal connective tissues (skin, bones, tendons) in water to extract
+  collagen, then concentrating the solution.
+category: animal
+image: ../../../assets/images/materials/glue.jpg
 ---
 
 Glue is an adhesive substance used to bind materials together. Historically, the most common strong glues were made from animal collagen.

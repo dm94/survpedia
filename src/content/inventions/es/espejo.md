@@ -1,7 +1,6 @@
 ---
 title: "Espejo"
 materialsUsed: ["glass", "silver", "tin", "copper"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

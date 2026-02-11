@@ -1,11 +1,24 @@
 ---
-title: "Bronce"
-composition: ["copper", "tin"]
-properties: ["Resistente a la corrosión", "Duradero", "Duro", "Baja fricción"]
-uses: ["Herramientas", "Armas", "Estatuas", "Instrumentos musicales", "Monedas", "Rodamientos y Poleas"]
+title: Bronce
+composition:
+  - copper
+  - tin
+properties:
+  - Resistente a la corrosión
+  - Duradero
+  - Duro
+  - Baja fricción
+uses:
+  - Herramientas
+  - Armas
+  - Estatuas
+  - Instrumentos musicales
+  - Monedas
+  - Rodamientos y Poleas
 naturalAvailability: false
-category: "synthetic"
-manufacturingProcess: "Fundición de cobre y estaño juntos, típicamente en una proporción de 9:1."
+category: synthetic
+manufacturingProcess: 'Fundición de cobre y estaño juntos, típicamente en una proporción de 9:1.'
+image: ../../../assets/images/materials/bronze.jpg
 ---
 
 El bronce es una aleación que consiste principalmente en cobre, generalmente con un 12-12,5% de estaño y a menudo con la adición de otros metales. Fue la primera aleación utilizada por los humanos a gran escala.

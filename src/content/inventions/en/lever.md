@@ -1,7 +1,9 @@
 ---
-title: "Lever"
-
-materialsUsed: ["wood", "stone"]
+title: Lever
+materialsUsed:
+  - wood
+  - stone
+image: ../../../assets/images/inventions/lever.jpg
 ---
 
 # Brief description

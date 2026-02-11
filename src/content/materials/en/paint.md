@@ -5,7 +5,7 @@ properties: ["Adhesion", "Coverage", "Color", "Viscosity", "Drying Time"]
 uses: ["Art", "Decoration", "Protection", "Signaling", "Camouflage"]
 naturalAvailability: false
 manufacturingProcess: "Dispersing pigment particles into a liquid binder."
-image: "../../assets/placeholder.jpg"
+
 category: synthetic
 ---
 

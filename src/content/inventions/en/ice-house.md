@@ -1,6 +1,12 @@
 ---
-title: "Ice House"
-materialsUsed: ["stone", "brick", "wood", "straw", "water"]
+title: Ice House
+materialsUsed:
+  - stone
+  - brick
+  - wood
+  - straw
+  - water
+image: ../../../assets/images/inventions/ice-house.jpg
 ---
 
 # Brief Description

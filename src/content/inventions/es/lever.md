@@ -1,7 +1,9 @@
 ---
-title: "Palanca"
-
-materialsUsed: ["wood", "stone"]
+title: Palanca
+materialsUsed:
+  - wood
+  - stone
+image: ../../../assets/images/inventions/lever.jpg
 ---
 
 # Breve descripción

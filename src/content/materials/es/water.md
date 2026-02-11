@@ -1,26 +1,27 @@
 ---
-title: "Agua"
-formula: "H2O"
-composition: ["hydrogen", "oxygen"]
+title: Agua
+formula: H2O
+composition:
+  - hydrogen
+  - oxygen
 properties:
-  [
-    "Líquida a temperatura ambiente",
-    "Solvente universal",
-    "Incolora",
-    "Inodora",
-  ]
+  - Líquida a temperatura ambiente
+  - Solvente universal
+  - Incolora
+  - Inodora
 uses:
-  [
-    "Consumo humano",
-    "Agricultura",
-    "Industria",
-    "Enfriamiento",
-    "Energía motriz",
-    "Curtido",
-  ]
+  - Consumo humano
+  - Agricultura
+  - Industria
+  - Enfriamiento
+  - Energía motriz
+  - Curtido
 naturalAvailability: true
-manufacturingProcess: "Se encuentra naturalmente en océanos, ríos y lagos. Puede sintetizarse quemando hidrógeno en presencia de oxígeno."
-category: "other"
+manufacturingProcess: >-
+  Se encuentra naturalmente en océanos, ríos y lagos. Puede sintetizarse
+  quemando hidrógeno en presencia de oxígeno.
+category: other
+image: ../../../assets/images/materials/water.jpg
 ---
 
 El agua es una sustancia química transparente, insípida, inodora y casi incolora. Es vital para todas las formas conocidas de vida.

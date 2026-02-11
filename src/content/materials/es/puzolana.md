@@ -6,7 +6,6 @@ uses:
   ["Cemento romano", "Hormigón hidráulico", "Mortero impermeable", "Filtros"]
 naturalAvailability: true
 manufacturingProcess: "Recolección de ceniza volcánica o trituración de ladrillos/cerámica cocida."
-image: ../../../assets/placeholder.jpg
 category: "mineral"
 ---
 

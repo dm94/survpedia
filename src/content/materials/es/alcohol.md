@@ -1,20 +1,26 @@
 ---
-title: "Alcohol"
-formula: "C2H5OH"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Alcohol
+formula: C2H5OH
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  ["Volátil", "Inflamable", "Líquido incoloro", "Antiséptico", "Embriagante"]
+  - Volátil
+  - Inflamable
+  - Líquido incoloro
+  - Antiséptico
+  - Embriagante
 uses:
-  [
-    "Desinfectante",
-    "Combustible",
-    "Disolvente",
-    "Bebida recreativa",
-    "Conservante",
-  ]
+  - Desinfectante
+  - Combustible
+  - Disolvente
+  - Bebida recreativa
+  - Conservante
 naturalAvailability: false
-manufacturingProcess: "Fermentación de azúcares por levadura, seguida de destilación."
-category: "other"
+manufacturingProcess: 'Fermentación de azúcares por levadura, seguida de destilación.'
+category: other
+image: ../../../assets/images/materials/alcohol.jpg
 ---
 
 El alcohol (específicamente Etanol) es un líquido incoloro, volátil e inflamable con un ligero olor característico. Es una sustancia psicoactiva y es el principal tipo de alcohol que se encuentra en las bebidas alcohólicas.
@@ -31,7 +37,7 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 ### Procesamiento mínimo requerido
 
-- **[Fermentación](/es/inventions/fermentation)**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
+- **[Fermentación](/es/knowledge/fermentation)**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
 - **[Destilación](/es/inventions/distillation)**: Calentar el líquido fermentado para separar el alcohol (punto de ebullición más bajo) del agua. Esto produce concentraciones más altas (hasta 95%).
 
 ### Herramientas necesarias para trabajarlo

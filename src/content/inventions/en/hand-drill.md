@@ -1,6 +1,10 @@
 ---
-title: "Hand Drill"
-materialsUsed: ["wood", "steel", "iron"]
+title: Hand Drill
+materialsUsed:
+  - wood
+  - steel
+  - iron
+image: ../../../assets/images/inventions/hand-drill.jpg
 ---
 
 # Brief description

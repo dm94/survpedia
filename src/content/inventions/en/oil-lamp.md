@@ -1,6 +1,12 @@
 ---
-title: "Oil Lamp"
-materialsUsed: ["clay", "vegetable-oil", "animal-fat", "plant-fibers", "cotton"]
+title: Oil Lamp
+materialsUsed:
+  - clay
+  - vegetable-oil
+  - animal-fat
+  - plant-fibers
+  - cotton
+image: ../../../assets/images/inventions/oil-lamp.jpg
 ---
 
 # Brief description

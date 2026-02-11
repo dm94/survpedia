@@ -1,6 +1,9 @@
 ---
-title: "Hand Drill Fire"
-materialsUsed: ["wood", "plant-fibers"]
+title: Hand Drill Fire
+materialsUsed:
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/hand-drill-fire.jpg
 ---
 
 # Brief description

@@ -1,10 +1,20 @@
 ---
-title: "Vegetable Oil"
-properties: ["Viscous", "Flammable", "Hydrophobic", "Nutritious"]
-uses: ["Cooking", "Fuel", "Lubrication", "Medicine carrier", "Soap making"]
+title: Vegetable Oil
+properties:
+  - Viscous
+  - Flammable
+  - Hydrophobic
+  - Nutritious
+uses:
+  - Cooking
+  - Fuel
+  - Lubrication
+  - Medicine carrier
+  - Soap making
 naturalAvailability: true
-manufacturingProcess: "Extracted from seeds, nuts, or fruits by pressing."
-category: "plant"
+manufacturingProcess: 'Extracted from seeds, nuts, or fruits by pressing.'
+category: plant
+image: ../../../assets/images/materials/vegetable-oil.jpg
 ---
 
 Vegetable oil is a triglyceride extracted from plants, commonly from seeds, nuts, or fruits. It is a fundamental material for nutrition, lighting, and primitive chemical engineering.
@@ -37,7 +47,7 @@ A viscous liquid at room temperature, usually ranging in color from clear to yel
 
 - **Edible Oil**: For frying and dressing food.
 - **Lamp Oil**: Fuel for simple **[Oil Lamps](/en/inventions/oil-lamp)**.
-- **Infused Oil**: Base for **[Medicinal Plants](/en/materials/medicinal-plants)** extracts.
+- **Infused Oil**: Base for **[Medicinal Plants](/en/knowledge/medicinal-plants)** extracts.
 - **Wood Treatment**: Protective coating for wood.
 
 ### Possible substitutes
@@ -60,4 +70,4 @@ A viscous liquid at room temperature, usually ranging in color from clear to yel
 
 - **[Animal Fat](/en/materials/animal-fat)**: The animal counterpart.
 - **[Soap](/en/materials/soap)**: Made from oil and alkali.
-- **[Medicinal Plants](/en/materials/medicinal-plants)**: Often infused into oil.
+- **[Medicinal Plants](/en/knowledge/medicinal-plants)**: Often infused into oil.

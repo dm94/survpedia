@@ -1,11 +1,23 @@
 ---
-title: "Carbón vegetal"
-composition: ["carbon"]
-properties: ["Ligero", "Poroso", "Alto calor", "Bajo humo"]
-uses: ["Combustible", "Metalurgia", "Cocción", "Filtración"]
+title: Carbón vegetal
+composition:
+  - carbon
+properties:
+  - Ligero
+  - Poroso
+  - Alto calor
+  - Bajo humo
+uses:
+  - Combustible
+  - Metalurgia
+  - Cocción
+  - Filtración
 naturalAvailability: false
-manufacturingProcess: "Se produce calentando madera con poco oxígeno (pirolisis) para eliminar agua y volátiles."
-category: "synthetic"
+manufacturingProcess: >-
+  Se produce calentando madera con poco oxígeno (pirolisis) para eliminar agua y
+  volátiles.
+category: synthetic
+image: ../../../assets/images/materials/charcoal.jpg
 ---
 
 El carbón vegetal es un combustible rico en carbono hecho a partir de madera o biomasa calentada sin suficiente oxígeno para arder por completo. Quema más caliente y limpio que la madera.

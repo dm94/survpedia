@@ -1,11 +1,21 @@
 ---
-title: "Caliza"
-formula: "CaCO3"
-properties: ["Sedimentaria", "Alcalina", "Blanda", "Abundante"]
-uses: ["Producción de cal", "Piedra de construcción", "Fundente (Metalurgia)", "Fabricación de vidrio", "Agricultura"]
+title: Caliza
+formula: CaCO3
+properties:
+  - Sedimentaria
+  - Alcalina
+  - Blanda
+  - Abundante
+uses:
+  - Producción de cal
+  - Piedra de construcción
+  - Fundente (Metalurgia)
+  - Fabricación de vidrio
+  - Agricultura
 naturalAvailability: true
-manufacturingProcess: "Sedimentación de organismos marinos (natural)."
-category: "mineral"
+manufacturingProcess: Sedimentación de organismos marinos (natural).
+category: mineral
+image: ../../../assets/images/materials/caliza.jpg
 ---
 
 La caliza es una roca sedimentaria compuesta principalmente de carbonato de calcio (CaCO3). Es uno de los minerales más útiles y abundantes de la historia, sirviendo como bloque de construcción y materia prima química.

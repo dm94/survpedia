@@ -1,11 +1,21 @@
 ---
-title: "Estaño"
-composition: ["tin"]
-properties: ["Maleable", "Dúctil", "Resistente a la corrosión", "Bajo punto de fusión"]
-uses: ["Soldadura", "Hojalata", "Producción de bronce", "Aleación para tipos de imprenta"]
+title: Estaño
+composition:
+  - tin
+properties:
+  - Maleable
+  - Dúctil
+  - Resistente a la corrosión
+  - Bajo punto de fusión
+uses:
+  - Soldadura
+  - Hojalata
+  - Producción de bronce
+  - Aleación para tipos de imprenta
 naturalAvailability: true
-manufacturingProcess: "Extraído de la casiterita (óxido de estaño) mediante fundición con carbón."
-category: "mineral"
+manufacturingProcess: Extraído de la casiterita (óxido de estaño) mediante fundición con carbón.
+category: mineral
+image: ../../../assets/images/materials/tin.jpg
 ---
 
 El estaño es un metal blanco plateado, blando y maleable. Es más famoso por su uso en la fabricación de bronce (aleado con cobre) y por su resistencia a la corrosión.

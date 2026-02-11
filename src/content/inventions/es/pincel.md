@@ -1,7 +1,6 @@
 ---
 title: "Pincel"
 materialsUsed: ["madera", "pelo-animal", "cuerda", "pegamento"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

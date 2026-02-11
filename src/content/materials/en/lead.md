@@ -1,20 +1,26 @@
 ---
-title: "Lead"
-composition: ["lead"]
+title: Lead
+composition:
+  - lead
 properties:
-  ["Soft", "Malleable", "Heavy", "Low melting point", "Corrosion-resistant"]
+  - Soft
+  - Malleable
+  - Heavy
+  - Low melting point
+  - Corrosion-resistant
 uses:
-  [
-    "Pipes",
-    "Weights",
-    "Batteries",
-    "Radiation shielding",
-    "Type metal alloy",
-    "Plumb bobs",
-  ]
+  - Pipes
+  - Weights
+  - Batteries
+  - Radiation shielding
+  - Type metal alloy
+  - Plumb bobs
 naturalAvailability: true
-manufacturingProcess: "Extracted from ores, primarily galena (lead sulfide), by roasting and smelting."
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from ores, primarily galena (lead sulfide), by roasting and
+  smelting.
+category: mineral
+image: ../../../assets/images/materials/lead.jpg
 ---
 
 Lead is a dense, soft, silvery-gray metal. It has a very low melting point compared to other metals, making it easy to cast.

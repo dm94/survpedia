@@ -1,6 +1,10 @@
 ---
-title: "Simple Boat"
-materialsUsed: ["wood", "resin", "plant-fibers"]
+title: Simple Boat
+materialsUsed:
+  - wood
+  - resin
+  - plant-fibers
+image: ../../../assets/images/inventions/simple-boat.jpg
 ---
 
 # Brief description

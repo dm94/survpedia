@@ -1,12 +1,27 @@
 ---
-title: "Water"
-formula: "H2O"
-composition: ["hydrogen", "oxygen"]
-properties: ["Liquid at room temperature", "Universal solvent", "Colorless", "Odorless"]
-uses: ["Human consumption", "Agriculture", "Industry", "Cooling", "Motive power", "Tanning"]
+title: Water
+formula: H2O
+composition:
+  - hydrogen
+  - oxygen
+properties:
+  - Liquid at room temperature
+  - Universal solvent
+  - Colorless
+  - Odorless
+uses:
+  - Human consumption
+  - Agriculture
+  - Industry
+  - Cooling
+  - Motive power
+  - Tanning
 naturalAvailability: true
-manufacturingProcess: "Found naturally in oceans, rivers, and lakes. Can be synthesized by burning hydrogen in oxygen."
-category: "other"
+manufacturingProcess: >-
+  Found naturally in oceans, rivers, and lakes. Can be synthesized by burning
+  hydrogen in oxygen.
+category: other
+image: ../../../assets/images/materials/water.jpg
 ---
 
 Water is a transparent, tasteless, odorless, and nearly colorless chemical substance. It is vital for all known forms of life.

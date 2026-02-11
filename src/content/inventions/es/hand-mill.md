@@ -1,7 +1,9 @@
 ---
-title: "Molino manual (grano)"
-
-materialsUsed: ["stone", "wood"]
+title: Molino manual (grano)
+materialsUsed:
+  - stone
+  - wood
+image: ../../../assets/images/inventions/hand-mill.jpg
 ---
 
 # Breve descripción

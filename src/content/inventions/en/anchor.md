@@ -1,6 +1,11 @@
 ---
-title: "Anchor"
-materialsUsed: ["stone", "wood", "iron", "lead"]
+title: Anchor
+materialsUsed:
+  - stone
+  - wood
+  - iron
+  - lead
+image: ../../../assets/images/inventions/anchor.jpg
 ---
 
 An anchor is a device, normally made of metal, used to connect a vessel to the bed of a body of water to prevent the craft from drifting due to wind or current.

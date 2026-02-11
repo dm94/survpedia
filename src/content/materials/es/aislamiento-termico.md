@@ -1,23 +1,22 @@
 ---
-title: "Aislamiento Térmico"
+title: Aislamiento Térmico
 properties:
-  [
-    "Baja conductividad térmica",
-    "Porosidad",
-    "Ligereza",
-    "Resistencia al flujo de calor",
-  ]
+  - Baja conductividad térmica
+  - Porosidad
+  - Ligereza
+  - Resistencia al flujo de calor
 uses:
-  [
-    "Construcción de refugios",
-    "Ropa de invierno",
-    "Conservación de alimentos",
-    "Hornos y fraguas",
-    "Eficiencia energética",
-  ]
+  - Construcción de refugios
+  - Ropa de invierno
+  - Conservación de alimentos
+  - Hornos y fraguas
+  - Eficiencia energética
 naturalAvailability: true
-manufacturingProcess: "Varía desde el uso directo de materiales naturales secos hasta procesos industriales de espumado o hilado de fibras."
+manufacturingProcess: >-
+  Varía desde el uso directo de materiales naturales secos hasta procesos
+  industriales de espumado o hilado de fibras.
 category: other
+image: ../../../assets/images/materials/aislamiento-termico.jpg
 ---
 
 El aislamiento térmico se refiere al conjunto de materiales y técnicas utilizadas para reducir la transferencia de calor entre dos espacios. Su función principal es mantener el calor dentro (en climas fríos) o fuera (en climas cálidos), creando una barrera contra la conducción, convección y radiación térmica.

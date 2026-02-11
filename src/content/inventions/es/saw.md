@@ -1,7 +1,6 @@
 ---
 title: "Sierra"
 materialsUsed: ["wood", "iron", "steel", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción
@@ -26,12 +25,14 @@ La sierra funciona por abrasión o corte. Los dientes de la sierra actúan como 
 ## Cómo crearla
 
 ### Versión mínima funcional
+
 Un borde dentado en un material duro.
 
 - **Edad de Piedra**: Un trozo de pedernal u obsidiana con un borde dentado.
 - **Edad de Hierro/Acero**: Una tira de metal con dientes limados en un borde.
 
 ### Pasos de fabricación (Sierra de metal)
+
 1.  **Forjado**: Dar forma a una barra plana de hierro o acero.
 2.  **Dentado**: Usar un cincel o lima para cortar dientes en un borde.
 3.  **Triscado**: Doblar los dientes ligeramente en direcciones alternas (uno a la izquierda, uno a la derecha) para crear espacio para la hoja.
@@ -41,12 +42,12 @@ Un borde dentado en un material duro.
 ## Materiales necesarios
 
 - **Materiales esenciales**:
-    - **Hoja**: Hierro, Acero (mejor para durabilidad), o Pedernal/Obsidiana (primitivo).
-    - **Mango**: Madera, Hueso o Asta.
+  - **Hoja**: Hierro, Acero (mejor para durabilidad), o Pedernal/Obsidiana (primitivo).
+  - **Mango**: Madera, Hueso o Asta.
 - **Herramientas**:
-    - **Lima**: Para afilar los dientes.
-    - **Martillo y Yunque**: Para dar forma a la hoja.
-    - **Alicates/Llave**: Para triscar los dientes.
+  - **Lima**: Para afilar los dientes.
+  - **Martillo y Yunque**: Para dar forma a la hoja.
+  - **Alicates/Llave**: Para triscar los dientes.
 
 ## Variantes y mejoras
 

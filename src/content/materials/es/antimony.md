@@ -1,11 +1,23 @@
 ---
-title: "Antimonio"
-composition: ["antimony"]
-properties: ["Frágil", "Duro", "Cristalino", "Se expande al enfriarse"]
-uses: ["Aleaciones", "Endurecimiento del plomo", "Retardantes de llama", "Aleación para tipos de imprenta"]
+title: Antimonio
+composition:
+  - antimony
+properties:
+  - Frágil
+  - Duro
+  - Cristalino
+  - Se expande al enfriarse
+uses:
+  - Aleaciones
+  - Endurecimiento del plomo
+  - Retardantes de llama
+  - Aleación para tipos de imprenta
 naturalAvailability: true
-manufacturingProcess: "Extraído de la estibina (sulfuro de antimonio) mediante tostación y luego reducción con carbono."
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de la estibina (sulfuro de antimonio) mediante tostación y luego
+  reducción con carbono.
+category: mineral
+image: ../../../assets/images/materials/antimony.jpg
 ---
 
 El antimonio es un metaloide gris lustroso. Aunque es frágil por sí solo, su propiedad más valiosa en la tecnología es su capacidad para endurecer otros metales, particularmente el plomo.

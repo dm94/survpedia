@@ -1,10 +1,19 @@
 ---
-title: "Caucho natural"
-properties: ["Elástico", "Impermeable", "Aislante eléctrico", "Resistente"]
-uses: ["Neumáticos", "Calzado", "Adhesivos", "Sellos y juntas"]
+title: Caucho natural
+properties:
+  - Elástico
+  - Impermeable
+  - Aislante eléctrico
+  - Resistente
+uses:
+  - Neumáticos
+  - Calzado
+  - Adhesivos
+  - Sellos y juntas
 naturalAvailability: true
-category: "plant"
-manufacturingProcess: "Cosechado como látex del árbol Hevea brasiliensis y coagulado."
+category: plant
+manufacturingProcess: Cosechado como látex del árbol Hevea brasiliensis y coagulado.
+image: ../../../assets/images/materials/natural-rubber.jpg
 ---
 
 El caucho natural, también llamado caucho de la India, látex, caucho amazónico, caucho o cautchouc, consiste en polímeros del compuesto orgánico isopreno.

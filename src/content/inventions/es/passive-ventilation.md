@@ -1,6 +1,11 @@
 ---
-title: "Ventilación Pasiva"
-materialsUsed: ["brick", "stone", "wood", "hormigon", "clay"]
+title: Ventilación Pasiva
+materialsUsed:
+  - brick
+  - stone
+  - wood
+  - hormigon
+  - clay
 ---
 
 La ventilación pasiva es el proceso de suministrar y extraer aire de un espacio interior sin utilizar sistemas mecánicos (como ventiladores o aire acondicionado). Aprovecha las fuerzas naturales, como el viento y las diferencias de temperatura, para renovar el aire y enfriar los espacios.
@@ -25,15 +30,18 @@ Se basa fundamentalmente en dos fenómenos físicos:
 No se "construye" como una máquina, sino que se "diseña" en la estructura del edificio.
 
 ### Versión funcional mínima
+
 - **Ventanas operables:** Colocar ventanas en paredes opuestas para permitir el flujo de aire cruzado.
 - **Salidas altas:** Aberturas cerca del techo o en el tejado para dejar escapar el aire caliente acumulado.
 
 ### Elementos avanzados
+
 - **Torres de viento (Captadores):** Estructuras que sobresalen del techo para atrapar el viento y dirigirlo hacia el interior.
 - **Chimeneas solares:** Conductos pintados de negro o acristalados que se calientan con el sol para potenciar el efecto chimenea y extraer aire con más fuerza.
 - **Patios interiores:** Actúan como depósitos de aire fresco y facilitan la ventilación hacia las habitaciones circundantes.
 
 ### Nivel técnico requerido
+
 - **Básico:** Abrir huecos estratégicos en la estructura.
 - **Intermedio:** Construir chimeneas solares o torres de viento simples.
 - **Avanzado:** Diseño bioclimático integral calculado para el clima local.

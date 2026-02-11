@@ -1,16 +1,19 @@
 ---
-title: "Surgical Thread"
+title: Surgical Thread
 properties:
-  [
-    "Sterile",
-    "Tensile strength",
-    "Biocompatibility",
-    "Absorbable/Non-absorbable",
-  ]
-uses: ["Suturing wounds", "Ligating vessels"]
+  - Sterile
+  - Tensile strength
+  - Biocompatibility
+  - Absorbable/Non-absorbable
+uses:
+  - Suturing wounds
+  - Ligating vessels
 naturalAvailability: false
-manufacturingProcess: "Processing natural fibers (silk, gut) or synthesizing polymers (nylon, polypropylene), then sterilizing."
+manufacturingProcess: >-
+  Processing natural fibers (silk, gut) or synthesizing polymers (nylon,
+  polypropylene), then sterilizing.
 category: synthetic
+image: ../../../assets/images/materials/surgical-thread.jpg
 ---
 
 Surgical thread, or suture, is used to hold body tissues together after an injury or surgery. It can be made from various materials, both natural and synthetic.

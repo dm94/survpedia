@@ -1,7 +1,12 @@
 ---
-title: "Escudo"
-
-materialsUsed: ["wood", "leather", "plant-fibers", "iron", "bronze"]
+title: Escudo
+materialsUsed:
+  - wood
+  - leather
+  - plant-fibers
+  - iron
+  - bronze
+image: ../../../assets/images/inventions/shield.jpg
 ---
 
 # Breve descripción

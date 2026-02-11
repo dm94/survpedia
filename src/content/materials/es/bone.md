@@ -1,10 +1,19 @@
 ---
-title: "Hueso"
-properties: ["Duro", "Rígido", "Duradero", "Ligero en relación con la piedra"]
-uses: ["Herramientas", "Armas", "Joyería", "Fertilizante"]
+title: Hueso
+properties:
+  - Duro
+  - Rígido
+  - Duradero
+  - Ligero en relación con la piedra
+uses:
+  - Herramientas
+  - Armas
+  - Joyería
+  - Fertilizante
 naturalAvailability: true
-manufacturingProcess: "Obtenido de los esqueletos de vertebrados fallecidos."
-category: "animal"
+manufacturingProcess: Obtenido de los esqueletos de vertebrados fallecidos.
+category: animal
+image: ../../../assets/images/materials/bone.jpg
 ---
 
 El hueso es un órgano rígido que constituye parte del esqueleto de los vertebrados. Es un material compuesto por componentes orgánicos (colágeno) e inorgánicos (fosfato de calcio).

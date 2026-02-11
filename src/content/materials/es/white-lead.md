@@ -13,7 +13,6 @@ uses:
 naturalAvailability: false
 manufacturingProcess: "Proceso de apilado: Exponer bobinas de plomo a vapores de vinagre y CO2 de estiércol fermentado."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 El albayalde (o blanco de plomo) es una sal compleja que contiene carbonato e hidróxido de plomo. Durante siglos, fue el principal pigmento blanco utilizado en la pintura y cosmética europea, a pesar de su toxicidad.
@@ -32,7 +31,7 @@ Un polvo blanco brillante, pesado y denso. Proporciona una excelente cobertura y
 1.  **Proceso Holandés (de apilado)**:
     - Colocar vinagre en ollas de barro.
     - Colocar bobinas/hebillas de plomo dentro de las ollas, por encima del vinagre.
-    - Apilar las ollas y cubrirlas con estiércol fermentado o [corteza de curtido](/es/inventions/curtido).
+    - Apilar las ollas y cubrirlas con estiércol fermentado o [corteza de curtido](/es/knowledge/curtido).
     - El estiércol genera calor y CO2. El vinagre genera vapores de ácido acético.
     - Dejar durante semanas/meses.
 2.  **Cosecha**:

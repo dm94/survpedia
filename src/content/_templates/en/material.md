@@ -6,7 +6,6 @@ properties: ["Property 1", "Property 2"]
 uses: ["Use 1", "Use 2"]
 naturalAvailability: true
 manufacturingProcess: "Description of how it is manufactured."
-image: "../../assets/placeholder.jpg" # Optional
 category: mineral, plant, animal, synthetic
 ---
 

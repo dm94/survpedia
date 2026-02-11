@@ -1,6 +1,11 @@
 ---
-title: "Drenaje"
-materialsUsed: ["stone", "gravel", "clay", "bambu"]
+title: Drenaje
+materialsUsed:
+  - stone
+  - gravel
+  - clay
+  - bambu
+image: ../../../assets/images/inventions/drenaje.jpg
 ---
 
 # Descripción breve

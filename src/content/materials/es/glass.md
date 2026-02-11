@@ -16,7 +16,6 @@ uses:
 naturalAvailability: false
 manufacturingProcess: "Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un enfriamiento rápido pero controlado (recocido)."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 El vidrio es un material sólido inorgánico, no cristalino (amorfo), que suele ser transparente. Es esencial para la civilización moderna, permitiendo desde la protección contra el clima manteniendo la luz, hasta la corrección de la visión y el avance de la química.

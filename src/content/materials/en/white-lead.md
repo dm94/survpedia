@@ -7,7 +7,6 @@ uses: ["White pigment", "Cosmetics (Historical)", "Ceramic glaze", "Paint base"]
 naturalAvailability: false
 manufacturingProcess: "Stack process: Exposing lead coils to vinegar vapors and CO2 from fermenting manure."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 White lead is a complex salt containing both carbonate and hydroxide of lead. For centuries, it was the principal white pigment used in European painting and cosmetics, despite its toxicity.
@@ -19,7 +18,7 @@ A heavy, dense, brilliant white powder. It provides excellent coverage and opaci
 ## Origin and where to find it
 
 - **Not natural**: Manufactured product.
-- **Raw Materials**: [Lead](/en/materials/lead), [Simple Acids (Vinegar)](/en/materials/simple-acids), and a source of CO2 (manure/[tanbark](/en/inventions/tanning)).
+- **Raw Materials**: [Lead](/en/materials/lead), [Simple Acids (Vinegar)](/en/materials/simple-acids), and a source of CO2 (manure/[tanbark](/en/knowledge/tanning)).
 
 ### Minimum processing required
 

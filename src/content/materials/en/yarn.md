@@ -5,7 +5,6 @@ uses: ["Weaving", "Knitting", "Sewing", "Rope making"]
 naturalAvailability: false
 category: "synthetic"
 manufacturingProcess: "Twisting fibers together to form a continuous strand."
-image: "../../assets/placeholder.jpg"
 ---
 
 A long, continuous length of interlocked fibers, used for the production of textiles, sewing, crocheting, knitting, weaving, embroidery, and rope making.

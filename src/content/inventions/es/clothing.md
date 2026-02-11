@@ -1,7 +1,11 @@
 ---
-title: "Ropa y tejidos"
-
-materialsUsed: ["leather", "wool", "cotton", "plant-fibers"]
+title: Ropa y tejidos
+materialsUsed:
+  - leather
+  - wool
+  - cotton
+  - plant-fibers
+image: ../../../assets/images/inventions/clothing.jpg
 ---
 
 # Breve descripción
@@ -21,7 +25,7 @@ Atrapa una capa de aire cerca de la piel que actúa como aislante térmico. Los 
 
 ## Cómo crearlo
 
-1. **Obtención:** **[Curtir](/es/inventions/curtido)** pieles de animales (**[Cuero](/es/materials/leather)**) o recolectar fibras vegetales/animales (lino, algodón, lana).
+1. **Obtención:** **[Curtir](/es/knowledge/curtido)** pieles de animales (**[Cuero](/es/materials/leather)**) o recolectar fibras vegetales/animales (lino, algodón, lana).
 2. **Procesado:** Hilar las fibras para crear hilos largos y resistentes.
 3. **Unión:** Tejer los hilos en un telar o coser piezas de piel usando agujas de hueso y tendones o hilos.
 4. **Nivel técnico:** Básico (pieles) a Intermedio (tejidos).

@@ -1,10 +1,19 @@
 ---
-title: "Sand"
-properties: ["Granular", "Abrasive", "Heat resistant", "Permeable"]
-uses: ["Construction", "Glass making", "Abrasive cleaning", "Filtration"]
+title: Sand
+properties:
+  - Granular
+  - Abrasive
+  - Heat resistant
+  - Permeable
+uses:
+  - Construction
+  - Glass making
+  - Abrasive cleaning
+  - Filtration
 naturalAvailability: true
-manufacturingProcess: "Found naturally as a result of the erosion of rocks."
-category: "mineral"
+manufacturingProcess: Found naturally as a result of the erosion of rocks.
+category: mineral
+image: ../../../assets/images/materials/sand.jpg
 ---
 
 Sand is a granular material composed of finely divided rock and mineral particles. It is defined by size, being finer than gravel and coarser than silt.

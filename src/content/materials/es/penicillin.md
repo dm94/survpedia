@@ -1,14 +1,27 @@
 ---
-title: "Penicillin"
-formula: "C16H18N2O4S"
-composition: ["carbon", "hydrogen", "nitrogen", "oxygen", "sulfur"]
+title: Penicillin
+formula: C16H18N2O4S
+composition:
+  - carbon
+  - hydrogen
+  - nitrogen
+  - oxygen
+  - sulfur
 properties:
-  ["Antibiótico", "Bioactivo", "Sensible al calor", "Se degrada con ácidos fuertes"]
+  - Antibiótico
+  - Bioactivo
+  - Sensible al calor
+  - Se degrada con ácidos fuertes
 uses:
-  ["Tratamiento de infecciones bacterianas", "Cuidado tópico de heridas", "Cultivos de laboratorio"]
+  - Tratamiento de infecciones bacterianas
+  - Cuidado tópico de heridas
+  - Cultivos de laboratorio
 naturalAvailability: false
-manufacturingProcess: "Cultivado a partir de mohos Penicillium en fermentación controlada, luego extraído y purificado."
-category: "other"
+manufacturingProcess: >-
+  Cultivado a partir de mohos Penicillium en fermentación controlada, luego
+  extraído y purificado.
+category: other
+image: ../../../assets/images/materials/penicillin.jpg
 ---
 
 La penicilina es una familia de antibióticos beta-lactámicos producidos por mohos *Penicillium*. Fue el primer antibiótico de uso masivo y sigue siendo un modelo para entender los fármacos antibacterianos.
@@ -66,6 +79,6 @@ Si se procesa mal, la potencia es baja o hay contaminación, y el producto puede
 
 ### Materiales relacionados
 
-- **[Fermentación](/es/inventions/fermentation)**: La producción industrial depende del crecimiento microbiano controlado.
+- **[Fermentación](/es/knowledge/fermentation)**: La producción industrial depende del crecimiento microbiano controlado.
 - **[Alcohol](/es/materials/alcohol)**: Usado como solvente en la extracción y limpieza.
 - **[Agua](/es/materials/water)**: Medio base para cultivo y dilución.

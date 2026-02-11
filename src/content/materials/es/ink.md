@@ -1,11 +1,25 @@
 ---
-title: "Tinta"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Líquida", "Tingente", "Secado rápido", "Permanente"]
-uses: ["Escritura", "Imprenta", "Arte", "Tatuajes"]
+title: Tinta
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Líquida
+  - Tingente
+  - Secado rápido
+  - Permanente
+uses:
+  - Escritura
+  - Imprenta
+  - Arte
+  - Tatuajes
 naturalAvailability: false
-manufacturingProcess: "Mezcla de un pigmento (como carbón o hollín) con un aglutinante (como goma arábiga, clara de huevo o miel) y un solvente (como agua o aceite)."
-category: "synthetic"
+manufacturingProcess: >-
+  Mezcla de un pigmento (como carbón o hollín) con un aglutinante (como goma
+  arábiga, clara de huevo o miel) y un solvente (como agua o aceite).
+category: synthetic
+image: ../../../assets/images/materials/ink.jpg
 ---
 
 La tinta es un líquido o pasta que contiene pigmentos o tintes y se utiliza para colorear una superficie con el fin de producir una imagen, texto o diseño.

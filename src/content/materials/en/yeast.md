@@ -1,11 +1,24 @@
 ---
-title: "Yeast"
-composition: ["carbon", "hydrogen", "oxygen", "nitrogen"]
-properties: ["Microscopic", "Living organism", "Reproduces by budding", "Ferments sugars"]
-uses: ["Baking", "Brewing", "Nutritional supplement", "Ethanol production"]
+title: Yeast
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+  - nitrogen
+properties:
+  - Microscopic
+  - Living organism
+  - Reproduces by budding
+  - Ferments sugars
+uses:
+  - Baking
+  - Brewing
+  - Nutritional supplement
+  - Ethanol production
 naturalAvailability: true
-manufacturingProcess: "Cultured from wild strains found on fruit skins or in the air."
-category: "other"
+manufacturingProcess: Cultured from wild strains found on fruit skins or in the air.
+category: other
+image: ../../../assets/images/materials/yeast.jpg
 ---
 
 Yeast is a single-celled microorganism classified as a member of the fungus kingdom. The most common species, *Saccharomyces cerevisiae*, is essential for baking and brewing.

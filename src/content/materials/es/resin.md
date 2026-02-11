@@ -1,10 +1,21 @@
 ---
-title: "Resina"
-properties: ["Adhesiva", "Impermeable", "Inflamable", "Aislante"]
-uses: ["Sellador", "Adhesivo", "Barniz", "Incienso"]
+title: Resina
+properties:
+  - Adhesiva
+  - Impermeable
+  - Inflamable
+  - Aislante
+uses:
+  - Sellador
+  - Adhesivo
+  - Barniz
+  - Incienso
 naturalAvailability: true
-manufacturingProcess: "Excretada por las plantas, especialmente las coníferas. Se puede recolectar directamente o extraer mediante el calentamiento de la madera."
-category: "plant"
+manufacturingProcess: >-
+  Excretada por las plantas, especialmente las coníferas. Se puede recolectar
+  directamente o extraer mediante el calentamiento de la madera.
+category: plant
+image: ../../../assets/images/materials/resin.jpg
 ---
 
 La resina es una sustancia sólida o altamente viscosa de origen vegetal o sintético que suele ser convertible en polímeros. Las resinas naturales son a menudo mezclas de compuestos orgánicos.

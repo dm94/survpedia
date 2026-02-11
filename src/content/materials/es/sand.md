@@ -1,10 +1,19 @@
 ---
-title: "Arena"
-properties: ["Granular", "Abrasiva", "Resistente al calor", "Permeable"]
-uses: ["Construcción", "Fabricación de vidrio", "Limpieza abrasiva", "Filtración"]
+title: Arena
+properties:
+  - Granular
+  - Abrasiva
+  - Resistente al calor
+  - Permeable
+uses:
+  - Construcción
+  - Fabricación de vidrio
+  - Limpieza abrasiva
+  - Filtración
 naturalAvailability: true
-manufacturingProcess: "Se encuentra naturalmente como resultado de la erosión de las rocas."
-category: "mineral"
+manufacturingProcess: Se encuentra naturalmente como resultado de la erosión de las rocas.
+category: mineral
+image: ../../../assets/images/materials/sand.jpg
 ---
 
 La arena es un material granular compuesto de partículas de roca y mineral finamente divididas. Se define por su tamaño, siendo más fina que la grava y más gruesa que el limo.

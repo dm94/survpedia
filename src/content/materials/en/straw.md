@@ -1,17 +1,20 @@
 ---
-title: "Straw"
-properties: ["Thermal insulator", "Lightweight", "Flammable", "Biodegradable"]
+title: Straw
+properties:
+  - Thermal insulator
+  - Lightweight
+  - Flammable
+  - Biodegradable
 uses:
-  [
-    "Thatching roofs",
-    "Animal bedding",
-    "Adobe brick binder",
-    "Thermal insulation",
-    "Baskets",
-  ]
+  - Thatching roofs
+  - Animal bedding
+  - Adobe brick binder
+  - Thermal insulation
+  - Baskets
 naturalAvailability: true
-manufacturingProcess: "Byproduct of harvesting cereal grains; stalks are dried and baled."
+manufacturingProcess: Byproduct of harvesting cereal grains; stalks are dried and baled.
 category: plant
+image: ../../../assets/images/materials/straw.jpg
 ---
 
 Straw is the dry stalk of cereal plants (wheat, barley, oats, rice) after the grain and chaff have been removed. It is distinct from hay, which is dried grass used for animal feed.

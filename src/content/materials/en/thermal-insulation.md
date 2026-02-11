@@ -1,23 +1,22 @@
 ---
-title: "Thermal Insulation"
+title: Thermal Insulation
 properties:
-  [
-    "Low thermal conductivity",
-    "Porosity",
-    "Lightweight",
-    "Heat flow resistance",
-  ]
+  - Low thermal conductivity
+  - Porosity
+  - Lightweight
+  - Heat flow resistance
 uses:
-  [
-    "Shelter construction",
-    "Winter clothing",
-    "Food preservation",
-    "Furnaces and forges",
-    "Energy efficiency",
-  ]
+  - Shelter construction
+  - Winter clothing
+  - Food preservation
+  - Furnaces and forges
+  - Energy efficiency
 naturalAvailability: true
-manufacturingProcess: "Ranges from direct use of dry natural materials to industrial foaming or fiber spinning processes."
+manufacturingProcess: >-
+  Ranges from direct use of dry natural materials to industrial foaming or fiber
+  spinning processes.
 category: other
+image: ../../../assets/images/materials/thermal-insulation.jpg
 ---
 
 Thermal insulation refers to the set of materials and techniques used to reduce heat transfer between two spaces. Its main function is to keep heat in (in cold climates) or out (in hot climates), creating a barrier against thermal conduction, convection, and radiation.

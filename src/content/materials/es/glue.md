@@ -1,11 +1,25 @@
 ---
-title: "Pegamento"
-composition: ["colágeno", "agua"]
-properties: ["Adhesivo", "Soluble en agua", "Rígido al secar", "Reversible"]
-uses: ["Carpintería", "Encuadernación", "Fabricación de herramientas", "Aprestado", "Enmangado"]
+title: Pegamento
+composition:
+  - colágeno
+  - agua
+properties:
+  - Adhesivo
+  - Soluble en agua
+  - Rígido al secar
+  - Reversible
+uses:
+  - Carpintería
+  - Encuadernación
+  - Fabricación de herramientas
+  - Aprestado
+  - Enmangado
 naturalAvailability: false
-manufacturingProcess: "Hervir tejidos conectivos animales (piel, huesos, tendones) en agua para extraer colágeno, luego concentrar la solución."
-category: "animal"
+manufacturingProcess: >-
+  Hervir tejidos conectivos animales (piel, huesos, tendones) en agua para
+  extraer colágeno, luego concentrar la solución.
+category: animal
+image: ../../../assets/images/materials/glue.jpg
 ---
 
 El pegamento es una sustancia adhesiva utilizada para unir materiales. Históricamente, los pegamentos fuertes más comunes se hacían de colágeno animal.

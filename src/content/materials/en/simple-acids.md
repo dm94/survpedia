@@ -20,7 +20,6 @@ uses:
 naturalAvailability: false
 manufacturingProcess: "Concentrating vinegar via fractional freezing or distillation."
 category: "synthetic"
-image: "../../assets/placeholder.jpg"
 ---
 
 Simple acids, specifically concentrated acetic acid (often called "Strong Vinegar" or "Spirit of Vinegar"), are a step up from household vinegar. While normal vinegar is 5-8% acid, strong vinegar can reach much higher concentrations, making it useful for chemical reactions that weak vinegar cannot sustain.

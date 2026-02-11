@@ -1,7 +1,6 @@
 ---
 title: "Spinning Wheel"
 materialsUsed: ["wood", "leather", "iron", "animal-fat"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

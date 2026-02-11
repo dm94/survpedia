@@ -1,11 +1,23 @@
 ---
-title: "Mortar"
-composition: ["sand", "water", "lime", "clay"]
-properties: ["Adhesion", "Plasticity", "Impermeability (variable)", "Resistance"]
-uses: ["Joining bricks and stones", "Wall coating (rendering)", "Floors"]
+title: Mortar
+composition:
+  - sand
+  - water
+  - lime
+  - clay
+properties:
+  - Adhesion
+  - Plasticity
+  - Impermeability (variable)
+  - Resistance
+uses:
+  - Joining bricks and stones
+  - Wall coating (rendering)
+  - Floors
 naturalAvailability: false
-manufacturingProcess: "Mixture of a binder (lime, clay, cement) with fine aggregate (sand) and water."
-category: "synthetic"
+manufacturingProcess: 'Mixture of a binder (lime, clay, cement) with fine aggregate (sand) and water.'
+category: synthetic
+image: ../../../assets/images/materials/mortar.jpg
 ---
 
 Mortar is a plastic mixture that hardens over time, used in construction to join bricks, stones, or concrete blocks, and to fill the spaces between them. It is also used to coat walls.

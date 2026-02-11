@@ -1,9 +1,18 @@
 ---
-title: "Tungsten"
-properties: ["Highest melting point of all metals", "High density", "Hard", "Brittle at low temperatures"]
-uses: ["Light bulb filaments", "Vacuum tube cathodes", "Electrodes", "High-speed steel alloys"]
+title: Tungsten
+properties:
+  - Highest melting point of all metals
+  - High density
+  - Hard
+  - Brittle at low temperatures
+uses:
+  - Light bulb filaments
+  - Vacuum tube cathodes
+  - Electrodes
+  - High-speed steel alloys
 naturalAvailability: false
-category: "mineral"
+category: mineral
+image: ../../../assets/images/materials/tungsten.jpg
 ---
 
 # Brief description

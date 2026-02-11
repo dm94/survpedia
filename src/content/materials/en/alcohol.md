@@ -1,14 +1,26 @@
 ---
-title: "Alcohol"
-formula: "C2H5OH"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Alcohol
+formula: C2H5OH
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  ["Volatile", "Flammable", "Colorless liquid", "Antiseptic", "Intoxicating"]
+  - Volatile
+  - Flammable
+  - Colorless liquid
+  - Antiseptic
+  - Intoxicating
 uses:
-  ["Disinfectant", "Fuel", "Solvent", "Recreational beverage", "Preservative"]
+  - Disinfectant
+  - Fuel
+  - Solvent
+  - Recreational beverage
+  - Preservative
 naturalAvailability: false
-manufacturingProcess: "Fermentation of sugars by yeast, followed by distillation."
-category: "other"
+manufacturingProcess: 'Fermentation of sugars by yeast, followed by distillation.'
+category: other
+image: ../../../assets/images/materials/alcohol.jpg
 ---
 
 Alcohol (specifically Ethanol) is a volatile, flammable, colorless liquid with a slight characteristic odor. It is a psychoactive substance and is the principal type of alcohol found in alcoholic drinks.
@@ -25,7 +37,7 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 ### Minimum processing required
 
-- **[Fermentation](/en/inventions/fermentation)**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
+- **[Fermentation](/en/knowledge/fermentation)**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
 - **[Distillation](/en/inventions/distillation)**: Heating the fermented liquid to separate alcohol (lower boiling point) from water. This yields higher concentrations (up to 95%).
 
 ### Tools needed to work on it

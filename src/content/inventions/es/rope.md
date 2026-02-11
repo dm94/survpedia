@@ -1,7 +1,11 @@
 ---
-title: "Cuerda"
-
-materialsUsed: ["plant-fibers", "wool", "cotton", "leather"]
+title: Cuerda
+materialsUsed:
+  - plant-fibers
+  - wool
+  - cotton
+  - leather
+image: ../../../assets/images/inventions/rope.jpg
 ---
 
 # Breve descripción

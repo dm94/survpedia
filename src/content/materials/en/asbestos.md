@@ -1,24 +1,21 @@
 ---
-title: "Asbestos"
+title: Asbestos
 properties:
-  [
-    "Fireproof",
-    "Thermal insulator",
-    "Chemical resistant",
-    "High tensile strength",
-    "Fibrous",
-  ]
+  - Fireproof
+  - Thermal insulator
+  - Chemical resistant
+  - High tensile strength
+  - Fibrous
 uses:
-  [
-    "Fireproofing",
-    "Thermal insulation",
-    "Brake pads",
-    "Cement reinforcement",
-    "Gaskets",
-  ]
+  - Fireproofing
+  - Thermal insulation
+  - Brake pads
+  - Cement reinforcement
+  - Gaskets
 naturalAvailability: true
-manufacturingProcess: "Mined from the earth, crushed, and fibers are separated by air suction."
+manufacturingProcess: 'Mined from the earth, crushed, and fibers are separated by air suction.'
 category: mineral
+image: ../../../assets/images/materials/asbestos.jpg
 ---
 
 Asbestos is a group of six naturally occurring silicate minerals made of microscopic fibers. It was once hailed as a "miracle mineral" for its heat resistance and durability but is now known to be highly toxic.

@@ -1,7 +1,6 @@
 ---
 title: "Loom"
 materialsUsed: ["wood", "yarn", "plant-fibers"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

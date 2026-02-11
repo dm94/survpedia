@@ -5,7 +5,7 @@ properties: ["Adhesión", "Cobertura", "Color", "Viscosidad", "Tiempo de secado"
 uses: ["Arte", "Decoración", "Protección", "Señalización", "Camuflaje"]
 naturalAvailability: false
 manufacturingProcess: "Dispersión de partículas de pigmento en un aglutinante líquido."
-image: "../../assets/placeholder.jpg"
+
 category: synthetic
 ---
 

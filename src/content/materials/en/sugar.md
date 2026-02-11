@@ -1,19 +1,24 @@
 ---
-title: "Sugar"
-formula: "C12H22O11"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Sugar
+formula: C12H22O11
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  [
-    "Sweet taste",
-    "Soluble in water",
-    "Crystalline solid",
-    "High energy content",
-  ]
+  - Sweet taste
+  - Soluble in water
+  - Crystalline solid
+  - High energy content
 uses:
-  ["Food preservation", "Sweetener", "Fermentation substrate", "Energy source"]
+  - Food preservation
+  - Sweetener
+  - Fermentation substrate
+  - Energy source
 naturalAvailability: true
-manufacturingProcess: "Extracted from sugarcane, sugar beet, or fruits."
-category: "plant"
+manufacturingProcess: 'Extracted from sugarcane, sugar beet, or fruits.'
+category: plant
+image: ../../../assets/images/materials/sugar.jpg
 ---
 
 Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.

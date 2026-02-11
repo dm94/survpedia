@@ -1,7 +1,13 @@
 ---
-title: "Awl"
-
-materialsUsed: ["bone", "wood", "copper", "bronze", "iron", "steel"]
+title: Awl
+materialsUsed:
+  - bone
+  - wood
+  - copper
+  - bronze
+  - iron
+  - steel
+image: ../../../assets/images/inventions/awl.jpg
 ---
 
 # Brief description

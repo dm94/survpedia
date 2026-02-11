@@ -1,17 +1,17 @@
 ---
-title: "Gunpowder"
-category: "synthetic"
-formula: "75% KNO3 + 15% C + 10% S"
+title: Gunpowder
+category: synthetic
+formula: 75% KNO3 + 15% C + 10% S
 properties:
-  - "Deflagrates (burns rapidly)"
-  - "Produces gas and heat"
-  - "Shock sensitive (low)"
-  - "Hygroscopic"
+  - Deflagrates (burns rapidly)
+  - Produces gas and heat
+  - Shock sensitive (low)
+  - Hygroscopic
 uses:
-  - "Firearms"
-  - "Artillery"
-  - "Fireworks"
-  - "Blasting (mining)"
+  - Firearms
+  - Artillery
+  - Fireworks
+  - Blasting (mining)
 composition:
   - sulfur
   - carbon
@@ -19,6 +19,7 @@ composition:
   - nitrogen
   - oxygen
 naturalAvailability: false
+image: ../../../assets/images/materials/gunpowder.jpg
 ---
 
 ## History

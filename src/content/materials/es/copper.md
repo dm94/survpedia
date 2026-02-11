@@ -1,11 +1,23 @@
 ---
-title: "Cobre"
-composition: ["copper"]
-properties: ["Excelente conductor", "Maleable", "Dúctil", "Resistente a la corrosión"]
-uses: ["Cableado eléctrico", "Fontanería", "Utensilios de cocina", "Aleaciones (Bronce/Latón)"]
+title: Cobre
+composition:
+  - copper
+properties:
+  - Excelente conductor
+  - Maleable
+  - Dúctil
+  - Resistente a la corrosión
+uses:
+  - Cableado eléctrico
+  - Fontanería
+  - Utensilios de cocina
+  - Aleaciones (Bronce/Latón)
 naturalAvailability: true
-manufacturingProcess: "Extraído de minerales (ej. calcopirita) mediante fundición o encontrado como cobre nativo."
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de minerales (ej. calcopirita) mediante fundición o encontrado como
+  cobre nativo.
+category: mineral
+image: ../../../assets/images/materials/copper.jpg
 ---
 
 El cobre es un metal blando, maleable y dúctil con una conductividad térmica y eléctrica muy alta. Fue el primer metal trabajado por los humanos.

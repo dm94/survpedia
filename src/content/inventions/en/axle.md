@@ -1,7 +1,6 @@
 ---
 title: "Axle"
 materialsUsed: ["wood", "iron", "steel"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

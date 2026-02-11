@@ -1,7 +1,11 @@
 ---
-title: "Calzado"
-
-materialsUsed: ["leather", "wood", "plant-fibers", "natural-rubber"]
+title: Calzado
+materialsUsed:
+  - leather
+  - wood
+  - plant-fibers
+  - natural-rubber
+image: ../../../assets/images/inventions/shoes.jpg
 ---
 
 # Breve descripción

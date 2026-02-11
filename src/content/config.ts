@@ -41,8 +41,20 @@ const inventions = defineCollection({
   }),
 });
 
+const knowledge = defineCollection({
+  type: 'content',
+  schema: ({ image }) => z.object({
+    title: z.string(),
+    relatedMaterials: z.array(z.string()).optional(),
+    relatedInventions: z.array(z.string()).optional(),
+    image: image().optional(),
+    aiGenerated: z.boolean().optional().default(true),
+  }),
+});
+
 export const collections = {
   elements,
   materials,
   inventions,
+  knowledge,
 };

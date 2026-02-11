@@ -5,7 +5,6 @@ properties: ["Pozzolanic", "Reacts with lime", "Fine powder", "Abrasive"]
 uses: ["Roman cement", "Hydraulic concrete", "Waterproof mortar", "Filters"]
 naturalAvailability: true
 manufacturingProcess: "Collection of volcanic ash or crushing of bricks/fired ceramics."
-image: ../../../assets/placeholder.jpg
 category: "mineral"
 ---
 

@@ -1,10 +1,19 @@
 ---
-title: "Wool"
-properties: ["Warm", "Insulating", "Flame resistant", "Elastic"]
-uses: ["Clothing", "Blankets", "Carpets", "Insulation"]
+title: Wool
+properties:
+  - Warm
+  - Insulating
+  - Flame resistant
+  - Elastic
+uses:
+  - Clothing
+  - Blankets
+  - Carpets
+  - Insulation
 naturalAvailability: true
-category: "animal"
-manufacturingProcess: "Obtained by shearing sheep or other animals, then cleaned, carded, and spun."
+category: animal
+manufacturingProcess: 'Obtained by shearing sheep or other animals, then cleaned, carded, and spun.'
+image: ../../../assets/images/materials/wool.jpg
 ---
 
 Wool is the textile fiber obtained from sheep and other animals. It consists of protein together with a small percentage of lipids.

@@ -1,7 +1,6 @@
 ---
 title: "Rueca"
 materialsUsed: ["wood", "leather", "iron", "animal-fat"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

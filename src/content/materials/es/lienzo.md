@@ -2,10 +2,11 @@
 title: "Lienzo"
 composition: ["algodón", "lino", "cáñamo"]
 properties: ["Resistencia", "Durabilidad", "Flexibilidad", "Absorbencia"]
-uses: ["Superficie de pintura", "Velas", "Tiendas de campaña", "Bolsas", "Zapatos"]
+uses:
+  ["Superficie de pintura", "Velas", "Tiendas de campaña", "Bolsas", "Zapatos"]
 naturalAvailability: false
 manufacturingProcess: "Tejer hilo resistente en una tela de tejido liso."
-image: "../../assets/placeholder.jpg"
+
 category: plant
 ---
 

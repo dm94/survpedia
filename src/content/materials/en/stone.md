@@ -1,10 +1,20 @@
 ---
-title: "Stone"
-properties: ["Hard", "Resistant", "Heavy", "Durable"]
-uses: ["Construction", "Tools", "Weapons", "Decoration", "Millstones"]
+title: Stone
+properties:
+  - Hard
+  - Resistant
+  - Heavy
+  - Durable
+uses:
+  - Construction
+  - Tools
+  - Weapons
+  - Decoration
+  - Millstones
 naturalAvailability: true
-manufacturingProcess: "Collected from the earth's surface or extracted from quarries."
-category: "mineral"
+manufacturingProcess: Collected from the earth's surface or extracted from quarries.
+category: mineral
+image: ../../../assets/images/materials/stone.jpg
 ---
 
 Stone is a hard and compact mineral substance. Geologists use the term rock. It has been the fundamental building block of human technology for millennia.

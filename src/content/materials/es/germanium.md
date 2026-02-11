@@ -1,26 +1,25 @@
 ---
-title: "Germanio"
-formula: "Ge"
-composition: ["Germanio"]
+title: Germanio
+formula: Ge
+composition:
+  - Germanio
 properties:
-  [
-    "Semiconductor",
-    "Frágil",
-    "Transparente a la luz infrarroja",
-    "Alto índice de refracción",
-  ]
+  - Semiconductor
+  - Frágil
+  - Transparente a la luz infrarroja
+  - Alto índice de refracción
 uses:
-  [
-    "Primeros transistores",
-    "Fibra óptica",
-    "Óptica infrarroja",
-    "Células solares",
-    "Diodos",
-  ]
+  - Primeros transistores
+  - Fibra óptica
+  - Óptica infrarroja
+  - Células solares
+  - Diodos
 naturalAvailability: false
-manufacturingProcess: "Extraído de minerales de zinc o cenizas de carbón, purificado vía cloración y destilación."
-
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de minerales de zinc o cenizas de carbón, purificado vía cloración y
+  destilación.
+category: mineral
+image: ../../../assets/images/materials/germanium.jpg
 ---
 
 # Breve descripción

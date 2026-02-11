@@ -1,10 +1,21 @@
 ---
-title: "Bambú"
-properties: ["Ligero", "Fuerte", "Hueco", "Flexible", "Crecimiento rápido"]
-uses: ["Construcción", "Tuberías", "Contenedores", "Armas", "Comida"]
+title: Bambú
+properties:
+  - Ligero
+  - Fuerte
+  - Hueco
+  - Flexible
+  - Crecimiento rápido
+uses:
+  - Construcción
+  - Tuberías
+  - Contenedores
+  - Armas
+  - Comida
 naturalAvailability: true
-manufacturingProcess: "Cosechado y secado."
-category: "plant"
+manufacturingProcess: Cosechado y secado.
+category: plant
+image: ../../../assets/images/materials/bambu.jpg
 ---
 
 Una hierba leñosa gigante que crece principalmente en los trópicos y subtrópicos. Es una de las plantas de más rápido crecimiento en el mundo.

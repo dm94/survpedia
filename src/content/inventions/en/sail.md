@@ -1,6 +1,9 @@
 ---
-title: "Sail"
-materialsUsed: ["fabric", "plant-fibers"]
+title: Sail
+materialsUsed:
+  - fabric
+  - plant-fibers
+image: ../../../assets/images/inventions/sail.jpg
 ---
 
 # Brief description

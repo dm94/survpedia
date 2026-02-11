@@ -1,10 +1,21 @@
 ---
-title: "Resin"
-properties: ["Adhesive", "Waterproof", "Flammable", "Insulator"]
-uses: ["Sealant", "Adhesive", "Varnish", "Incense"]
+title: Resin
+properties:
+  - Adhesive
+  - Waterproof
+  - Flammable
+  - Insulator
+uses:
+  - Sealant
+  - Adhesive
+  - Varnish
+  - Incense
 naturalAvailability: true
-manufacturingProcess: "Excreted by plants, especially coniferous trees. Can be collected directly or extracted through heating wood."
-category: "plant"
+manufacturingProcess: >-
+  Excreted by plants, especially coniferous trees. Can be collected directly or
+  extracted through heating wood.
+category: plant
+image: ../../../assets/images/materials/resin.jpg
 ---
 
 Resin is a solid or highly viscous substance of plant or synthetic origin that is typically convertible into polymers. Natural resins are often mixtures of organic compounds.

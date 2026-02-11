@@ -1,11 +1,21 @@
 ---
-title: "Lime"
-formula: "CaO / Ca(OH)2"
-properties: ["Caustic", "White", "Binder", "Alkaline"]
-uses: ["Mortar", "Concrete", "Agriculture", "Tanning", "Sanitation"]
+title: Lime
+formula: CaO / Ca(OH)2
+properties:
+  - Caustic
+  - White
+  - Binder
+  - Alkaline
+uses:
+  - Mortar
+  - Concrete
+  - Agriculture
+  - Tanning
+  - Sanitation
 naturalAvailability: false
-manufacturingProcess: "Calcination of limestone."
-category: "synthetic"
+manufacturingProcess: Calcination of limestone.
+category: synthetic
+image: ../../../assets/images/materials/lime.jpg
 ---
 
 A versatile chemical derived from limestone. It exists as Quicklime (CaO) and Slaked Lime (Ca(OH)2).
@@ -36,7 +46,7 @@ A versatile chemical derived from limestone. It exists as Quicklime (CaO) and Sl
 
 - **Mortar/Plaster:** Mixed with sand and water.
 - **Agriculture:** To neutralize acidic soil.
-- **[Tanning](/en/inventions/tanning):** To remove hair from hides.
+- **[Tanning](/en/knowledge/tanning):** To remove hair from hides.
 - **Whitewash:** Cheap paint/sealant.
 
 ### Possible substitutes

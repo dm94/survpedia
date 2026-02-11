@@ -1,11 +1,25 @@
 ---
-title: "Papiro"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Ligero", "Flexible", "Duradero en climas secos", "Fibroso"]
-uses: ["Superficie de escritura", "Botes", "Esteras", "Sandalias"]
+title: Papiro
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Ligero
+  - Flexible
+  - Duradero en climas secos
+  - Fibroso
+uses:
+  - Superficie de escritura
+  - Botes
+  - Esteras
+  - Sandalias
 naturalAvailability: false
-manufacturingProcess: "Hecho de la médula de la planta Cyperus papyrus cortándola en tiras, colocándolas en capas cruzadas y prensándolas."
-category: "plant"
+manufacturingProcess: >-
+  Hecho de la médula de la planta Cyperus papyrus cortándola en tiras,
+  colocándolas en capas cruzadas y prensándolas.
+category: plant
+image: ../../../assets/images/materials/papyrus.jpg
 ---
 
 El papiro es un material similar al papel grueso que se utilizaba en la antigüedad como superficie de escritura. Se fabricaba a partir de la médula de la planta de papiro, *Cyperus papyrus*, una ciperácea de zonas pantanosas.

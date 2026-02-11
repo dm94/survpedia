@@ -1,6 +1,12 @@
 ---
-title: "Canalización"
-materialsUsed: ["clay", "lead", "wood", "bambu", "copper"]
+title: Canalización
+materialsUsed:
+  - clay
+  - lead
+  - wood
+  - bambu
+  - copper
+image: ../../../assets/images/inventions/canalizacion.jpg
 ---
 
 # Descripción breve

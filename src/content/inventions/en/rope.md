@@ -1,7 +1,11 @@
 ---
-title: "Rope"
-
-materialsUsed: ["plant-fibers", "wool", "cotton", "leather"]
+title: Rope
+materialsUsed:
+  - plant-fibers
+  - wool
+  - cotton
+  - leather
+image: ../../../assets/images/inventions/rope.jpg
 ---
 
 # Brief description

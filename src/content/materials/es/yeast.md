@@ -1,11 +1,26 @@
 ---
-title: "Levadura"
-composition: ["carbon", "hydrogen", "oxygen", "nitrogen"]
-properties: ["Microscópico", "Organismo vivo", "Se reproduce por gemación", "Fermenta azúcares"]
-uses: ["Panadería", "Elaboración de cerveza", "Suplemento nutricional", "Producción de etanol"]
+title: Levadura
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+  - nitrogen
+properties:
+  - Microscópico
+  - Organismo vivo
+  - Se reproduce por gemación
+  - Fermenta azúcares
+uses:
+  - Panadería
+  - Elaboración de cerveza
+  - Suplemento nutricional
+  - Producción de etanol
 naturalAvailability: true
-manufacturingProcess: "Cultivado a partir de cepas silvestres encontradas en pieles de frutas o en el aire."
-category: "other"
+manufacturingProcess: >-
+  Cultivado a partir de cepas silvestres encontradas en pieles de frutas o en el
+  aire.
+category: other
+image: ../../../assets/images/materials/yeast.jpg
 ---
 
 La levadura es un microorganismo unicelular clasificado como miembro del reino de los hongos. La especie más común, *Saccharomyces cerevisiae*, es esencial para la panadería y la elaboración de cerveza.

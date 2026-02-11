@@ -1,7 +1,6 @@
 ---
 title: "Window"
 materialsUsed: ["glass", "wood", "iron", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

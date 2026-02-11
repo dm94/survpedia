@@ -1,26 +1,28 @@
 ---
-title: "Alum"
-formula: "KAl(SO₄)₂·12H₂O"
-composition: ["potassium", "aluminum", "sulfur", "oxygen", "hydrogen"]
+title: Alum
+formula: KAl(SO₄)₂·12H₂O
+composition:
+  - potassium
+  - aluminum
+  - sulfur
+  - oxygen
+  - hydrogen
 properties:
-  [
-    "Astringent",
-    "Antiseptic",
-    "Soluble in water",
-    "Crystal clear or white",
-    "Acidic taste",
-  ]
+  - Astringent
+  - Antiseptic
+  - Soluble in water
+  - Crystal clear or white
+  - Acidic taste
 uses:
-  [
-    "Mordant for dyeing",
-    "Water purification",
-    "Leather tanning",
-    "Styptic (stops bleeding)",
-    "Fire retardant",
-  ]
+  - Mordant for dyeing
+  - Water purification
+  - Leather tanning
+  - Styptic (stops bleeding)
+  - Fire retardant
 naturalAvailability: true
-manufacturingProcess: "Extracted from alunite or alum slate through roasting and leaching."
-category: "mineral"
+manufacturingProcess: Extracted from alunite or alum slate through roasting and leaching.
+category: mineral
+image: ../../../assets/images/materials/alum.jpg
 ---
 
 Alum (specifically Potassium Alum) is a naturally occurring mineral salt that has been a cornerstone of chemical technology since antiquity. It is a double sulfate of potassium and aluminum, typically found as colorless, odorless crystals.
@@ -51,7 +53,7 @@ It appears as transparent or white crystals or powder. It has a sweetish, astrin
 ### Common forms of use
 
 - **Crystal**: Rubbed directly on skin (deodorant, styptic).
-- **Powder**: Dissolved in water for dyeing or [tanning](/en/inventions/tanning) baths.
+- **Powder**: Dissolved in water for dyeing or [tanning](/en/knowledge/tanning) baths.
 - **Solution**: Added to muddy water to clarify it (flocculation).
 
 ### Possible substitutes
@@ -74,5 +76,5 @@ It appears as transparent or white crystals or powder. It has a sweetish, astrin
 ### Related materials
 
 - **[Textile Dye](/en/materials/textile-dye)**: Alum is the primary mordant for bright colors.
-- **[Leather](/en/materials/leather)**: Used in [tawing](/en/inventions/tanning) (making white leather).
+- **[Leather](/en/materials/leather)**: Used in [tawing](/en/knowledge/tanning) (making white leather).
 - **[Water](/en/materials/water)**: Used to purify drinking water.

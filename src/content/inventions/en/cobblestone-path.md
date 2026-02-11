@@ -1,7 +1,7 @@
 ---
 title: "Cobblestone Path"
-materialsUsed: ["stone", "sand", "gravel", "pickaxe", "rammer", "shovel", "hammer"]
-image: "../../assets/placeholder.jpg"
+materialsUsed:
+  ["stone", "sand", "gravel", "pickaxe", "rammer", "shovel", "hammer"]
 ---
 
 # Brief description

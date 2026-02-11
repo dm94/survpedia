@@ -1,6 +1,11 @@
 ---
-title: "Windcatcher (Badgir)"
-materialsUsed: ["brick", "clay", "wood", "concrete"]
+title: Windcatcher (Badgir)
+materialsUsed:
+  - brick
+  - clay
+  - wood
+  - concrete
+image: ../../../assets/images/inventions/windcatcher.jpg
 ---
 
 A windcatcher (or *Badgir* in Persian) is a traditional architectural element used to create natural ventilation in buildings. It is essentially a tall chimney with openings at the top, designed to "catch" the wind and direct it inwards, or to suction hot air outwards.

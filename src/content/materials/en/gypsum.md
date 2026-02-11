@@ -1,11 +1,20 @@
 ---
-title: "Gypsum"
-formula: "CaSO4·2H2O"
-properties: ["Rapid setting", "Thermal insulator", "Fire resistant", "Easy to work"]
-uses: ["Wall plaster", "Molds", "Mortar", "Floors"]
+title: Gypsum
+formula: CaSO4·2H2O
+properties:
+  - Rapid setting
+  - Thermal insulator
+  - Fire resistant
+  - Easy to work
+uses:
+  - Wall plaster
+  - Molds
+  - Mortar
+  - Floors
 naturalAvailability: true
-manufacturingProcess: "Partial dehydration of gypsum stone by mild heat."
-category: "mineral"
+manufacturingProcess: Partial dehydration of gypsum stone by mild heat.
+category: mineral
+image: ../../../assets/images/materials/gypsum.jpg
 ---
 
 Gypsum is a mineral material that, after being heated and dehydrated, becomes a powder that quickly recovers its original solid form when mixed with water. It is one of the oldest binders used by humans.

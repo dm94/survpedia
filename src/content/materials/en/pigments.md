@@ -5,7 +5,7 @@ properties: ["Color", "Opacity", "Insolubility", "Lightfastness"]
 uses: ["Paint", "Ink", "Cosmetics", "Ceramics", "Textiles"]
 naturalAvailability: true
 manufacturingProcess: "Grinding natural minerals or organic materials into a fine powder, washing to remove impurities, and drying."
-image: "../../assets/placeholder.jpg"
+
 category: mineral
 ---
 

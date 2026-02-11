@@ -1,7 +1,10 @@
 ---
-title: "Tijeras"
-
-materialsUsed: ["bronze", "iron", "steel"]
+title: Tijeras
+materialsUsed:
+  - bronze
+  - iron
+  - steel
+image: ../../../assets/images/inventions/scissors.jpg
 ---
 
 # Breve descripción

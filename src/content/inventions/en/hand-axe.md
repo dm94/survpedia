@@ -1,7 +1,9 @@
 ---
-title: "Hand Axe"
-
-materialsUsed: ["flint", "stone"]
+title: Hand Axe
+materialsUsed:
+  - flint
+  - stone
+image: ../../../assets/images/inventions/hand-axe.jpg
 ---
 
 # Brief description

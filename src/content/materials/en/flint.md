@@ -1,11 +1,21 @@
 ---
-title: "Flint"
-composition: ["silicon", "oxygen"]
-properties: ["Hard", "Brittle", "Sharp edges when broken", "Produces sparks"]
-uses: ["Stone tools", "Weapons", "Fire starting"]
+title: Flint
+composition:
+  - silicon
+  - oxygen
+properties:
+  - Hard
+  - Brittle
+  - Sharp edges when broken
+  - Produces sparks
+uses:
+  - Stone tools
+  - Weapons
+  - Fire starting
 naturalAvailability: true
-category: "mineral"
-manufacturingProcess: "Found naturally in nodules in sedimentary rocks like chalk or limestone."
+category: mineral
+manufacturingProcess: Found naturally in nodules in sedimentary rocks like chalk or limestone.
+image: ../../../assets/images/materials/flint.jpg
 ---
 
 Flint is a sedimentary cryptocrystalline form of quartz, a variety of chert. It occurs mainly as nodules and layers in chalk and limestone.

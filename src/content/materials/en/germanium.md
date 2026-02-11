@@ -1,26 +1,25 @@
 ---
-title: "Germanium"
-formula: "Ge"
-composition: ["Germanium"]
+title: Germanium
+formula: Ge
+composition:
+  - Germanium
 properties:
-  [
-    "Semiconductor",
-    "Brittle",
-    "Transparent to infrared light",
-    "High refractive index",
-  ]
+  - Semiconductor
+  - Brittle
+  - Transparent to infrared light
+  - High refractive index
 uses:
-  [
-    "Early transistors",
-    "Fiber optics",
-    "Infrared optics",
-    "Solar cells",
-    "Diodes",
-  ]
+  - Early transistors
+  - Fiber optics
+  - Infrared optics
+  - Solar cells
+  - Diodes
 naturalAvailability: false
-manufacturingProcess: "Extracted from zinc ores or coal ash, purified via chlorination and distillation."
-
-category: "mineral"
+manufacturingProcess: >-
+  Extracted from zinc ores or coal ash, purified via chlorination and
+  distillation.
+category: mineral
+image: ../../../assets/images/materials/germanium.jpg
 ---
 
 # Brief description

@@ -1,11 +1,20 @@
 ---
-title: "Piedra"
-properties: ["Dura", "Resistente", "Pesada", "Duradera"]
+title: Piedra
+properties:
+  - Dura
+  - Resistente
+  - Pesada
+  - Duradera
 uses:
-  ["Construcción", "Herramientas", "Armas", "Decoración", "Piedras de molino"]
+  - Construcción
+  - Herramientas
+  - Armas
+  - Decoración
+  - Piedras de molino
 naturalAvailability: true
-manufacturingProcess: "Se recolecta de la superficie terrestre o se extrae de canteras."
-category: "mineral"
+manufacturingProcess: Se recolecta de la superficie terrestre o se extrae de canteras.
+category: mineral
+image: ../../../assets/images/materials/stone.jpg
 ---
 
 La piedra es una sustancia mineral dura y compacta. Los geólogos utilizan el término roca. Ha sido el bloque de construcción fundamental de la tecnología humana durante milenios.

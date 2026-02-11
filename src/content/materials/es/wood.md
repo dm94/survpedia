@@ -1,10 +1,23 @@
 ---
-title: "Madera"
-properties: ["Fuerte", "Inflamable", "Flotante", "Aislante térmico"]
-uses: ["Construcción", "Herramientas", "Combustible", "Papel", "Maquinaria", "Ruedas hidráulicas"]
+title: Madera
+properties:
+  - Fuerte
+  - Inflamable
+  - Flotante
+  - Aislante térmico
+uses:
+  - Construcción
+  - Herramientas
+  - Combustible
+  - Papel
+  - Maquinaria
+  - Ruedas hidráulicas
 naturalAvailability: true
-manufacturingProcess: "Se obtiene directamente de los troncos de los árboles mediante la tala y el aserrado."
-category: "plant"
+manufacturingProcess: >-
+  Se obtiene directamente de los troncos de los árboles mediante la tala y el
+  aserrado.
+category: plant
+image: ../../../assets/images/materials/wood.jpg
 ---
 
 La madera es un tejido estructural poroso y fibroso que se encuentra en los tallos y raíces de los árboles y otras plantas leñosas. Es un material orgánico, un compuesto natural de fibras de celulosa que son fuertes en tensión y están incrustadas en una matriz de lignina que resiste la compresión.
@@ -89,4 +102,4 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 - **[Papel](/es/materials/paper)**: Hecho de fibras de madera procesadas.
 - **[Caucho natural](/es/materials/natural-rubber)**: Cosechado de tipos específicos de árboles.
 - **[Ceniza](/es/materials/ash)**: Residuo restante tras quemar madera.
-- **[Curtido](/es/inventions/curtido)**: La corteza es una fuente principal de taninos.
+- **[Curtido](/es/knowledge/curtido)**: La corteza es una fuente principal de taninos.

@@ -1,11 +1,26 @@
 ---
-title: "Parchment"
-composition: ["carbon", "hydrogen", "oxygen", "nitrogen"]
-properties: ["Extremely durable", "Strong", "Smooth", "Flexible"]
-uses: ["Writing surface", "Bookbinding", "Drum heads", "Legal documents"]
+title: Parchment
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+  - nitrogen
+properties:
+  - Extremely durable
+  - Strong
+  - Smooth
+  - Flexible
+uses:
+  - Writing surface
+  - Bookbinding
+  - Drum heads
+  - Legal documents
 naturalAvailability: false
-manufacturingProcess: "Prepared from animal skins (usually calf, sheep, or goat) by liming, scraping, and drying under tension on a frame."
-category: "animal"
+manufacturingProcess: >-
+  Prepared from animal skins (usually calf, sheep, or goat) by liming, scraping,
+  and drying under tension on a frame.
+category: animal
+image: ../../../assets/images/materials/parchment.jpg
 ---
 
 Parchment is a writing material made from specially prepared untanned skins of animals—primarily sheep, calves, and goats. It has been used as a writing medium for over two millennia.

@@ -1,7 +1,6 @@
 ---
 title: "Brush"
 materialsUsed: ["wood", "animal-hair", "string", "glue"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description

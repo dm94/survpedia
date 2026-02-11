@@ -1,10 +1,19 @@
 ---
-title: "Hilo quirúrgico"
-properties: ["Estéril", "Resistencia a la tracción", "Biocompatibilidad", "Absorbible/No absorbible"]
-uses: ["Sutura de heridas", "Ligadura de vasos"]
+title: Hilo quirúrgico
+properties:
+  - Estéril
+  - Resistencia a la tracción
+  - Biocompatibilidad
+  - Absorbible/No absorbible
+uses:
+  - Sutura de heridas
+  - Ligadura de vasos
 naturalAvailability: false
-manufacturingProcess: "Procesamiento de fibras naturales (seda, tripa) o síntesis de polímeros (nailon, polipropileno), luego esterilización."
+manufacturingProcess: >-
+  Procesamiento de fibras naturales (seda, tripa) o síntesis de polímeros
+  (nailon, polipropileno), luego esterilización.
 category: synthetic
+image: ../../../assets/images/materials/surgical-thread.jpg
 ---
 
 El hilo quirúrgico, o sutura, se utiliza para mantener unidos los tejidos corporales después de una lesión o cirugía. Puede estar hecho de varios materiales, tanto naturales como sintéticos.

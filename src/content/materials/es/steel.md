@@ -1,19 +1,25 @@
 ---
-title: "Acero"
-composition: ["iron", "carbon"]
+title: Acero
+composition:
+  - iron
+  - carbon
 properties:
-  ["Dureza", "Resistencia a la tracción", "Durabilidad", "Maleabilidad"]
+  - Dureza
+  - Resistencia a la tracción
+  - Durabilidad
+  - Maleabilidad
 uses:
-  [
-    "Herramientas",
-    "Armas",
-    "Construcción",
-    "Instrumental quirúrgico",
-    "Maquinaria",
-  ]
+  - Herramientas
+  - Armas
+  - Construcción
+  - Instrumental quirúrgico
+  - Maquinaria
 naturalAvailability: false
-manufacturingProcess: "Fundición de hierro con carbono para eliminar impurezas y ajustar el contenido de carbono."
+manufacturingProcess: >-
+  Fundición de hierro con carbono para eliminar impurezas y ajustar el contenido
+  de carbono.
 category: synthetic
+image: ../../../assets/images/materials/steel.jpg
 ---
 
 El acero es una aleación de hierro y carbono, y a veces otros elementos. Debido a su alta resistencia a la tracción y bajo costo, es un componente principal utilizado en edificios, infraestructuras, herramientas, barcos, trenes, automóviles, máquinas, electrodomésticos y armas.

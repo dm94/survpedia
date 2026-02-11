@@ -1,12 +1,22 @@
 ---
-title: "Pyrite"
-formula: "FeS2"
-composition: ["iron", "sulfur"]
-properties: ["Hard", "Brittle", "Metallic luster", "Produces sparks"]
-uses: ["Fire starting", "Sulfur source", "Decorative stone"]
+title: Pyrite
+formula: FeS2
+composition:
+  - iron
+  - sulfur
+properties:
+  - Hard
+  - Brittle
+  - Metallic luster
+  - Produces sparks
+uses:
+  - Fire starting
+  - Sulfur source
+  - Decorative stone
 naturalAvailability: true
-manufacturingProcess: "Collected from mineral veins in sedimentary, metamorphic, or igneous rocks."
-category: "mineral"
+manufacturingProcess: 'Collected from mineral veins in sedimentary, metamorphic, or igneous rocks.'
+category: mineral
+image: ../../../assets/images/materials/pyrite.jpg
 ---
 
 Pyrite is an iron sulfide mineral with a bright metallic luster, often called "fool's gold" because of its yellow sheen.

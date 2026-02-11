@@ -1,10 +1,19 @@
 ---
-title: "Gravel"
-properties: ["Loose", "Permeable", "Durable", "Granular"]
-uses: ["Drainage", "Road construction", "Concrete aggregate", "Filtration"]
+title: Gravel
+properties:
+  - Loose
+  - Permeable
+  - Durable
+  - Granular
+uses:
+  - Drainage
+  - Road construction
+  - Concrete aggregate
+  - Filtration
 naturalAvailability: true
-manufacturingProcess: "Collected from riverbeds or produced by crushing stone."
-category: "mineral"
+manufacturingProcess: Collected from riverbeds or produced by crushing stone.
+category: mineral
+image: ../../../assets/images/materials/gravel.jpg
 ---
 
 # Brief description

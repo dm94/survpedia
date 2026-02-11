@@ -1,7 +1,6 @@
 ---
 title: "Arco"
 materialsUsed: ["stone", "brick", "concrete", "mortar", "wood"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

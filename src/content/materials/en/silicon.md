@@ -1,27 +1,26 @@
 ---
-title: "Silicon"
-formula: "Si"
-composition: ["Silicon"]
+title: Silicon
+formula: Si
+composition:
+  - Silicon
 properties:
-  [
-    "Semiconductor",
-    "Brittle",
-    "Crystalline",
-    "High melting point",
-    "Thermally stable",
-  ]
+  - Semiconductor
+  - Brittle
+  - Crystalline
+  - High melting point
+  - Thermally stable
 uses:
-  [
-    "Semiconductors (transistors, chips)",
-    "Solar cells",
-    "Glass manufacturing",
-    "Silicones",
-    "Steel alloys",
-  ]
+  - 'Semiconductors (transistors, chips)'
+  - Solar cells
+  - Glass manufacturing
+  - Silicones
+  - Steel alloys
 naturalAvailability: false
-manufacturingProcess: "Reduced from silica sand in arc furnaces, then highly purified for electronics."
-
-category: "mineral"
+manufacturingProcess: >-
+  Reduced from silica sand in arc furnaces, then highly purified for
+  electronics.
+category: mineral
+image: ../../../assets/images/materials/silicon.jpg
 ---
 
 # Brief description

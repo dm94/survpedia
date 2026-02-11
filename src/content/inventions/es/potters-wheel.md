@@ -1,7 +1,6 @@
 ---
 title: "Torno de Alfarero"
 materialsUsed: ["wood", "stone", "leather"]
-image: ../../../assets/placeholder.jpg
 ---
 
 # Breve descripción

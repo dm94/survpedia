@@ -1,7 +1,6 @@
 ---
 title: "Spindle"
 materialsUsed: ["wood", "clay", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
@@ -17,6 +16,7 @@ A straight spike usually made of wood used for spinning, twisting fibers such as
 ## Operating Principle
 
 The spindle relies on **angular momentum**.
+
 1. **Twist**: The spindle is spun (twirled) by hand or against the thigh.
 2. **Inertia**: The weight (whorl) keeps the spindle rotating.
 3. **Transfer**: As it rotates, the twist travels up the fibers, locking them together.
@@ -25,12 +25,14 @@ The spindle relies on **angular momentum**.
 ## How to create it
 
 ### Minimum functional version (Drop Spindle)
+
 1. **Shaft**: A straight stick (approx. 20-30 cm).
 2. **Whorl**: A disc-shaped weight (clay, stone, wood, or even a potato) with a hole in the center.
 3. **Assembly**: Fit the whorl onto the shaft (near the bottom or top).
 4. **Hook/Notch**: A notch or hook at the top to secure the thread while spinning.
 
 ### Technical level
+
 Basic.
 
 ## Materials needed

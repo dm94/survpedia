@@ -5,7 +5,6 @@ uses: ["Tejido", "Punto", "Costura", "Fabricación de cuerdas"]
 naturalAvailability: false
 category: "synthetic"
 manufacturingProcess: "Torcer fibras juntas para formar una hebra continua."
-image: "../../assets/placeholder.jpg"
 ---
 
 Una longitud larga y continua de fibras entrelazadas, utilizada para la producción de textiles, costura, ganchillo, tejido, bordado y fabricación de cuerdas.

@@ -1,7 +1,6 @@
 ---
 title: "Lente"
 materialsUsed: ["glass", "water"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

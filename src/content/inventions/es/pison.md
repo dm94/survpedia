@@ -1,7 +1,6 @@
 ---
 title: "Pisón"
 materialsUsed: ["wood", "stone", "iron"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

@@ -1,13 +1,23 @@
 ---
-title: "Betún"
-formula: "CnH2n+2"
-composition: ["carbon", "hydrogen"]
-properties: ["Viscoso", "Impermeable", "Adhesivo", "Termoplástico"]
-uses: ["Impermeabilización", "Adhesivo", "Aglomerante de carreteras", "Tejados"]
+title: Betún
+formula: CnH2n+2
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - Viscoso
+  - Impermeable
+  - Adhesivo
+  - Termoplástico
+uses:
+  - Impermeabilización
+  - Adhesivo
+  - Aglomerante de carreteras
+  - Tejados
 naturalAvailability: true
-manufacturingProcess: "Se encuentra en depósitos naturales o destilado del petróleo crudo."
-
+manufacturingProcess: Se encuentra en depósitos naturales o destilado del petróleo crudo.
 category: mineral
+image: ../../../assets/images/materials/bitumen.jpg
 ---
 
 Un material viscoso o sólido, de color negro o marrón oscuro, compuesto principalmente por hidrocarburos de alto peso molecular.

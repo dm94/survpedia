@@ -1,11 +1,11 @@
 ---
 title: "Primitive Cement"
 composition: ["lime", "pozzolana", "water"]
-properties: ["Hydraulic (sets underwater)", "Waterproof", "Durable", "High strength"]
+properties:
+  ["Hydraulic (sets underwater)", "Waterproof", "Durable", "High strength"]
 uses: ["Roman Concrete", "Cisterns", "Ports and piers", "Wet foundations"]
 naturalAvailability: false
 manufacturingProcess: "Mixing slaked lime with pozzolana (volcanic ash or crushed brick) and water."
-image: ../../../assets/placeholder.jpg
 category: "synthetic"
 ---
 
@@ -41,7 +41,7 @@ It is a synthetic composite material. It is not found in nature, but its ingredi
 
 ### Common forms of use
 
-- **Roman Concrete:** Mixture of primitive cement with *caementa* (fist-sized stones). Used for domes (Pantheon), aqueducts, and walls.
+- **Roman Concrete:** Mixture of primitive cement with _caementa_ (fist-sized stones). Used for domes (Pantheon), aqueducts, and walls.
 - **Waterproof Coating:** To seal the inside of cisterns and pipes.
 - **Bonding Mortar:** To stick bricks in very humid environments where normal lime mortar would not dry.
 

@@ -1,12 +1,25 @@
 ---
-title: "Yeso"
-formula: "CaSO4·2H2O"
-composition: ["calcium", "sulfur", "oxygen", "hydrogen"]
-properties: ["Fraguado rápido", "Aislante térmico", "Resistente al fuego", "Fácil de trabajar"]
-uses: ["Revestimiento de paredes (enlucido)", "Moldes", "Mortero", "Suelos"]
+title: Yeso
+formula: CaSO4·2H2O
+composition:
+  - calcium
+  - sulfur
+  - oxygen
+  - hydrogen
+properties:
+  - Fraguado rápido
+  - Aislante térmico
+  - Resistente al fuego
+  - Fácil de trabajar
+uses:
+  - Revestimiento de paredes (enlucido)
+  - Moldes
+  - Mortero
+  - Suelos
 naturalAvailability: true
-manufacturingProcess: "Deshidratación parcial de la piedra de yeso mediante calor suave."
-category: "mineral"
+manufacturingProcess: Deshidratación parcial de la piedra de yeso mediante calor suave.
+category: mineral
+image: ../../../assets/images/materials/gypsum.jpg
 ---
 
 El yeso es un material mineral que, tras ser calentado y deshidratado, se convierte en un polvo que al mezclarse con agua recupera su forma sólida original rápidamente. Es uno de los aglomerantes más antiguos utilizados por el hombre.

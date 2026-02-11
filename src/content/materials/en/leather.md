@@ -23,7 +23,7 @@ Leather is tough yet pliable. It has a characteristic smell and a natural textur
 
 - Skinning: Removing the hide from the animal.
 - Cleaning: Removing meat, fat, and hair.
-- [Tanning](/en/inventions/tanning): Treating with tannins (from bark, etc.) or minerals to stop decay and keep it flexible.
+- [Tanning](/en/knowledge/tanning): Treating with tannins (from bark, etc.) or minerals to stop decay and keep it flexible.
 - Finishing: Oiling, dyeing, or polishing.
 
 ### Tools needed to work on it

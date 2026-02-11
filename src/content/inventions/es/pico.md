@@ -1,7 +1,6 @@
 ---
 title: "Pico"
 materialsUsed: ["wood", "iron", "stone", "bone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

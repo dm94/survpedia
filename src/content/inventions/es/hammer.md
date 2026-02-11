@@ -1,7 +1,12 @@
 ---
-title: "Martillo"
-
-materialsUsed: ["wood", "stone", "iron", "plant-fibers", "leather"]
+title: Martillo
+materialsUsed:
+  - wood
+  - stone
+  - iron
+  - plant-fibers
+  - leather
+image: ../../../assets/images/inventions/hammer.jpg
 ---
 
 # Breve descripción

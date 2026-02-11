@@ -1,11 +1,26 @@
 ---
-title: "Plomo"
-composition: ["lead"]
-properties: ["Blando", "Maleable", "Pesado", "Bajo punto de fusión", "Resistente a la corrosión"]
-uses: ["Tuberías", "Pesas", "Baterías", "Blindaje contra radiación", "Aleación para tipos de imprenta", "Plomadas"]
+title: Plomo
+composition:
+  - lead
+properties:
+  - Blando
+  - Maleable
+  - Pesado
+  - Bajo punto de fusión
+  - Resistente a la corrosión
+uses:
+  - Tuberías
+  - Pesas
+  - Baterías
+  - Blindaje contra radiación
+  - Aleación para tipos de imprenta
+  - Plomadas
 naturalAvailability: true
-manufacturingProcess: "Extraído de minerales, principalmente galena (sulfuro de plomo), mediante tostación y fundición."
-category: "mineral"
+manufacturingProcess: >-
+  Extraído de minerales, principalmente galena (sulfuro de plomo), mediante
+  tostación y fundición.
+category: mineral
+image: ../../../assets/images/materials/lead.jpg
 ---
 
 El plomo es un metal denso, blando y de color gris plateado. Tiene un punto de fusión muy bajo en comparación con otros metales, lo que facilita su fundición.

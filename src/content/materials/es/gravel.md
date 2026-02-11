@@ -1,10 +1,19 @@
 ---
-title: "Grava"
-properties: ["Suelta", "Permeable", "Duradera", "Granular"]
-uses: ["Drenaje", "Construcción de carreteras", "Agregado para hormigón", "Filtración"]
+title: Grava
+properties:
+  - Suelta
+  - Permeable
+  - Duradera
+  - Granular
+uses:
+  - Drenaje
+  - Construcción de carreteras
+  - Agregado para hormigón
+  - Filtración
 naturalAvailability: true
-manufacturingProcess: "Recolectada de lechos de ríos o producida triturando piedra."
-category: "mineral"
+manufacturingProcess: Recolectada de lechos de ríos o producida triturando piedra.
+category: mineral
+image: ../../../assets/images/materials/gravel.jpg
 ---
 
 # Descripción breve

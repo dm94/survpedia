@@ -1,12 +1,24 @@
 ---
-title: "Asfalto"
-composition: ["bitumen", "gravel", "sand", "stone"]
-properties: ["Duradero", "Impermeable", "Liso", "Resistente a la carga"]
-uses: ["Carreteras", "Pavimentos", "Tejados", "Suelos"]
+title: Asfalto
+composition:
+  - bitumen
+  - gravel
+  - sand
+  - stone
+properties:
+  - Duradero
+  - Impermeable
+  - Liso
+  - Resistente a la carga
+uses:
+  - Carreteras
+  - Pavimentos
+  - Tejados
+  - Suelos
 naturalAvailability: false
-manufacturingProcess: "Calentar betún y mezclarlo con áridos calientes y secos."
-
+manufacturingProcess: Calentar betún y mezclarlo con áridos calientes y secos.
 category: synthetic
+image: ../../../assets/images/materials/asphalt.jpg
 ---
 
 Un material compuesto comúnmente utilizado para pavimentar carreteras, estacionamientos y aeropuertos. Consiste en agregados minerales unidos con betún.

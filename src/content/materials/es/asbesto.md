@@ -1,24 +1,21 @@
 ---
-title: "Asbesto"
+title: Asbesto
 properties:
-  [
-    "Ignífugo",
-    "Aislante térmico",
-    "Resistente a químicos",
-    "Alta resistencia a la tracción",
-    "Fibroso",
-  ]
+  - Ignífugo
+  - Aislante térmico
+  - Resistente a químicos
+  - Alta resistencia a la tracción
+  - Fibroso
 uses:
-  [
-    "Protección contra incendios",
-    "Aislamiento térmico",
-    "Pastillas de freno",
-    "Refuerzo de cemento",
-    "Juntas",
-  ]
+  - Protección contra incendios
+  - Aislamiento térmico
+  - Pastillas de freno
+  - Refuerzo de cemento
+  - Juntas
 naturalAvailability: true
-manufacturingProcess: "Extraído de la tierra, triturado, y las fibras se separan por succión de aire."
+manufacturingProcess: 'Extraído de la tierra, triturado, y las fibras se separan por succión de aire.'
 category: mineral
+image: ../../../assets/images/materials/asbesto.jpg
 ---
 
 El asbesto (o amianto) es un grupo de seis minerales de silicato naturales formados por fibras microscópicas. Alguna vez fue aclamado como un "mineral milagroso" por su resistencia al calor y durabilidad, pero ahora se sabe que es altamente tóxico.

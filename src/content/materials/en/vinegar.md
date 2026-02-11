@@ -1,13 +1,28 @@
 ---
-title: "Vinegar"
-formula: "CH3COOH"
-composition: ["carbon", "hydrogen", "oxygen"]
+title: Vinegar
+formula: CH3COOH
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
 properties:
-  ["Sour taste", "Acidic (pH 2-3)", "Preservative", "Liquid", "Antibacterial"]
-uses: ["Food preservation", "Flavoring", "Cleaning", "Weed killer", "Medical"]
+  - Sour taste
+  - Acidic (pH 2-3)
+  - Preservative
+  - Liquid
+  - Antibacterial
+uses:
+  - Food preservation
+  - Flavoring
+  - Cleaning
+  - Weed killer
+  - Medical
 naturalAvailability: false
-manufacturingProcess: "Double fermentation: Sugar to Alcohol (Yeast), then Alcohol to Vinegar (Acetobacter)."
-category: "other"
+manufacturingProcess: >-
+  Double fermentation: Sugar to Alcohol (Yeast), then Alcohol to Vinegar
+  (Acetobacter).
+category: other
+image: ../../../assets/images/materials/vinegar.jpg
 ---
 
 Vinegar is an aqueous solution of acetic acid and trace compounds that may include flavorings. It is typically 5-8% acetic acid by volume.
@@ -24,7 +39,7 @@ A clear to amber liquid with a pungent, sour smell and taste.
 
 ### Minimum processing required
 
-- **[Alcoholic Fermentation](/en/inventions/fermentation)**: Create a weak alcoholic solution (cider, wine, beer).
+- **[Alcoholic Fermentation](/en/knowledge/fermentation)**: Create a weak alcoholic solution (cider, wine, beer).
 - **Acetic Fermentation**: Expose the alcohol to oxygen and _Acetobacter_ bacteria (Mother of Vinegar).
 - **Aging**: Allow time for the conversion to complete (weeks to months).
 
@@ -39,7 +54,7 @@ A clear to amber liquid with a pungent, sour smell and taste.
 - **Pickling**: Preserving vegetables in an acidic environment.
 - **Culinary**: Salad dressings, sauces.
 - **Cleaning**: Removing limescale, cleaning glass, neutralizing odors.
-- **Tanning**: Deliming hides in **[Tanning](/en/inventions/tanning)**.
+- **Tanning**: Deliming hides in **[Tanning](/en/knowledge/tanning)**.
 
 ### Possible substitutes
 

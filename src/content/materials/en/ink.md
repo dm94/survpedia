@@ -1,11 +1,25 @@
 ---
-title: "Ink"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Liquid", "Staining", "Fast-drying", "Permanent"]
-uses: ["Writing", "Printing", "Art", "Tattooing"]
+title: Ink
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Liquid
+  - Staining
+  - Fast-drying
+  - Permanent
+uses:
+  - Writing
+  - Printing
+  - Art
+  - Tattooing
 naturalAvailability: false
-manufacturingProcess: "Mixing a pigment (like charcoal or soot) with a binder (like gum arabic, egg white, or honey) and a solvent (like water or oil)."
-category: "synthetic"
+manufacturingProcess: >-
+  Mixing a pigment (like charcoal or soot) with a binder (like gum arabic, egg
+  white, or honey) and a solvent (like water or oil).
+category: synthetic
+image: ../../../assets/images/materials/ink.jpg
 ---
 
 Ink is a liquid or paste that contains pigments or dyes and is used to color a surface to produce an image, text, or design.

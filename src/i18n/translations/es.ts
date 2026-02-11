@@ -3,6 +3,7 @@ export const es = {
   'nav.elements': 'Elementos',
   'nav.materials': 'Materiales',
   'nav.inventions': 'Inventos',
+  'nav.knowledge': 'Conocimiento',
   'nav.search': 'Buscar',
   'home.title': 'Survpedia',
   'home.description':
@@ -13,10 +14,14 @@ export const es = {
     'Compuestos, aleaciones y recursos naturales. Aprende cómo procesarlos.',
   'home.inventions.desc':
     'Inventos que dieron forma a la civilización. Guías paso a paso.',
+  'home.knowledge.desc':
+    'Conceptos esenciales, guías y habilidades para la supervivencia.',
   'elements.title': 'Tabla Periódica',
   'materials.title': 'Materiales',
   'inventions.title': 'Inventos',
+  'knowledge.title': 'Conocimiento',
   'common.madeOf': 'Hecho de',
+  'common.relatedMaterials': 'Materiales Relacionados',
   'common.usedFor': 'Usado para',
   'common.properties': 'Propiedades',
   'common.readMore': 'Leer más',
@@ -26,6 +31,7 @@ export const es = {
   'materials.natural': 'Natural',
   'materials.synthetic': 'Sintético',
   'inventions.desc': 'Descubre cómo se crearon las herramientas que definen nuestra era.',
+  'knowledge.desc': 'Conceptos esenciales, guías y habilidades para la supervivencia.',
   'search.placeholder': 'Buscar en Survpedia...',
   'search.noResults': 'No se encontraron resultados para "[SEARCH_TERM]"',
   '404.title': 'Página no encontrada',

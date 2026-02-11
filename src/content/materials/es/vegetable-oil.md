@@ -1,10 +1,20 @@
 ---
-title: "Aceite Vegetal"
-properties: ["Viscoso", "Inflamable", "Hidrofóbico", "Nutritivo"]
-uses: ["Cocina", "Combustible", "Lubricación", "Vehículo medicinal", "Fabricación de jabón"]
+title: Aceite Vegetal
+properties:
+  - Viscoso
+  - Inflamable
+  - Hidrofóbico
+  - Nutritivo
+uses:
+  - Cocina
+  - Combustible
+  - Lubricación
+  - Vehículo medicinal
+  - Fabricación de jabón
 naturalAvailability: true
-manufacturingProcess: "Extraído de semillas, nueces o frutas mediante prensado."
-category: "plant"
+manufacturingProcess: 'Extraído de semillas, nueces o frutas mediante prensado.'
+category: plant
+image: ../../../assets/images/materials/vegetable-oil.jpg
 ---
 
 El aceite vegetal es un triglicérido extraído de plantas, comúnmente de semillas, nueces o frutas. Es un material fundamental para la nutrición, la iluminación y la ingeniería química primitiva.
@@ -37,7 +47,7 @@ Un líquido viscoso a temperatura ambiente, que generalmente varía en color de 
 
 - **Aceite Comestible**: Para freír y aderezar alimentos.
 - **Aceite para Lámparas**: Combustible para **[Lámparas de Aceite](/es/inventions/oil-lamp)** simples.
-- **Aceite Infusionado**: Base para extractos de **[Plantas Medicinales](/es/materials/medicinal-plants)**.
+- **Aceite Infusionado**: Base para extractos de **[Plantas Medicinales](/es/knowledge/medicinal-plants)**.
 - **Tratamiento de Madera**: Recubrimiento protector para madera.
 
 ### Posibles sustitutos
@@ -60,4 +70,4 @@ Un líquido viscoso a temperatura ambiente, que generalmente varía en color de 
 
 - **[Grasa Animal](/es/materials/animal-fat)**: La contraparte animal.
 - **[Jabón](/es/materials/soap)**: Hecho de aceite y álcali.
-- **[Plantas Medicinales](/es/materials/medicinal-plants)**: A menudo infusionadas en aceite.
+- **[Plantas Medicinales](/es/knowledge/medicinal-plants)**: A menudo infusionadas en aceite.

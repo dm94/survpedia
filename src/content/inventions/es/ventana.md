@@ -1,7 +1,6 @@
 ---
 title: "Ventana"
 materialsUsed: ["glass", "wood", "iron", "stone"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Breve descripción

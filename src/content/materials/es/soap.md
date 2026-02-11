@@ -1,10 +1,22 @@
 ---
-title: "Jabón"
-properties: ["Soluble en agua", "Emulsionante", "Resbaladizo", "Agente limpiador"]
-uses: ["Higiene", "Lavandería", "Limpieza", "Lubricante", "Insecticida"]
+title: Jabón
+properties:
+  - Soluble en agua
+  - Emulsionante
+  - Resbaladizo
+  - Agente limpiador
+uses:
+  - Higiene
+  - Lavandería
+  - Limpieza
+  - Lubricante
+  - Insecticida
 naturalAvailability: false
-manufacturingProcess: "Producido por la reacción química (saponificación) de una grasa o aceite con un álcali fuerte (lejía)."
-category: "synthetic"
+manufacturingProcess: >-
+  Producido por la reacción química (saponificación) de una grasa o aceite con
+  un álcali fuerte (lejía).
+category: synthetic
+image: ../../../assets/images/materials/soap.jpg
 ---
 
 El jabón es una sal de un ácido graso utilizada principalmente para lavar, bañarse y limpiar. Actúa como un tensioactivo, emulsionando aceites para permitir que sean arrastrados por el agua. Es una tecnología fundamental para la higiene y la prevención de enfermedades.

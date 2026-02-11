@@ -1,10 +1,20 @@
 ---
-title: "Cera de Abejas"
-properties: ["Impermeable", "Maleable", "Inflamable", "Adhesiva"]
-uses: ["Velas", "Impermeabilización", "Ungüentos", "Pulimentos", "Sellado"]
+title: Cera de Abejas
+properties:
+  - Impermeable
+  - Maleable
+  - Inflamable
+  - Adhesiva
+uses:
+  - Velas
+  - Impermeabilización
+  - Ungüentos
+  - Pulimentos
+  - Sellado
 naturalAvailability: true
-manufacturingProcess: "Cosechada de panales y fundida para purificar."
-category: "animal"
+manufacturingProcess: Cosechada de panales y fundida para purificar.
+category: animal
+image: ../../../assets/images/materials/beeswax.jpg
 ---
 
 La cera de abejas es una cera natural producida por las abejas melíferas del género Apis. Es un material increíblemente versátil utilizado para la iluminación, la impermeabilización y como componente estructural en mezclas.

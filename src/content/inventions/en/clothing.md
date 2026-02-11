@@ -21,7 +21,7 @@ It traps a layer of air near the skin that acts as a thermal insulator. Fabrics 
 
 ## How to create it
 
-1. **Obtainment:** **[Tan](/en/inventions/tanning)** animal skins (**[Leather](/en/materials/leather)**) or collect plant/animal fibers (linen, cotton, wool).
+1. **Obtainment:** **[Tan](/en/knowledge/tanning)** animal skins (**[Leather](/en/materials/leather)**) or collect plant/animal fibers (linen, cotton, wool).
 2. **Processing:** Spin the fibers to create long, strong threads.
 3. **Joining:** Weave the threads on a loom or sew skin pieces together using bone needles and tendons or threads.
 4. **Technical level:** Basic (skins) to Intermediate (fabrics).

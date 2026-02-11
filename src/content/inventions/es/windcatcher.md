@@ -1,6 +1,11 @@
 ---
-title: "Torre de Viento (Badgir)"
-materialsUsed: ["brick", "clay", "wood", "hormigon"]
+title: Torre de Viento (Badgir)
+materialsUsed:
+  - brick
+  - clay
+  - wood
+  - hormigon
+image: ../../../assets/images/inventions/windcatcher.jpg
 ---
 
 Una torre de viento (o *Badgir* en persa) es un elemento arquitectónico tradicional utilizado para crear ventilación natural en los edificios. Es esencialmente una chimenea alta con aberturas en la parte superior, diseñada para "atrapar" el viento y dirigirlo hacia el interior, o para succionar el aire caliente hacia el exterior.

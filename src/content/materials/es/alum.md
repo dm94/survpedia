@@ -1,26 +1,28 @@
 ---
-title: "Alumbre"
-formula: "KAl(SO₄)₂·12H₂O"
-composition: ["potassium", "aluminum", "sulfur", "oxygen", "hydrogen"]
+title: Alumbre
+formula: KAl(SO₄)₂·12H₂O
+composition:
+  - potassium
+  - aluminum
+  - sulfur
+  - oxygen
+  - hydrogen
 properties:
-  [
-    "Astringente",
-    "Antiséptico",
-    "Soluble en agua",
-    "Cristalino o blanco",
-    "Sabor ácido",
-  ]
+  - Astringente
+  - Antiséptico
+  - Soluble en agua
+  - Cristalino o blanco
+  - Sabor ácido
 uses:
-  [
-    "Mordiente para teñido",
-    "Purificación de agua",
-    "Curtido de cuero",
-    "Hemostático (detiene el sangrado)",
-    "Retardante de fuego",
-  ]
+  - Mordiente para teñido
+  - Purificación de agua
+  - Curtido de cuero
+  - Hemostático (detiene el sangrado)
+  - Retardante de fuego
 naturalAvailability: true
-manufacturingProcess: "Extraído de la alunita o pizarra de alumbre mediante tostado y lixiviación."
-category: "mineral"
+manufacturingProcess: Extraído de la alunita o pizarra de alumbre mediante tostado y lixiviación.
+category: mineral
+image: ../../../assets/images/materials/alum.jpg
 ---
 
 El alumbre (específicamente el Alumbre de Potasio) es una sal mineral natural que ha sido una piedra angular de la tecnología química desde la antigüedad. Es un sulfato doble de potasio y aluminio, que se encuentra típicamente como cristales inodoros e incoloros.
@@ -51,7 +53,7 @@ Aparece como cristales transparentes o blancos, o en polvo. Tiene un sabor dulz�
 ### Formas comunes de uso
 
 - **Cristal**: Frotado directamente sobre la piel (desodorante, hemostático).
-- **Polvo**: Disuelto en agua para baños de teñido o [curtido](/es/inventions/curtido).
+- **Polvo**: Disuelto en agua para baños de teñido o [curtido](/es/knowledge/curtido).
 - **Solución**: Añadido al agua turbia para clarificarla (floculación).
 
 ### Posibles sustitutos
@@ -74,5 +76,5 @@ Aparece como cristales transparentes o blancos, o en polvo. Tiene un sabor dulz�
 ### Materiales relacionados
 
 - **[Tinte textil](/es/materials/textile-dye)**: El alumbre es el mordiente principal para colores brillantes.
-- **[Cuero](/es/materials/leather)**: Utilizado en el [curtido](/es/inventions/curtido) (hacer cuero blanco).
+- **[Cuero](/es/materials/leather)**: Utilizado en el [curtido](/es/knowledge/curtido) (hacer cuero blanco).
 - **[Agua](/es/materials/water)**: Utilizado para purificar agua potable.

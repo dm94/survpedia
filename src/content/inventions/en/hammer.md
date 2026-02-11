@@ -1,7 +1,12 @@
 ---
-title: "Hammer"
-
-materialsUsed: ["wood", "stone", "iron", "plant-fibers", "leather"]
+title: Hammer
+materialsUsed:
+  - wood
+  - stone
+  - iron
+  - plant-fibers
+  - leather
+image: ../../../assets/images/inventions/hammer.jpg
 ---
 
 # Brief description

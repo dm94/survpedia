@@ -1,18 +1,23 @@
 ---
-title: "Gold"
-composition: ["gold"]
+title: Gold
+composition:
+  - gold
 properties:
-  [
-    "Extremely malleable",
-    "Ductile",
-    "Corrosion resistant",
-    "Excellent conductor",
-    "Dense",
-  ]
-uses: ["Currency", "Jewelry", "Electronics", "Dentistry", "Radiation shielding"]
+  - Extremely malleable
+  - Ductile
+  - Corrosion resistant
+  - Excellent conductor
+  - Dense
+uses:
+  - Currency
+  - Jewelry
+  - Electronics
+  - Dentistry
+  - Radiation shielding
 naturalAvailability: true
-manufacturingProcess: "Found as native metal in riverbeds (placer) or veins; refined by smelting."
-category: "mineral"
+manufacturingProcess: Found as native metal in riverbeds (placer) or veins; refined by smelting.
+category: mineral
+image: ../../../assets/images/materials/gold.jpg
 ---
 
 # Description of what it is like

@@ -1,10 +1,21 @@
 ---
-title: "Lana"
-properties: ["Cálida", "Absorbente", "Resistente al fuego", "Elástica"]
-uses: ["Ropa", "Mantas", "Alfombras", "Aislamiento"]
+title: Lana
+properties:
+  - Cálida
+  - Absorbente
+  - Resistente al fuego
+  - Elástica
+uses:
+  - Ropa
+  - Mantas
+  - Alfombras
+  - Aislamiento
 naturalAvailability: true
-category: "animal"
-manufacturingProcess: "Obtenida mediante el esquilado de ovejas u otros animales, luego limpiada, cardada e hilada."
+category: animal
+manufacturingProcess: >-
+  Obtenida mediante el esquilado de ovejas u otros animales, luego limpiada,
+  cardada e hilada.
+image: ../../../assets/images/materials/wool.jpg
 ---
 
 La lana es la fibra textil obtenida de las ovejas y otros animales, incluyendo la cachemira y el mohair de las cabras, la qiviut de los bueyes almizcleros, el pelaje de los bisontes, el angora de los conejos y otros tipos de lana de los camélidos.

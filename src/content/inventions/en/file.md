@@ -1,7 +1,6 @@
 ---
 title: "File"
 materialsUsed: ["steel", "iron"]
-image: "../../assets/placeholder.jpg"
 ---
 
 # Brief description
