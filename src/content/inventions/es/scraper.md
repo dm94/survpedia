@@ -1,7 +1,9 @@
 ---
-title: "Raspador"
-
-materialsUsed: ["flint", "stone"]
+title: Raspador
+materialsUsed:
+  - flint
+  - stone
+image: ../../../assets/images/inventions/scraper.jpg
 ---
 
 # Breve descripción

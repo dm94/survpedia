@@ -1,6 +1,11 @@
 ---
-title: "Trineo"
-materialsUsed: ["wood", "plant-fibers", "bone", "leather"]
+title: Trineo
+materialsUsed:
+  - wood
+  - plant-fibers
+  - bone
+  - leather
+image: ../../../assets/images/inventions/sled.jpg
 ---
 
 # Breve descripción

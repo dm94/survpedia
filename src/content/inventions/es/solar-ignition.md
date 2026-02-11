@@ -1,6 +1,10 @@
 ---
-title: "Encendido solar"
-materialsUsed: ["glass", "wood", "plant-fibers"]
+title: Encendido solar
+materialsUsed:
+  - glass
+  - wood
+  - plant-fibers
+image: ../../../assets/images/inventions/solar-ignition.jpg
 ---
 
 # Breve descripción

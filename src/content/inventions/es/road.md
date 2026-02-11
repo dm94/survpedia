@@ -1,6 +1,12 @@
 ---
-title: "Carretera Pavimentada"
-materialsUsed: ["stone", "gravel", "sand", "concrete", "asphalt"]
+title: Carretera Pavimentada
+materialsUsed:
+  - stone
+  - gravel
+  - sand
+  - concrete
+  - asphalt
+image: ../../../assets/images/inventions/road.jpg
 ---
 
 # Breve descripción

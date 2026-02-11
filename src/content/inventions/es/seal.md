@@ -1,8 +1,15 @@
 ---
-title: "Sello"
-
+title: Sello
 materialsUsed:
-  ["stone", "clay", "bone", "beeswax", "gold", "silver", "bronze", "wood"]
+  - stone
+  - clay
+  - bone
+  - beeswax
+  - gold
+  - silver
+  - bronze
+  - wood
+image: ../../../assets/images/inventions/seal.jpg
 ---
 
 # Descripción breve

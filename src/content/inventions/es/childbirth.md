@@ -38,7 +38,7 @@ El parto es el conjunto de preparaciones y técnicas prácticas para acompañar 
 
 1. **Preparar un espacio limpio**: Lavar manos y superficies con **[Jabón](/es/materials/soap)** y **[Agua](/es/materials/water)**; colocar **[Tela](/es/materials/fabric)** limpia.
 2. **Ordenar materiales**: **[Algodón](/es/materials/cotton)** limpio, **[Hilo quirúrgico](/es/materials/surgical-thread)**, herramienta limpia de corte y paños tibios.
-3. **Acompañar el trabajo de parto**: Favorecer respiración constante, hidratación y posturas que reduzcan la tensión.
+3. **Acompañar el trabajo de parto**: Favorecer respiración constante, hidratación y posturas que reduzcan la tensión; seguir **[Trabajo de parto](/es/knowledge/trabajo-de-parto)** para ritmo y vigilancia.
 4. **Guiar el nacimiento**: Apoyo suave, sin fuerza, manteniendo limpieza.
 5. **Cuidado del cordón**: Atar con hilo limpio y cortar con herramienta limpia; mantener el muñón seco.
 6. **Revisión posterior**: Confirmar salida de la placenta, vigilar sangrado y conservar el calor.

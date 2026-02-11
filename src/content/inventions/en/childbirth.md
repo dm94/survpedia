@@ -38,7 +38,7 @@ Childbirth is the practical set of preparations and techniques that support a sa
 
 1. **Prepare a clean space**: Wash hands and surfaces with **[Soap](/en/materials/soap)** and **[Water](/en/materials/water)**; lay clean **[Fabric](/en/materials/fabric)**.
 2. **Arrange materials**: Clean **[Cotton](/en/materials/cotton)**, **[Surgical Thread](/en/materials/surgical-thread)**, clean cutting tool, and warm wraps.
-3. **Support labor**: Encourage steady breathing, hydration, and positions that reduce strain.
+3. **Support labor**: Encourage steady breathing, hydration, and positions that reduce strain; follow **[Labor (Childbirth)](/en/knowledge/childbirth-labor)** for pacing and monitoring.
 4. **Guide delivery**: Use gentle support, avoiding force; keep the area clean.
 5. **Care for the cord**: Tie with clean thread and cut with a clean tool; keep the stump dry.
 6. **Post-birth check**: Ensure placenta delivery, monitor bleeding, and keep both warm and clean.

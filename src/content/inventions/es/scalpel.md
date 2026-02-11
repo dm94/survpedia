@@ -1,7 +1,9 @@
 ---
-title: "Bisturí"
-
-materialsUsed: ["steel", "stone-knife"]
+title: Bisturí
+materialsUsed:
+  - steel
+  - stone-knife
+image: ../../../assets/images/inventions/scalpel.jpg
 ---
 
 # Breve descripción

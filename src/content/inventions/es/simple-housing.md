@@ -1,6 +1,14 @@
 ---
-title: "Vivienda simple"
-materialsUsed: ["wood", "stone", "clay", "plant-fibers", "sand", "gravel", "lime"]
+title: Vivienda simple
+materialsUsed:
+  - wood
+  - stone
+  - clay
+  - plant-fibers
+  - sand
+  - gravel
+  - lime
+image: ../../../assets/images/inventions/simple-housing.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,11 @@
 ---
-title: "Rueca"
-materialsUsed: ["wood", "leather", "iron", "animal-fat"]
+title: Rueca
+materialsUsed:
+  - wood
+  - leather
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/spinning-wheel.jpg
 ---
 
 # Breve descripción

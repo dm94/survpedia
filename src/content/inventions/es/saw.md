@@ -1,6 +1,11 @@
 ---
-title: "Sierra"
-materialsUsed: ["wood", "iron", "steel", "stone"]
+title: Sierra
+materialsUsed:
+  - wood
+  - iron
+  - steel
+  - stone
+image: ../../../assets/images/inventions/saw.jpg
 ---
 
 # Breve descripción

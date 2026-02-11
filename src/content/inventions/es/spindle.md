@@ -1,6 +1,10 @@
 ---
-title: "Huso"
-materialsUsed: ["wood", "clay", "stone"]
+title: Huso
+materialsUsed:
+  - wood
+  - clay
+  - stone
+image: ../../../assets/images/inventions/spindle.jpg
 ---
 
 # Breve descripción

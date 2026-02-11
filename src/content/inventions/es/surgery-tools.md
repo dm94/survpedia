@@ -1,6 +1,13 @@
 ---
-title: "Herramientas de cirugía"
-materialsUsed: ["steel", "alcohol", "cotton", "surgical-thread", "soap", "water"]
+title: Herramientas de cirugía
+materialsUsed:
+  - steel
+  - alcohol
+  - cotton
+  - surgical-thread
+  - soap
+  - water
+image: ../../../assets/images/inventions/surgery-tools.jpg
 ---
 
 # Breve descripción

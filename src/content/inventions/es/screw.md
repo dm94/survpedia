@@ -1,7 +1,11 @@
 ---
-title: "Tornillo"
-
-materialsUsed: ["wood", "iron", "bronze", "steel"]
+title: Tornillo
+materialsUsed:
+  - wood
+  - iron
+  - bronze
+  - steel
+image: ../../../assets/images/inventions/screw.jpg
 ---
 
 # Breve descripción

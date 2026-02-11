@@ -1,6 +1,10 @@
 ---
-title: "Cepillo de dientes"
-materialsUsed: ["wood", "bone", "plant-fibers"]
+title: Cepillo de dientes
+materialsUsed:
+  - wood
+  - bone
+  - plant-fibers
+image: ../../../assets/images/inventions/toothbrush.jpg
 ---
 
 # Breve descripción
