@@ -23,7 +23,7 @@ async function downloadImage(url: string, filepath: string) {
   if (!response.ok)
     throw new Error(`Failed to download image: ${response.statusText}`);
   const arrayBuffer = await response.arrayBuffer();
-  const buffer = Buffer.from(arrayBuffer);
+  const buffer = new Uint8Array(arrayBuffer);
   await fs.writeFile(filepath, buffer);
 }
 
