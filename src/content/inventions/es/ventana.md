@@ -1,6 +1,11 @@
 ---
-title: "Ventana"
-materialsUsed: ["glass", "wood", "iron", "stone"]
+title: Ventana
+materialsUsed:
+  - glass
+  - wood
+  - iron
+  - stone
+image: ../../../assets/images/inventions/ventana.jpg
 ---
 
 # Breve descripción

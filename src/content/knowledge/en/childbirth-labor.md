@@ -1,19 +1,21 @@
 ---
-title: "Labor (Childbirth)"
+title: Labor (Childbirth)
 relatedMaterials:
-  [
-    "water",
-    "soap",
-    "cotton",
-    "fabric",
-    "surgical-thread",
-    "alcohol",
-    "plant-fibers",
-    "beeswax",
-    "animal-fat",
-    "wood",
-  ]
-relatedInventions: ["childbirth", "needle", "surgery-tools"]
+  - water
+  - soap
+  - cotton
+  - fabric
+  - surgical-thread
+  - alcohol
+  - plant-fibers
+  - beeswax
+  - animal-fat
+  - wood
+relatedInventions:
+  - childbirth
+  - needle
+  - surgery-tools
+image: ../../../assets/images/knowledge/childbirth-labor.jpg
 ---
 
 # Brief description

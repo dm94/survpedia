@@ -1,6 +1,13 @@
 ---
-title: "Chimenea Solar"
-materialsUsed: ["brick", "glass", "iron", "steel", "wood", "bitumen"]
+title: Chimenea Solar
+materialsUsed:
+  - brick
+  - glass
+  - iron
+  - steel
+  - wood
+  - bitumen
+image: ../../../assets/images/inventions/solar-chimney.jpg
 ---
 
 Una chimenea solar es un dispositivo de ventilación pasiva que utiliza la energía del sol para calentar el aire dentro de un conducto vertical, incrementando el tiro térmico (efecto chimenea) y forzando la extracción de aire del edificio.

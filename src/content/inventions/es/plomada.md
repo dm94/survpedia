@@ -1,6 +1,12 @@
 ---
-title: "Plomada"
-materialsUsed: ["lead", "brass", "rope", "wood", "stone"]
+title: Plomada
+materialsUsed:
+  - lead
+  - brass
+  - rope
+  - wood
+  - stone
+image: ../../../assets/images/inventions/plomada.jpg
 ---
 
 # Breve descripción

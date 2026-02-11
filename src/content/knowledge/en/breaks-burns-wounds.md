@@ -1,18 +1,17 @@
 ---
-title: "Breaks, Burns & Wounds"
+title: 'Breaks, Burns & Wounds'
 relatedMaterials:
-  [
-    "water",
-    "alcohol",
-    "cotton",
-    "fabric",
-    "wood",
-    "soap",
-    "healing-herbs",
-    "animal-fat",
-    "beeswax",
-    "surgical-thread",
-  ]
+  - water
+  - alcohol
+  - cotton
+  - fabric
+  - wood
+  - soap
+  - healing-herbs
+  - animal-fat
+  - beeswax
+  - surgical-thread
+image: ../../../assets/images/knowledge/breaks-burns-wounds.jpg
 ---
 
 # Brief description

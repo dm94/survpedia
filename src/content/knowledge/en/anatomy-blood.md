@@ -1,18 +1,17 @@
 ---
-title: "Anatomy & Blood"
+title: Anatomy & Blood
 relatedMaterials:
-  [
-    "paper",
-    "ink",
-    "bone",
-    "steel",
-    "water",
-    "salt",
-    "soap",
-    "alcohol",
-    "cotton",
-    "surgical-thread",
-  ]
+  - paper
+  - ink
+  - bone
+  - steel
+  - water
+  - salt
+  - soap
+  - alcohol
+  - cotton
+  - surgical-thread
+image: ../../../assets/images/knowledge/anatomy-blood.jpg
 ---
 
 # Brief description

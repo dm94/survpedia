@@ -1,12 +1,11 @@
 ---
-title: "Antigens"
+title: Antigens
 relatedMaterials:
-  [
-    "Recognized by the immune system",
-    "Specific",
-    "Bioactive",
-    "Often protein or polysaccharide",
-  ]
+  - Recognized by the immune system
+  - Specific
+  - Bioactive
+  - Often protein or polysaccharide
+image: ../../../assets/images/knowledge/antigens.jpg
 ---
 
 Antigens are molecular patterns that the immune system can recognize and respond to. They are often parts of microbes, toxins, or other foreign substances that trigger antibody binding and immune memory.

@@ -1,7 +1,15 @@
 ---
-title: "Puente"
+title: Puente
 materialsUsed:
-  ["wood", "stone", "rope", "iron", "steel", "concrete", "brick", "mortar"]
+  - wood
+  - stone
+  - rope
+  - iron
+  - steel
+  - concrete
+  - brick
+  - mortar
+image: ../../../assets/images/inventions/puente.jpg
 ---
 
 # Breve descripción
