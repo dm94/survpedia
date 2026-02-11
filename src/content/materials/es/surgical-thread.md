@@ -51,3 +51,9 @@ Aparece como una hebra fina y flexible. Viene en varios grosores (calibres) y ma
 ### Riesgos y seguridad
 
 - **Desgarro de tejido**: Si el hilo es demasiado fuerte o se tira demasiado fuerte, puede cortar el tejido.
+
+### Materiales relacionados
+
+- **[Algodón](/es/materials/cotton)**: Sustituto de emergencia y material de apósito.
+- **[Fibras Vegetales](/es/materials/plant-fibers)**: Alternativas naturales para cordajes.
+- **[Alcohol](/es/materials/alcohol)**: Usado para esterilización en campo.

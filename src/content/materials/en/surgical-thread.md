@@ -1,6 +1,12 @@
 ---
 title: "Surgical Thread"
-properties: ["Sterile", "Tensile strength", "Biocompatibility", "Absorbable/Non-absorbable"]
+properties:
+  [
+    "Sterile",
+    "Tensile strength",
+    "Biocompatibility",
+    "Absorbable/Non-absorbable",
+  ]
 uses: ["Suturing wounds", "Ligating vessels"]
 naturalAvailability: false
 manufacturingProcess: "Processing natural fibers (silk, gut) or synthesizing polymers (nylon, polypropylene), then sterilizing."
@@ -51,3 +57,9 @@ It appears as a fine, flexible strand. It comes in various thicknesses (gauges) 
 ### Risks and safety
 
 - **Tissue tearing**: If the thread is too strong or pulled too tight, it can cut through the tissue ("cheese-wiring").
+
+### Related materials
+
+- **[Cotton](/en/materials/cotton)**: Emergency substitute and dressing material.
+- **[Plant Fibers](/en/materials/plant-fibers)**: Natural alternatives for cordage.
+- **[Alcohol](/en/materials/alcohol)**: Used for sterilization in the field.
