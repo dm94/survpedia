@@ -33,7 +33,7 @@ if (categoryLower.includes('gas noble') || categoryLower.includes('noble gas')) 
 // Add more categories as needed
 
 ---
-<a href={href} class={`flex flex-col items-center justify-between p-2 rounded-lg shadow-sm hover:shadow-md hover:scale-110 transition-all border ${colorClass} aspect-square`}>
+<a href={href} class:list={[`flex flex-col items-center justify-between p-2 rounded-lg shadow-sm hover:shadow-md hover:scale-110 transition-all border`,`${colorClass}`,`aspect-square`]}>
     <span class="text-xs font-mono self-start opacity-60">{number}</span>
     <span class="text-3xl font-bold">{symbol}</span>
     <span class="text-[10px] font-medium truncate w-full text-center uppercase tracking-wider">{name}</span>

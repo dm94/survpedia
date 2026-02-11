@@ -1,10 +1,13 @@
-const eslintPluginAstro = require('eslint-plugin-astro');
-const typescriptEslint = require('@typescript-eslint/eslint-plugin');
-const typescriptParser = require('@typescript-eslint/parser');
-const jsxA11y = require('eslint-plugin-jsx-a11y');
-const importPlugin = require('eslint-plugin-import');
+import typescriptEslint from "@typescript-eslint/eslint-plugin";
+import typescriptParser from "@typescript-eslint/parser";
+import eslintPluginAstro from "eslint-plugin-astro";
+import importPlugin from "eslint-plugin-import";
+import jsxA11y from "eslint-plugin-jsx-a11y";
 
-module.exports = [
+export default [
+  {
+    ignores: ["dist/**", ".astro/**", "node_modules/**"],
+  },
   // Base JavaScript/TypeScript configuration
   {
     files: ['**/*.{js,mjs,cjs,ts,tsx}'],

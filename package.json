@@ -6,7 +6,10 @@
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
+    "lint:fix": "eslint --ext .js,.jsx,.ts,.tsx src --fix",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,md,mdx}\""
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.13",

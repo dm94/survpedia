@@ -9,6 +9,6 @@ export const languages = {
 export const defaultLang = 'en';
 
 export const ui = {
-  es: es,
-  en: en,
+  es,
+  en,
 } as const;
