@@ -11,6 +11,7 @@ const elements = defineCollection({
     naturalAvailability: z.boolean(),
     extractionProcess: z.string().optional(),
     image: image().optional(),
+    aiGenerated: z.boolean().optional().default(true),
   }),
 });
 
@@ -26,6 +27,7 @@ const materials = defineCollection({
     manufacturingProcess: z.string().optional(),
     image: image().optional(),
     category: z.enum(['mineral', 'plant', 'animal', 'synthetic', 'other']),
+    aiGenerated: z.boolean().optional().default(true),
   }),
 });
 
@@ -35,6 +37,7 @@ const inventions = defineCollection({
     title: z.string(), // Name of the invention (e.g., Steam Engine)
     materialsUsed: z.array(z.string()), // List of material IDs
     image: image().optional(),
+    aiGenerated: z.boolean().optional().default(true),
   }),
 });
 

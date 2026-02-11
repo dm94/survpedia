@@ -20,6 +20,7 @@ export const en = {
   'common.usedFor': 'Used for',
   'common.properties': 'Properties',
   'common.readMore': 'Read more',
+  'common.aiGenerated': 'Generated with AI',
   'elements.desc': 'The fundamental building blocks of the universe.',
   'materials.desc': 'Resources and compound materials.',
   'materials.natural': 'Natural',
