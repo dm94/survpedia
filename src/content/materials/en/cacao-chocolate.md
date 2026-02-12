@@ -19,6 +19,7 @@ manufacturingProcess: >-
   pressed to separate cocoa butter and cocoa powder, and mixed with sugar to
   make chocolate that is tempered for stability.
 category: plant
+image: ../../../assets/images/materials/cacao-chocolate.jpg
 ---
 
 Cacao comes from the seeds of the *Theobroma cacao* tree. Fermented, dried, and roasted beans produce aromatic cacao; grinding and mixing with sugar creates chocolate.
