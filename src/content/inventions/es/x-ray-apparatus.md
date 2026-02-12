@@ -6,6 +6,7 @@ materialsUsed:
   - copper
   - lead
   - steel
+image: ../../../assets/images/inventions/x-ray-apparatus.jpg
 ---
 
 # Breve descripción

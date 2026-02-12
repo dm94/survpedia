@@ -6,6 +6,7 @@ materialsUsed:
   - copper
   - lead
   - steel
+image: ../../../assets/images/inventions/x-ray-tube.jpg
 ---
 
 # Breve descripción
@@ -48,6 +49,7 @@ Versión mínima funcional: tubo sellado con cátodo/blanco de tungsteno, alto v
 - **Microfoco:** Mayor nitidez en piezas pequeñas.
 - **Tubo metal-cerámico:** Más durabilidad y estabilidad a alta potencia.
 - **Control por rejilla:** Pulsos rápidos y mejor control de dosis.
+- **Integración de enfriamiento:** Se apoya en un **[Sistema de enfriamiento de rayos X](/es/inventions/x-ray-cooling-system)** para ciclos de trabajo altos.
 
 ## Límites y riesgos
 

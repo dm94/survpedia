@@ -6,6 +6,7 @@ materialsUsed:
   - copper
   - lead
   - steel
+image: ../../../assets/images/inventions/x-ray-tube.jpg
 ---
 
 # Brief description
@@ -48,6 +49,7 @@ Minimum functional version: sealed tube with tungsten cathode/target, strong vac
 - **Microfocus tube:** Sharper imaging for small parts.
 - **Metal-ceramic tube:** More durable and stable in high-power systems.
 - **Grid-controlled tube:** Faster pulsing and dose control.
+- **Cooling integration:** Paired with an **[X-ray cooling system](/en/inventions/x-ray-cooling-system)** for higher duty cycles.
 
 ## Limits and risks
 
