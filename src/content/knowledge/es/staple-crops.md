@@ -6,6 +6,11 @@ relatedMaterials:
   - maize
   - potato
   - cassava
+relatedInventions:
+  - mortar
+  - hand-mill
+  - containers
+  - fire
 image: ../../../assets/images/knowledge/staple-crops.jpg
 ---
 
@@ -40,7 +45,7 @@ Los cultivos básicos priorizan el **rendimiento por área**, la **capacidad de 
 
 ## Variantes y mejoras
 
-- **Rotación de cultivos:** Alternar especies para recuperar el suelo y reducir plagas.
+- **[Rotación de cultivos](/es/knowledge/crop-rotation):** Alternar especies para recuperar el suelo y reducir plagas.
 - **Campos irrigados:** Mayor rendimiento con agua controlada.
 - **Mejora del almacenamiento:** Graneros, cerámica sellada y estantes de secado.
 - **Selección de semillas:** Guardar la mejor semilla mejora rendimiento y resistencia.

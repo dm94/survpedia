@@ -6,6 +6,11 @@ relatedMaterials:
   - maize
   - potato
   - cassava
+relatedInventions:
+  - mortar
+  - hand-mill
+  - containers
+  - fire
 image: ../../../assets/images/knowledge/staple-crops.jpg
 ---
 
@@ -40,7 +45,7 @@ Staple crops prioritize **yield per area**, **storability**, and **simple proces
 
 ## Variants and improvements
 
-- **Crop rotation:** Alternating crops to restore soil and reduce pests.
+- **[Crop rotation](/en/knowledge/crop-rotation):** Alternating crops to restore soil and reduce pests.
 - **Irrigated fields:** Higher yields where water is controlled.
 - **Storage upgrades:** Granaries, sealed pottery, and drying racks.
 - **Selection:** Saving the best seed improves yield and resilience over time.
