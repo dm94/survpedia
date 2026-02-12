@@ -1,6 +1,12 @@
 ---
-title: "Rayos X"
-materialsUsed: ["glass", "tungsten", "copper", "lead", "steel"]
+title: Rayos X
+materialsUsed:
+  - glass
+  - tungsten
+  - copper
+  - lead
+  - steel
+image: ../../../assets/images/inventions/x-ray.jpg
 ---
 
 # Breve descripción

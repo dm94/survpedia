@@ -1,6 +1,12 @@
 ---
-title: "X-ray"
-materialsUsed: ["glass", "tungsten", "copper", "lead", "steel"]
+title: X-ray
+materialsUsed:
+  - glass
+  - tungsten
+  - copper
+  - lead
+  - steel
+image: ../../../assets/images/inventions/x-ray.jpg
 ---
 
 # Brief description
