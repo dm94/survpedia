@@ -1,36 +1,81 @@
 ---
 title: Tungsten
+formula: W
+composition:
+  - tungsten
 properties:
   - Highest melting point of all metals
-  - High density
+  - Very high density
   - Hard
-  - Brittle at low temperatures
+  - Brittle at room temperature
+  - Excellent heat resistance
 uses:
+  - X-ray tube targets
   - Light bulb filaments
   - Vacuum tube cathodes
   - Electrodes
-  - High-speed steel alloys
+  - Cutting tool alloys
 naturalAvailability: false
+manufacturingProcess: >-
+  Extracted from wolframite or scheelite, converted to tungstate, reduced at high
+  temperature with hydrogen or carbon, then sintered.
 category: mineral
 image: ../../../assets/images/materials/tungsten.jpg
 ---
 
-# Brief description
+Tungsten (or wolfram) is a dense, refractory metal prized for surviving extreme heat and wear. It is essential in X-ray tubes, filaments, and hard alloys.
 
-Tungsten (or Wolfram) is a rare metal known for having the highest melting point of all elements. It is essential for high-temperature applications.
+## Description of what it is like
 
-## Properties
+Tungsten is silvery-gray, very heavy in the hand, and hard but brittle at room temperature. It keeps its strength at temperatures that soften most metals.
 
--   **Heat Resistance:** Withstands extremely high temperatures without melting (3422 °C).
--   **Density:** Very heavy, comparable to gold.
--   **Hardness:** Very hard and durable, especially when alloyed.
+## Origin and where to find it
 
-## Usage
+- Environments: Found in hydrothermal veins and granitic regions.
+- Signs: Ores such as wolframite (dark, heavy) and scheelite (pale, dense).
+- It is a natural element but requires advanced processing to isolate.
 
--   **Filaments:** Used in incandescent light bulbs and vacuum tubes due to its ability to glow white-hot without melting.
--   **Electrodes:** Used in TIG welding.
--   **Alloys:** Hardens steel for tools and armor.
+### Minimum processing required
 
-## Manufacturing/Extraction
+- Crushing and concentrating the ore.
+- Roasting to convert minerals into tungstates.
+- Chemical conversion to tungsten oxide.
+- High-temperature reduction with hydrogen or carbon.
+- Sintering or hot pressing to form solid parts.
 
-Extracted from ores like wolframite and scheelite. Requires complex chemical processing and reduction with hydrogen or carbon at high temperatures to produce pure metal powder, which is then sintered.
+### Tools needed to work on it
+
+- High-temperature furnaces and refractory crucibles.
+- Reducing atmosphere control (hydrogen or carbon sources).
+- Presses and grinders for powder metallurgy.
+- Carbide tooling for machining.
+
+### Common forms of use
+
+- Sintered rods and plates.
+- Wire or filaments.
+- Carbide tips in cutting tools.
+- Dense shields or counterweights.
+
+### Possible substitutes
+
+- **[Steel](/en/materials/steel):** Lower heat resistance but easier to work.
+- **[Copper](/en/materials/copper):** Better thermal conduction but melts much earlier.
+- **[Lead](/en/materials/lead):** High density for shielding but soft and toxic.
+
+### Limitations and common failures
+
+- Brittle if not alloyed or processed correctly.
+- Difficult to melt or cast; most work requires powder metallurgy.
+- Oxidizes at very high temperatures in air.
+
+### Risks and safety
+
+- Fine dust is a respiratory hazard.
+- High-temperature processing risks severe burns and fire.
+
+### Related materials
+
+- **[Steel](/en/materials/steel)**: Common alloy and structural pairing.
+- **[Copper](/en/materials/copper)**: Used for electrical and thermal connections.
+- **[Lead](/en/materials/lead)**: Often used alongside tungsten for shielding.

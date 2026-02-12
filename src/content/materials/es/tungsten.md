@@ -1,36 +1,80 @@
 ---
 title: Tungsteno
+formula: W
+composition:
+  - tungsten
 properties:
   - Punto de fusión más alto de todos los metales
-  - Alta densidad
+  - Densidad muy alta
   - Duro
-  - Frágil a bajas temperaturas
+  - Frágil a temperatura ambiente
+  - Resistente al calor extremo
 uses:
+  - Blancos de tubos de rayos X
   - Filamentos de bombillas
   - Cátodos de válvulas de vacío
   - Electrodos
-  - Aleaciones de acero rápido
+  - Aleaciones para herramientas de corte
 naturalAvailability: false
+manufacturingProcess: >-
+  Extraído de wolframita o scheelita, convertido en tungstatos, reducido a alta
+  temperatura con hidrógeno o carbono y luego sinterizado.
 category: mineral
 image: ../../../assets/images/materials/tungsten.jpg
 ---
+El tungsteno (o wolframio) es un metal denso y refractario, clave para soportar calor extremo y desgaste. Se usa en tubos de rayos X, filamentos y aleaciones duras.
 
-# Breve descripción
+## Descripción de cómo es
 
-El tungsteno (o wolframio) es un metal raro conocido por tener el punto de fusión más alto de todos los elementos. Es esencial para aplicaciones de alta temperatura.
+Es plateado-gris, muy pesado y duro, pero quebradizo a temperatura ambiente. Mantiene su resistencia donde otros metales se ablandan.
 
-## Propiedades
+## Origen y dónde encontrarlo
 
--   **Resistencia al calor:** Soporta temperaturas extremadamente altas sin fundirse (3422 °C).
--   **Densidad:** Muy pesado, comparable al oro.
--   **Dureza:** Muy duro y duradero, especialmente cuando se alea.
+- Entornos: Vetas hidrotermales y regiones graníticas.
+- Señales: Minerales como wolframita (oscura y pesada) y scheelita (pálida y densa).
+- Es un elemento natural, pero requiere procesamiento avanzado para aislarlo.
 
-## Uso
+### Procesamiento mínimo requerido
 
--   **Filamentos:** Usado en bombillas incandescentes y válvulas de vacío debido a su capacidad para brillar al rojo blanco sin fundirse.
--   **Electrodos:** Usado en soldadura TIG.
--   **Aleaciones:** Endurece el acero para herramientas y blindajes.
+- Trituración y concentración del mineral.
+- Tostación para convertir minerales en tungstatos.
+- Conversión química a óxido de tungsteno.
+- Reducción a alta temperatura con hidrógeno o carbono.
+- Sinterización o prensado en caliente para formar piezas.
 
-## Fabricación/Extracción
+### Herramientas necesarias para trabajarla
 
-Se extrae de minerales como la wolframita y la scheelita. Requiere un procesamiento químico complejo y reducción con hidrógeno o carbono a altas temperaturas para producir polvo de metal puro, que luego se sinteriza.
+- Hornos de alta temperatura y crisoles refractarios.
+- Control de atmósfera reductora (hidrógeno o carbono).
+- Prensas y molinos para metalurgia de polvos.
+- Herramientas de carburo para mecanizado.
+
+### Formas comunes de uso
+
+- Barras y placas sinterizadas.
+- Alambre o filamento.
+- Puntas de carburo para corte.
+- Blindajes densos o contrapesos.
+
+### Posibles sustitutos
+
+- **[Acero](/es/materials/steel):** Menor resistencia térmica, más fácil de trabajar.
+- **[Cobre](/es/materials/copper):** Mejor conducción térmica, pero se funde antes.
+- **[Plomo](/es/materials/lead):** Muy denso para blindaje, pero blando y tóxico.
+
+### Limitaciones y fallos comunes
+
+- Quebradizo si no se alea o procesa correctamente.
+- Difícil de fundir o colar; requiere metalurgia de polvos.
+- Se oxida a temperaturas muy altas en aire.
+
+### Riesgos y seguridad
+
+- El polvo fino es un riesgo respiratorio.
+- El procesamiento a altas temperaturas puede causar quemaduras graves.
+
+### Materiales relacionados
+
+- **[Acero](/es/materials/steel)**: Aleaciones y soporte estructural.
+- **[Cobre](/es/materials/copper)**: Conexiones eléctricas y térmicas.
+- **[Plomo](/es/materials/lead)**: Usado junto al tungsteno para blindaje.

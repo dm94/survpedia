@@ -13,7 +13,7 @@ relatedInventions:
   - clothing
   - needle
   - scissors
-image: ../../../assets/images/knowledge/protective-equipment.jpg
+image: ../../../assets/images/knowledge/equipo-de-proteccion-personal.jpg
 ---
 
 # Brief description
