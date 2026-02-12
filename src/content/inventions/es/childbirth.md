@@ -56,6 +56,7 @@ El parto es el conjunto de preparaciones y técnicas prácticas para acompañar 
 - **Banco de parto**: Mejora la postura y el uso de la gravedad.
 - **Soporte con hamaca**: Reduce la tensión y permite mejores posiciones.
 - **Kit estéril**: Paños, hilo y herramientas limpias preempacadas.
+- **Calor neonatal**: **[Incubadora](/es/inventions/incubator)** para bebés prematuros o débiles.
 - **Rutina posparto**: Control programado de sangrado, temperatura e hidratación.
 
 ## Límites y riesgos

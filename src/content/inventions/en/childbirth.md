@@ -56,6 +56,7 @@ Childbirth is the practical set of preparations and techniques that support a sa
 - **Birth stool**: Improves posture and gravity assistance.
 - **Hammock support**: Reduces strain and allows assisted positioning.
 - **Sterile kit**: Pre-wrapped clean cloths, thread, and tools for safer procedures.
+- **Neonatal warming**: **[Incubator](/en/inventions/incubator)** for premature or weak newborns.
 - **Postpartum routine**: Scheduled checks for bleeding, temperature, and hydration.
 
 ## Limits and risks

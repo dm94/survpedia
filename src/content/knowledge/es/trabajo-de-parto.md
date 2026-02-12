@@ -13,6 +13,7 @@ relatedMaterials:
   - wood
 relatedInventions:
   - childbirth
+  - incubator
   - needle
   - surgery-tools
 image: ../../../assets/images/knowledge/trabajo-de-parto.jpg
@@ -87,6 +88,7 @@ Básico a intermedio. Un trabajo de parto seguro requiere higiene, observación 
 ### Materiales relacionados
 
 - **[Parto](/es/inventions/childbirth)**: Preparación y proceso completo del nacimiento.
+- **[Incubadora](/es/inventions/incubator)**: Calor controlado para bebés prematuros o débiles.
 - **[Higiene básica](/es/knowledge/basic-hygiene)**: Prácticas limpias que reducen infección.
 - **[Anestesia](/es/knowledge/anesthesia)**: Control del dolor y sus riesgos.
 - **[Fracturas, quemaduras y heridas](/es/knowledge/fracturas-quemaduras-heridas)**: Atención básica de emergencia y control de sangrado.

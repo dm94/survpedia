@@ -13,6 +13,7 @@ relatedMaterials:
   - wood
 relatedInventions:
   - childbirth
+  - incubator
   - needle
   - surgery-tools
 image: ../../../assets/images/knowledge/childbirth-labor.jpg
@@ -87,6 +88,7 @@ Basic to intermediate. Safe labor support requires hygiene, observation, and exp
 ### Related materials
 
 - **[Childbirth](/en/inventions/childbirth)**: The full delivery process and preparation.
+- **[Incubator](/en/inventions/incubator)**: Controlled warmth for premature or weak newborns.
 - **[Basic Hygiene](/en/knowledge/basic-hygiene)**: Clean practices that reduce infection.
 - **[Anesthesia](/en/knowledge/anesthesia)**: Pain control options and risks.
 - **[Breaks, Burns & Wounds](/en/knowledge/breaks-burns-wounds)**: Emergency care fundamentals and bleeding control.
