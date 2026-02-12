@@ -6,6 +6,7 @@ relatedMaterials:
   - copper
   - lead
   - steel
+  - contrast-agent
 relatedInventions:
   - x-ray
   - x-ray-apparatus
@@ -57,6 +58,7 @@ Advanced. High voltage, vacuum components, and radiation safety procedures are r
 
 - **Film radiography:** Simple and portable but slower to process.
 - **Digital detectors:** Faster capture with lower dose and easier storage.
+- **Contrast-enhanced imaging:** Uses **[Contrast agent](/en/materials/contrast-agent)** to highlight vessels and soft tissue.
 - **Microfocus imaging:** High detail for small parts.
 - **Rotating anode systems:** Higher power and shorter exposure times.
 
@@ -64,6 +66,7 @@ Advanced. High voltage, vacuum components, and radiation safety procedures are r
 
 - **Radiation exposure:** Requires strict shielding, distance, and time limits.
 - **Soft tissue contrast:** Limited without advanced techniques.
+- **Contrast reactions:** Some agents can cause adverse reactions or kidney strain.
 - **Motion blur:** Movement reduces sharpness.
 - **Scatter artifacts:** Poor collimation degrades image quality.
 
@@ -72,5 +75,6 @@ Advanced. High voltage, vacuum components, and radiation safety procedures are r
 - **[X-ray](/en/inventions/x-ray)**: The imaging technique and basic setup.
 - **[X-ray apparatus](/en/inventions/x-ray-apparatus)**: Complete system for safe imaging.
 - **[X-ray tube](/en/inventions/x-ray-tube)**: The radiation source.
+- **[Contrast agent](/en/materials/contrast-agent)**: Improves visibility of soft tissue and vessels.
 - **[Lead](/en/materials/lead)**: Primary shielding material.
 - **[Glass](/en/materials/glass)**: Envelope material for vacuum components.

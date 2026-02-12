@@ -6,6 +6,7 @@ relatedMaterials:
   - copper
   - lead
   - steel
+  - contrast-agent
 relatedInventions:
   - x-ray
   - x-ray-apparatus
@@ -57,6 +58,7 @@ Avanzado. Se requiere alto voltaje, componentes de vacío y seguridad radiológi
 
 - **Radiografía con película:** Simple y portable, pero más lenta de procesar.
 - **Detectores digitales:** Captura rápida con menor dosis y archivo sencillo.
+- **Imagen con contraste:** Usa **[Agente de contraste](/es/materials/contrast-agent)** para resaltar vasos y tejidos blandos.
 - **Microfoco:** Mayor detalle en piezas pequeñas.
 - **Ánodo rotatorio:** Más potencia y exposiciones más cortas.
 
@@ -64,6 +66,7 @@ Avanzado. Se requiere alto voltaje, componentes de vacío y seguridad radiológi
 
 - **Exposición a radiación:** Requiere blindaje estricto, distancia y tiempos limitados.
 - **Contraste en tejidos blandos:** Limitado sin técnicas avanzadas.
+- **Reacciones al contraste:** Algunos agentes pueden causar reacciones adversas o carga renal.
 - **Desenfoque por movimiento:** Reduce la nitidez.
 - **Artefactos por dispersión:** La mala colimación degrada la imagen.
 
@@ -72,5 +75,6 @@ Avanzado. Se requiere alto voltaje, componentes de vacío y seguridad radiológi
 - **[Rayos X](/es/inventions/x-ray)**: Técnica de imagen y configuración básica.
 - **[Aparato de rayos X](/es/inventions/x-ray-apparatus)**: Sistema completo para imagen segura.
 - **[Tubo de rayos X](/es/inventions/x-ray-tube)**: Fuente de radiación.
+- **[Agente de contraste](/es/materials/contrast-agent)**: Mejora la visibilidad de tejidos blandos y vasos.
 - **[Plomo](/es/materials/lead)**: Material principal de blindaje.
 - **[Vidrio](/es/materials/glass)**: Envoltura para componentes de vacío.
