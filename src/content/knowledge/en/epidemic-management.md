@@ -1,5 +1,5 @@
 ---
-title: "How to manage an epidemic"
+title: How to manage an epidemic
 relatedMaterials:
   - water
   - soap
@@ -12,6 +12,7 @@ relatedInventions:
   - distillation
   - passive-ventilation
   - containers
+image: ../../../assets/images/knowledge/epidemic-management.jpg
 ---
 
 # Brief description
@@ -38,12 +39,13 @@ Managing an epidemic means coordinating hygiene, isolation, sanitation, and comm
 
 1. **Zones and flow**: Define clean, transition, and **[Isolation](/en/knowledge/isolation)** areas with one-way circulation.
 2. **Hand hygiene**: Set stations with **[Water](/en/materials/water)** and **[Soap](/en/materials/soap)**, or **[Alcohol](/en/materials/alcohol)** when water is limited.
-3. **Safe water**: Boil, filter, or **[Distill](/en/inventions/distillation)** water for drinking.
-4. **Ventilate spaces**: Use **[Passive Ventilation](/en/inventions/passive-ventilation)** and reduce crowding.
-5. **Waste and excreta**: Use **[Latrines](/en/inventions/latrine)** and disinfect with **[Lime](/en/materials/lime)** when possible.
-6. **Scheduled cleaning**: High-touch surfaces are cleaned with soap or diluted vinegar.
-7. **Records and communication**: Keep case lists, contacts, and visible rules.
-8. **Vaccination plan**: If vaccines are available, organize **[Vaccination](/en/knowledge/vaccination)** with priority groups and safe storage.
+3. **Protective gear**: Use **[Protective Equipment](/en/knowledge/protective-equipment)** for caregiving, cleaning, and waste handling.
+4. **Safe water**: Boil, filter, or **[Distill](/en/inventions/distillation)** water for drinking.
+5. **Ventilate spaces**: Use **[Passive Ventilation](/en/inventions/passive-ventilation)** and reduce crowding.
+6. **Waste and excreta**: Use **[Latrines](/en/inventions/latrine)** and disinfect with **[Lime](/en/materials/lime)** when possible.
+7. **Scheduled cleaning**: High-touch surfaces are cleaned with soap or diluted vinegar.
+8. **Records and communication**: Keep case lists, contacts, and visible rules.
+9. **Vaccination plan**: If vaccines are available, organize **[Vaccination](/en/knowledge/vaccination)** with priority groups and safe storage.
 
 ### Required technological level
 
@@ -83,3 +85,4 @@ Basic to intermediate. Discipline and organization matter more than technology.
 - **[Distillation](/en/inventions/distillation)**: Safe water and alcohol.
 - **[Passive Ventilation](/en/inventions/passive-ventilation)**: Dilution of aerosols.
 - **[Vaccination](/en/knowledge/vaccination)**: Immune protection to reduce spread.
+- **[Protective Equipment](/en/knowledge/protective-equipment)**: Barrier gear that reduces exposure.

@@ -8,6 +8,7 @@ materialsUsed:
   - water
   - charcoal
   - clay
+image: ../../../assets/images/inventions/incubator.jpg
 ---
 
 # Breve descripción

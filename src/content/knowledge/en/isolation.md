@@ -1,5 +1,5 @@
 ---
-title: "Isolation"
+title: Isolation
 relatedMaterials:
   - water
   - soap
@@ -11,6 +11,7 @@ relatedInventions:
   - latrine
   - passive-ventilation
   - containers
+image: ../../../assets/images/knowledge/isolation.jpg
 ---
 
 # Brief description

@@ -1,5 +1,5 @@
 ---
-title: "Cómo gestionar una epidemia"
+title: Cómo gestionar una epidemia
 relatedMaterials:
   - water
   - soap
@@ -12,6 +12,7 @@ relatedInventions:
   - distillation
   - passive-ventilation
   - containers
+image: ../../../assets/images/knowledge/epidemic-management.jpg
 ---
 
 # Breve descripción
@@ -38,12 +39,13 @@ Gestionar una epidemia es coordinar higiene, aislamiento, saneamiento y comunica
 
 1. **Zonas y flujo**: Define áreas limpias, de transición y de **[Aislamiento](/es/knowledge/aislamiento)** con circulación unidireccional.
 2. **Lavado de manos**: Instala puntos con **[Agua](/es/materials/water)** y **[Jabón](/es/materials/soap)**, o **[Alcohol](/es/materials/alcohol)** cuando no hay agua.
-3. **Agua segura**: Hierve, filtra o **[Destila](/es/inventions/distillation)** el agua para consumo.
-4. **Ventila espacios**: Usa **[Ventilación pasiva](/es/inventions/passive-ventilation)** y evita hacinamiento.
-5. **Residuos y excretas**: Implementa **[Letrinas](/es/inventions/latrine)** y desinfecta con **[Cal](/es/materials/lime)** cuando sea posible.
-6. **Limpieza programada**: Superficies de alto contacto se limpian con jabón o vinagre diluido.
-7. **Registro y comunicación**: Mantén listas de casos, contactos y reglas visibles.
-8. **Plan de vacunación**: Si hay vacunas disponibles, organiza la **[Vacunación](/es/knowledge/vacunacion)** con grupos prioritarios y almacenamiento seguro.
+3. **Protección personal**: Usa **[Equipo de protección personal](/es/knowledge/equipo-de-proteccion-personal)** para cuidados, limpieza y manejo de residuos.
+4. **Agua segura**: Hierve, filtra o **[Destila](/es/inventions/distillation)** el agua para consumo.
+5. **Ventila espacios**: Usa **[Ventilación pasiva](/es/inventions/passive-ventilation)** y evita hacinamiento.
+6. **Residuos y excretas**: Implementa **[Letrinas](/es/inventions/latrine)** y desinfecta con **[Cal](/es/materials/lime)** cuando sea posible.
+7. **Limpieza programada**: Superficies de alto contacto se limpian con jabón o vinagre diluido.
+8. **Registro y comunicación**: Mantén listas de casos, contactos y reglas visibles.
+9. **Plan de vacunación**: Si hay vacunas disponibles, organiza la **[Vacunación](/es/knowledge/vacunacion)** con grupos prioritarios y almacenamiento seguro.
 
 ### Nivel tecnológico requerido
 
@@ -83,3 +85,4 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 - **[Destilación](/es/inventions/distillation)**: Agua segura y alcohol.
 - **[Ventilación pasiva](/es/inventions/passive-ventilation)**: Dilución de aerosoles.
 - **[Vacunación](/es/knowledge/vacunacion)**: Protección inmune para reducir transmisión.
+- **[Equipo de protección personal](/es/knowledge/equipo-de-proteccion-personal)**: Barreras físicas para reducir exposición.
