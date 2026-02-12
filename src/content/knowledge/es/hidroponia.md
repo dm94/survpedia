@@ -14,6 +14,7 @@ relatedInventions:
   - pump
   - simple-irrigation
   - drenaje
+image: ../../../assets/images/knowledge/hidroponia.jpg
 ---
 
 # Breve descripción
