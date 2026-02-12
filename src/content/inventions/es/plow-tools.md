@@ -1,5 +1,5 @@
 ---
-title: "Arado y herramientas"
+title: Arado y herramientas
 materialsUsed:
   - wood
   - stone
@@ -7,6 +7,7 @@ materialsUsed:
   - bronze
   - plant-fibers
   - leather
+image: ../../../assets/images/inventions/plow-tools.jpg
 ---
 
 # Breve descripción

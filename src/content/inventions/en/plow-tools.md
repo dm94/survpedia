@@ -1,5 +1,5 @@
 ---
-title: "Plow and tools"
+title: Plow and tools
 materialsUsed:
   - wood
   - stone
@@ -7,6 +7,7 @@ materialsUsed:
   - bronze
   - plant-fibers
   - leather
+image: ../../../assets/images/inventions/plow-tools.jpg
 ---
 
 # Brief description
