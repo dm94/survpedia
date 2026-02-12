@@ -72,6 +72,11 @@ Basic to intermediate. Stone or wood versions are basic; metal shares and fittin
 ### Related materials
 
 - **[Plow and tools](/en/inventions/plow-tools)**: Full toolset context and usage.
+- **[Combine harvester](/en/inventions/combine)**: Mechanized harvest that follows field prep.
 - **[Shovel](/en/inventions/shovel)**: Companion tool for field work and repair.
 - **[Wood](/en/materials/wood)**: Structural frame material.
+- **[Stone](/en/materials/stone)**: Basic share material for early plows.
 - **[Iron](/en/materials/iron)**: Durable cutting edge option.
+- **[Bronze](/en/materials/bronze)**: Optional fittings and replaceable tips.
+- **[Plant fibers](/en/materials/plant-fibers)**: Lashings for joints and hitch.
+- **[Leather](/en/materials/leather)**: Straps and bindings for draft systems.

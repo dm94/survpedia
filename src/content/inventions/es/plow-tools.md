@@ -51,6 +51,7 @@ El arado y las herramientas son un conjunto básico agrícola para romper el sue
 - **Arado de vertedera:** Voltea el suelo por completo y reduce maleza.
 - **Reja y cuchilla de hierro:** Corta suelos más duros y reduce el desgaste.
 - **Arado con tiro animal:** Mayor profundidad y velocidad.
+- **[Cosechadora combinada](/es/inventions/combine):** Cosecha mecanizada que completa el ciclo del campo.
 
 ## Límites y riesgos
 

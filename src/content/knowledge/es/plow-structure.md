@@ -72,6 +72,11 @@ Básico a intermedio. Versiones de madera o piedra son básicas; rejas metálica
 ### Materiales relacionados
 
 - **[Arado y herramientas](/es/inventions/plow-tools)**: Conjunto completo y uso.
+- **[Cosechadora combinada](/es/inventions/combine)**: Cosecha mecanizada que sigue a la preparación del suelo.
 - **[Pala](/es/inventions/shovel)**: Herramienta de apoyo para campo y reparación.
 - **[Madera](/es/materials/wood)**: Estructura principal.
+- **[Piedra](/es/materials/stone)**: Material básico para rejas tempranas.
 - **[Hierro](/es/materials/iron)**: Opción resistente para el filo.
+- **[Bronce](/es/materials/bronze)**: Refuerzos y puntas reemplazables.
+- **[Fibras vegetales](/es/materials/plant-fibers)**: Amarres y fijaciones.
+- **[Cuero](/es/materials/leather)**: Correas y uniones para el tiro.
