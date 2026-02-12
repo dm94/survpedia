@@ -35,7 +35,7 @@ Gestionar una epidemia es coordinar higiene, aislamiento, saneamiento y comunica
 
 ## Cómo crearlo
 
-1. **Zonas y flujo**: Define áreas limpias y sucias con circulación unidireccional.
+1. **Zonas y flujo**: Define áreas limpias, de transición y de **[Aislamiento](/es/knowledge/aislamiento)** con circulación unidireccional.
 2. **Lavado de manos**: Instala puntos con **[Agua](/es/materials/water)** y **[Jabón](/es/materials/soap)**, o **[Alcohol](/es/materials/alcohol)** cuando no hay agua.
 3. **Agua segura**: Hierve, filtra o **[Destila](/es/inventions/distillation)** el agua para consumo.
 4. **Ventila espacios**: Usa **[Ventilación pasiva](/es/inventions/passive-ventilation)** y evita hacinamiento.
@@ -51,12 +51,13 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 
 - **Higiene**: **[Agua](/es/materials/water)**, **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
 - **Limpieza**: **[Vinagre](/es/materials/vinegar)** para desincrustar y **[Cal](/es/materials/lime)** para desinfección básica.
-- **Saneamiento**: **[Letrinas](/es/inventions/latrine)** y recipientes cerrados.
+- **Saneamiento**: **[Letrinas](/es/inventions/latrine)** y **[Contenedores](/es/inventions/containers)** cerrados.
 - **Aire**: **[Ventilación pasiva](/es/inventions/passive-ventilation)** para renovar espacios.
 
 ## Variantes y mejoras
 
 - **Aislamiento por capas**: Familia, vecindario, comunidad.
+- **Protocolos de aislamiento**: Criterios de entrada y salida con apoyo básico.
 - **Puntos móviles de higiene**: Estaciones temporales según flujo de personas.
 - **Separación de turnos**: Reducir contacto entre grupos.
 - **Materiales reutilizables**: Paños de algodón lavables para limpieza.
@@ -74,6 +75,7 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 - **[Jabón](/es/materials/soap)**: Eliminación mecánica de patógenos.
 - **[Alcohol](/es/materials/alcohol)**: Antiséptico cuando falta agua.
 - **[Cal](/es/materials/lime)**: Desinfección de residuos.
+- **[Aislamiento](/es/knowledge/aislamiento)**: Separación de casos para cortar transmisión.
 - **[Letrinas](/es/inventions/latrine)**: Corte de rutas fecales.
 - **[Destilación](/es/inventions/distillation)**: Agua segura y alcohol.
 - **[Ventilación pasiva](/es/inventions/passive-ventilation)**: Dilución de aerosoles.

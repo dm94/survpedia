@@ -35,7 +35,7 @@ Managing an epidemic means coordinating hygiene, isolation, sanitation, and comm
 
 ## How to create it
 
-1. **Zones and flow**: Define clean and contaminated areas with one-way circulation.
+1. **Zones and flow**: Define clean, transition, and **[Isolation](/en/knowledge/isolation)** areas with one-way circulation.
 2. **Hand hygiene**: Set stations with **[Water](/en/materials/water)** and **[Soap](/en/materials/soap)**, or **[Alcohol](/en/materials/alcohol)** when water is limited.
 3. **Safe water**: Boil, filter, or **[Distill](/en/inventions/distillation)** water for drinking.
 4. **Ventilate spaces**: Use **[Passive Ventilation](/en/inventions/passive-ventilation)** and reduce crowding.
@@ -51,12 +51,13 @@ Basic to intermediate. Discipline and organization matter more than technology.
 
 - **Hygiene**: **[Water](/en/materials/water)**, **[Soap](/en/materials/soap)**, **[Alcohol](/en/materials/alcohol)**, **[Cotton](/en/materials/cotton)**.
 - **Cleaning**: **[Vinegar](/en/materials/vinegar)** for descaling and **[Lime](/en/materials/lime)** for basic disinfection.
-- **Sanitation**: **[Latrines](/en/inventions/latrine)** and closed containers.
+- **Sanitation**: **[Latrines](/en/inventions/latrine)** and closed **[Containers](/en/inventions/containers)**.
 - **Air**: **[Passive Ventilation](/en/inventions/passive-ventilation)** for air renewal.
 
 ## Variants and improvements
 
 - **Layered isolation**: Household, neighborhood, community.
+- **Isolation protocols**: Entry and exit criteria with basic support.
 - **Mobile hygiene points**: Temporary stations aligned with movement.
 - **Shift separation**: Reduce contact between groups.
 - **Reusable materials**: Washable cotton cloths for cleaning.
@@ -74,6 +75,7 @@ Basic to intermediate. Discipline and organization matter more than technology.
 - **[Soap](/en/materials/soap)**: Mechanical removal of pathogens.
 - **[Alcohol](/en/materials/alcohol)**: Antiseptic when water is limited.
 - **[Lime](/en/materials/lime)**: Disinfection for waste.
+- **[Isolation](/en/knowledge/isolation)**: Separation of cases to cut transmission.
 - **[Latrines](/en/inventions/latrine)**: Cut fecal transmission routes.
 - **[Distillation](/en/inventions/distillation)**: Safe water and alcohol.
 - **[Passive Ventilation](/en/inventions/passive-ventilation)**: Dilution of aerosols.
