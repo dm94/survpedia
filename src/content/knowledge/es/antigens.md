@@ -1,5 +1,6 @@
 ---
-title: "Antígenos"
+title: Antígenos
+image: ../../../assets/images/knowledge/antigens.jpg
 ---
 
 Los antígenos son patrones moleculares que el sistema inmune puede reconocer y a los que puede responder. Suelen ser partes de microbios, toxinas u otras sustancias que disparan la unión de anticuerpos y la memoria inmune.

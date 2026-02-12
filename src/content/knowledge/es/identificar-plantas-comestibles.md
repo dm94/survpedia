@@ -1,6 +1,9 @@
 ---
-title: "Cómo identificar plantas comestibles y no comestibles"
-relatedMaterials: ["water", "plant-fibers"]
+title: Cómo identificar plantas comestibles y no comestibles
+relatedMaterials:
+  - water
+  - plant-fibers
+image: ../../../assets/images/knowledge/identificar-plantas-comestibles.jpg
 ---
 
 # Breve descripción

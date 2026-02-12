@@ -1,6 +1,14 @@
 ---
-title: "Refrigeración Natural"
-relatedMaterials: ["water", "clay", "stone", "straw", "wood", "charcoal", "sand"]
+title: Refrigeración Natural
+relatedMaterials:
+  - water
+  - clay
+  - stone
+  - straw
+  - wood
+  - charcoal
+  - sand
+image: ../../../assets/images/knowledge/refrigeracion-natural.jpg
 ---
 
 # Descripción breve

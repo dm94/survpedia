@@ -1,8 +1,20 @@
 ---
-title: "Tooth Structure"
+title: Tooth Structure
 relatedMaterials:
-  ["bone", "water", "salt", "soap", "alcohol", "cotton", "paper", "ink"]
-relatedInventions: ["toothbrush", "mirror", "surgery-tools", "scalpel"]
+  - bone
+  - water
+  - salt
+  - soap
+  - alcohol
+  - cotton
+  - paper
+  - ink
+relatedInventions:
+  - toothbrush
+  - mirror
+  - surgery-tools
+  - scalpel
+image: ../../../assets/images/knowledge/tooth-structure.jpg
 ---
 
 # Brief description

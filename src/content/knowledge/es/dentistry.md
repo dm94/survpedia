@@ -1,22 +1,26 @@
 ---
-title: "Odontología"
+title: Odontología
 relatedMaterials:
-  [
-    "water",
-    "salt",
-    "soap",
-    "alcohol",
-    "cotton",
-    "ash",
-    "charcoal",
-    "clay",
-    "toothpaste",
-    "surgical-thread",
-    "bone",
-    "wood",
-    "plant-fibers",
-  ]
-relatedInventions: ["toothbrush", "needle", "scalpel", "surgery-tools", "dental-filling"]
+  - water
+  - salt
+  - soap
+  - alcohol
+  - cotton
+  - ash
+  - charcoal
+  - clay
+  - toothpaste
+  - surgical-thread
+  - bone
+  - wood
+  - plant-fibers
+relatedInventions:
+  - toothbrush
+  - needle
+  - scalpel
+  - surgery-tools
+  - dental-filling
+image: ../../../assets/images/knowledge/dentistry.jpg
 ---
 
 # Breve descripción

@@ -1,5 +1,6 @@
 ---
-title: "Plantas Medicinales"
+title: Plantas Medicinales
+image: ../../../assets/images/knowledge/medicinal-plants.jpg
 ---
 
 Las plantas medicinales son diversas especies vegetales que poseen compuestos bioactivos utilizados con fines terapéuticos. Son la base de la medicina tradicional y el precursor de la farmacología moderna.

@@ -1,6 +1,10 @@
 ---
-title: "Pisón"
-materialsUsed: ["wood", "stone", "iron"]
+title: Pisón
+materialsUsed:
+  - wood
+  - stone
+  - iron
+image: ../../../assets/images/inventions/pison.jpg
 ---
 
 # Breve descripción

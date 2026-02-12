@@ -1,6 +1,11 @@
 ---
-title: "Cómo encontrar agua"
-relatedMaterials: ["water", "sand", "charcoal", "plant-fibers"]
+title: Cómo encontrar agua
+relatedMaterials:
+  - water
+  - sand
+  - charcoal
+  - plant-fibers
+image: ../../../assets/images/knowledge/how-to-find-water.jpg
 ---
 
 # Breve descripción

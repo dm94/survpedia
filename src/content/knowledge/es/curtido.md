@@ -1,6 +1,13 @@
 ---
-title: "Curtido"
-relatedMaterials: ["water", "salt", "lime", "alum", "animal-fat", "wood"]
+title: Curtido
+relatedMaterials:
+  - water
+  - salt
+  - lime
+  - alum
+  - animal-fat
+  - wood
+image: ../../../assets/images/knowledge/curtido.jpg
 ---
 
 # Breve descripción

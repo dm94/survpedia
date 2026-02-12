@@ -1,5 +1,6 @@
 ---
-title: "Blood Type"
+title: Blood Type
+image: ../../../assets/images/knowledge/blood-type.jpg
 ---
 
 Blood type is a biological classification of blood based on specific antigens on red blood cells. It determines which blood is compatible for transfusions and how the immune system reacts to foreign blood.

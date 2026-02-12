@@ -1,6 +1,14 @@
 ---
-title: "Sistema circulatorio"
-relatedMaterials: ["paper", "ink", "bone", "water", "soap", "alcohol", "cotton"]
+title: Sistema circulatorio
+relatedMaterials:
+  - paper
+  - ink
+  - bone
+  - water
+  - soap
+  - alcohol
+  - cotton
+image: ../../../assets/images/knowledge/circulatory-system.jpg
 ---
 
 # Breve descripción

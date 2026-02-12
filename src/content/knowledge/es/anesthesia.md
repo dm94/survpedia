@@ -1,8 +1,18 @@
 ---
-title: "Anestesia"
+title: Anestesia
 relatedMaterials:
-  ["alcohol", "water", "soap", "cotton", "surgical-thread", "plant-fibers"]
-relatedInventions: ["surgery-tools", "needle", "scalpel", "dental-filling"]
+  - alcohol
+  - water
+  - soap
+  - cotton
+  - surgical-thread
+  - plant-fibers
+relatedInventions:
+  - surgery-tools
+  - needle
+  - scalpel
+  - dental-filling
+image: ../../../assets/images/knowledge/anesthesia.jpg
 ---
 
 # Breve descripción

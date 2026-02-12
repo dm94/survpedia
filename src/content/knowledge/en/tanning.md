@@ -1,6 +1,13 @@
 ---
-title: "Tanning"
-relatedMaterials: ["water", "salt", "lime", "alum", "animal-fat", "wood"]
+title: Tanning
+relatedMaterials:
+  - water
+  - salt
+  - lime
+  - alum
+  - animal-fat
+  - wood
+image: ../../../assets/images/knowledge/tanning.jpg
 ---
 
 # Brief description

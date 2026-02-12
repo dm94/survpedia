@@ -1,8 +1,20 @@
 ---
-title: "Estructura del diente"
+title: Estructura del diente
 relatedMaterials:
-  ["bone", "water", "salt", "soap", "alcohol", "cotton", "paper", "ink"]
-relatedInventions: ["toothbrush", "espejo", "surgery-tools", "scalpel"]
+  - bone
+  - water
+  - salt
+  - soap
+  - alcohol
+  - cotton
+  - paper
+  - ink
+relatedInventions:
+  - toothbrush
+  - espejo
+  - surgery-tools
+  - scalpel
+image: ../../../assets/images/knowledge/tooth-structure.jpg
 ---
 
 # Breve descripción

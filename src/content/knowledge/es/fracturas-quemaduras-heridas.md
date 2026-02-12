@@ -1,18 +1,17 @@
 ---
-title: "Fracturas, quemaduras y heridas"
+title: 'Fracturas, quemaduras y heridas'
 relatedMaterials:
-  [
-    "water",
-    "alcohol",
-    "cotton",
-    "fabric",
-    "wood",
-    "soap",
-    "healing-herbs",
-    "animal-fat",
-    "beeswax",
-    "surgical-thread",
-  ]
+  - water
+  - alcohol
+  - cotton
+  - fabric
+  - wood
+  - soap
+  - healing-herbs
+  - animal-fat
+  - beeswax
+  - surgical-thread
+image: ../../../assets/images/knowledge/fracturas-quemaduras-heridas.jpg
 ---
 
 # Breve descripción

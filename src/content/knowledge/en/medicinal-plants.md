@@ -1,5 +1,6 @@
 ---
-title: "Medicinal Plants"
+title: Medicinal Plants
+image: ../../../assets/images/knowledge/medicinal-plants.jpg
 ---
 
 Medicinal plants are various species of vegetation that possess bioactive compounds used for therapeutic purposes. They are the foundation of traditional medicine and the precursor to modern pharmacology.

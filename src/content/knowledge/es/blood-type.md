@@ -1,5 +1,6 @@
 ---
-title: "Tipo de sangre"
+title: Tipo de sangre
+image: ../../../assets/images/knowledge/blood-type.jpg
 ---
 
 El tipo de sangre es una clasificación biológica basada en antígenos específicos en los glóbulos rojos. Define qué sangre es compatible para transfusiones y cómo reacciona el sistema inmune ante sangre extraña.

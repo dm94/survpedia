@@ -1,5 +1,6 @@
 ---
-title: "Hierbas Curativas"
+title: Hierbas Curativas
+image: ../../../assets/images/knowledge/healing-herbs.jpg
 ---
 
 Las hierbas curativas son plantas medicinales específicas elegidas por sus efectos terapéuticos y facilidad de preparación. Se usan para aliviar dolor, combatir infecciones y apoyar la recuperación en contextos de baja tecnología.

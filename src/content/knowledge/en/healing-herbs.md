@@ -1,5 +1,6 @@
 ---
-title: "Healing Herbs"
+title: Healing Herbs
+image: ../../../assets/images/knowledge/healing-herbs.jpg
 ---
 
 Healing herbs are specific medicinal plants chosen for their therapeutic effects and ease of preparation. They are used to soothe pain, fight infection, and support recovery in low-tech settings.

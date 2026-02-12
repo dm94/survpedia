@@ -1,19 +1,21 @@
 ---
-title: "Trabajo de parto"
+title: Trabajo de parto
 relatedMaterials:
-  [
-    "water",
-    "soap",
-    "cotton",
-    "fabric",
-    "surgical-thread",
-    "alcohol",
-    "plant-fibers",
-    "beeswax",
-    "animal-fat",
-    "wood",
-  ]
-relatedInventions: ["childbirth", "needle", "surgery-tools"]
+  - water
+  - soap
+  - cotton
+  - fabric
+  - surgical-thread
+  - alcohol
+  - plant-fibers
+  - beeswax
+  - animal-fat
+  - wood
+relatedInventions:
+  - childbirth
+  - needle
+  - surgery-tools
+image: ../../../assets/images/knowledge/trabajo-de-parto.jpg
 ---
 
 # Breve descripción
