@@ -1,5 +1,5 @@
 ---
-title: "Aislamiento"
+title: Aislamiento
 relatedMaterials:
   - water
   - soap
@@ -11,6 +11,7 @@ relatedInventions:
   - latrine
   - passive-ventilation
   - containers
+image: ../../../assets/images/knowledge/aislamiento.jpg
 ---
 
 # Breve descripción

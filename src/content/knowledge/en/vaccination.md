@@ -10,6 +10,7 @@ relatedInventions:
   - needle
   - containers
   - zeer-pot
+image: ../../../assets/images/knowledge/vaccination.jpg
 ---
 
 # Brief description

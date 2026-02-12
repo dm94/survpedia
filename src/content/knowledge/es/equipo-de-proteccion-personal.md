@@ -1,5 +1,5 @@
 ---
-title: "Equipo de protección personal"
+title: Equipo de protección personal
 relatedMaterials:
   - fabric
   - cotton
@@ -13,6 +13,7 @@ relatedInventions:
   - clothing
   - needle
   - scissors
+image: ../../../assets/images/knowledge/equipo-de-proteccion-personal.jpg
 ---
 
 # Breve descripción

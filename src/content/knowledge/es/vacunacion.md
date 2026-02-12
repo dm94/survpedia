@@ -10,6 +10,7 @@ relatedInventions:
   - needle
   - containers
   - nevera-de-tierra
+image: ../../../assets/images/knowledge/vacunacion.jpg
 ---
 
 # Breve descripción
