@@ -11,6 +11,7 @@ relatedInventions:
   - latrine
   - distillation
   - passive-ventilation
+  - containers
 ---
 
 # Brief description
@@ -42,6 +43,7 @@ Managing an epidemic means coordinating hygiene, isolation, sanitation, and comm
 5. **Waste and excreta**: Use **[Latrines](/en/inventions/latrine)** and disinfect with **[Lime](/en/materials/lime)** when possible.
 6. **Scheduled cleaning**: High-touch surfaces are cleaned with soap or diluted vinegar.
 7. **Records and communication**: Keep case lists, contacts, and visible rules.
+8. **Vaccination plan**: If vaccines are available, organize **[Vaccination](/en/knowledge/vaccination)** with priority groups and safe storage.
 
 ### Required technological level
 
@@ -77,5 +79,7 @@ Basic to intermediate. Discipline and organization matter more than technology.
 - **[Lime](/en/materials/lime)**: Disinfection for waste.
 - **[Isolation](/en/knowledge/isolation)**: Separation of cases to cut transmission.
 - **[Latrines](/en/inventions/latrine)**: Cut fecal transmission routes.
+- **[Containers](/en/inventions/containers)**: Safe storage for clean and contaminated items.
 - **[Distillation](/en/inventions/distillation)**: Safe water and alcohol.
 - **[Passive Ventilation](/en/inventions/passive-ventilation)**: Dilution of aerosols.
+- **[Vaccination](/en/knowledge/vaccination)**: Immune protection to reduce spread.

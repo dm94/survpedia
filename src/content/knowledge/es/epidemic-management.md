@@ -11,6 +11,7 @@ relatedInventions:
   - latrine
   - distillation
   - passive-ventilation
+  - containers
 ---
 
 # Breve descripción
@@ -42,6 +43,7 @@ Gestionar una epidemia es coordinar higiene, aislamiento, saneamiento y comunica
 5. **Residuos y excretas**: Implementa **[Letrinas](/es/inventions/latrine)** y desinfecta con **[Cal](/es/materials/lime)** cuando sea posible.
 6. **Limpieza programada**: Superficies de alto contacto se limpian con jabón o vinagre diluido.
 7. **Registro y comunicación**: Mantén listas de casos, contactos y reglas visibles.
+8. **Plan de vacunación**: Si hay vacunas disponibles, organiza la **[Vacunación](/es/knowledge/vacunacion)** con grupos prioritarios y almacenamiento seguro.
 
 ### Nivel tecnológico requerido
 
@@ -77,5 +79,7 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 - **[Cal](/es/materials/lime)**: Desinfección de residuos.
 - **[Aislamiento](/es/knowledge/aislamiento)**: Separación de casos para cortar transmisión.
 - **[Letrinas](/es/inventions/latrine)**: Corte de rutas fecales.
+- **[Contenedores](/es/inventions/containers)**: Almacenamiento seguro de insumos.
 - **[Destilación](/es/inventions/distillation)**: Agua segura y alcohol.
 - **[Ventilación pasiva](/es/inventions/passive-ventilation)**: Dilución de aerosoles.
+- **[Vacunación](/es/knowledge/vacunacion)**: Protección inmune para reducir transmisión.
