@@ -12,6 +12,7 @@ relatedInventions:
   - x-ray-tube
   - vacuum-tube
   - x-ray-cooling-system
+image: ../../../assets/images/knowledge/x-ray-image.jpg
 ---
 
 # Breve descripción
