@@ -13,8 +13,9 @@ uses:
   - Solvent for herbal extracts
   - Social and ritual use
 naturalAvailability: false
-manufacturingProcess: Fermentation of grape juice by yeast, followed by clarification and aging.
+manufacturingProcess: 'Fermentation of grape juice by yeast, followed by clarification and aging.'
 category: other
+image: ../../../assets/images/materials/wine.jpg
 ---
 
 Wine is a fermented beverage made primarily from grape juice. It concentrates sugars, acids, and aromas into a stable drink that can be stored and transported.

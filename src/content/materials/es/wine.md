@@ -13,8 +13,11 @@ uses:
   - Disolvente para extractos herbales
   - Uso social y ritual
 naturalAvailability: false
-manufacturingProcess: Fermentación del jugo de uva por levaduras, seguida de clarificación y envejecimiento.
+manufacturingProcess: >-
+  Fermentación del jugo de uva por levaduras, seguida de clarificación y
+  envejecimiento.
 category: other
+image: ../../../assets/images/materials/wine.jpg
 ---
 
 El vino es una bebida fermentada hecha principalmente de jugo de uva. Concentra azúcares, ácidos y aromas en una bebida estable que se puede almacenar y transportar.

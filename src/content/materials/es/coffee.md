@@ -18,6 +18,7 @@ manufacturingProcess: >-
   granos se secan, se despulpan, se tuestan para desarrollar sabor y luego se
   muelen para preparar la bebida.
 category: plant
+image: ../../../assets/images/materials/coffee.jpg
 ---
 
 El café se elabora con semillas tostadas de la planta del café. Se infusiona en agua caliente o fría para obtener una bebida oscura, aromática y con efecto estimulante fuerte.

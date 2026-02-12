@@ -19,6 +19,7 @@ manufacturingProcess: >-
   cacao. La pasta puede prensarse para separar manteca y cacao en polvo, y
   mezclarse con azúcar para producir chocolate que se templa para estabilidad.
 category: plant
+image: ../../../assets/images/materials/cacao-chocolate.jpg
 ---
 
 El cacao proviene de las semillas del árbol _Theobroma cacao_. Al fermentar, secar y tostar se obtiene cacao aromático; al molerlo y mezclarlo con azúcar se transforma en chocolate.
