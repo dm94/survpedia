@@ -17,6 +17,7 @@ manufacturingProcess: >-
   magullan, se oxidan de forma controlada y luego se secan para estabilizar su
   sabor.
 category: plant
+image: ../../../assets/images/materials/tea.jpg
 ---
 
 El té se elabora con hojas y brotes secos de la planta del té y se prepara infusionándolos en agua caliente o fría. Se valora por su aroma, sabor y efecto estimulante moderado.

@@ -16,6 +16,7 @@ manufacturingProcess: >-
   Leaves from Camellia sinensis are harvested, withered, rolled or bruised,
   optionally oxidized, and then dried to stabilize flavor.
 category: plant
+image: ../../../assets/images/materials/tea.jpg
 ---
 
 Tea is made from the dried leaves and buds of the tea plant and is prepared by infusing them in hot or cold water. It is prized for its aroma, flavor, and gentle stimulant effect.
