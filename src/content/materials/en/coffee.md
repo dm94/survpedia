@@ -18,6 +18,7 @@ manufacturingProcess: >-
   processing, the beans are dried, hulled, roasted to develop flavor, and then
   ground for brewing.
 category: plant
+image: ../../../assets/images/materials/coffee.jpg
 ---
 
 Coffee is made from roasted seeds of the coffee plant. It is brewed with hot or cold water to produce a dark, aromatic drink with a strong stimulant effect.
