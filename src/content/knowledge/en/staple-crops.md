@@ -11,6 +11,7 @@ relatedInventions:
   - hand-mill
   - containers
   - fire
+  - plow-tools
 image: ../../../assets/images/knowledge/staple-crops.jpg
 ---
 
