@@ -39,7 +39,7 @@ Un líquido de transparente a ámbar con un olor y sabor acre y agrio.
 
 ### Procesamiento mínimo requerido
 
-- **[Fermentación Alcohólica](/es/knowledge/fermentation)**: Crear una solución alcohólica débil (sidra, vino, cerveza).
+- **[Fermentación Alcohólica](/es/inventions/fermentation)**: Crear una solución alcohólica débil (sidra, vino, cerveza).
 - **Fermentación Acética**: Exponer el alcohol al oxígeno y a las bacterias _Acetobacter_ (Madre del Vinagre).
 - **Envejecimiento**: Dar tiempo para que se complete la conversión (semanas a meses).
 

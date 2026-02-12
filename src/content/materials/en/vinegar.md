@@ -39,7 +39,7 @@ A clear to amber liquid with a pungent, sour smell and taste.
 
 ### Minimum processing required
 
-- **[Alcoholic Fermentation](/en/knowledge/fermentation)**: Create a weak alcoholic solution (cider, wine, beer).
+- **[Alcoholic Fermentation](/en/inventions/fermentation)**: Create a weak alcoholic solution (cider, wine, beer).
 - **Acetic Fermentation**: Expose the alcohol to oxygen and _Acetobacter_ bacteria (Mother of Vinegar).
 - **Aging**: Allow time for the conversion to complete (weeks to months).
 

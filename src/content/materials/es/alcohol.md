@@ -37,7 +37,7 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 ### Procesamiento mínimo requerido
 
-- **[Fermentación](/es/knowledge/fermentation)**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
+- **[Fermentación](/es/inventions/fermentation)**: La levadura convierte los azúcares en etanol y CO2. Esto produce hasta ~15% de alcohol.
 - **[Destilación](/es/inventions/distillation)**: Calentar el líquido fermentado para separar el alcohol (punto de ebullición más bajo) del agua. Esto produce concentraciones más altas (hasta 95%).
 
 ### Herramientas necesarias para trabajarlo

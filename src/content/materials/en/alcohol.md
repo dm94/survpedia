@@ -18,7 +18,7 @@ uses:
   - Recreational beverage
   - Preservative
 naturalAvailability: false
-manufacturingProcess: 'Fermentation of sugars by yeast, followed by distillation.'
+manufacturingProcess: "Fermentation of sugars by yeast, followed by distillation."
 category: other
 image: ../../../assets/images/materials/alcohol.jpg
 ---
@@ -37,7 +37,7 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 ### Minimum processing required
 
-- **[Fermentation](/en/knowledge/fermentation)**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
+- **[Fermentation](/en/inventions/fermentation)**: Yeast converts sugars into ethanol and CO2. This yields up to ~15% alcohol.
 - **[Distillation](/en/inventions/distillation)**: Heating the fermented liquid to separate alcohol (lower boiling point) from water. This yields higher concentrations (up to 95%).
 
 ### Tools needed to work on it

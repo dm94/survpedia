@@ -79,6 +79,6 @@ Si se procesa mal, la potencia es baja o hay contaminación, y el producto puede
 
 ### Materiales relacionados
 
-- **[Fermentación](/es/knowledge/fermentation)**: La producción industrial depende del crecimiento microbiano controlado.
+- **[Fermentación](/es/inventions/fermentation)**: La producción industrial depende del crecimiento microbiano controlado.
 - **[Alcohol](/es/materials/alcohol)**: Usado como solvente en la extracción y limpieza.
 - **[Agua](/es/materials/water)**: Medio base para cultivo y dilución.

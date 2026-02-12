@@ -57,7 +57,7 @@ Los antígenos suelen ser proteínas, glicoproteínas o polisacáridos. No son u
 
 ### Materiales relacionados
 
-- **[Fermentación](/es/knowledge/fermentation)**: Ruta común de producción de antígenos microbianos.
+- **[Fermentación](/es/inventions/fermentation)**: Ruta común de producción de antígenos microbianos.
 - **[Alcohol](/es/materials/alcohol)**: Usado para esterilización y preservación.
 - **[Vidrio](/es/materials/glass)**: Recipientes de laboratorio y manejo estéril.
 - **[Agua](/es/materials/water)**: Medio base para soluciones y diluciones.

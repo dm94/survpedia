@@ -79,6 +79,6 @@ If poorly processed, potency is low or contaminated, and the product may be unsa
 
 ### Related materials
 
-- **[Fermentation](/en/knowledge/fermentation)**: Industrial production depends on controlled microbial growth.
+- **[Fermentation](/en/inventions/fermentation)**: Industrial production depends on controlled microbial growth.
 - **[Alcohol](/en/materials/alcohol)**: Used as a solvent in extraction and cleaning.
 - **[Water](/en/materials/water)**: Base medium for culture and dilution.

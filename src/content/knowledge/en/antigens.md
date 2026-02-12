@@ -62,7 +62,7 @@ Antigens are usually proteins, glycoproteins, or polysaccharides. They are not a
 
 ### Related materials
 
-- **[Fermentation](/en/knowledge/fermentation)**: Common production route for microbial antigens.
+- **[Fermentation](/en/inventions/fermentation)**: Common production route for microbial antigens.
 - **[Alcohol](/en/materials/alcohol)**: Used for sterilization and preservation.
 - **[Glass](/en/materials/glass)**: Lab containers and sterile handling.
 - **[Water](/en/materials/water)**: Base medium for solutions and dilutions.
