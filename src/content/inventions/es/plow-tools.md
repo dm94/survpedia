@@ -24,9 +24,11 @@ El arado y las herramientas son un conjunto básico agrícola para romper el sue
 
 ## Principio de funcionamiento
 
-- **Reja + vertedera:** Una cuña corta el suelo y una superficie curva lo voltea.
-- **Fuerza de tiro:** Tracción humana o animal convierte el arrastre en avance y volteo.
-- **Herramientas manuales:** Palanca y filo permiten corte y levantamiento controlado.
+- **Corte del suelo:** La reja concentra la fuerza en un filo estrecho para seccionar la tierra y abrir el surco.
+- **Levantamiento y volteo:** La vertedera eleva la porción de suelo, la gira y entierra maleza y residuos.
+- **Control de profundidad:** El ángulo de la viga y la altura del enganche regulan la penetración.
+- **Conversión de tracción:** El tiro se transforma en avance estable y volteo continuo del suelo.
+- **Herramientas manuales:** Palanca y filo permiten corte, aflojado y nivelado con precisión entre hileras.
 
 ## Cómo crearlo
 

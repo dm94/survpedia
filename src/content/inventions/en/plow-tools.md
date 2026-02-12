@@ -24,9 +24,11 @@ Plow and tools are a basic agricultural toolkit used to break soil, open furrows
 
 ## Operating principle
 
-- **Plow share + moldboard:** A wedge cuts soil and a curved surface flips it.
-- **Draft force:** Human or animal traction converts pulling into forward motion and soil turnover.
-- **Hand tools:** Leverage and wedge edges allow controlled cutting and lifting.
+- **Soil cutting:** The share concentrates force on a narrow edge to shear soil and open a groove.
+- **Soil lifting and turning:** The moldboard lifts the slice, rolls it over, and buries weeds and residues.
+- **Depth control:** The beam angle and hitch height set penetration, preventing skipping or over-burial.
+- **Draft conversion:** Traction translates pulling into forward motion and steady soil turnover.
+- **Hand tools:** Leverage and wedge edges deliver precise cutting, loosening, and shaping between rows.
 
 ## How to create it
 
