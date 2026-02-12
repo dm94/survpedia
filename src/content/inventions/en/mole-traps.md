@@ -1,6 +1,11 @@
 ---
-title: "Mole Traps"
-materialsUsed: ["wood", "steel", "iron", "plant-fibers"]
+title: Mole Traps
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - plant-fibers
+image: ../../../assets/images/inventions/mole-traps.jpg
 ---
 
 # Brief description

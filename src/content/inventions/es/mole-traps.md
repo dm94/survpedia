@@ -1,6 +1,11 @@
 ---
-title: "Trampas para topos"
-materialsUsed: ["wood", "steel", "iron", "plant-fibers"]
+title: Trampas para topos
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - plant-fibers
+image: ../../../assets/images/inventions/mole-traps.jpg
 ---
 
 # Breve descripción
