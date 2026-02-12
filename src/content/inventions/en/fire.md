@@ -1,7 +1,7 @@
 ---
 title: "Controlled Fire"
 image: ../../../assets/inventions/fire.jpg
-materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers"]
+materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers", "fungi"]
 ---
 
 # Brief description
@@ -32,7 +32,7 @@ It is based on the Fire Triangle, which requires three components:
 
 ## Materials needed
 
-- **Essential:** Dry wood, tinder (dry leaves, fungi, fine fibers).
+- **Essential:** Dry wood, tinder (dry leaves, [fungi](/en/materials/fungi), fine fibers).
 - **Tools:** Flint stones, hard and soft wood sticks.
 
 ## Variants and improvements

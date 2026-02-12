@@ -1,7 +1,7 @@
 ---
 title: "Fuego controlado"
 image: ../../../assets/inventions/fire.jpg
-materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers"]
+materialsUsed: ["wood", "charcoal", "flint", "pyrite", "plant-fibers", "fungi"]
 ---
 
 # Breve descripción
@@ -32,7 +32,7 @@ Se basa en el Triángulo del Fuego, que requiere tres componentes:
 
 ## Materiales necesarios
 
-- **Esenciales:** Madera seca, yesca (hojas secas, hongos, fibras finas).
+- **Esenciales:** Madera seca, yesca (hojas secas, [hongos](/es/materials/fungi), fibras finas).
 - **Herramientas:** Piedras de pedernal, palos de madera dura y blanda.
 
 ## Variantes y mejoras
