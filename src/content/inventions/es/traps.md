@@ -43,6 +43,7 @@ Las trampas combinan un disparador con energía almacenada o gravedad. El animal
 - **Trampa de lazo:** El lazo se cierra sobre la pata o el cuello.
 - **Trampa de caída:** Un peso cae al liberarse el disparador.
 - **Trampa de foso:** Foso oculto con estacas para animales grandes.
+- **[Pozo para urogallos](/es/inventions/grouse-pit):** Foso poco profundo para aves terrestres.
 - **Trampa de jaula:** Puerta que se cierra para captura viva.
 - **[Atrapamoscas](/es/inventions/fly-catcher):** Trampa adhesiva o de embudo para moscas.
 - **[Trampa Kulema](/es/inventions/kulema-trap):** Trampa de caja con muelle para pequeños depredadores.

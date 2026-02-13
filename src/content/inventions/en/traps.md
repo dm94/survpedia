@@ -43,6 +43,7 @@ Traps combine a trigger with stored energy or gravity. The target animal applies
 - **Snare trap:** Loop tightens around the animal’s leg or neck.
 - **Deadfall trap:** Heavy weight drops when the trigger is released.
 - **Pitfall trap:** Hidden pit lined with stakes for larger animals.
+- **[Grouse pit](/en/inventions/grouse-pit):** Shallow, covered pit for ground birds.
 - **Cage trap:** Door closes behind the animal for live capture.
 - **[Fly catcher](/en/inventions/fly-catcher):** Sticky or funnel trap for flies and gnats.
 - **[Kulema trap](/en/inventions/kulema-trap):** Boxed spring trap for small predators.
