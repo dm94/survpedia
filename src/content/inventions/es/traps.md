@@ -47,7 +47,7 @@ Las trampas combinan un disparador con energía almacenada o gravedad. El animal
 - **[Atrapamoscas](/es/inventions/fly-catcher):** Trampa adhesiva o de embudo para moscas.
 - **[Trampa Kulema](/es/inventions/kulema-trap):** Trampa de caja con muelle para pequeños depredadores.
 - **[Trampa de corral para lobos](/es/inventions/wolf-pen-trap):** Corral grande con embudo y puerta de una sola dirección.
-- **Lazo con muelle:** Una rama doblada eleva la presa para evitar fugas.
+- **[Lazo de tensión](/es/inventions/tension-snare):** Una rama doblada eleva la presa para evitar fugas.
 
 ## Límites y riesgos
 

@@ -47,7 +47,7 @@ Traps combine a trigger with stored energy or gravity. The target animal applies
 - **[Fly catcher](/en/inventions/fly-catcher):** Sticky or funnel trap for flies and gnats.
 - **[Kulema trap](/en/inventions/kulema-trap):** Boxed spring trap for small predators.
 - **[Wolf pen trap](/en/inventions/wolf-pen-trap):** Large corral with a funnel and one-way gate for big predators.
-- **Spring snare:** Bent sapling lifts the animal to prevent escape.
+- **[Tension snare](/en/inventions/tension-snare):** Bent sapling lifts the animal to prevent escape.
 
 ## Limits and risks
 
