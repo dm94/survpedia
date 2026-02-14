@@ -6,67 +6,67 @@ properties:
   - Inflamable
   - Biodegradable
 uses:
-  - Techos de paja
-  - Cama para animales
-  - Aglomerante para adobe
+  - Techado
+  - Cama animal
+  - Aglutinante para adobe
   - Aislamiento térmico
   - Cestería
 naturalAvailability: true
-manufacturingProcess: Subproducto de la cosecha de cereales; los tallos se secan y empacan.
+manufacturingProcess: Subproducto de la cosecha de cereales; los tallos se secan y se almacenan en haces o pacas.
 category: plant
-image: ../../../assets/images/materials/paja.jpg
+image: ../../../assets/images/materials/straw.jpg
 ---
 
-La paja es el tallo seco de las plantas de cereales (trigo, cebada, avena, arroz) después de que se han eliminado el grano y la cascarilla. Se distingue del heno, que es hierba seca utilizada para alimentar animales.
+La paja es el tallo seco de los cereales (trigo, cebada, avena, arroz) después de separar el grano y la paja menuda. Se diferencia del heno, que es hierba seca destinada a la alimentación animal.
 
 ## Descripción de cómo es
 
-Tubos huecos, amarillos o dorados. Es ligera, seca y quebradiza. Su estructura hueca atrapa aire, proporcionando aislamiento.
+Son tubos huecos amarillos o dorados. Es ligera, seca y quebradiza. Su estructura hueca atrapa aire, lo que la hace buen aislante.
 
-## Origen y dónde encontrarlo
+## Origen y dónde encontrarla
 
-- **Entornos**: Campos agrícolas, praderas.
-- **Señales**: Campos de tallos secos amarillos después de la cosecha.
-- **Cosecha**: Se recoge después de la cosecha del grano.
+- **Entornos**: Campos agrícolas y zonas de cultivo de cereales.
+- **Señales**: Tallos secos tras la cosecha del grano.
+- **Recolección**: Se recoge después de separar el grano.
 
-### Procesamiento mínimo necesario
+### Procesamiento mínimo requerido
 
-- **Trilla**: Eliminación del grano (esencial para evitar la putrefacción y roedores).
-- **Secado**: Debe estar completamente seca para evitar moho y combustión.
-- **Empacado/Atado**: Para almacenamiento y transporte.
+- **Trilla**: Separar el grano para evitar pudrición y roedores.
+- **Secado**: Debe estar completamente seca para prevenir moho y combustión.
+- **Enfardado o atado**: Para almacenamiento y transporte.
 
 ### Herramientas necesarias para trabajarla
 
-- **Guadaña/Hoz**: Para cortar los tallos.
-- **Rastrillo**: Para recolectar.
-- **Horca**: Para mover y apilar.
+- **Guadaña o hoz**: Para cortar tallos.
+- **Rastrillo**: Para reunir la paja.
+- **Horquilla**: Para mover y apilar.
 
 ### Formas comunes de uso
 
-- **Techado**: Superposición de manojos de paja en techos para repeler agua y aislar.
-- **Construcción**: Mezclada con barro para hacer cob o adobe (aporta resistencia a la tracción y aislamiento).
-- **Aislamiento**: Pacas utilizadas como relleno de paredes (construcción con balas de paja).
-- **Cama**: Para que el ganado se mantenga caliente y limpio.
+- **Techado**: Capas de paja en tejados que repelen el agua y aíslan.
+- **Construcción**: Mezclada con barro para adobe o cob.
+- **Aislamiento**: Fardos usados como relleno en muros.
+- **Cama animal**: Mantiene el calor y absorbe humedad.
 
 ### Posibles sustitutos
 
-- **Cañas**: Mejores para techar, más duraderas.
-- **Hierba seca/Heno**: Similar, pero el heno se pudre más rápido por el contenido de semillas/nutrientes.
+- **Carrizo**: Más duradero para techado.
+- **Hierba seca/Heno**: Similar, pero se pudre más rápido.
 - **Hojas**: Para aislamiento temporal.
 
 ### Limitaciones y fallos comunes
 
-- **Putrefacción**: Se descompone rápidamente si se moja.
-- **Plagas**: Atrae ratones e insectos si quedan granos.
-- **Durabilidad**: Necesita reemplazo cada pocos años si está expuesta al clima.
+- **Podredumbre**: Se descompone rápido si se moja.
+- **Plagas**: Atrae roedores e insectos si queda grano.
+- **Durabilidad**: Requiere reemplazo periódico a la intemperie.
 
 ### Riesgos y seguridad
 
-- **Fuego**: Extremadamente inflamable. Una chispa puede incendiar un granero o techo al instante.
-- **Polvo**: El polvo de paja puede causar irritación respiratoria (Pulmón de granjero).
+- **Fuego**: Extremadamente inflamable.
+- **Polvo**: El polvo de paja irrita las vías respiratorias.
 
 ### Materiales relacionados
 
-- **[Arcilla](/es/materials/clay)**: A menudo mezclada con paja para construir.
-- **[Madera](/es/materials/wood)**: Soporte estructural para techos de paja.
-- **[Aislamiento Térmico](/es/materials/aislamiento-termico)**: La paja es una forma primitiva de este.
+- **[Arcilla](/es/materials/clay)**: Se mezcla con paja para construir.
+- **[Madera](/es/materials/wood)**: Estructura para techos de paja.
+- **[Aislamiento térmico](/es/materials/aislamiento-termico)**: La paja es una forma primitiva de aislamiento.

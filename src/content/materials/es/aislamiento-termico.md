@@ -34,7 +34,7 @@ Pueden presentarse como:
 
 - **Naturales**:
   - **Animal**: [Lana](/es/materials/wool), [Plumas](/es/materials/feather), pelaje.
-  - **Vegetal**: [Paja](/es/materials/straw), [Corcho](/es/materials/cork), hojas secas, musgo, [Algodón](/es/materials/cotton).
+  - **Vegetal**: [Paja](/es/materials/paja), [Corcho](/es/materials/cork), hojas secas, musgo, [Algodón](/es/materials/cotton).
   - **Mineral**: Piedra pómez, perlita.
 - **Sintéticos**: [Fibra de vidrio](/es/materials/fiberglass), poliestireno, espumas de poliuretano.
 
@@ -83,7 +83,7 @@ Para los aislantes naturales:
 
 - **[Lana](/es/materials/wool)**: El aislante natural por excelencia para ropa.
 - **[Corcho](/es/materials/cork)**: Impermeable y aislante, ideal para suelos y tapones.
-- **[Paja](/es/materials/straw)**: Económico y accesible para construcción.
+- **[Paja](/es/materials/paja)**: Económico y accesible para construcción.
 - **[Fibra de Vidrio](/es/materials/fiberglass)**: Estándar moderno, eficaz pero irritante.
 - **[Asbesto](/es/materials/asbestos)**: Histórico y eficaz, pero cancerígeno (a evitar).
 - **[Aire](/es/materials/air)**: El componente secreto de la mayoría de aislantes.
