@@ -8,6 +8,7 @@ properties:
   - Light and heat sensitive
 uses:
   - Seasoning
+  - Umami enhancement
   - Food preservation
   - Medicinal blends
   - Dyeing and fragrance
@@ -52,6 +53,7 @@ Usually small, dry pieces such as seeds, bark curls, roots, or pods. Whole spice
 - Ground spice powders for seasoning.
 - Infused oils or vinegars for preservation.
 - Blended spice mixes for cooking or trade.
+- Enhancing **[Umami](/en/materials/umami)** in broths and stews.
 
 ### Possible substitutes
 
@@ -78,3 +80,4 @@ Usually small, dry pieces such as seeds, bark curls, roots, or pods. Whole spice
 - **[Vegetable Oil](/en/materials/vegetable-oil)**: Infusion base for spice oils.
 - **[Honey](/en/materials/honey)**: Sweetener for spiced syrups.
 - **[Sugar](/en/materials/sugar)**: Balances heat in spice blends.
+- **[Umami](/en/materials/umami)**: Adds depth to broths and stews.

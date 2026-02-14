@@ -13,7 +13,7 @@ Un molino manual, específicamente un molino de mano o quern, es una herramienta
 ## Uso / Función
 
 - **Producción de harina:** Molienda de trigo, cebada, maíz u otros granos.
-- **Molienda de especias:** Pulverización de semillas y hierbas secas.
+- **Molienda de especias:** Pulverización de semillas y hierbas secas para **[Especias](/es/materials/spices)**.
 - **Procesamiento a pequeña escala:** Ideal para hogares individuales o grupos pequeños.
 
 ## Principio de funcionamiento

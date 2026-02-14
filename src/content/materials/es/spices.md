@@ -8,6 +8,7 @@ properties:
   - Sensibles a luz y calor
 uses:
   - Sazonado
+  - Realce de umami
   - Conservación de alimentos
   - Mezclas medicinales
   - Tintes y fragancias
@@ -52,6 +53,7 @@ Suelen ser piezas pequeñas y secas como semillas, cortezas, raíces o vainas. L
 - Polvos molidos para sazonar.
 - Aceites o vinagres infusionados para conservar.
 - Mezclas de especias para cocina o intercambio.
+- Realce de **[Umami](/es/materials/umami)** en caldos y guisos.
 
 ### Posibles sustitutos
 
@@ -78,3 +80,4 @@ Suelen ser piezas pequeñas y secas como semillas, cortezas, raíces o vainas. L
 - **[Aceite vegetal](/es/materials/vegetable-oil)**: Base para aceites infusionados.
 - **[Miel](/es/materials/honey)**: Endulzante para jarabes especiados.
 - **[Azúcar](/es/materials/sugar)**: Equilibra el picante en mezclas.
+- **[Umami](/es/materials/umami)**: Aporta profundidad en caldos y guisos.

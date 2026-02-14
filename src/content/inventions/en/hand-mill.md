@@ -13,7 +13,7 @@ A manual mill, specifically a hand mill or quern, is a simple tool used for grin
 ## Use / Function
 
 - **Flour production:** Grinding wheat, barley, corn, or other grains.
-- **Spice grinding:** Pulverizing seeds and dried herbs.
+- **Spice grinding:** Pulverizing seeds and dried herbs for **[Spices](/en/materials/spices)**.
 - **Small-scale processing:** Ideal for individual households or small groups.
 
 ## Operating principle
