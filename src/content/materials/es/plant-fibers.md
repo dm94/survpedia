@@ -51,7 +51,7 @@ Las fibras vegetales suelen ser hebras delgadas, similares al cabello. Pueden se
 
 ### Posibles sustitutos
 
-- Fibras animales: Lana o seda.
+- Fibras animales: **[Lana](/es/materials/wool)** o **[Seda](/es/materials/silk)**.
 - Fibras sintéticas: Nailon o poliéster.
 - Cuero: Para algunas aplicaciones de ataduras y ropa.
 

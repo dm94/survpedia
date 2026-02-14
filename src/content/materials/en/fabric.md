@@ -68,4 +68,5 @@ Fabric appears as a continuous sheet of interlaced threads. Its texture, weight,
 
 - **Plant Fibers:** Raw material (cotton, flax, hemp).
 - **Wool:** Animal fiber raw material.
+- **[Silk](/en/materials/silk)**: Animal fiber with fine filaments.
 - **[Textile Dye](/en/materials/textile-dye)**: For coloring.

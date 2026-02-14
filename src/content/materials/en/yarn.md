@@ -68,4 +68,5 @@ Yarn appears as a thin, continuous strand of twisted fibers. It can be smooth or
 
 - **Plant Fibers**: Cotton, Flax, Hemp (raw materials).
 - **Wool**: Animal hair (raw material).
+- **[Silk](/en/materials/silk)**: Fine filament fiber for yarn.
 - **Fabric**: The product of weaving yarn.

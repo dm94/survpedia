@@ -53,7 +53,7 @@ Plant fibers are typically thin, hair-like strands. They can be soft (like cotto
 
 ### Possible substitutes
 
-- Animal Fibers: Wool or silk.
+- Animal Fibers: **[Wool](/en/materials/wool)** or **[Silk](/en/materials/silk)**.
 - Synthetic Fibers: Nylon or polyester.
 - Leather: For some binding and clothing applications.
 
