@@ -11,6 +11,7 @@ relatedInventions:
   - containers
   - fire
   - candle
+  - apiary
 ---
 
 # Breve descripción
@@ -33,7 +34,7 @@ La apicultura es el manejo de colonias de abejas melíferas para cosechar miel y
 
 ## Cómo crearlo
 
-1. **Elige el sitio**: Busca sol, cortaviento, **[Agua](/es/materials/water)** cercana y floración abundante.
+1. **Elige el sitio**: Busca sol, cortaviento, **[Agua](/es/materials/water)** cercana y floración abundante. Para varias colmenas, planifica un **[Apiario](/es/inventions/apiary)**.
 2. **Construye la colmena**: Usa un tronco hueco o caja de **[Madera](/es/materials/wood)** con entrada pequeña.
 3. **Atrae abejas**: Unta el interior con **[Cera de abejas](/es/materials/beeswax)** o coloca panal viejo.
 4. **Estabiliza la colonia**: Mantén la colmena seca, ventilada y nivelada.
@@ -80,3 +81,4 @@ Básico a intermedio. Las colmenas de tronco son de baja tecnología; las colmen
 - **[Contenedores](/es/inventions/containers)**: Almacenamiento de miel y cera.
 - **[Fuego controlado](/es/inventions/fire)**: Humo para manejo suave.
 - **[Vela](/es/inventions/candle)**: Uso principal de la cera refinada.
+- **[Apiario](/es/inventions/apiary)**: Sitio gestionado para múltiples colmenas.

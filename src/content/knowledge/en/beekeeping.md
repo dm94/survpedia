@@ -11,6 +11,7 @@ relatedInventions:
   - containers
   - fire
   - candle
+  - apiary
 ---
 
 # Brief description
@@ -33,7 +34,7 @@ Beekeeping is the managed care of honey bee colonies to harvest honey and wax wh
 
 ## How to create it
 
-1. **Choose a site**: Select a spot with sun, wind break, nearby **[Water](/en/materials/water)**, and abundant flowers.
+1. **Choose a site**: Select a spot with sun, wind break, nearby **[Water](/en/materials/water)**, and abundant flowers. For multiple hives, plan an **[Apiary](/en/inventions/apiary)**.
 2. **Build a hive**: Use a hollow log or box of **[Wood](/en/materials/wood)** with a small entrance.
 3. **Attract bees**: Rub the inside with **[Beeswax](/en/materials/beeswax)** or place old comb as bait.
 4. **Stabilize the colony**: Keep the hive dry, ventilated, and level.
@@ -80,3 +81,4 @@ Basic to intermediate. Simple log hives are low tech; box hives and regular insp
 - **[Containers](/en/inventions/containers)**: Storage for honey and wax.
 - **[Controlled Fire](/en/inventions/fire)**: Smoke for gentle hive handling.
 - **[Candle](/en/inventions/candle)**: Main use for refined beeswax.
+- **[Apiary](/en/inventions/apiary)**: Managed site for multiple hives.
