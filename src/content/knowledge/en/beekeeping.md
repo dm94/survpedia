@@ -34,6 +34,13 @@ Beekeeping is the managed care of honey bee colonies to harvest honey and wax wh
 - **Smoke control**: Cool smoke from a small **[Fire](/en/inventions/fire)** masks alarm cues and calms the colony.
 - **Space management**: Removing full combs and adding empty space reduces swarming.
 
+## Protection
+
+- **Beekeeper barrier**: Simple veils and wraps from **[Plant fibers](/en/materials/plant-fibers)** reduce face stings while keeping visibility.
+- **Calm handling**: Cool smoke from **[Fire](/en/inventions/fire)** lowers defensive response and allows slower, safer movements.
+- **Hive hardening**: Seal cracks with **[Resin](/en/materials/resin)** and keep hives elevated on **[Wood](/en/materials/wood)** supports to limit damp and crawling pests.
+- **Perimeter defense**: Place **[Traps](/en/inventions/traps)** near approach paths and keep clear flight lanes in an **[Apiary](/en/inventions/apiary)**.
+
 ## How to create it
 
 1. **Choose a site**: Select a spot with sun, wind break, nearby **[Water](/en/materials/water)**, and abundant flowers. For multiple hives, plan an **[Apiary](/en/inventions/apiary)**.

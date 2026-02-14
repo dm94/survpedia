@@ -30,10 +30,17 @@ It is based on the Fire Triangle, which requires three components:
 - **Compression:** [Fire Piston](/en/inventions/fire-piston).
 - **Solar:** [Solar Ignition](/en/inventions/solar-ignition).
 
+Minimum functional version: a dry tinder bundle, an ember source (friction or sparks), and staged kindling that grows a stable flame.
+
+### Required technological level
+
+Basic to intermediate. Friction methods are low tech; reliable ignition and fuel control improve with practice.
+
 ## Materials needed
 
 - **Essential:** Dry wood, tinder (dry leaves, [fungi](/en/materials/fungi), fine fibers).
 - **Tools:** Flint stones, hard and soft wood sticks.
+- **Substitutes:** Dry dung or peat for fuel, resin-rich bark for tinder, or charcoal dust as ember extender.
 
 ## Variants and improvements
 

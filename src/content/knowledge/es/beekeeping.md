@@ -34,6 +34,13 @@ La apicultura es el manejo de colonias de abejas melíferas para cosechar miel y
 - **Control con humo**: El humo frío de un **[Fuego](/es/inventions/fire)** enmascara señales de alarma y calma la colonia.
 - **Gestión del espacio**: Retirar panales llenos y añadir espacio reduce la enjambrazón.
 
+## Protección
+
+- **Barrera del apicultor**: Velos y envolturas simples con **[Fibras vegetales](/es/materials/plant-fibers)** reducen picaduras en la cara sin perder visibilidad.
+- **Manejo calmado**: El humo frío de **[Fuego](/es/inventions/fire)** baja la respuesta defensiva y permite movimientos más seguros.
+- **Colmena endurecida**: Sella grietas con **[Resina](/es/materials/resin)** y eleva la colmena con soportes de **[Madera](/es/materials/wood)** para limitar humedad y plagas rastreras.
+- **Defensa perimetral**: Coloca **[Trampas](/es/inventions/traps)** en accesos y mantén carriles de vuelo claros en el **[Apiario](/es/inventions/apiary)**.
+
 ## Cómo crearlo
 
 1. **Elige el sitio**: Busca sol, cortaviento, **[Agua](/es/materials/water)** cercana y floración abundante. Para varias colmenas, planifica un **[Apiario](/es/inventions/apiary)**.

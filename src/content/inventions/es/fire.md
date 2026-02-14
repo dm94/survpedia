@@ -30,10 +30,17 @@ Se basa en el Triángulo del Fuego, que requiere tres componentes:
 - **Compresión:** [Pistón de fuego](/es/inventions/fire-piston).
 - **Solar:** [Encendido solar](/es/inventions/solar-ignition).
 
+Versión mínima funcional: un manojo de yesca seca, una fuente de brasa (fricción o chispas) y leña fina escalonada para sostener la llama.
+
+### Nivel tecnológico requerido
+
+Básico a intermedio. Los métodos por fricción son de baja tecnología; la ignición fiable y el control del combustible mejoran con práctica.
+
 ## Materiales necesarios
 
 - **Esenciales:** Madera seca, yesca (hojas secas, [hongos](/es/materials/fungi), fibras finas).
 - **Herramientas:** Piedras de pedernal, palos de madera dura y blanda.
+- **Sustitutos:** Estiércol seco o turba como combustible, corteza resinosa como yesca o polvo de carbón para extender la brasa.
 
 ## Variantes y mejoras
 
