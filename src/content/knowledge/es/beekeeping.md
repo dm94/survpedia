@@ -10,6 +10,7 @@ relatedMaterials:
 relatedInventions:
   - containers
   - fire
+  - candle
 ---
 
 # Breve descripción
@@ -19,7 +20,7 @@ La apicultura es el manejo de colonias de abejas melíferas para cosechar miel y
 ## Uso / Función
 
 - **Alimento**: Obtiene **[Miel](/es/materials/honey)** como fuente estable de energía.
-- **Materiales**: Produce **[Cera de abejas](/es/materials/beeswax)** para velas, sellos y ungüentos.
+- **Materiales**: Produce **[Cera de abejas](/es/materials/beeswax)** para **[Velas](/es/inventions/candle)**, sellos y ungüentos.
 - **Polinización**: Incrementa el rendimiento de cultivos y plantas cercanas.
 - **Intercambio**: Miel y cera se almacenan y transportan bien.
 
@@ -78,3 +79,4 @@ Básico a intermedio. Las colmenas de tronco son de baja tecnología; las colmen
 
 - **[Contenedores](/es/inventions/containers)**: Almacenamiento de miel y cera.
 - **[Fuego controlado](/es/inventions/fire)**: Humo para manejo suave.
+- **[Vela](/es/inventions/candle)**: Uso principal de la cera refinada.

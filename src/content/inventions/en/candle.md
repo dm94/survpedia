@@ -44,8 +44,10 @@ The heat from the wick's flame melts the solid fuel just below it. This liquid f
 ## Materials needed
 
 - **Essential**:
-  - **Solid Fuel**: **[Beeswax](/en/materials/beeswax)** (best quality, smokeless), **[Animal Fat](/en/materials/animal-fat)** (beef/mutton tallow; pork is too soft).
+  - **Solid Fuel**: **[Beeswax](/en/materials/beeswax)** (often from **[Beekeeping](/en/knowledge/beekeeping)**), **[Animal Fat](/en/materials/animal-fat)** (beef/mutton tallow; pork is too soft).
   - **Wick**: Braided **[Cotton](/en/materials/cotton)**, flax, **[Plant Fibers](/en/materials/plant-fibers)**.
+- **Tools**: **[Containers](/en/inventions/containers)** for melting, a heat source from **[Controlled Fire](/en/inventions/fire)**, and a simple mold (bamboo, **[Clay](/en/materials/clay)**, or metal).
+- **Possible substitutes**: Softer fats for quick emergency candles, or twisted **[Plant Fibers](/en/materials/plant-fibers)** when cotton is unavailable.
 
 ## Variants and improvements
 

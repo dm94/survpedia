@@ -10,6 +10,7 @@ relatedMaterials:
 relatedInventions:
   - containers
   - fire
+  - candle
 ---
 
 # Brief description
@@ -19,7 +20,7 @@ Beekeeping is the managed care of honey bee colonies to harvest honey and wax wh
 ## Use / Function
 
 - **Food**: Harvests **[Honey](/en/materials/honey)** as a stable energy source.
-- **Materials**: Produces **[Beeswax](/en/materials/beeswax)** for candles, seals, and salves.
+- **Materials**: Produces **[Beeswax](/en/materials/beeswax)** for **[Candles](/en/inventions/candle)**, seals, and salves.
 - **Pollination**: Increases yield of nearby crops and wild plants.
 - **Trade**: Honey and wax store well and travel easily.
 
@@ -78,3 +79,4 @@ Basic to intermediate. Simple log hives are low tech; box hives and regular insp
 
 - **[Containers](/en/inventions/containers)**: Storage for honey and wax.
 - **[Controlled Fire](/en/inventions/fire)**: Smoke for gentle hive handling.
+- **[Candle](/en/inventions/candle)**: Main use for refined beeswax.
