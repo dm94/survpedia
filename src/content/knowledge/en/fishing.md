@@ -12,6 +12,7 @@ relatedMaterials:
 relatedInventions:
   - fishing-hook
   - fishing-line
+  - lures
   - fishing-net
   - spear
   - traps
@@ -35,7 +36,7 @@ Fishing is the practice of locating, attracting, and capturing aquatic animals f
 
 ## Operating principle
 
-- **Attraction**: Bait, scent, or motion draws fish to a target zone.
+- **Attraction**: Bait, scent, or motion from a **[Fishing Lure](/en/inventions/lures)** draws fish to a target zone.
 - **Capture**: A **[Fishing Hook](/en/inventions/fishing-hook)** or **[Spear](/en/inventions/spear)** creates a secure hold.
 - **Containment**: A **[Fishing Net](/en/inventions/fishing-net)** or basket keeps fish from escaping.
 - **Leverage**: **[Fishing Line](/en/inventions/fishing-line)** and **[Rope](/en/inventions/rope)** transmit force without breaking.
@@ -76,6 +77,7 @@ Basic to intermediate. Shore fishing is low tech; nets and boats raise the skill
 
 - **[Fishing Hook](/en/inventions/fishing-hook)**: Primary capture tool for lines.
 - **[Fishing Line](/en/inventions/fishing-line)**: Tension path between angler and hook.
+- **[Fishing Lure](/en/inventions/lures)**: Visual or motion attractor to trigger strikes.
 - **[Fishing Net](/en/inventions/fishing-net)**: Containment for higher yield.
 - **[Rope](/en/inventions/rope)**: Stronger lines for boats and nets.
 - **[Plant fibers](/en/materials/plant-fibers)**: Base material for cordage.

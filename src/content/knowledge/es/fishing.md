@@ -12,6 +12,7 @@ relatedMaterials:
 relatedInventions:
   - fishing-hook
   - fishing-line
+  - lures
   - fishing-net
   - spear
   - traps
@@ -35,7 +36,7 @@ La pesca es la práctica de localizar, atraer y capturar animales acuáticos par
 
 ## Principio de funcionamiento
 
-- **Atracción**: El cebo, olor o movimiento atrae peces a una zona.
+- **Atracción**: El cebo, olor o movimiento de un **[Señuelo de pesca](/es/inventions/lures)** atrae peces a una zona.
 - **Captura**: Un **[Anzuelo de pesca](/es/inventions/fishing-hook)** o **[Lanza](/es/inventions/spear)** crea sujeción.
 - **Contención**: Una **[Red de pesca](/es/inventions/fishing-net)** o cesta evita fugas.
 - **Palanca**: La **[Línea de pesca](/es/inventions/fishing-line)** y la **[Cuerda](/es/inventions/rope)** transmiten fuerza sin romperse.
@@ -76,6 +77,7 @@ Básico a intermedio. La orilla es baja tecnología; redes y botes elevan el niv
 
 - **[Anzuelo de pesca](/es/inventions/fishing-hook)**: Herramienta principal para líneas.
 - **[Línea de pesca](/es/inventions/fishing-line)**: Transmite la tensión entre pescador y anzuelo.
+- **[Señuelo de pesca](/es/inventions/lures)**: Atrayente visual o de movimiento para provocar el pique.
 - **[Red de pesca](/es/inventions/fishing-net)**: Contención para mayor captura.
 - **[Cuerda](/es/inventions/rope)**: Línea fuerte para botes y redes.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Base para el cordaje.

@@ -1,14 +1,49 @@
 ---
 title: "Lanza"
 image: ../../../assets/inventions/spear.jpg
-materialsUsed: ["wood", "stone", "resin"]
+materialsUsed: ["wood", "stone", "bone", "plant-fibers", "resin"]
 ---
 
-Una lanza es un arma de asta compuesta por un eje, generalmente de madera, con una cabeza puntiaguda.
+# Breve descripción
 
-## Fabricación
+Una lanza es una herramienta de asta con una cabeza puntiaguda usada para cazar, pescar y defenderse. Su alcance y su punta concentrada permiten perforar objetivos a distancia.
 
-1. **Selección del vástago**: Se busca una rama de madera recta y resistente (como fresno o roble).
-2. **Preparación de la punta**: Se talla una piedra (como sílex u obsidiana) para que tenga bordes afilados y forma triangular.
-3. **Ensamblaje**: Se hace una hendidura en un extremo del palo de madera para insertar la punta de piedra.
-4. **Fijación**: Se utiliza cuerda, fibras vegetales o tendones de animales para atar firmemente la punta al palo. A menudo se usa resina o pegamento natural para reforzar la unión.
+## Uso / Función
+
+- **Caza**: Golpe penetrante contra presas.
+- **Pesca**: Puntas múltiples o con barba retienen mejor.
+- **Defensa**: Mayor alcance frente a amenazas.
+- **Utilidad**: Sonda profundidad o vegetación.
+
+## Principio de funcionamiento
+
+El asta actúa como palanca que amplifica el alcance y el control. La fuerza se concentra en la punta para penetrar. Las barbas o encajes reducen el desprendimiento.
+
+## Cómo crearlo
+
+1. **Elegir el asta**: Seleccionar un palo recto de **[Madera](/es/materials/wood)** y quitar la corteza.
+2. **Enderezar y endurecer**: Calentar sobre fuego suave y ajustar la curvatura.
+3. **Formar la cabeza**: Tallar **[Piedra](/es/materials/stone)** o hueso en punta, o forjar metal.
+4. **Enastar la punta**: Abrir una hendidura o encaje, insertar la cabeza y amarrar.
+5. **Sellar el amarre**: Aplicar **[Resina](/es/materials/resin)** para fijar y proteger.
+
+## Materiales necesarios
+
+- **Esenciales**: Asta de madera, punta de piedra o hueso, **[Resina](/es/materials/resin)** para sellar.
+- **Amarres**: **[Fibras vegetales](/es/materials/plant-fibers)**.
+- **Herramientas**: Cuchillo, raspador, punzón, percutor, fuego.
+- **Sustitutos**: Punta de madera endurecida al fuego o astilla de hueso afilada.
+
+## Variantes y mejoras
+
+- **Lanza de empuje**: Punta pesada para corta distancia.
+- **Lanza arrojadiza**: Balanceada para mayor alcance.
+- **Lanza de pesca**: Cabeza de varias puntas para retención.
+- **Cabeza con barba**: Reduce la salida de la presa.
+
+## Límites y riesgos
+
+- **Rotura**: Los impactos pueden partir el asta.
+- **Holgura**: Las ataduras se aflojan si se pudren.
+- **Lesiones**: Un desliz puede perforar manos o pies.
+- **Limitaciones legales**: Algunas zonas restringen su uso.
