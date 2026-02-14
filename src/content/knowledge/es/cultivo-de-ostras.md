@@ -6,6 +6,7 @@ relatedMaterials:
   - wood
   - plant-fibers
   - stone
+  - pearl
 relatedInventions:
   - rope
   - fishing-net
@@ -22,6 +23,7 @@ El cultivo de ostras es la cría controlada de ostras en aguas costeras o estuar
 
 - **Alimento**: Proporciona proteína y minerales con poco uso de tierra.
 - **Intercambio**: Genera un producto costero estable para comercio.
+- **Perlas**: Produce perlas ocasionales para ornamento e intercambio de alto valor.
 - **Resiliencia**: Añade una cosecha predecible sin alimentación diaria.
 - **Escala**: Desde estacas intermareales hasta balsas flotantes.
 
@@ -70,6 +72,7 @@ El cultivo de ostras es la cría controlada de ostras en aguas costeras o estuar
 - **[Madera](/es/materials/wood)**: Estacas, bastidores y marcos.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Mallas y amarres.
 - **[Piedra](/es/materials/stone)**: Pesos para estabilizar equipos.
+- **[Perla](/es/materials/pearl)**: Subproducto de alto valor en algunas ostras.
 
 ### Inventos relacionados
 

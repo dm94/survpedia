@@ -6,6 +6,7 @@ relatedMaterials:
   - wood
   - plant-fibers
   - stone
+  - pearl
 relatedInventions:
   - rope
   - fishing-net
@@ -22,6 +23,7 @@ Oyster farming is the cultivation of oysters in coastal or estuarine waters usin
 
 - **Food supply**: Provides protein and minerals with minimal land use.
 - **Trade**: Creates a durable coastal product for exchange.
+- **Pearls**: Produces occasional pearls for ornament and high-value trade.
 - **Resilience**: Adds a reliable harvest that does not require daily feeding.
 - **Scale**: From small intertidal racks to floating raft systems.
 
@@ -70,6 +72,7 @@ Oyster farming is the cultivation of oysters in coastal or estuarine waters usin
 - **[Wood](/en/materials/wood)**: Stakes, racks, and frames.
 - **[Plant fibers](/en/materials/plant-fibers)**: Netting and ties.
 - **[Stone](/en/materials/stone)**: Weights for keeping gear stable.
+- **[Pearl](/en/materials/pearl)**: High-value byproduct from some oysters.
 
 ### Related inventions
 
