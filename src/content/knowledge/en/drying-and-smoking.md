@@ -7,6 +7,7 @@ relatedMaterials:
   - water
   - vinegar
   - animal-fat
+  - plant-fibers
 relatedInventions:
   - fire
   - containers
@@ -14,7 +15,7 @@ relatedInventions:
 
 # Brief description
 
-Drying and smoking are low-tech preservation methods that reduce moisture and add protective compounds from smoke. They stabilize meat, fish, herbs, and some plant foods for storage when refrigeration is unavailable.
+Drying and smoking are low-tech preservation methods that reduce moisture and add protective compounds from smoke. They stabilize meat, fish, herbs, fruits, and vegetables for storage when refrigeration is unavailable.
 
 ## Use / Function
 
@@ -23,6 +24,7 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 - **Safety**: Lowers water activity and suppresses microbes.
 - **Flavor**: Smoke adds aroma and complexity.
 - **Seasonal resilience**: Turns short harvests into long reserves.
+- **Plant preservation**: Keeps fruits and vegetables stable for snacks, stews, or soups.
 
 ## Operating principle
 
@@ -40,11 +42,19 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 5. **Add smoke (optional)**: Burn **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** for steady, cool smoke.
 6. **Finish and store**: When dry and firm, move to clean **[Containers](/en/inventions/containers)**.
 
+### Drying fruits and vegetables
+
+1. **Wash and trim**: Remove damaged parts and slice evenly for consistent drying.
+2. **Pre-treat (optional)**: Dip fruit in **[Salt](/en/materials/salt)** water or **[Vinegar](/en/materials/vinegar)** water. Blanch vegetables briefly in hot **[Water](/en/materials/water)** warmed over **[Fire](/en/inventions/fire)**, then cool.
+3. **Arrange airflow**: Lay slices on racks or screens woven from **[Plant fibers](/en/materials/plant-fibers)** with space between pieces. Cover with mesh to keep insects off.
+4. **Dry gently**: Use sun, shade, or low heat until fruit feels leathery and vegetables snap when bent.
+5. **Condition and store**: Cool fully, pack into **[Containers](/en/inventions/containers)**, and re-dry if moisture appears.
+
 ## Materials needed
 
 - **Essential**: Food to preserve, airflow, clean handling surface.
 - **Fuel options**: **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** for controlled heat or smoke.
-- **Tools**: Knife, racks or cords, cover to keep insects off.
+- **Tools**: Knife, racks or cords, mesh or screens from **[Plant fibers](/en/materials/plant-fibers)**, cover to keep insects off.
 - **Possible substitutes**: **[Salt](/en/materials/salt)** curing, **[Vinegar](/en/materials/vinegar)** for acidic preservation, or sealing under **[Animal Fat](/en/materials/animal-fat)** after drying.
 
 ## Variants and improvements
@@ -73,6 +83,7 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 - **[Water](/en/materials/water)**: Brine preparation and cleaning.
 - **[Vinegar](/en/materials/vinegar)**: Acidic preservation option.
 - **[Animal Fat](/en/materials/animal-fat)**: Seals dried foods from oxygen.
+- **[Plant fibers](/en/materials/plant-fibers)**: Screens, cords, and drying mats.
 
 ### Related inventions
 

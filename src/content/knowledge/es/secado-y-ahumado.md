@@ -7,6 +7,7 @@ relatedMaterials:
   - water
   - vinegar
   - animal-fat
+  - plant-fibers
 relatedInventions:
   - fire
   - containers
@@ -14,7 +15,7 @@ relatedInventions:
 
 # Breve descripción
 
-El secado y el ahumado son métodos de conservación de baja tecnología que reducen la humedad y añaden compuestos protectores del humo. Estabilizan carne, pescado, hierbas y algunos vegetales cuando no hay refrigeración.
+El secado y el ahumado son métodos de conservación de baja tecnología que reducen la humedad y añaden compuestos protectores del humo. Estabilizan carne, pescado, hierbas, frutas y vegetales cuando no hay refrigeración.
 
 ## Uso / Función
 
@@ -23,6 +24,7 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 - **Seguridad**: Disminuye la actividad de agua y frena microbios.
 - **Sabor**: El humo aporta aroma y complejidad.
 - **Resiliencia estacional**: Convierte cosechas cortas en reservas largas.
+- **Conservación vegetal**: Mantiene frutas y verduras estables para snacks, guisos o sopas.
 
 ## Principio de funcionamiento
 
@@ -40,11 +42,19 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 5. **Añadir humo (opcional)**: Quema **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)** para humo estable.
 6. **Finalizar y almacenar**: Cuando esté firme y seco, pasa a **[Contenedores](/es/inventions/containers)** limpios.
 
+### Secado de frutas y verduras
+
+1. **Lavar y recortar**: Retira partes dañadas y corta en tamaños uniformes.
+2. **Pretratamiento (opcional)**: Remoja frutas en agua con **[Sal](/es/materials/salt)** o **[Vinagre](/es/materials/vinegar)**. Escalda verduras en **[Agua](/es/materials/water)** caliente con **[Fuego](/es/inventions/fire)** y enfría.
+3. **Ordenar el flujo de aire**: Coloca en rejillas o mallas de **[Fibras vegetales](/es/materials/plant-fibers)** con espacio entre piezas. Cubre con malla para evitar insectos.
+4. **Secado suave**: Usa sol, sombra o calor bajo hasta que la fruta quede flexible y las verduras se quiebren al doblarlas.
+5. **Acondicionar y almacenar**: Enfría, guarda en **[Contenedores](/es/inventions/containers)** y vuelve a secar si aparece humedad.
+
 ## Materiales necesarios
 
 - **Esenciales**: Alimento a conservar, flujo de aire, superficie limpia.
 - **Opciones de combustible**: **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)** para calor o humo controlado.
-- **Herramientas**: Cuchillo, rejillas o cuerdas, cubierta contra insectos.
+- **Herramientas**: Cuchillo, rejillas o cuerdas, mallas o rejillas de **[Fibras vegetales](/es/materials/plant-fibers)**, cubierta contra insectos.
 - **Sustitutos posibles**: Curado con **[Sal](/es/materials/salt)**, preservación con **[Vinagre](/es/materials/vinegar)** o sellado bajo **[Grasa animal](/es/materials/animal-fat)** tras el secado.
 
 ## Variantes y mejoras
@@ -73,6 +83,7 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 - **[Agua](/es/materials/water)**: Preparación de salmuera y limpieza.
 - **[Vinagre](/es/materials/vinegar)**: Preservación ácida alternativa.
 - **[Grasa animal](/es/materials/animal-fat)**: Sello de oxígeno para alimentos secos.
+- **[Fibras vegetales](/es/materials/plant-fibers)**: Mallas, cuerdas y esterillas de secado.
 
 ### Inventos relacionados
 
