@@ -30,6 +30,7 @@ La conservación con sal es un conjunto de técnicas que usa sal, salmuera o sec
 - **Osmosis y deshidratación**: La **[Sal](/es/materials/salt)** extrae agua del alimento y de los microbios.
 - **Control de salmuera**: La sal disuelta en **[Agua](/es/materials/water)** crea un entorno estable que inhibe bacterias.
 - **Barreras secundarias**: Secado, humo con **[Fuego](/es/inventions/fire)** o acidez con **[Vinagre](/es/materials/vinegar)** refuerzan la preservación.
+- **Evaporación**: La **[Evaporación](/es/knowledge/evaporacion)** retira humedad superficial para acelerar el secado y concentrar salmuera.
 - **Exclusión de oxígeno**: Cubrir con **[Grasa animal](/es/materials/animal-fat)** reduce oxidación.
 
 ## Cómo crearlo
@@ -55,6 +56,7 @@ La conservación con sal es un conjunto de técnicas que usa sal, salmuera o sec
 - **Encurtido**: Sal más ácido de **[Vinagre](/es/materials/vinegar)**.
 - **Fermentación**: Vegetales con sal preservados por **[Fermentación](/es/inventions/fermentation)**.
 - **Confit**: Cocción lenta y almacenamiento bajo **[Grasa animal](/es/materials/animal-fat)**.
+- **Evaporación solar**: Bandejas o recipientes poco profundos para acelerar la pérdida de agua en climas secos.
 - **Moderno**: Refrigeración, envasado al vacío y pasteurización.
 
 ## Límites y riesgos

@@ -30,6 +30,7 @@ Salt preservation is a set of techniques that use salt, brine, or salt-assisted 
 - **Osmosis and dehydration**: **[Salt](/en/materials/salt)** draws water out of food and microbes, lowering water activity.
 - **Brine control**: Salt dissolved in **[Water](/en/materials/water)** creates a stable salty environment that inhibits bacteria.
 - **Secondary barriers**: Drying, smoke from **[Fire](/en/inventions/fire)**, or acidity from **[Vinegar](/en/materials/vinegar)** add extra protection.
+- **Evaporation**: **[Evaporation](/en/knowledge/evaporation)** removes surface moisture to speed drying and concentrate brine.
 - **Exclusion**: Covering with **[Animal Fat](/en/materials/animal-fat)** can reduce oxygen exposure.
 
 ## How to create it
@@ -55,6 +56,7 @@ Salt preservation is a set of techniques that use salt, brine, or salt-assisted 
 - **Pickling**: Salt plus acid from **[Vinegar](/en/materials/vinegar)**.
 - **Fermentation**: Salted vegetables preserved by **[Fermentation](/en/inventions/fermentation)**.
 - **Confit**: Slow cooking and storage under **[Animal Fat](/en/materials/animal-fat)**.
+- **Solar evaporation**: Shallow trays or pans to speed water loss in dry climates.
 - **Modern**: Refrigeration, vacuum sealing, and pasteurization.
 
 ## Limits and risks
