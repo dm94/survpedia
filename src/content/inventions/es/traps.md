@@ -45,6 +45,7 @@ Las trampas combinan un disparador con energía almacenada o gravedad. El animal
 - **Trampa de foso:** Foso oculto con estacas para animales grandes.
 - **[Pozo para urogallos](/es/inventions/grouse-pit):** Foso poco profundo para aves terrestres.
 - **Trampa de jaula:** Puerta que se cierra para captura viva.
+- **[Trampa para ratones](/es/inventions/mouse-trap):** Trampa pequeña de golpe o caja para roedores.
 - **[Atrapamoscas](/es/inventions/fly-catcher):** Trampa adhesiva o de embudo para moscas.
 - **[Trampa Kulema](/es/inventions/kulema-trap):** Trampa de caja con muelle para pequeños depredadores.
 - **[Trampa de corral para lobos](/es/inventions/wolf-pen-trap):** Corral grande con embudo y puerta de una sola dirección.

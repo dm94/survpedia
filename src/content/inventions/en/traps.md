@@ -45,6 +45,7 @@ Traps combine a trigger with stored energy or gravity. The target animal applies
 - **Pitfall trap:** Hidden pit lined with stakes for larger animals.
 - **[Grouse pit](/en/inventions/grouse-pit):** Shallow, covered pit for ground birds.
 - **Cage trap:** Door closes behind the animal for live capture.
+- **[Mouse trap](/en/inventions/mouse-trap):** Small snap or box trap for rodents.
 - **[Fly catcher](/en/inventions/fly-catcher):** Sticky or funnel trap for flies and gnats.
 - **[Kulema trap](/en/inventions/kulema-trap):** Boxed spring trap for small predators.
 - **[Wolf pen trap](/en/inventions/wolf-pen-trap):** Large corral with a funnel and one-way gate for big predators.
