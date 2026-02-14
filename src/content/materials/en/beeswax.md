@@ -67,6 +67,6 @@ A tough wax that is brittle when cold but becomes plastic and malleable when war
 
 ### Related materials
 
-- **Honey**: Found with the wax.
+- **[Honey](/en/materials/honey)**: Found with the wax.
 - **[Vegetable Oil](/en/materials/vegetable-oil)**: Often mixed with wax.
 - **[Resin](/en/materials/resin)**: Often mixed with wax for adhesives.

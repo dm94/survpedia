@@ -67,6 +67,6 @@ Una cera resistente que es quebradiza cuando está fría pero se vuelve plástic
 
 ### Materiales relacionados
 
-- **Miel**: Se encuentra con la cera.
+- **[Miel](/es/materials/honey)**: Se encuentra con la cera.
 - **[Aceite Vegetal](/es/materials/vegetable-oil)**: A menudo mezclado con cera.
 - **[Resina](/es/materials/resin)**: A menudo mezclada con cera para adhesivos.
