@@ -74,6 +74,15 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 - **Smokehouse or pit**: More stable airflow and temperature control.
 - **Modern**: Dehydrators and filtered smoke systems.
 
+### Cold smoking
+
+- **Goal**: Adds aroma and a mild protective layer without cooking.
+- **Preparation**: Use **[Salt](/en/materials/salt)** curing and partial drying to lower moisture.
+- **Clean smoke**: Generate gentle smoke from **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)**, avoiding resins and direct flame.
+- **Heat separation**: Keep the **[Fire](/en/inventions/fire)** source away so food receives cool smoke only.
+- **Airflow**: Ventilate to prevent condensation and bitter flavors.
+- **Finish**: Cool, air out, and store in clean **[Containers](/en/inventions/containers)**; if moisture remains, continue drying.
+
 ## Limits and risks
 
 - **Underdrying**: Moist cores can allow dangerous pathogens.

@@ -74,6 +74,15 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 - **Ahumadero o fosa**: Flujo de aire y temperatura más estables.
 - **Moderno**: Deshidratadores y humo filtrado.
 
+### Ahumado en frío (cold smoking)
+
+- **Objetivo**: Aporta aroma y una capa extra de protección sin cocinar.
+- **Preparación**: Usa curado con **[Sal](/es/materials/salt)** y secado parcial para bajar humedad.
+- **Humo limpio**: Genera humo suave con **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)**, evitando resinas y llamas directas.
+- **Separación de calor**: Mantén la fuente de **[Fuego](/es/inventions/fire)** alejada para que el alimento reciba humo frío.
+- **Flujo de aire**: Renueva el humo para evitar condensación y sabores amargos.
+- **Finalización**: Enfría, ventila y guarda en **[Contenedores](/es/inventions/containers)** limpios; si queda húmedo, continúa secado.
+
 ## Límites y riesgos
 
 - **Secado insuficiente**: Núcleos húmedos permiten patógenos peligrosos.

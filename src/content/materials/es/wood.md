@@ -98,7 +98,7 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 
 ### Materiales relacionados
 
-- **[Carbón vegetal](/es/materials/coal)**: Producido calentando madera en ausencia de oxígeno.
+ - **[Carbón vegetal](/es/materials/charcoal)**: Producido calentando madera en ausencia de oxígeno.
 - **[Papel](/es/materials/paper)**: Hecho de fibras de madera procesadas.
 - **[Caucho natural](/es/materials/natural-rubber)**: Cosechado de tipos específicos de árboles.
 - **[Ceniza](/es/materials/ash)**: Residuo restante tras quemar madera.
