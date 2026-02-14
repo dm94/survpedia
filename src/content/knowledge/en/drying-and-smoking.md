@@ -83,6 +83,15 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 - **Airflow**: Ventilate to prevent condensation and bitter flavors.
 - **Finish**: Cool, air out, and store in clean **[Containers](/en/inventions/containers)**; if moisture remains, continue drying.
 
+### Hot smoking
+
+- **Goal**: Combines drying and cooking for faster preservation and a ready-to-eat texture.
+- **Preparation**: Use light **[Salt](/en/materials/salt)** curing and a short pre-dry to prevent surface steaming.
+- **Heat control**: Keep steady warm heat from **[Fire](/en/inventions/fire)** so smoke flows without flare-ups.
+- **Moisture management**: Vent to release steam; too much heat seals the surface and traps moisture inside.
+- **Fuel**: Use clean **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** and avoid resinous wood.
+- **Finish**: Cool, air out, and store in **[Containers](/en/inventions/containers)**; consume sooner than fully dried foods.
+
 ## Limits and risks
 
 - **Underdrying**: Moist cores can allow dangerous pathogens.

@@ -83,6 +83,15 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 - **Flujo de aire**: Renueva el humo para evitar condensación y sabores amargos.
 - **Finalización**: Enfría, ventila y guarda en **[Contenedores](/es/inventions/containers)** limpios; si queda húmedo, continúa secado.
 
+### Ahumado en caliente (hot smoking)
+
+- **Objetivo**: Combina secado y cocción para una conservación más rápida y textura lista para comer.
+- **Preparación**: Curado ligero con **[Sal](/es/materials/salt)** y un presecado corto para evitar vapor en la superficie.
+- **Control de calor**: Mantén calor estable con **[Fuego](/es/inventions/fire)** para que el humo fluya sin llamaradas.
+- **Gestión de humedad**: Ventila para liberar vapor; demasiado calor sella la superficie y atrapa humedad dentro.
+- **Combustible**: Usa **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)** limpios y evita maderas resinosas.
+- **Finalización**: Enfría, ventila y guarda en **[Contenedores](/es/inventions/containers)**; consume antes que los alimentos totalmente secos.
+
 ## Límites y riesgos
 
 - **Secado insuficiente**: Núcleos húmedos permiten patógenos peligrosos.
