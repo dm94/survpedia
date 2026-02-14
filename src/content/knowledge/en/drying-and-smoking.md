@@ -1,0 +1,80 @@
+---
+title: "Drying & Smoking"
+relatedMaterials:
+  - wood
+  - charcoal
+  - salt
+  - water
+  - vinegar
+  - animal-fat
+relatedInventions:
+  - fire
+  - containers
+---
+
+# Brief description
+
+Drying and smoking are low-tech preservation methods that reduce moisture and add protective compounds from smoke. They stabilize meat, fish, herbs, and some plant foods for storage when refrigeration is unavailable.
+
+## Use / Function
+
+- **Long-term storage**: Extends shelf life without electricity.
+- **Transport**: Lowers weight and bulk by removing water.
+- **Safety**: Lowers water activity and suppresses microbes.
+- **Flavor**: Smoke adds aroma and complexity.
+- **Seasonal resilience**: Turns short harvests into long reserves.
+
+## Operating principle
+
+- **Moisture removal**: **[Evaporation](/en/knowledge/evaporation)** lowers water activity to slow spoilage.
+- **Airflow and heat**: Moving air and gentle heat speed surface drying without cooking.
+- **Smoke chemistry**: Phenols and aldehydes from **[Fire](/en/inventions/fire)** inhibit microbes and oxidation.
+- **Salt assistance**: **[Salt](/en/materials/salt)** pre-curing draws out moisture and improves texture.
+
+## How to create it
+
+1. **Prepare food**: Use fresh meat or fish and trim damaged parts.
+2. **Optional salt cure**: Rub with **[Salt](/en/materials/salt)** or soak in a light brine.
+3. **Arrange airflow**: Hang strips or place on racks with space between pieces.
+4. **Set gentle heat**: Use a small **[Fire](/en/inventions/fire)** or sun-warmed air to keep it below cooking heat.
+5. **Add smoke (optional)**: Burn **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** for steady, cool smoke.
+6. **Finish and store**: When dry and firm, move to clean **[Containers](/en/inventions/containers)**.
+
+## Materials needed
+
+- **Essential**: Food to preserve, airflow, clean handling surface.
+- **Fuel options**: **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** for controlled heat or smoke.
+- **Tools**: Knife, racks or cords, cover to keep insects off.
+- **Possible substitutes**: **[Salt](/en/materials/salt)** curing, **[Vinegar](/en/materials/vinegar)** for acidic preservation, or sealing under **[Animal Fat](/en/materials/animal-fat)** after drying.
+
+## Variants and improvements
+
+- **Sun drying**: Best in dry climates with strong airflow.
+- **Shade drying**: Reduces oxidation and heat damage.
+- **Cold smoking**: Smoke flavor with minimal heat after drying.
+- **Hot smoking**: Adds heat to partially cook and dry at the same time.
+- **Smokehouse or pit**: More stable airflow and temperature control.
+- **Modern**: Dehydrators and filtered smoke systems.
+
+## Limits and risks
+
+- **Underdrying**: Moist cores can allow dangerous pathogens.
+- **High humidity**: Slows drying and encourages mold.
+- **Overheating**: Cooks the surface and traps moisture inside.
+- **Contamination**: Dirty racks or insects spoil batches.
+- **Creosote**: Harsh smoke can make food bitter or unsafe.
+- **Fire hazard**: Open flames can ignite racks or shelters.
+
+### Related materials
+
+- **[Wood](/en/materials/wood)**: Fuel and racks for smoking or drying.
+- **[Charcoal](/en/materials/charcoal)**: Stable, low-smoke heat.
+- **[Salt](/en/materials/salt)**: Pre-curing and moisture control.
+- **[Water](/en/materials/water)**: Brine preparation and cleaning.
+- **[Vinegar](/en/materials/vinegar)**: Acidic preservation option.
+- **[Animal Fat](/en/materials/animal-fat)**: Seals dried foods from oxygen.
+
+### Related inventions
+
+- **[Controlled Fire](/en/inventions/fire)**: Heat and smoke source.
+- **[Containers](/en/inventions/containers)**: Storage and transport after drying.
