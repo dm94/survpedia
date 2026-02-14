@@ -47,6 +47,7 @@ A viscous liquid at room temperature, usually ranging in color from clear to yel
 
 - **Edible Oil**: For frying and dressing food.
 - **Lamp Oil**: Fuel for simple **[Oil Lamps](/en/inventions/oil-lamp)**.
+- **Biodiesel feedstock**: Base for **[Biofuel](/en/materials/biofuel)**.
 - **Infused Oil**: Base for **[Medicinal Plants](/en/knowledge/medicinal-plants)** extracts.
 - **Wood Treatment**: Protective coating for wood.
 

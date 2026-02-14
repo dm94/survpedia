@@ -50,7 +50,7 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 - **Bebida**: Cerveza, vino, licores.
 - **Médico**: Antiséptico para limpiar heridas e instrumentos (la concentración del 70% es la mejor).
-- **Combustible**: Bioetanol para lámparas, estufas o motores.
+- **Combustible**: **[Biocombustible](/es/materials/biofuel)** (bioetanol) para lámparas, estufas o motores.
 - **Disolvente**: Disolución de resinas, aceites y tinturas.
 
 ### Posibles sustitutos

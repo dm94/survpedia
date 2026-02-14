@@ -50,7 +50,7 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 - **Beverage**: Beer, wine, spirits.
 - **Medical**: Antiseptic for cleaning wounds and instruments (70% concentration is best).
-- **Fuel**: Bioethanol for lamps, stoves, or engines.
+- **Fuel**: **[Biofuel](/en/materials/biofuel)** (bioethanol) for lamps, stoves, or engines.
 - **Solvent**: Dissolving resins, oils, and tinctures.
 
 ### Possible substitutes

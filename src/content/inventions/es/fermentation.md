@@ -13,7 +13,7 @@ Permite conservar alimentos, desarrollar sabores y producir alcohol, pan leudado
 ## Uso / Función
 
 - **Conservación de alimentos**: El ácido y el alcohol inhiben el deterioro.
-- **Producción de alcohol**: Bebidas y biocombustible.
+- **Producción de alcohol**: Bebidas y **[Biocombustible](/es/materials/biofuel)**.
 - **Leudado**: El CO2 infla la masa.
 - **Mejora nutricional**: Aumenta la digestibilidad y aporta vitaminas.
 - **Escala**: Doméstica a comunitaria.

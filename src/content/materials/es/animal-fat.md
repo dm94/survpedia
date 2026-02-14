@@ -48,6 +48,7 @@ Es una sustancia grasienta y pálida que es sólida o semisólida a temperatura 
 - Sebo: Grasa dura de vaca u oveja, excelente para **[Velas](/es/inventions/candle)**, combustible para **[Lámparas de Aceite](/es/inventions/oil-lamp)** y lubricación pesada.
 - Manteca: Grasa más blanda de cerdo, a menudo utilizada en cocina y lubricación fina.
 - Grasa: Grasa derretida utilizada directamente en ejes y engranajes.
+- Materia prima de biodiésel: Grasa derretida para **[Biocombustible](/es/materials/biofuel)**.
 
 ### Posibles sustitutos
 

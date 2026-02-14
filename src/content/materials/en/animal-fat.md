@@ -48,6 +48,7 @@ It is a greasy, pale substance that is solid or semi-solid at room temperature b
 - Tallow: Hard fat from cattle or sheep, excellent for **[Candles](/en/inventions/candle)**, fuel for **[Oil Lamps](/en/inventions/oil-lamp)** and heavy lubrication.
 - Lard: Softer fat from pigs, often used in cooking and fine lubrication.
 - Grease: Rendered fat used directly on axles and gears.
+- Biodiesel feedstock: Rendered fat for **[Biofuel](/en/materials/biofuel)**.
 
 ### Possible substitutes
 

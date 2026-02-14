@@ -47,6 +47,7 @@ Un líquido viscoso a temperatura ambiente, que generalmente varía en color de 
 
 - **Aceite Comestible**: Para freír y aderezar alimentos.
 - **Aceite para Lámparas**: Combustible para **[Lámparas de Aceite](/es/inventions/oil-lamp)** simples.
+- **Materia prima de biodiésel**: Base para **[Biocombustible](/es/materials/biofuel)**.
 - **Aceite Infusionado**: Base para extractos de **[Plantas Medicinales](/es/knowledge/medicinal-plants)**.
 - **Tratamiento de Madera**: Recubrimiento protector para madera.
 

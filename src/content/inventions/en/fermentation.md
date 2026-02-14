@@ -13,7 +13,7 @@ It enables preservation, flavor development, and the production of alcohol, leav
 ## Use / Function
 
 - **Food preservation**: Acid and alcohol inhibit spoilage.
-- **Alcohol production**: Beverages and biofuel.
+- **Alcohol production**: Beverages and **[Biofuel](/en/materials/biofuel)**.
 - **Leavening**: CO2 inflates dough.
 - **Nutrient upgrade**: Improves digestibility and adds vitamins.
 - **Scale**: Household to community production.
