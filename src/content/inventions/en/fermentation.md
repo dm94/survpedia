@@ -8,7 +8,7 @@ image: ../../../assets/inventions/fermentation.jpg
 
 Fermentation is a controlled biological process that uses microbes to transform sugars into acids, alcohols, and gases.
 
-It enables preservation, flavor development, and the production of alcohol, leavened bread, and cultured foods.
+It enables preservation, flavor development, and the production of alcohol, **[Bread](/en/inventions/bread)**, and cultured foods.
 
 ## Use / Function
 

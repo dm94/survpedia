@@ -8,7 +8,7 @@ image: ../../../assets/inventions/fermentation.jpg
 
 La fermentación es un proceso biológico controlado que usa microbios para transformar azúcares en ácidos, alcoholes y gases.
 
-Permite conservar alimentos, desarrollar sabores y producir alcohol, pan leudado y alimentos cultivados.
+Permite conservar alimentos, desarrollar sabores y producir alcohol, **[Pan](/es/inventions/bread)** y alimentos cultivados.
 
 ## Uso / Función
 
