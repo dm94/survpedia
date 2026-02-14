@@ -34,6 +34,7 @@ Uniform mesh openings guide fish into pockets or against barriers. Floats keep t
 - **Essential**: Plant fiber twine for mesh.
 - **Structure**: Wooden float line and stone sinkers.
 - **Tools**: Knife, awl, netting needle, measuring spacer.
+- **Substitutes**: Twisted bark or rawhide strips for mesh, carved gourds or light wood for floats.
 
 ## Variants and improvements
 

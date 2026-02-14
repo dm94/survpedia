@@ -66,6 +66,11 @@ Basic to intermediate. Shore fishing is low tech; nets and boats raise the skill
 - **Weir or trap**: Passive capture in rivers or tidal zones.
 - **Boat fishing**: Extends reach using **[Canoes](/en/inventions/canoe)** or **[Simple Boats](/en/inventions/simple-boat)**.
 
+## Traps and nets in fishing
+
+- **[Traps](/en/inventions/traps)**: Funnel entrances, stake lines, or basket traps guide fish with the current and hold them without constant tending.
+- **[Fishing Net](/en/inventions/fishing-net)**: Mesh size targets species, while floats and sinkers keep a vertical wall; set at chokepoints and check often to avoid spoilage.
+
 ## Limits and risks
 
 - **Bycatch**: Nets can trap non-target species.

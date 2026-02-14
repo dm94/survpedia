@@ -66,6 +66,11 @@ Básico a intermedio. La orilla es baja tecnología; redes y botes elevan el niv
 - **Weir o trampa**: Captura pasiva en ríos o mareas.
 - **Pesca con bote**: Aumenta alcance con **[Canoa](/es/inventions/canoe)** o **[Bote simple](/es/inventions/simple-boat)**.
 
+## Trampas y redes en pesca
+
+- **[Trampas](/es/inventions/traps)**: Embudos, estacadas o canastas guían peces con la corriente y los retienen sin vigilancia constante.
+- **[Red de pesca](/es/inventions/fishing-net)**: El tamaño de malla selecciona especies y los flotadores/plomos forman una pared; colócala en pasos estrechos y revísala con frecuencia.
+
 ## Límites y riesgos
 
 - **Captura no deseada**: Las redes pueden atrapar especies no objetivo.

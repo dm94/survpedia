@@ -16,6 +16,7 @@ Las trampas son dispositivos mecánicos diseñados para capturar o matar animale
 
 - **Captura de alimento:** Obtener caza menor rica en proteína y grasa.
 - **Control de plagas:** Proteger cultivos, almacenes y estructuras.
+- **Pesca:** Embudos, estacadas o canastas para captura pasiva en ríos y mareas.
 - **Defensa y alarma:** Disuadir intrusos o señalar movimiento.
 - **Escala:** Uso individual, familiar o de pequeño grupo.
 
@@ -50,6 +51,8 @@ Las trampas combinan un disparador con energía almacenada o gravedad. El animal
 - **[Trampa Kulema](/es/inventions/kulema-trap):** Trampa de caja con muelle para pequeños depredadores.
 - **[Trampa de corral para lobos](/es/inventions/wolf-pen-trap):** Corral grande con embudo y puerta de una sola dirección.
 - **[Lazo de tensión](/es/inventions/tension-snare):** Una rama doblada eleva la presa para evitar fugas.
+- **Weir de pesca:** Estacas y ramas guían peces hacia un corral.
+- **Canasta trampa:** Cesta con embudo y garganta estrecha que retiene peces.
 
 ## Límites y riesgos
 

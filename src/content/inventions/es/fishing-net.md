@@ -34,6 +34,7 @@ La malla guía a los peces hacia bolsillos o barreras. Los flotadores mantienen 
 - **Esenciales**: Cordel de fibras vegetales para la malla.
 - **Estructura**: Línea superior con madera o corcho y plomos de piedra.
 - **Herramientas**: Cuchillo, punzón, aguja de red, separador.
+- **Sustitutos**: Corteza retorcida o tiras de cuero crudo para la malla, calabazas talladas o madera ligera como flotadores.
 
 ## Variantes y mejoras
 

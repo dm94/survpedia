@@ -16,6 +16,7 @@ Traps are mechanical devices designed to capture or kill animals by guiding move
 
 - **Food capture:** Obtain small game for protein and fat.
 - **Pest control:** Protect crops, storage, and structures.
+- **Fishing:** Funnel traps, weirs, or basket traps for passive river and tidal capture.
 - **Defense and alarm:** Deter intruders or signal movement.
 - **Scale:** Individual, family, or small-group use.
 
@@ -50,6 +51,8 @@ Traps combine a trigger with stored energy or gravity. The target animal applies
 - **[Kulema trap](/en/inventions/kulema-trap):** Boxed spring trap for small predators.
 - **[Wolf pen trap](/en/inventions/wolf-pen-trap):** Large corral with a funnel and one-way gate for big predators.
 - **[Tension snare](/en/inventions/tension-snare):** Bent sapling lifts the animal to prevent escape.
+- **Fish weir:** Stakes and brush guide fish into a holding area.
+- **Basket fish trap:** Funnel basket with a narrow throat that keeps fish inside.
 
 ## Limits and risks
 
