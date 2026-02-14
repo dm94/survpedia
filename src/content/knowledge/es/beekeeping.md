@@ -12,6 +12,7 @@ relatedInventions:
   - fire
   - candle
   - apiary
+  - traps
 ---
 
 # Breve descripción
@@ -24,6 +25,7 @@ La apicultura es el manejo de colonias de abejas melíferas para cosechar miel y
 - **Materiales**: Produce **[Cera de abejas](/es/materials/beeswax)** para **[Velas](/es/inventions/candle)**, sellos y ungüentos.
 - **Polinización**: Incrementa el rendimiento de cultivos y plantas cercanas.
 - **Intercambio**: Miel y cera se almacenan y transportan bien.
+- **Control de plagas**: Usa **[Trampas](/es/inventions/traps)** para reducir roedores y depredadores de colmenas.
 
 ## Principio de funcionamiento
 
@@ -82,3 +84,4 @@ Básico a intermedio. Las colmenas de tronco son de baja tecnología; las colmen
 - **[Fuego controlado](/es/inventions/fire)**: Humo para manejo suave.
 - **[Vela](/es/inventions/candle)**: Uso principal de la cera refinada.
 - **[Apiario](/es/inventions/apiary)**: Sitio gestionado para múltiples colmenas.
+- **[Trampas](/es/inventions/traps)**: Reducen roedores y depredadores cerca de colmenas.

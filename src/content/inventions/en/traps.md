@@ -16,6 +16,7 @@ Traps are mechanical devices designed to capture or kill animals by guiding move
 
 - **Food capture:** Obtain small game for protein and fat.
 - **Pest control:** Protect crops, storage, and structures.
+- **Apiary protection:** Reduce rodent and predator pressure near **[Beekeeping](/en/knowledge/beekeeping)** sites.
 - **Fishing:** Funnel traps, weirs, or basket traps for passive river and tidal capture.
 - **Defense and alarm:** Deter intruders or signal movement.
 - **Scale:** Individual, family, or small-group use.

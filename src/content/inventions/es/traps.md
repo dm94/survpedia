@@ -16,6 +16,7 @@ Las trampas son dispositivos mecánicos diseñados para capturar o matar animale
 
 - **Captura de alimento:** Obtener caza menor rica en proteína y grasa.
 - **Control de plagas:** Proteger cultivos, almacenes y estructuras.
+- **Protección de apiarios:** Reducir presión de roedores y depredadores cerca de la **[Apicultura](/es/knowledge/beekeeping)**.
 - **Pesca:** Embudos, estacadas o canastas para captura pasiva en ríos y mareas.
 - **Defensa y alarma:** Disuadir intrusos o señalar movimiento.
 - **Escala:** Uso individual, familiar o de pequeño grupo.

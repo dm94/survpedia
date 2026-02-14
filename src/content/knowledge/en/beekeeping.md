@@ -12,6 +12,7 @@ relatedInventions:
   - fire
   - candle
   - apiary
+  - traps
 ---
 
 # Brief description
@@ -24,6 +25,7 @@ Beekeeping is the managed care of honey bee colonies to harvest honey and wax wh
 - **Materials**: Produces **[Beeswax](/en/materials/beeswax)** for **[Candles](/en/inventions/candle)**, seals, and salves.
 - **Pollination**: Increases yield of nearby crops and wild plants.
 - **Trade**: Honey and wax store well and travel easily.
+- **Pest control**: Uses **[Traps](/en/inventions/traps)** to reduce rodents and hive predators.
 
 ## Operating principle
 
@@ -82,3 +84,4 @@ Basic to intermediate. Simple log hives are low tech; box hives and regular insp
 - **[Controlled Fire](/en/inventions/fire)**: Smoke for gentle hive handling.
 - **[Candle](/en/inventions/candle)**: Main use for refined beeswax.
 - **[Apiary](/en/inventions/apiary)**: Managed site for multiple hives.
+- **[Traps](/en/inventions/traps)**: Reduce rodents and hive predators near hives.
