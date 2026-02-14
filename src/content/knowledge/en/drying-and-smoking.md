@@ -42,6 +42,14 @@ Drying and smoking are low-tech preservation methods that reduce moisture and ad
 5. **Add smoke (optional)**: Burn **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** for steady, cool smoke.
 6. **Finish and store**: When dry and firm, move to clean **[Containers](/en/inventions/containers)**.
 
+### Drying meat and fish
+
+1. **Trim and portion**: Remove fat, skin, and bruised areas; slice into even strips to dry uniformly.
+2. **Salt or brine**: Rub with **[Salt](/en/materials/salt)** or soak in light **[Water](/en/materials/water)** brine, then drain and pat dry.
+3. **Airflow and spacing**: Hang strips or lay on racks with gaps; use screens from **[Plant fibers](/en/materials/plant-fibers)** to keep insects off.
+4. **Gentle heat or smoke**: Use low heat from **[Fire](/en/inventions/fire)**; add cool smoke with **[Wood](/en/materials/wood)** or **[Charcoal](/en/materials/charcoal)** if humidity is high.
+5. **Dryness check and store**: Meat should be firm and dry on the surface; fish should feel leathery and not cold or wet inside. Store in clean **[Containers](/en/inventions/containers)** or seal under **[Animal Fat](/en/materials/animal-fat)**.
+
 ### Drying fruits and vegetables
 
 1. **Wash and trim**: Remove damaged parts and slice evenly for consistent drying.

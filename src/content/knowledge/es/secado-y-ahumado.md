@@ -42,6 +42,14 @@ El secado y el ahumado son métodos de conservación de baja tecnología que red
 5. **Añadir humo (opcional)**: Quema **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)** para humo estable.
 6. **Finalizar y almacenar**: Cuando esté firme y seco, pasa a **[Contenedores](/es/inventions/containers)** limpios.
 
+### Secado de carne y pescado
+
+1. **Recortar y porcionar**: Retira grasa, piel y zonas dañadas; corta en tiras uniformes.
+2. **Sal o salmuera**: Frota con **[Sal](/es/materials/salt)** o remoja en salmuera ligera de **[Agua](/es/materials/water)**, escurre y seca con paño.
+3. **Flujo de aire y separación**: Cuelga tiras o pon en rejillas con espacio; usa mallas de **[Fibras vegetales](/es/materials/plant-fibers)** para evitar insectos.
+4. **Calor suave o humo**: Usa calor bajo de **[Fuego](/es/inventions/fire)**; añade humo frío con **[Madera](/es/materials/wood)** o **[Carbón vegetal](/es/materials/charcoal)** si hay humedad alta.
+5. **Comprobar secado y guardar**: La carne debe estar firme y seca al tacto; el pescado debe quedar coriáceo y sin zonas frías o húmedas. Guarda en **[Contenedores](/es/inventions/containers)** limpios o sella bajo **[Grasa animal](/es/materials/animal-fat)**.
+
 ### Secado de frutas y verduras
 
 1. **Lavar y recortar**: Retira partes dañadas y corta en tamaños uniformes.
