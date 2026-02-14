@@ -10,7 +10,7 @@ Dispositivo para medir la masa comparando un objeto de masa desconocida con uno 
 
 ## Uso / Función
 
-- **Comercio**: Pesaje de oro, especias, alimentos.
+- **Comercio**: Pesaje de oro, **[Especias](/es/materials/spices)**, alimentos.
 - **Química/Medicina**: Medición de ingredientes.
 
 ## Principio de funcionamiento
@@ -26,10 +26,17 @@ Palanca. Una barra pivota en su centro (fulcro). La gravedad actúa sobre las ma
 
 ## Materiales necesarios
 
-- Madera/Hueso (Barra)
-- Cuerda/Cuero (Suspensión)
-- Calabaza/Cesta/Arcilla (Platillos)
+- **Esenciales**: Barra recta de **[Madera](/es/materials/wood)** o hueso, cordajes de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**, platillos iguales de **[Arcilla](/es/materials/clay)**, madera o calabaza.
+- **Herramientas**: Cuchillo, punzón o taladro, cuerda de suspensión, pesas de referencia o patrón conocido.
+- **Sustitutos posibles**: Piedras o semillas para calibrar, cestas tejidas en lugar de platillos, fibras trenzadas en lugar de cuero.
 
 ## Variantes y mejoras
 
 - **Romana**: Utiliza un contrapeso fijo y un fulcro móvil (o peso móvil en brazo largo) para medir masas variables con una sola pesa.
+
+## Límites y riesgos
+
+- **Corrientes de aire**: El viento altera la lectura.
+- **Descalibración**: Desgaste o humedad cambian el equilibrio.
+- **Contaminación**: Polvos o líquidos se adhieren y sesgan el peso.
+- **Fragilidad**: Barras finas o cuerdas pueden romperse con cargas altas.

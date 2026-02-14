@@ -10,7 +10,7 @@ A device for measuring mass by comparing an object of unknown mass with an objec
 
 ## Use / Function
 
-- **Trade**: Weighing gold, spices, food.
+- **Trade**: Weighing gold, **[Spices](/en/materials/spices)**, food.
 - **Chemistry/Medicine**: Measuring ingredients.
 
 ## Operating principle
@@ -26,10 +26,17 @@ Leverage. A beam pivots at its center (fulcrum). Gravity acts on masses at both 
 
 ## Materials needed
 
-- Wood/Bone (Beam)
-- String/Leather (Suspension)
-- Gourd/Basket/Clay (Pans)
+- **Essential**: Straight **[Wood](/en/materials/wood)** or bone beam, suspension cords from **[Plant fibers](/en/materials/plant-fibers)** or **[Leather](/en/materials/leather)**, matched pans of **[Clay](/en/materials/clay)**, wood, or gourds.
+- **Tools**: Knife, awl or drill, cord for hanging, reference weights or a known standard.
+- **Possible substitutes**: Pebbles or seed weights for calibration, woven baskets instead of pans, braided fiber in place of leather.
 
 ## Variants and improvements
 
 - **Steelyard Balance**: Uses a fixed counterweight and a movable fulcrum (or movable weight on long arm) to measure variable masses with one weight.
+
+## Limits and risks
+
+- **Drafts**: Wind or movement throws off readings.
+- **Calibration drift**: Uneven wear or wet pans changes balance.
+- **Contamination**: Wet goods or powders can stick and bias weights.
+- **Fragility**: Thin beams or cords can snap under heavy loads.

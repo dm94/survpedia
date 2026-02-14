@@ -13,7 +13,7 @@ Un molino de viento es una estructura que convierte la energía cinética del vi
 - **Molienda:** Triturar grano para hacer harina.
 - **Bombeo:** Drenar humedales o extraer agua para riego.
 - **Aserrado:** Cortar madera en aserraderos.
-- **Industrial:** Triturar semillas para aceite, procesar especias o batanar telas.
+- **Industrial:** Triturar semillas para aceite, procesar **[Especias](/es/materials/spices)** o batanar telas.
 - **Escala:** Industrial / Comunidad local.
 
 ## Principio de funcionamiento

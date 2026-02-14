@@ -10,7 +10,7 @@ Un conjunto de dos herramientas simples utilizadas desde la Edad de Piedra para 
 
 ## Uso / Función
 
--   **Molienda**: Convertir hierbas secas, especias o productos químicos en polvo.
+-   **Molienda**: Convertir hierbas secas, **[Especias](/es/materials/spices)** o productos químicos en polvo.
 -   **Trituración**: Romper semillas duras o minerales.
 -   **Mezcla**: Combinar ingredientes húmedos y secos (pastas, pinturas, medicinas).
 -   **Escala**: Individual/Laboratorio.
@@ -29,6 +29,7 @@ Utiliza **compresión** y **fricción**. El cuenco (mortero) sostiene el materia
 
 -   **Esencial**: Piedra dura (granito, basalto), madera dura o cerámica cocida.
 -   **Herramientas**: Cinceles, raspadores u otras piedras para dar forma.
+-   **Sustitutos posibles**: Piedra plana de moler con mano de piedra, o un **[Molino de mano](/es/inventions/hand-mill)** para granos.
 
 ## Variantes y mejoras
 

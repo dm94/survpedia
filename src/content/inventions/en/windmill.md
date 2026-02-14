@@ -13,7 +13,7 @@ A windmill is a structure that converts the kinetic energy of the wind into rota
 - **Milling:** Grinding grain into flour (gristmill).
 - **Pumping:** Draining wetlands or pumping water for irrigation (windpump).
 - **Sawing:** Cutting timber in sawmills.
-- **Industrial:** Crushing seeds for oil, processing spices, or fulling cloth.
+- **Industrial:** Crushing seeds for oil, processing **[Spices](/en/materials/spices)**, or fulling cloth.
 - **Scale:** Industrial / Local community.
 
 ## Operating principle

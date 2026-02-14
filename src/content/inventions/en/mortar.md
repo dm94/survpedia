@@ -10,7 +10,7 @@ A set of two simple tools used since the Stone Age to prepare ingredients or sub
 
 ## Use / Function
 
-- **Grinding:** Turning dried herbs, spices, or chemicals into powder.
+- **Grinding:** Turning dried herbs, **[Spices](/en/materials/spices)**, or chemicals into powder.
 - **Crushing:** Breaking down hard seeds or minerals.
 - **Mixing:** Blending wet and dry ingredients (pastes, paints, medicines).
 - **Scale:** Individual/Laboratory.
@@ -29,6 +29,7 @@ It uses **compression** and **friction**. The bowl (mortar) holds the material, 
 
 -   **Essential**: Hard stone (granite, basalt), hardwood, or fired ceramic.
 -   **Tools**: Chisels, scrapers, or other stones for shaping.
+-   **Possible substitutes**: A flat grinding stone and handstone, or a **[Hand Mill](/en/inventions/hand-mill)** for grains.
 
 ## Variants and improvements
 
