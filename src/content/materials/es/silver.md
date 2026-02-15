@@ -23,6 +23,8 @@ category: mineral
 image: ../../../assets/images/materials/silver.jpg
 ---
 
+La plata es un metal precioso valorado por su brillo, conductividad y resistencia a la corrosión. En estado puro es blanda, pero puede alearse para mejorar su durabilidad.
+
 # Descripción de cómo es
 
 La plata es un metal de transición blando, blanco y brillante. Exhibe la mayor conductividad eléctrica, conductividad térmica y reflectividad de cualquier metal. A diferencia del oro, se empaña (oxida) cuando se expone al azufre en el aire, volviéndose negra.

@@ -23,6 +23,8 @@ category: mineral
 image: ../../../assets/images/materials/silver.jpg
 ---
 
+Silver is a precious metal valued for its brightness, conductivity, and resistance to corrosion. It is soft in pure form but can be alloyed for durability.
+
 # Description of what it is like
 
 Silver is a soft, white, lustrous transition metal. It exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. Unlike gold, it tarnishes (oxidizes) when exposed to sulfur in the air, turning black.
