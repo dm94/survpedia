@@ -3,6 +3,7 @@ title: "Evaporation"
 relatedMaterials:
   - water
   - salt
+  - sugar
   - clay
   - wood
   - charcoal
@@ -18,6 +19,7 @@ Evaporation is the phase change where liquid water becomes vapor, removing moist
 ## Use / Function
 
 - **Brine concentration**: Turns seawater or brine into crystallized salt.
+- **Sugar concentration**: Reduces plant juice to crystallize **[Sugar](/en/materials/sugar)**.
 - **Food drying**: Lowers water activity to preserve meat, fish, and plants.
 - **Surface cooling**: Provides passive cooling when water evaporates.
 - **Moisture control**: Reduces dampness in storage and materials.
@@ -61,6 +63,7 @@ Evaporation is the phase change where liquid water becomes vapor, removing moist
 
 - **[Water](/en/materials/water)**: The liquid phase that evaporates.
 - **[Salt](/en/materials/salt)**: Concentrated by evaporation for preservation.
+- **[Sugar](/en/materials/sugar)**: Concentrated from plant juices before crystallization.
 - **[Clay](/en/materials/clay)**: Porous containers aid slow evaporation.
 - **[Wood](/en/materials/wood)**: Racks and structures for drying.
 - **[Charcoal](/en/materials/charcoal)**: Low-smoke heat for controlled drying.

@@ -36,7 +36,7 @@ In its most common form (table sugar or sucrose), it is a white, odorless, cryst
 ### Minimum processing required
 
 - **Extraction**: Crushing plant material (cane/beet) to extract juice.
-- **Evaporation**: Boiling the juice to remove water and concentrate the sugar.
+- **[Evaporation](/en/knowledge/evaporation)**: Boiling the juice to remove water and concentrate the sugar.
 - **Crystallization**: Allowing the sugar to form crystals as it cools/dries.
 
 ### Tools needed to work on it

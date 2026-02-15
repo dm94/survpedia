@@ -3,6 +3,7 @@ title: "Evaporación"
 relatedMaterials:
   - water
   - salt
+  - sugar
   - clay
   - wood
   - charcoal
@@ -18,6 +19,7 @@ La evaporación es el cambio de fase en el que el agua líquida pasa a vapor, el
 ## Uso / Función
 
 - **Concentración de salmuera**: Convierte agua de mar o salmuera en sal cristalizada.
+- **Concentración de jugo azucarado**: Reduce el jugo vegetal para cristalizar **[Azúcar](/es/materials/sugar)**.
 - **Secado de alimentos**: Reduce la actividad de agua para conservar carne, pescado y plantas.
 - **Enfriamiento superficial**: Aporta enfriamiento pasivo cuando el agua se evapora.
 - **Control de humedad**: Disminuye la humedad en almacenes y materiales.
@@ -61,6 +63,7 @@ La evaporación es el cambio de fase en el que el agua líquida pasa a vapor, el
 
 - **[Agua](/es/materials/water)**: La fase líquida que se evapora.
 - **[Sal](/es/materials/salt)**: Se concentra por evaporación para conservar.
+- **[Azúcar](/es/materials/sugar)**: Se concentra desde jugos vegetales antes de cristalizar.
 - **[Arcilla](/es/materials/clay)**: Vasijas porosas que ayudan a evaporar.
 - **[Madera](/es/materials/wood)**: Rejillas y estructuras de secado.
 - **[Carbón vegetal](/es/materials/charcoal)**: Calor estable con poco humo.

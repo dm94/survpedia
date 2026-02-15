@@ -36,7 +36,7 @@ En su forma más común (azúcar de mesa o sacarosa), es un sólido cristalino b
 ### Procesamiento mínimo requerido
 
 - **Extracción**: Triturar el material vegetal (caña/remolacha) para extraer el jugo.
-- **Evaporación**: Hervir el jugo para eliminar el agua y concentrar el azúcar.
+- **[Evaporación](/es/knowledge/evaporacion)**: Hervir el jugo para eliminar el agua y concentrar el azúcar.
 - **Cristalización**: Permitir que el azúcar forme cristales al enfriarse/secarse.
 
 ### Herramientas necesarias para trabajarlo
