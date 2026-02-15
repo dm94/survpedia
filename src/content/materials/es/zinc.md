@@ -52,7 +52,9 @@ Tiene una apariencia gris plateada cuando se elimina la oxidación. Se empaña e
 
 - **Estaño**: Para recubrir acero.
 - **Magnesio/Aluminio**: Como ánodos de sacrificio.
+- **Plástico/Compuesto**: Para resistencia a la corrosión sin carga estructural.
 
 ### Limitaciones y fallos comunes
 
+- **Peste del zinc**: En aleaciones con estaño, puede degradarse a bajas temperaturas.
 - **Fiebre del humo metálico**: Respirar humos de óxido de zinc durante la fundición puede causar enfermedad.
