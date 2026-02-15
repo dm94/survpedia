@@ -72,6 +72,7 @@ La textura va de cremosa y untuosa a quebradiza según la humedad y la maduraci�
 
 - **[Cuajada y queso](/es/materials/curd-cheese)**: Proceso base y primeras etapas.
 - **[Queso](/es/materials/cheese)**: Categoría general de quesos madurados.
+- **[Queso vivo](/es/materials/living-cheese)**: Quesos de cultivo con corteza activa.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada sin maduración.
 - **[Enzimas](/es/materials/enzymes)**: Catalizadores de coagulación.
 - **[Sal](/es/materials/salt)**: Control de humedad y conservación.

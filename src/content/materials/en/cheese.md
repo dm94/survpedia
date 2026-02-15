@@ -72,6 +72,7 @@ Cheese ranges from soft and creamy to hard and brittle. Aging deepens aroma and 
 ### Related materials
 
 - **[Curd & Cheese](/en/materials/curd-cheese)**: Base curd and early stages of cheese making.
+- **[Living Cheese](/en/materials/living-cheese)**: Culture-ripened cheeses with active rinds.
 - **[Processed Cheese](/en/materials/processed-cheese)**: Re-melted cheese with stable melt.
 - **[Blue Cheese](/en/materials/blue-cheese)**: Mold-ripened cheese with distinctive veining.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh cheese without aging.

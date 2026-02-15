@@ -72,6 +72,7 @@ El queso puede ser blando y cremoso o duro y quebradizo. La maduración intensif
 ### Materiales relacionados
 
 - **[Cuajada y queso](/es/materials/curd-cheese)**: Base de cuajada y primeras etapas del queso.
+- **[Queso vivo](/es/materials/living-cheese)**: Quesos de cultivo con corteza activa.
 - **[Queso procesado](/es/materials/processed-cheese)**: Queso re-fundido con fundido estable.
 - **[Queso azul](/es/materials/blue-cheese)**: Queso madurado con moho y vetas azules.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Queso sin maduración y de consumo rápido.

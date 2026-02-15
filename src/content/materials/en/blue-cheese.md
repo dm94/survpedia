@@ -72,6 +72,7 @@ Texture ranges from creamy and spreadable to crumbly and firm depending on moist
 
 - **[Curd & Cheese](/en/materials/curd-cheese)**: Base curd process and early stages.
 - **[Cheese](/en/materials/cheese)**: Broader category of aged cheeses.
+- **[Living Cheese](/en/materials/living-cheese)**: Culture-ripened cheeses with active rinds.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
 - **[Enzymes](/en/materials/enzymes)**: Coagulation catalysts for curd.
 - **[Salt](/en/materials/salt)**: Controls moisture and spoilage.
