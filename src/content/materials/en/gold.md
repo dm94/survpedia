@@ -58,7 +58,7 @@ Gold is a dense, soft, shiny, yellow metal. It is one of the least reactive chem
 - **Brass:** Looks like gold but tarnishes and is much lighter.
 - **Pyrite ("Fool's Gold"):** Brittle and tarnishes; not a metal substitute.
 - **Silver:** Precious, but tarnishes.
-- **Platinum:** Similar noble properties, but higher melting point and rarer.
+- **[Platinum](/en/materials/platinum)**: Similar noble properties, but higher melting point and rarer.
 
 ### Limitations and common failures
 

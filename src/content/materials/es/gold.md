@@ -60,7 +60,7 @@ El oro es un metal denso, blando, brillante y amarillo. Es uno de los elementos 
 - **Latón:** Se parece al oro pero se empaña y es mucho más ligero.
 - **Pirita ("Oro de los tontos"):** Quebradiza y se empaña; no es un sustituto del metal.
 - **Plata:** Preciosa, pero se empaña.
-- **Platino:** Propiedades nobles similares, pero punto de fusión más alto y más raro.
+- **[Platino](/es/materials/platinum)**: Propiedades nobles similares, pero punto de fusión más alto y más raro.
 
 ### Limitaciones y fallos comunes
 
