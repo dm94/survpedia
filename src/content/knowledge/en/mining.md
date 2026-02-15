@@ -76,6 +76,7 @@ Basic for surface collection and panning. Intermediate for shallow pits and timb
 
 - **Collapse**: Unstable roofs and walls can fail.
 - **Air quality**: Dust and gases accumulate in enclosed spaces.
+- **Toxic gases**: Methane, carbon monoxide, and hydrogen sulfide can build up; test airflow and vent continuously.
 - **Flooding**: Water can fill shafts and pits quickly.
 - **Exhaustion**: Heavy labor and heat stress reduce safety.
 - **Environmental damage**: Erosion and habitat loss without reclamation.

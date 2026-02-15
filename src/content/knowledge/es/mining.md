@@ -76,6 +76,7 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 
 - **Derrumbes**: Techos y paredes inestables pueden fallar.
 - **Calidad del aire**: Polvo y gases se acumulan en espacios cerrados.
+- **Gases tóxicos**: Metano, monóxido de carbono y sulfuro de hidrógeno pueden acumularse; probar el flujo de aire y ventilar de forma continua.
 - **Inundación**: El agua puede llenar pozos y fosas con rapidez.
 - **Agotamiento**: Trabajo pesado y calor reducen la seguridad.
 - **Daño ambiental**: Erosión y pérdida de hábitat sin recuperación.
