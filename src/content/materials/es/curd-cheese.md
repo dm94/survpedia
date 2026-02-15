@@ -71,6 +71,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 
 ### Materiales relacionados
 
+- **[Queso](/es/materials/cheese)**: Cuajada madurada para mayor conservación.
 - **[Sal](/es/materials/salt)**: Clave para conservación y sabor.
 - **[Agua](/es/materials/water)**: Limpieza y salmueras.
 - **[Grasa Animal](/es/materials/animal-fat)**: Fuente grasa relacionada y conservación.

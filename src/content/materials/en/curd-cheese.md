@@ -71,6 +71,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 
 ### Related materials
 
+- **[Cheese](/en/materials/cheese)**: Aged curd for longer storage.
 - **[Salt](/en/materials/salt)**: Essential for preservation and flavor.
 - **[Water](/en/materials/water)**: Cleaning and brining.
 - **[Animal Fat](/en/materials/animal-fat)**: Shared dairy fat source and preservation aid.
