@@ -58,3 +58,15 @@ Tiene una apariencia gris plateada cuando se elimina la oxidación. Se empaña e
 
 - **Peste del zinc**: En aleaciones con estaño, puede degradarse a bajas temperaturas.
 - **Fiebre del humo metálico**: Respirar humos de óxido de zinc durante la fundición puede causar enfermedad.
+
+### Riesgos y seguridad
+
+- **Exposición a humos**: La fundición o soldadura del zinc y del acero galvanizado puede liberar humos de óxido de zinc. Usar buena ventilación y evitar inhalarlos.
+- **Ignición de polvo**: El polvo fino de zinc puede inflamarse; mantenerlo seco y lejos de chispas.
+
+### Materiales relacionados
+
+- **[Latón](/es/materials/brass)**: Zinc aleado con cobre.
+- **[Cobre](/es/materials/copper)**: Metal compañero para fabricar latón.
+- **[Plomo](/es/materials/lead)**: Suele aparecer en los mismos minerales.
+- **[Acero](/es/materials/steel)**: Se galvaniza con zinc para evitar la corrosión.

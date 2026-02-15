@@ -60,3 +60,15 @@ It has a silvery-grey appearance when oxidation is removed. It tarnishes in mois
 
 - **Zinc Pest**: At low temperatures, tin-zinc alloys can degrade.
 - **Fumes**: Breathing zinc oxide fumes during melting/welding can cause "metal fume fever".
+
+### Risks and safety
+
+- **Fume exposure**: Melting or welding zinc and galvanized steel can release zinc oxide fumes. Use strong ventilation and avoid breathing the smoke.
+- **Dust ignition**: Fine zinc powder can ignite; keep sparks away and store it dry.
+
+### Related materials
+
+- **[Brass](/en/materials/brass)**: Zinc alloyed with copper.
+- **[Copper](/en/materials/copper)**: Brass partner and common companion metal.
+- **[Lead](/en/materials/lead)**: Often associated in the same ores as zinc.
+- **[Steel](/en/materials/steel)**: Commonly galvanized with zinc for corrosion protection.
