@@ -78,6 +78,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 - **[Blue Cheese](/en/materials/blue-cheese)**: Mold-ripened variant with strong flavor.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
 - **[Bread Cheese](/en/materials/bread-cheese)**: Fresh curd cooked to a toasted crust.
+- **[Caramelized Cheese](/en/materials/caramelized-cheese)**: Curd browned on dry heat for nutty flavor.
 - **[Tofu](/en/materials/tofu)**: Plant-based curd set from soy milk.
 - **[Enzymes](/en/materials/enzymes)**: Catalysts used for milk coagulation.
 - **[Salt](/en/materials/salt)**: Essential for preservation and flavor.

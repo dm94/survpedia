@@ -70,6 +70,7 @@ Tiene una corteza seca y dorada con un interior denso y húmedo que resiste el d
 ### Materiales relacionados
 
 - **[Cuajada y queso](/es/materials/curd-cheese)**: Proceso base y primeras etapas.
+- **[Queso caramelizado](/es/materials/caramelized-cheese)**: Variante más tostada con superficie dorada.
 - **[Queso](/es/materials/cheese)**: Categoría de madurados para mayor conservación.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada fresca sin maduración.
 - **[Sal](/es/materials/salt)**: Sabor y conservación.

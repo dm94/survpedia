@@ -70,6 +70,7 @@ It has a browned, dry crust and a dense, moist interior that resists melting. Th
 ### Related materials
 
 - **[Curd & Cheese](/en/materials/curd-cheese)**: Base curd process and early stages.
+- **[Caramelized Cheese](/en/materials/caramelized-cheese)**: Browning-focused variant with deeper toasted flavor.
 - **[Cheese](/en/materials/cheese)**: Aged dairy category for longer storage.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
 - **[Salt](/en/materials/salt)**: Flavor and preservation.

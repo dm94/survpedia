@@ -78,6 +78,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 - **[Queso azul](/es/materials/blue-cheese)**: Variante con moho de sabor intenso.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada fresca sin maduración.
 - **[Queso de pan](/es/materials/bread-cheese)**: Cuajada fresca con corteza dorada.
+- **[Queso caramelizado](/es/materials/caramelized-cheese)**: Cuajada dorada en calor seco con sabor tostado.
 - **[Tofu](/es/materials/tofu)**: Cuajada vegetal a partir de leche de soja.
 - **[Enzimas](/es/materials/enzymes)**: Catalizadores usados para coagular la leche.
 - **[Sal](/es/materials/salt)**: Clave para conservación y sabor.
