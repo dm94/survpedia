@@ -19,6 +19,7 @@ relatedInventions:
   - rope
   - reinforcements
   - fire
+  - safety-lamp
   - wheel
   - axle
 ---
@@ -61,7 +62,7 @@ Basic for surface collection and panning. Intermediate for shallow pits and timb
 
 - **Essential**: **[Stone](/en/materials/stone)** or **[Iron](/en/materials/iron)** tools, **[Wood](/en/materials/wood)** for supports, **[Reinforcements](/en/inventions/reinforcements)**, **[Rope](/en/inventions/rope)** for hauling.
 - **Processing**: **[Water](/en/materials/water)** for washing, **[Sand](/en/materials/sand)** or **[Clay](/en/materials/clay)** for molds when smelting.
-- **Tools**: **[Pickaxe](/en/inventions/pickaxe)**, **[Shovel](/en/inventions/shovel)**, **[Cart](/en/inventions/cart)**, **[Pulley](/en/inventions/pulley)**, **[Controlled Fire](/en/inventions/fire)** for light and heat.
+- **Tools**: **[Pickaxe](/en/inventions/pickaxe)**, **[Shovel](/en/inventions/shovel)**, **[Cart](/en/inventions/cart)**, **[Pulley](/en/inventions/pulley)**, **[Controlled Fire](/en/inventions/fire)**, **[Safety Lamp](/en/inventions/safety-lamp)** for enclosed lighting in gassy workings.
 - **Substitutes**: Stone hammers, woven baskets, sleds, or drags.
 
 ## Variants and improvements
@@ -77,6 +78,7 @@ Basic for surface collection and panning. Intermediate for shallow pits and timb
 - **Collapse**: Unstable roofs and walls can fail.
 - **Air quality**: Dust and gases accumulate in enclosed spaces.
 - **Toxic gases**: Methane, carbon monoxide, and hydrogen sulfide can build up; test airflow and vent continuously.
+- **Gas ignition**: Open flames can trigger explosions; a **[Safety Lamp](/en/inventions/safety-lamp)** reduces risk and signals gas but never replaces ventilation.
 - **Flooding**: Water can fill shafts and pits quickly.
 - **Exhaustion**: Heavy labor and heat stress reduce safety.
 - **Environmental damage**: Erosion and habitat loss without reclamation.
@@ -103,5 +105,6 @@ Basic for surface collection and panning. Intermediate for shallow pits and timb
 - **[Rope](/en/inventions/rope)**: Hoisting and securing loads.
 - **[Reinforcements](/en/inventions/reinforcements)**: Stabilizing shafts and tunnels.
 - **[Controlled Fire](/en/inventions/fire)**: Light, heat, and rock fracturing.
+- **[Safety Lamp](/en/inventions/safety-lamp)**: Enclosed lighting for gassy workings.
 - **[Wheel](/en/inventions/wheel)**: Rolling transport and lifting systems.
 - **[Axle](/en/inventions/axle)**: Support for wheels and carts.

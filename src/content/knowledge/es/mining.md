@@ -19,6 +19,7 @@ relatedInventions:
   - rope
   - reinforcements
   - fire
+  - safety-lamp
   - wheel
   - axle
 ---
@@ -61,7 +62,7 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 
 - **Esenciales**: Herramientas de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, **[Madera](/es/materials/wood)** para soportes, **[Refuerzos](/es/inventions/reinforcements)**, **[Cuerda](/es/inventions/rope)** para izado.
 - **Procesamiento**: **[Agua](/es/materials/water)** para lavado, **[Arena](/es/materials/sand)** o **[Arcilla](/es/materials/clay)** para moldes al fundir.
-- **Herramientas**: **[Pico](/es/inventions/pico)**, **[Pala](/es/inventions/shovel)**, **[Carro](/es/inventions/cart)**, **[Polea](/es/inventions/pulley)**, **[Fuego controlado](/es/inventions/fire)** para luz y calor.
+- **Herramientas**: **[Pico](/es/inventions/pico)**, **[Pala](/es/inventions/shovel)**, **[Carro](/es/inventions/cart)**, **[Polea](/es/inventions/pulley)**, **[Fuego controlado](/es/inventions/fire)**, **[Lámpara de seguridad](/es/inventions/safety-lamp)** para luz en zonas con gases.
 - **Sustitutos**: Martillos de piedra, cestas tejidas, trineos o arrastres.
 
 ## Variantes y mejoras
@@ -77,6 +78,7 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 - **Derrumbes**: Techos y paredes inestables pueden fallar.
 - **Calidad del aire**: Polvo y gases se acumulan en espacios cerrados.
 - **Gases tóxicos**: Metano, monóxido de carbono y sulfuro de hidrógeno pueden acumularse; probar el flujo de aire y ventilar de forma continua.
+- **Ignición de gases**: Las llamas abiertas pueden detonar; la **[Lámpara de seguridad](/es/inventions/safety-lamp)** reduce riesgo y señala gas pero no sustituye la ventilación.
 - **Inundación**: El agua puede llenar pozos y fosas con rapidez.
 - **Agotamiento**: Trabajo pesado y calor reducen la seguridad.
 - **Daño ambiental**: Erosión y pérdida de hábitat sin recuperación.
@@ -103,5 +105,6 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 - **[Cuerda](/es/inventions/rope)**: Izado y sujeción de cargas.
 - **[Refuerzos](/es/inventions/reinforcements)**: Estabilización de pozos y galerías.
 - **[Fuego controlado](/es/inventions/fire)**: Luz, calor y fractura térmica.
+- **[Lámpara de seguridad](/es/inventions/safety-lamp)**: Luz encerrada para galerías con gas.
 - **[Rueda](/es/inventions/wheel)**: Transporte rodado y elevación.
 - **[Eje](/es/inventions/axle)**: Soporte para ruedas y carros.
