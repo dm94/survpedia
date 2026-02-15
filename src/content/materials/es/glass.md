@@ -39,7 +39,7 @@ El vidrio es un material sólido inorgánico, no cristalino (amorfo), que suele 
 
 ## Origen y dónde encontrarlo
 
-Aunque la **Obsidiana** es un vidrio natural volcánico usado desde la prehistoria, el vidrio común es un material sintético.
+Aunque la **[Obsidiana](/es/materials/obsidian)** es un vidrio natural volcánico usado desde la prehistoria, el vidrio común es un material sintético.
 
 - **Componentes:**
   1.  **Arena de Sílice (SiO2):** El cuerpo principal (aprox. 70-75%). Se encuentra en playas y dunas.
@@ -97,6 +97,6 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
 
 ### Materiales relacionados
 
-- **Arena:** Ingrediente principal.
-- **Obsidiana:** Vidrio natural.
-- **Cerámica:** Tecnología de horno similar, material hermano.
+- **[Arena](/es/materials/sand):** Ingrediente principal.
+- **[Obsidiana](/es/materials/obsidian):** Vidrio natural.
+- **[Cerámica](/es/materials/ceramics):** Tecnología de horno similar, material hermano.

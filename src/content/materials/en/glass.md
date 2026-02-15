@@ -39,7 +39,7 @@ Glass is a solid inorganic, non-crystalline (amorphous) material that is typical
 
 ## Origin and where to find it
 
-Although **Obsidian** is a natural volcanic glass used since prehistory, common glass is a synthetic material.
+Although **[Obsidian](/en/materials/obsidian)** is a natural volcanic glass used since prehistory, common glass is a synthetic material.
 
 - **Components:**
   1.  **Silica Sand (SiO2):** The main body (approx. 70-75%). Found in beaches and dunes.
@@ -97,6 +97,6 @@ Glass requires advanced pyrotechnic technology (kilns).
 
 ### Related materials
 
-- **Sand:** Main ingredient.
-- **Obsidian:** Natural glass.
-- **Ceramics:** Similar kiln technology, sibling material.
+- **[Sand](/en/materials/sand):** Main ingredient.
+- **[Obsidian](/en/materials/obsidian):** Natural glass.
+- **[Ceramics](/en/materials/ceramics):** Similar kiln technology, sibling material.
