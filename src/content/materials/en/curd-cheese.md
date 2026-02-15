@@ -55,6 +55,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 
 - Dried or salted meats for long storage protein.
 - Dried legumes or nuts when animal milk is unavailable.
+- **[Tofu](/en/materials/tofu)** as a plant-based curd alternative.
 
 ### Limitations and common failures
 
@@ -74,6 +75,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 - **[Cheese](/en/materials/cheese)**: Aged curd for longer storage.
 - **[Blue Cheese](/en/materials/blue-cheese)**: Mold-ripened variant with strong flavor.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
+- **[Tofu](/en/materials/tofu)**: Plant-based curd set from soy milk.
 - **[Enzymes](/en/materials/enzymes)**: Catalysts used for milk coagulation.
 - **[Salt](/en/materials/salt)**: Essential for preservation and flavor.
 - **[Water](/en/materials/water)**: Cleaning and brining.

@@ -55,6 +55,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 
 - Carnes secas o saladas como proteína de larga conservación.
 - Legumbres o frutos secos cuando no hay leche animal.
+- **[Tofu](/es/materials/tofu)** como alternativa vegetal de cuajada.
 
 ### Limitaciones y fallos comunes
 
@@ -74,6 +75,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 - **[Queso](/es/materials/cheese)**: Cuajada madurada para mayor conservación.
 - **[Queso azul](/es/materials/blue-cheese)**: Variante con moho de sabor intenso.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada fresca sin maduración.
+- **[Tofu](/es/materials/tofu)**: Cuajada vegetal a partir de leche de soja.
 - **[Enzimas](/es/materials/enzymes)**: Catalizadores usados para coagular la leche.
 - **[Sal](/es/materials/salt)**: Clave para conservación y sabor.
 - **[Agua](/es/materials/water)**: Limpieza y salmueras.
