@@ -11,14 +11,45 @@ materialsUsed:
 image: ../../../assets/images/inventions/fireworks.jpg
 ---
 
-## History
+# Brief description
 
-Fireworks originated in medieval China during the Tang Dynasty (7th century). Originally used to ward off evil spirits with their loud noise. By the Song Dynasty, pyrotechnics had become an art form. The Italians later became famous for adding colors to fireworks during the Renaissance by introducing metal salts.
+Fireworks are pyrotechnic devices that create light, color, and sound through controlled combustion. They are used for celebration, signaling, and display.
 
-## How it Works
+## Use / Function
 
-A firework typically consists of a shell (paper), a lift charge (gunpowder to shoot it up), and a burst charge (gunpowder to explode it) containing "stars" (pellets of chemical mixtures that burn with color/sparkles).
+- **Celebration and ceremony:** Visual and auditory displays for festivals and holidays.
+- **Signaling:** Historical use for military and maritime signals.
+- **Public events:** Coordinated shows for large gatherings.
+- **Scale:** Community to mass events.
 
-## Impact
+## Operating principle
 
-Fireworks have become a global symbol of celebration, used in New Year's Eve, national holidays, and festivals worldwide. They also advanced the understanding of chemistry and ballistics.
+Fireworks rely on rapid combustion of a fuel and oxidizer. A lift charge propels the shell upward, a time fuse delays ignition, and a burst charge ignites stars. The stars contain metal salts that emit color when burning, while binders and charcoal influence burn rate and sparkle.
+
+## How to create it
+
+- **Design:** Choose a casing, fuse timing, and the desired effect (burst, fountain, crackle).
+- **Composition:** Prepare a stable fuel-oxidizer mix and stars that burn with specific colors.
+- **Assembly:** Pack the lift charge, shell, and stars so the fuse triggers the burst at altitude.
+- **Technical level:** Advanced. Requires precise control of materials and strict safety standards.
+
+## Materials needed
+
+- **Essential:** Paper casing, gunpowder, timed fuse, and star compositions (fuel, oxidizer, metal salts).
+- **Tools:** Molds, rammers, drying space, and protective equipment.
+- **Possible substitutes:** For low-intensity signals, use simpler flares with fewer color additives.
+
+## Variants and improvements
+
+- **Firecrackers:** Loud report with minimal light.
+- **Aerial shells:** High-altitude bursts with multi-break patterns.
+- **Fountains:** Ground-based sprays of sparks.
+- **Rockets:** Self-propelled ascent with a burst at peak.
+- **Computer-synced shows:** Precise timing with digital ignition.
+
+## Limits and risks
+
+- **Fire hazard:** Hot embers and falling debris can ignite structures or vegetation.
+- **Injury risk:** Misfires and early bursts can cause severe burns or trauma.
+- **Noise impact:** Loud reports can harm hearing or disturb wildlife.
+- **Regulation:** Often restricted by local laws and safety codes.
