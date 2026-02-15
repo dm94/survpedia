@@ -73,6 +73,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 ### Related materials
 
 - **[Cheese](/en/materials/cheese)**: Aged curd for longer storage.
+- **[Processed Cheese](/en/materials/processed-cheese)**: Re-melted curd with stabilized texture.
 - **[Blue Cheese](/en/materials/blue-cheese)**: Mold-ripened variant with strong flavor.
 - **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
 - **[Tofu](/en/materials/tofu)**: Plant-based curd set from soy milk.

@@ -73,6 +73,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 ### Materiales relacionados
 
 - **[Queso](/es/materials/cheese)**: Cuajada madurada para mayor conservación.
+- **[Queso procesado](/es/materials/processed-cheese)**: Cuajada re-fundida con textura estable.
 - **[Queso azul](/es/materials/blue-cheese)**: Variante con moho de sabor intenso.
 - **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada fresca sin maduración.
 - **[Tofu](/es/materials/tofu)**: Cuajada vegetal a partir de leche de soja.
