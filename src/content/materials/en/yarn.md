@@ -68,6 +68,7 @@ Yarn appears as a thin, continuous strand of twisted fibers. It can be smooth or
 
 - **[Plant Fibers](/en/materials/plant-fibers)**: Raw plant sources for spinning.
 - **[Cotton](/en/materials/cotton)**: Common plant fiber for yarn.
+- **[Cotton & Yarn](/en/materials/cotton-yarn)**: Cotton fiber spun into usable yarn.
 - **[Linen](/en/materials/linen)**: Linen yarn from flax for strong threads.
 - **[Wool](/en/materials/wool)**: Animal hair for warm, resilient yarn.
 - **[Silk](/en/materials/silk)**: Fine filament fiber for yarn.

@@ -74,6 +74,7 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 - **[Plant Fibers](/en/materials/plant-fibers)**: General category.
 - **[Linen](/en/materials/linen)**: Plant fiber with a crisper, cooler hand.
 - **[Yarn](/en/materials/yarn)**: Spun cotton becomes yarn for textiles.
+- **[Cotton & Yarn](/en/materials/cotton-yarn)**: The fiber-to-yarn material chain.
 - **[Wool](/en/materials/wool)**: Animal fiber often blended or substituted for cotton.
 - **[Fabric](/en/materials/fabric)**: The end product.
 - **[Paper](/en/materials/paper)**: High quality paper often contains cotton.
