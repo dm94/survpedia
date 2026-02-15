@@ -17,6 +17,7 @@ relatedInventions:
   - cart
   - pulley
   - rope
+  - reinforcements
   - fire
   - wheel
   - axle
@@ -40,14 +41,14 @@ La minería es la extracción controlada de minerales, roca y combustibles del s
 - **Prospección**: Detectar vetas o afloramientos por color, densidad y señales de superficie.
 - **Fractura**: Usar impacto y palanca para romper la roca anfitriona.
 - **Separación**: Clasificar por tamaño y densidad; lavar con **[Agua](/es/materials/water)** para concentrar mena.
-- **Soporte y acceso**: Estabilizar aperturas con **[Madera](/es/materials/wood)** y planear rutas.
+- **Soporte y acceso**: Estabilizar aperturas con **[Madera](/es/materials/wood)** y **[Refuerzos](/es/inventions/reinforcements)**, y planear rutas.
 - **Transporte**: Mover material con **[Cuerda](/es/inventions/rope)**, **[Carros](/es/inventions/cart)** y **[Poleas](/es/inventions/pulley)**.
 
 ## Cómo crearlo
 
 1. **Reconocer**: Seguir ríos, laderas y roca expuesta para detectar señales de mena.
 2. **Elegir método**: Empezar con zanjas o fosas superficiales antes de pozos.
-3. **Abrir acceso**: Retirar sobrecarga, cortar escalones y entibar si las paredes se desmoronan.
+3. **Abrir acceso**: Retirar sobrecarga, cortar escalones y entibar con **[Refuerzos](/es/inventions/reinforcements)** si las paredes se desmoronan.
 4. **Extraer**: Romper con **[Pico](/es/inventions/pico)** y **[Pala](/es/inventions/shovel)**, luego clasificar.
 5. **Acarrear**: Usar **[Cuerda](/es/inventions/rope)**, **[Poleas](/es/inventions/pulley)** y **[Carros](/es/inventions/cart)**.
 6. **Concentrar**: Lavar la mena y conservar la fracción de mayor valor.
@@ -58,7 +59,7 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 
 ## Materiales necesarios
 
-- **Esenciales**: Herramientas de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, **[Madera](/es/materials/wood)** para soportes, **[Cuerda](/es/inventions/rope)** para izado.
+- **Esenciales**: Herramientas de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, **[Madera](/es/materials/wood)** para soportes, **[Refuerzos](/es/inventions/reinforcements)**, **[Cuerda](/es/inventions/rope)** para izado.
 - **Procesamiento**: **[Agua](/es/materials/water)** para lavado, **[Arena](/es/materials/sand)** o **[Arcilla](/es/materials/clay)** para moldes al fundir.
 - **Herramientas**: **[Pico](/es/inventions/pico)**, **[Pala](/es/inventions/shovel)**, **[Carro](/es/inventions/cart)**, **[Polea](/es/inventions/pulley)**, **[Fuego controlado](/es/inventions/fire)** para luz y calor.
 - **Sustitutos**: Martillos de piedra, cestas tejidas, trineos o arrastres.
@@ -99,6 +100,7 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 - **[Carro](/es/inventions/cart)**: Acarreo en superficie.
 - **[Polea](/es/inventions/pulley)**: Izado en pozos.
 - **[Cuerda](/es/inventions/rope)**: Izado y sujeción de cargas.
+- **[Refuerzos](/es/inventions/reinforcements)**: Estabilización de pozos y galerías.
 - **[Fuego controlado](/es/inventions/fire)**: Luz, calor y fractura térmica.
 - **[Rueda](/es/inventions/wheel)**: Transporte rodado y elevación.
 - **[Eje](/es/inventions/axle)**: Soporte para ruedas y carros.
