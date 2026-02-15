@@ -34,7 +34,7 @@ Raw cotton is soft, light, and fluffy. When spun, the fibers become a continuous
 - **Harvesting**: Pick cotton bolls.
 - **Ginning**: Remove seeds from fiber.
 - **Carding/Combing**: Clean and align fibers.
-- **Spinning**: Twist fibers into yarn.
+- **[Spinning](/en/inventions/spinning)**: Twist fibers into yarn.
 - **If skipped**: Uncleaned or unaligned fiber spins unevenly and breaks easily.
 
 ### Tools needed to work on it
@@ -42,7 +42,7 @@ Raw cotton is soft, light, and fluffy. When spun, the fibers become a continuous
 - **Hands**: For harvesting and basic seed removal.
 - **Cotton Gin**: To speed up seed separation.
 - **Carders/Combs**: For fiber alignment.
-- **Spindle or Spinning Wheel**: For spinning yarn.
+- **[Spindle](/en/inventions/spindle)** or **[Spinning Wheel](/en/inventions/spinning-wheel)**: For spinning yarn.
 - **Loom or Needles**: For weaving or sewing.
 
 ### Common forms of use

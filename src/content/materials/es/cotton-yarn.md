@@ -34,7 +34,7 @@ El algodón crudo es suave, ligero y esponjoso. Al hilarlo, las fibras se convie
 - **Cosecha**: Recolectar las cápsulas de algodón.
 - **Desmotado**: Separar semillas de la fibra.
 - **Cardado/Peinado**: Limpiar y alinear fibras.
-- **Hilado**: Torcer fibras para formar hilo.
+- **[Hilado](/es/inventions/spinning)**: Torcer fibras para formar hilo.
 - **Si se omite**: La fibra sucia o desalineada hila irregular y se rompe.
 
 ### Herramientas necesarias para trabajarlo
@@ -42,7 +42,7 @@ El algodón crudo es suave, ligero y esponjoso. Al hilarlo, las fibras se convie
 - **Manos**: Para cosechar y retirar semillas de forma básica.
 - **Desmotadora**: Para acelerar la separación de semillas.
 - **Cardas/Peines**: Para alinear fibras.
-- **Huso o Rueca**: Para hilar.
+- **[Huso](/es/inventions/spindle)** o **[Rueca](/es/inventions/spinning-wheel)**: Para hilar.
 - **Telar o Agujas**: Para tejer o coser.
 
 ### Formas comunes de uso
