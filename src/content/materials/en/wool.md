@@ -76,5 +76,6 @@ Wool is soft and springy, with a crimped texture that traps air. It insulates ev
 
 - **[Leather](/en/materials/leather)**: Another animal-derived material for clothing and gear.
 - **[Yarn](/en/materials/yarn)**: Spun wool is a primary yarn source.
+- **[Cotton](/en/materials/cotton)**: Plant fiber that blends with wool for softness or breathability.
 - **[Textile Dye](/en/materials/textile-dye)**: Used to color wool fibers.
 - **[Plant fibers](/en/materials/plant-fibers)**: Common alternative fiber source.

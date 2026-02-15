@@ -72,5 +72,7 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 ### Materiales relacionados
 
 - **[Fibras Vegetales](/es/materials/plant-fibers)**: Categoría general.
+- **[Hilo](/es/materials/yarn)**: El algodón hilado se convierte en hilo para textiles.
+- **[Lana](/es/materials/wool)**: Fibra animal que suele mezclarse o sustituirse por algodón.
 - **[Tela](/es/materials/fabric)**: El producto final.
 - **[Papel](/es/materials/paper)**: El papel de alta calidad a menudo contiene algodón.

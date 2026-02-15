@@ -78,5 +78,6 @@ La lana es suave y elástica, con una textura ondulada que atrapa aire. Aísla i
 
 - **[Cuero](/es/materials/leather)**: Otro material animal para ropa y equipo.
 - **[Hilo](/es/materials/yarn)**: La lana es una fuente principal de hilo.
+- **[Algodón](/es/materials/cotton)**: Fibra vegetal que se mezcla con lana para suavidad o transpiración.
 - **[Tinte textil](/es/materials/textile-dye)**: Para colorear fibras de lana.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Fuente alternativa de fibras.
