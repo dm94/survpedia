@@ -43,18 +43,18 @@ En su forma más común (azúcar de mesa o sacarosa), es un sólido cristalino b
 
 - **Prensa/Trituradora**: Para extraer el jugo de la planta.
 - **Olla/Caldero**: Para hervir y evaporar.
-- **Fuente de Calor**: Para la evaporación.
-- **Recipiente**: Para la cristalización.
+- **[Fuego](/es/inventions/fire)**: Para la evaporación.
+- **[Contenedores](/es/inventions/containers)**: Para la cristalización.
 
 ### Formas comunes de uso
 
 - **Conservante**: En altas concentraciones (mermeladas, jaleas), inhibe el crecimiento bacteriano.
-- **Fermentación**: Fuente de alimento esencial para que la levadura produzca alcohol.
+- **[Fermentación](/es/inventions/fermentation)**: Fuente de alimento esencial para que **[Levadura](/es/materials/yeast)** produzca **[Alcohol](/es/materials/alcohol)**.
 - **Culinario**: Endulzar alimentos y bebidas.
 
 ### Posibles sustitutos
 
-- **Miel**: Un sustituto natural y líquido.
+- **[Miel](/es/materials/honey)**: Un sustituto natural y líquido.
 - **Jugo de Fruta**: Los jugos concentrados pueden proporcionar azúcares similares.
 - **Jarabe de Arce**: Savia de los árboles de arce.
 
@@ -72,6 +72,6 @@ En su forma más común (azúcar de mesa o sacarosa), es un sólido cristalino b
 
 ### Materiales relacionados
 
-- **Agua**: A menudo se usa para disolver el azúcar.
-- **Levadura**: Consume azúcar para producir alcohol y CO2.
-- **Alcohol**: Producto de la fermentación del azúcar.
+- **[Agua](/es/materials/water)**: A menudo se usa para disolver el azúcar.
+- **[Levadura](/es/materials/yeast)**: Consume azúcar para producir alcohol y CO2.
+- **[Alcohol](/es/materials/alcohol)**: Producto de la fermentación del azúcar.

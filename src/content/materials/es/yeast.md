@@ -72,6 +72,6 @@ Individualmente microscópicas, las colonias de levadura aparecen como una pasta
 
 ### Materiales relacionados
 
-- **Azúcar**: Fuente de alimento principal para la levadura.
-- **Agua**: Medio para la actividad de la levadura.
-- **Alcohol**: Subproducto metabólico de la levadura.
+- **[Azúcar](/es/materials/sugar)**: Fuente de alimento principal para la levadura.
+- **[Agua](/es/materials/water)**: Medio para la actividad de la levadura.
+- **[Alcohol](/es/materials/alcohol)**: Subproducto metabólico de la levadura.

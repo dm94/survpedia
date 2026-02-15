@@ -16,7 +16,7 @@ uses:
   - Fermentation substrate
   - Energy source
 naturalAvailability: true
-manufacturingProcess: 'Extracted from sugarcane, sugar beet, or fruits.'
+manufacturingProcess: "Extracted from sugarcane, sugar beet, or fruits."
 category: plant
 image: ../../../assets/images/materials/sugar.jpg
 ---
@@ -43,18 +43,18 @@ In its most common form (table sugar or sucrose), it is a white, odorless, cryst
 
 - **Press/Crusher**: To extract juice from the plant.
 - **Pot/Cauldron**: For boiling and evaporation.
-- **Heat Source**: For evaporation.
-- **Container**: For crystallization.
+- **[Fire](/en/inventions/fire)**: For evaporation.
+- **[Containers](/en/inventions/containers)**: For crystallization.
 
 ### Common forms of use
 
 - **Preservative**: In high concentrations (jams, jellies), it inhibits bacterial growth.
-- **Fermentation**: Essential food source for yeast to produce alcohol.
+- **[Fermentation](/en/inventions/fermentation)**: Essential food source for **[Yeast](/en/materials/yeast)** to produce **[Alcohol](/en/materials/alcohol)**.
 - **Culinary**: Sweetening foods and beverages.
 
 ### Possible substitutes
 
-- **Honey**: A natural, liquid substitute.
+- **[Honey](/en/materials/honey)**: A natural, liquid substitute.
 - **Fruit Juice**: Concentrated fruit juices can provide similar sugars.
 - **Maple Syrup**: Sap from maple trees.
 
@@ -72,6 +72,6 @@ In its most common form (table sugar or sucrose), it is a white, odorless, cryst
 
 ### Related materials
 
-- **Water**: Often used to dissolve sugar.
-- **Yeast**: Consumes sugar to produce alcohol and CO2.
-- **Alcohol**: Product of sugar fermentation.
+- **[Water](/en/materials/water)**: Often used to dissolve sugar.
+- **[Yeast](/en/materials/yeast)**: Consumes sugar to produce alcohol and CO2.
+- **[Alcohol](/en/materials/alcohol)**: Product of sugar fermentation.

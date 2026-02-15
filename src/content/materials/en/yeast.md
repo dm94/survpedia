@@ -70,6 +70,6 @@ Individually microscopic, yeast colonies appear as a creamy, beige, or off-white
 
 ### Related materials
 
-- **Sugar**: Primary food source for yeast.
-- **Water**: Medium for yeast activity.
-- **Alcohol**: Metabolic byproduct of yeast.
+- **[Sugar](/en/materials/sugar)**: Primary food source for yeast.
+- **[Water](/en/materials/water)**: Medium for yeast activity.
+- **[Alcohol](/en/materials/alcohol)**: Metabolic byproduct of yeast.

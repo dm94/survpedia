@@ -72,6 +72,6 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 ### Related materials
 
-- **Sugar**: Raw material for fermentation.
-- **Yeast**: The agent of fermentation.
-- **Vinegar**: Produced if alcohol is exposed to acetobacter and oxygen.
+- **[Sugar](/en/materials/sugar)**: Raw material for fermentation.
+- **[Yeast](/en/materials/yeast)**: The agent of fermentation.
+- **[Vinegar](/en/materials/vinegar)**: Produced if alcohol is exposed to acetobacter and oxygen.

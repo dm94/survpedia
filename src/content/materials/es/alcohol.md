@@ -72,6 +72,6 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 ### Materiales relacionados
 
-- **Azúcar**: Materia prima para la fermentación.
-- **Levadura**: El agente de la fermentación.
-- **Vinagre**: Se produce si el alcohol se expone a acetobacter y oxígeno.
+- **[Azúcar](/es/materials/sugar)**: Materia prima para la fermentación.
+- **[Levadura](/es/materials/yeast)**: El agente de la fermentación.
+- **[Vinagre](/es/materials/vinegar)**: Se produce si el alcohol se expone a acetobacter y oxígeno.
