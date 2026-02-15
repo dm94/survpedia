@@ -15,6 +15,7 @@ uses:
   - Endulzante
   - Sustrato de fermentación
   - Fuente de energía
+  - Confitería
 naturalAvailability: true
 manufacturingProcess: 'Extraído de la caña de azúcar, remolacha o frutas.'
 category: plant
@@ -51,6 +52,7 @@ En su forma más común (azúcar de mesa o sacarosa), es un sólido cristalino b
 - **Conservante**: En altas concentraciones (mermeladas, jaleas), inhibe el crecimiento bacteriano.
 - **[Fermentación](/es/inventions/fermentation)**: Fuente de alimento esencial para que **[Levadura](/es/materials/yeast)** produzca **[Alcohol](/es/materials/alcohol)**.
 - **Culinario**: Endulzar alimentos y bebidas.
+- **Confitería**: **[Algodón de azúcar](/es/materials/cotton-candy)** y otros dulces a base de azúcar.
 
 ### Posibles sustitutos
 
@@ -75,3 +77,4 @@ En su forma más común (azúcar de mesa o sacarosa), es un sólido cristalino b
 - **[Agua](/es/materials/water)**: A menudo se usa para disolver el azúcar.
 - **[Levadura](/es/materials/yeast)**: Consume azúcar para producir alcohol y CO2.
 - **[Alcohol](/es/materials/alcohol)**: Producto de la fermentación del azúcar.
+- **[Algodón de azúcar](/es/materials/cotton-candy)**: Dulce de azúcar hilada.

@@ -15,6 +15,7 @@ uses:
   - Sweetener
   - Fermentation substrate
   - Energy source
+  - Confectionery
 naturalAvailability: true
 manufacturingProcess: "Extracted from sugarcane, sugar beet, or fruits."
 category: plant
@@ -51,6 +52,7 @@ In its most common form (table sugar or sucrose), it is a white, odorless, cryst
 - **Preservative**: In high concentrations (jams, jellies), it inhibits bacterial growth.
 - **[Fermentation](/en/inventions/fermentation)**: Essential food source for **[Yeast](/en/materials/yeast)** to produce **[Alcohol](/en/materials/alcohol)**.
 - **Culinary**: Sweetening foods and beverages.
+- **Confectionery**: **[Cotton Candy](/en/materials/cotton-candy)** and other sugar-based sweets.
 
 ### Possible substitutes
 
@@ -75,3 +77,4 @@ In its most common form (table sugar or sucrose), it is a white, odorless, cryst
 - **[Water](/en/materials/water)**: Often used to dissolve sugar.
 - **[Yeast](/en/materials/yeast)**: Consumes sugar to produce alcohol and CO2.
 - **[Alcohol](/en/materials/alcohol)**: Product of sugar fermentation.
+- **[Cotton Candy](/en/materials/cotton-candy)**: Spun sugar confection.
