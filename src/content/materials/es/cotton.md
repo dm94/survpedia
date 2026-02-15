@@ -54,7 +54,7 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 
 ### Posibles sustitutos
 
-- **[Fibras Vegetales](/es/materials/plant-fibers)**: Lino, Cáñamo (más áspero).
+- **[Fibras Vegetales](/es/materials/plant-fibers)**: **[Lino](/es/materials/linen)**, cáñamo (más áspero).
 - **[Lana](/es/materials/wool)**: Más cálida, de animales.
 - **Fibras sintéticas**: Poliéster, Rayón.
 
@@ -72,6 +72,7 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 ### Materiales relacionados
 
 - **[Fibras Vegetales](/es/materials/plant-fibers)**: Categoría general.
+- **[Lino](/es/materials/linen)**: Fibra vegetal fresca y resistente.
 - **[Hilo](/es/materials/yarn)**: El algodón hilado se convierte en hilo para textiles.
 - **[Lana](/es/materials/wool)**: Fibra animal que suele mezclarse o sustituirse por algodón.
 - **[Tela](/es/materials/fabric)**: El producto final.

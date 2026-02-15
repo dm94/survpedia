@@ -69,5 +69,6 @@ Las fibras vegetales suelen ser hebras delgadas, similares al cabello. Pueden se
 ### Materiales relacionados
 
 - Algodón: Una fibra vegetal específica y muy común.
+- **[Lino](/es/materials/linen)**: Fibra de lino apreciada por resistencia y frescura.
 - Madera: También contiene fibras de celulosa pero en una matriz rígida.
 - Papel: A menudo hecho de fibras vegetales procesadas.

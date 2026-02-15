@@ -67,6 +67,7 @@ La tela aparece como una lámina continua de hilos entrelazados. Su textura, pes
 ### Materiales relacionados
 
 - **Fibras vegetales:** Materia prima (algodón, lino, cáñamo).
+- **[Lino](/es/materials/linen)**: Tela habitual de lino.
 - **Lana:** Materia prima animal.
 - **[Seda](/es/materials/silk)**: Fibra animal de filamentos finos.
 - **[Tinte textil](/es/materials/textile-dye)**: Para colorear.

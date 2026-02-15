@@ -71,5 +71,6 @@ Plant fibers are typically thin, hair-like strands. They can be soft (like cotto
 ### Related materials
 
 - Cotton: A specific and very common plant fiber.
+- **[Linen](/en/materials/linen)**: Flax fiber valued for strength and breathability.
 - Wood: Also contains cellulose fibers but in a rigid matrix.
 - Paper: Often made from processed plant fibers.

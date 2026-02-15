@@ -4,6 +4,7 @@ materialsUsed:
   - leather
   - wool
   - cotton
+  - linen
   - silk
   - plant-fibers
 image: ../../../assets/images/inventions/clothing.jpg

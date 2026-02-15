@@ -54,7 +54,7 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 
 ### Possible substitutes
 
-- **[Plant Fibers](/en/materials/plant-fibers)**: Flax (linen), Hemp (rougher).
+- **[Plant Fibers](/en/materials/plant-fibers)**: **[Linen](/en/materials/linen)** (flax), hemp (rougher).
 - **[Wool](/en/materials/wool)**: Warmer, from animals.
 - **Synthetic Fibers**: Polyester, Rayon.
 
@@ -72,6 +72,7 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 ### Related materials
 
 - **[Plant Fibers](/en/materials/plant-fibers)**: General category.
+- **[Linen](/en/materials/linen)**: Plant fiber with a crisper, cooler hand.
 - **[Yarn](/en/materials/yarn)**: Spun cotton becomes yarn for textiles.
 - **[Wool](/en/materials/wool)**: Animal fiber often blended or substituted for cotton.
 - **[Fabric](/en/materials/fabric)**: The end product.
