@@ -10,6 +10,7 @@ relatedMaterials:
   - animal-fat
   - bone
   - salt
+  - curd-cheese
 relatedInventions:
   - rope
   - containers
@@ -78,6 +79,7 @@ Livestock is the managed raising of domesticated animals for food, materials, la
 - **[Bone](/en/materials/bone)**: Tools and fertilizer.
 - **[Plant fibers](/en/materials/plant-fibers)**: Cordage and woven hurdles.
 - **[Salt](/en/materials/salt)**: Mineral supplementation and preservation.
+- **[Curd & Cheese](/en/materials/curd-cheese)**: Concentrated dairy food from milk.
 
 ### Related inventions
 

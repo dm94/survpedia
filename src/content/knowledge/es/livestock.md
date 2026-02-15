@@ -10,6 +10,7 @@ relatedMaterials:
   - animal-fat
   - bone
   - salt
+  - curd-cheese
 relatedInventions:
   - rope
   - containers
@@ -78,6 +79,7 @@ La ganadería es la cría y manejo de animales domesticados para obtener aliment
 - **[Hueso](/es/materials/bone)**: Herramientas y fertilizante.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Cordajes y cercas tejidas.
 - **[Sal](/es/materials/salt)**: Suplemento mineral y conservación.
+- **[Cuajada y queso](/es/materials/curd-cheese)**: Alimento lácteo concentrado a partir de leche.
 
 ### Inventos relacionados
 
