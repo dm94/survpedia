@@ -31,7 +31,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 
 ### Minimum processing required
 
-- **Coagulation**: Warm milk and add acid or rennet to form curds.
+- **Coagulation**: Warm milk and add acid or **[Enzymes](/en/materials/enzymes)** to form curds.
 - **Draining**: Cut curds and drain whey through **[Fabric](/en/materials/fabric)** or a clean strainer.
 - **Salting**: Mix or brine with **[Salt](/en/materials/salt)** to stabilize and flavor.
 - **Pressing/Aging**: Press for firmer cheese; age in a cool, clean space for longer storage.
@@ -72,6 +72,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 ### Related materials
 
 - **[Cheese](/en/materials/cheese)**: Aged curd for longer storage.
+- **[Enzymes](/en/materials/enzymes)**: Catalysts used for milk coagulation.
 - **[Salt](/en/materials/salt)**: Essential for preservation and flavor.
 - **[Water](/en/materials/water)**: Cleaning and brining.
 - **[Animal Fat](/en/materials/animal-fat)**: Shared dairy fat source and preservation aid.

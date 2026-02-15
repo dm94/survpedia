@@ -31,7 +31,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 
 ### Procesamiento mínimo requerido
 
-- **Coagulación**: Calentar la leche y añadir ácido o cuajo para formar cuajada.
+- **Coagulación**: Calentar la leche y añadir ácido o **[Enzimas](/es/materials/enzymes)** para formar cuajada.
 - **Escurrido**: Cortar la cuajada y drenar el suero con **[Tela](/es/materials/fabric)** o colador limpio.
 - **Salado**: Mezclar o poner en salmuera con **[Sal](/es/materials/salt)** para estabilizar y dar sabor.
 - **Prensado/Maduración**: Prensar para firmeza; madurar en un lugar fresco y limpio.
@@ -72,6 +72,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 ### Materiales relacionados
 
 - **[Queso](/es/materials/cheese)**: Cuajada madurada para mayor conservación.
+- **[Enzimas](/es/materials/enzymes)**: Catalizadores usados para coagular la leche.
 - **[Sal](/es/materials/salt)**: Clave para conservación y sabor.
 - **[Agua](/es/materials/water)**: Limpieza y salmueras.
 - **[Grasa Animal](/es/materials/animal-fat)**: Fuente grasa relacionada y conservación.
