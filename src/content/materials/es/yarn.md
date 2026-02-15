@@ -66,7 +66,8 @@ El hilo aparece como una hebra delgada y continua de fibras retorcidas. Puede se
 
 ### Materiales relacionados
 
-- **Fibras vegetales**: Algodón, Lino, Cáñamo (materias primas).
-- **Lana**: Pelo animal (materia prima).
+- **[Fibras vegetales](/es/materials/plant-fibers)**: Materias primas vegetales para hilar.
+- **[Algodón](/es/materials/cotton)**: Fibra vegetal común para hilo.
+- **[Lana](/es/materials/wool)**: Pelo animal para hilo cálido y resistente.
 - **[Seda](/es/materials/silk)**: Fibra filamentosa fina para hilo.
-- **Tela**: El producto de tejer hilo.
+- **[Tela](/es/materials/fabric)**: El producto de tejer hilo.

@@ -47,8 +47,8 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 
 ### Common forms of use
 
-- **Thread/Yarn**: Spun cotton used for sewing or weaving.
-- **Fabric**: Woven cotton (denim, muslin, calico).
+- **[Yarn](/en/materials/yarn)**: Spun cotton used for sewing or weaving.
+- **[Fabric](/en/materials/fabric)**: Woven cotton (denim, muslin, calico).
 - **Raw**: Used as padding or stuffing (batting).
 - **Medical**: Absorbent cotton for cleaning wounds.
 
@@ -73,4 +73,4 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 
 - **[Plant Fibers](/en/materials/plant-fibers)**: General category.
 - **[Fabric](/en/materials/fabric)**: The end product.
-- **Paper**: High quality paper often contains cotton.
+- **[Paper](/en/materials/paper)**: High quality paper often contains cotton.

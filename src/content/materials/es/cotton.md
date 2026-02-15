@@ -47,8 +47,8 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 
 ### Formas comunes de uso
 
-- **Hilo/Estambre**: Algodón hilado utilizado para coser o tejer.
-- **Tela**: Algodón tejido (mezclilla, muselina, calicó).
+- **[Hilo](/es/materials/yarn)**: Algodón hilado utilizado para coser o tejer.
+- **[Tela](/es/materials/fabric)**: Algodón tejido (mezclilla, muselina, calicó).
 - **Crudo**: Utilizado como relleno o acolchado (guata).
 - **Médico**: Algodón absorbente para limpiar heridas.
 
@@ -73,4 +73,4 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 
 - **[Fibras Vegetales](/es/materials/plant-fibers)**: Categoría general.
 - **[Tela](/es/materials/fabric)**: El producto final.
-- **Papel**: El papel de alta calidad a menudo contiene algodón.
+- **[Papel](/es/materials/paper)**: El papel de alta calidad a menudo contiene algodón.
