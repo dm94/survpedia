@@ -72,6 +72,7 @@ El queso puede ser blando y cremoso o duro y quebradizo. La maduración intensif
 ### Materiales relacionados
 
 - **[Cuajada y queso](/es/materials/curd-cheese)**: Base de cuajada y primeras etapas del queso.
+- **[Queso fresco](/es/materials/unripened-cheese)**: Queso sin maduración y de consumo rápido.
 - **[Sal](/es/materials/salt)**: Conservación y sabor.
 - **[Agua](/es/materials/water)**: Limpieza y salmueras.
 - **[Grasa Animal](/es/materials/animal-fat)**: Fuente grasa relacionada.

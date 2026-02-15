@@ -72,6 +72,7 @@ Fresh curd is soft, moist, and mild, while cheese ranges from creamy to firm dep
 ### Related materials
 
 - **[Cheese](/en/materials/cheese)**: Aged curd for longer storage.
+- **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh curd without aging.
 - **[Enzymes](/en/materials/enzymes)**: Catalysts used for milk coagulation.
 - **[Salt](/en/materials/salt)**: Essential for preservation and flavor.
 - **[Water](/en/materials/water)**: Cleaning and brining.

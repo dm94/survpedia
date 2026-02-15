@@ -72,6 +72,7 @@ Cheese ranges from soft and creamy to hard and brittle. Aging deepens aroma and 
 ### Related materials
 
 - **[Curd & Cheese](/en/materials/curd-cheese)**: Base curd and early stages of cheese making.
+- **[Unripened Cheese](/en/materials/unripened-cheese)**: Fresh cheese without aging.
 - **[Salt](/en/materials/salt)**: Preservation and flavor.
 - **[Water](/en/materials/water)**: Cleaning and brining.
 - **[Animal Fat](/en/materials/animal-fat)**: Shared dairy fat source.

@@ -72,6 +72,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 ### Materiales relacionados
 
 - **[Queso](/es/materials/cheese)**: Cuajada madurada para mayor conservación.
+- **[Queso fresco](/es/materials/unripened-cheese)**: Cuajada fresca sin maduración.
 - **[Enzimas](/es/materials/enzymes)**: Catalizadores usados para coagular la leche.
 - **[Sal](/es/materials/salt)**: Clave para conservación y sabor.
 - **[Agua](/es/materials/water)**: Limpieza y salmueras.
