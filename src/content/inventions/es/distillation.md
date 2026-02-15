@@ -15,7 +15,7 @@ Te permite purificar agua, concentrar alcohol para uso médico o combustible, y 
 Su propósito práctico es la separación y purificación:
 
 - **Purificación de agua**: Eliminación de sales, bacterias e impurezas (desalinización).
-- **Concentración de alcohol**: Aumentar el contenido de etanol más allá de lo que la fermentación puede lograr (para antisépticos, combustible, licores).
+- **Concentración de alcohol**: Aumentar el contenido de etanol más allá de lo que la fermentación puede lograr (para antisépticos, combustible, licores, **[Alcohol rectificado](/es/materials/rectified-spirits)**).
 - **Extracción**: Obtención de aceites esenciales y perfumes de plantas.
 - **Refinado**: Separación del petróleo crudo en fracciones útiles (avanzado).
 

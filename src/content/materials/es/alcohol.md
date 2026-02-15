@@ -74,4 +74,5 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 
 - **[Azúcar](/es/materials/sugar)**: Materia prima para la fermentación.
 - **[Levadura](/es/materials/yeast)**: El agente de la fermentación.
+- **[Alcohol rectificado](/es/materials/rectified-spirits)**: Etanol de alta pureza para extracción y combustible.
 - **[Vinagre](/es/materials/vinegar)**: Se produce si el alcohol se expone a acetobacter y oxígeno.

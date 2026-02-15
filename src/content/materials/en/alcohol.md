@@ -74,4 +74,5 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 
 - **[Sugar](/en/materials/sugar)**: Raw material for fermentation.
 - **[Yeast](/en/materials/yeast)**: The agent of fermentation.
+- **[Rectified Spirits](/en/materials/rectified-spirits)**: High-purity ethanol for extraction and fuel.
 - **[Vinegar](/en/materials/vinegar)**: Produced if alcohol is exposed to acetobacter and oxygen.

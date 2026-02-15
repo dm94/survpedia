@@ -15,7 +15,7 @@ It allows you to purify water, concentrate alcohol for medical or fuel use, and 
 Its practical purpose is separation and purification:
 
 - **Water Purification**: Removing salts, bacteria, and impurities (desalination).
-- **Alcohol Concentration**: Increasing ethanol content beyond what fermentation can achieve (for antiseptics, fuel, spirits).
+- **Alcohol Concentration**: Increasing ethanol content beyond what fermentation can achieve (for antiseptics, fuel, spirits, **[Rectified Spirits](/en/materials/rectified-spirits)**).
 - **Extraction**: Obtaining essential oils and perfumes from plants.
 - **Refining**: Separating crude oil into useful fractions (advanced).
 
