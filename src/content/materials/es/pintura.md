@@ -60,6 +60,7 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 ### Posibles sustitutos
 
 - **Tintes/Manchas**: Penetran la superficie en lugar de asentarse sobre ella.
+- **[Tinte textil](/es/materials/textile-dye)**: Para **[teñido de tela](/es/inventions/tenido-de-tela)** cuando se requiere color permanente en fibras.
 - **Arcilla/Barro coloreado**: Pintura corporal primitiva o revestimiento temporal de paredes.
 - **Sangre/Jugo de bayas**: Pinturas improvisadas, aunque a menudo fugitivas.
 
@@ -80,6 +81,8 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 
 - **[Pigmentos](/es/materials/pigmentos)**: El agente colorante.
 - **[Pincel](/es/inventions/pincel)**: Herramienta de aplicación.
+- **[Tinte textil](/es/materials/textile-dye)**: Alternativa para coloración de fibras.
+- **[Teñido de tela](/es/inventions/tenido-de-tela)**: Proceso de coloración permanente en textiles.
 - **Aceite**: Aglutinante común.
 - **Huevo**: Aglutinante común.
 - **[Lienzo](/es/materials/lienzo)** / **[Madera](/es/materials/wood)**: Sustratos comunes.

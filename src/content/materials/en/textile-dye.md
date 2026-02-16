@@ -77,5 +77,8 @@ Usually found as a colored liquid bath during the process, or as dried powders/p
 - **[Alum](/en/materials/alum)**: The most common mordant for bright, clear colors.
 - **[Fabric](/en/materials/fabric)**: The substrate being dyed.
 - **[Clothing](/en/inventions/clothing)**: The final product.
+- **[Paint](/en/materials/paint)**: Surface color alternative when fiber bonding is not needed.
+- **[Brush](/en/inventions/brush)**: Localized application of thickened dye.
+- **[Fabric Dyeing](/en/inventions/fabric-dyeing)**: Full process for textile coloration.
 - **[Vinegar](/en/materials/vinegar)**: Used as a modifier or pH adjuster.
 - **[Ash](/en/materials/ash)**: Source of lye for cleaning or modifying colors.

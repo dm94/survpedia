@@ -15,7 +15,7 @@ Un pincel es una herramienta manual que consiste en cerdas unidas a un mango, ut
 ## Uso / Función
 
 - **Uso principal**: Aplicación de pintura o tinta para arte, escritura o decoración.
-- **Usos secundarios**: Limpieza (quitar polvo), aseo (cepillo de pelo), aplicación de pegamentos o cosméticos.
+- **Usos secundarios**: Limpieza (quitar polvo), aseo (cepillo de pelo), aplicación de pegamentos o cosméticos, teñido localizado con **[tinte textil](/es/materials/textile-dye)**.
 - **Escala**: Doméstica a industrial (desde bellas artes hasta pintura de casas).
 
 ## Principio de funcionamiento

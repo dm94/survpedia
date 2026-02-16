@@ -15,7 +15,7 @@ A brush is a handheld tool consisting of bristles attached to a handle, used for
 ## Use / Function
 
 - **Primary use**: Application of paint or ink for art, writing, or decoration.
-- **Secondary uses**: Cleaning (dusting), grooming (hairbrush), application of glues or cosmetics.
+- **Secondary uses**: Cleaning (dusting), grooming (hairbrush), application of glues or cosmetics, localized dyeing with **[textile dye](/en/materials/textile-dye)**.
 - **Scale**: Domestic to industrial (from fine art to house painting).
 
 ## Operating principle

@@ -60,6 +60,7 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 ### Possible substitutes
 
 - **Stains/Dyes**: Penetrate the surface rather than sitting on top.
+- **[Textile Dye](/en/materials/textile-dye)**: For **[fabric dyeing](/en/inventions/fabric-dyeing)** when color must bond to fibers.
 - **Colored Clay/Mud**: Primitive body paint or temporary wall covering.
 - **Blood/Berry Juice**: Makeshift paints, though often fugitive.
 
@@ -80,6 +81,8 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 
 - **[Pigments](/en/materials/pigments)**: The coloring agent.
 - **[Brush](/en/inventions/brush)**: Tool for application.
+- **[Textile Dye](/en/materials/textile-dye)**: Fiber colorant alternative to paint.
+- **[Fabric Dyeing](/en/inventions/fabric-dyeing)**: Process for permanent textile coloration.
 - **Oil**: Common binder.
 - **Egg**: Common binder.
 - **[Canvas](/en/materials/canvas)** / **[Wood](/en/materials/wood)**: Common substrates.

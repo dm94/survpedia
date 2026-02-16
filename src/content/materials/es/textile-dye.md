@@ -77,5 +77,8 @@ Generalmente se encuentra como un baño líquido coloreado durante el proceso, o
 - **[Alumbre](/es/materials/alum)**: El mordiente más común para colores brillantes y claros.
 - **[Tela](/es/materials/fabric)**: El sustrato que se tiñe.
 - **[Ropa](/es/inventions/clothing)**: El producto final.
+- **[Pintura](/es/materials/pintura)**: Alternativa superficial cuando no se busca penetrar fibras.
+- **[Pincel](/es/inventions/pincel)**: Aplicación localizada de tinte espesado.
+- **[Teñido de tela](/es/inventions/tenido-de-tela)**: Proceso completo de coloración textil.
 - **[Vinagre](/es/materials/vinegar)**: Utilizado como modificador o ajustador de pH.
 - **[Ceniza](/es/materials/ash)**: Fuente de lejía para limpiar o modificar colores.
