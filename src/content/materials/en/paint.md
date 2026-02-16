@@ -81,6 +81,7 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 
 - **[Pigments](/en/materials/pigments)**: The coloring agent.
 - **[Brush](/en/inventions/brush)**: Tool for application.
+- **[Painting Walls](/en/inventions/painting-walls)**: Surface preparation and application workflow.
 - **[Textile Dye](/en/materials/textile-dye)**: Fiber colorant alternative to paint.
 - **[Fabric Dyeing](/en/inventions/fabric-dyeing)**: Process for permanent textile coloration.
 - **Oil**: Common binder.

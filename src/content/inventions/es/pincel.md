@@ -15,6 +15,7 @@ Un pincel es una herramienta manual que consiste en cerdas unidas a un mango, ut
 ## Uso / Función
 
 - **Uso principal**: Aplicación de pintura o tinta para arte, escritura o decoración.
+- **Pintado de paredes**: Aplicar **[pintura](/es/materials/pintura)** en superficies grandes (ver **[Pintar paredes](/es/inventions/pintar-paredes)**).
 - **Usos secundarios**: Limpieza (quitar polvo), aseo (cepillo de pelo), aplicación de pegamentos o cosméticos, teñido localizado con **[tinte textil](/es/materials/textile-dye)**.
 - **Escala**: Doméstica a industrial (desde bellas artes hasta pintura de casas).
 

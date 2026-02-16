@@ -81,6 +81,7 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 
 - **[Pigmentos](/es/materials/pigmentos)**: El agente colorante.
 - **[Pincel](/es/inventions/pincel)**: Herramienta de aplicación.
+- **[Pintar paredes](/es/inventions/pintar-paredes)**: Preparación de superficie y aplicación.
 - **[Tinte textil](/es/materials/textile-dye)**: Alternativa para coloración de fibras.
 - **[Teñido de tela](/es/inventions/tenido-de-tela)**: Proceso de coloración permanente en textiles.
 - **Aceite**: Aglutinante común.
