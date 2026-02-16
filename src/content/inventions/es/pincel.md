@@ -46,6 +46,10 @@ Las cerdas retienen el líquido (pintura/tinta) mediante acción capilar y tensi
   - Mango: Madera, bambú, hueso.
   - Unión: Cuerda, alambre, tira de **[cuero](/es/materials/leather)**.
 - **Herramientas**: Cuchillo, tijeras (para recortar la base, no las puntas), [Pegamento](../../materials/es/glue.md)/[Resina](../../materials/es/resin.md).
+- **Posibles sustitutos**:
+  - **Aplicación**: Trapo, esponja, mano o pluma para efectos amplios o trazos simples.
+  - **Cerdas**: Musgo, fibras de palma o plumas para usos rústicos.
+  - **Unión**: Resina, tendón o fibra vegetal trenzada si no hay cuerda.
 
 ## Variantes y mejoras
 

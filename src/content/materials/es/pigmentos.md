@@ -51,6 +51,14 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 - **Cuencos/Frascos**: Para lavado y decantación.
 - **Tamices**: Para eliminar residuos grandes.
 
+### Mezcla de pigmentos para pintura y pinceles
+
+- **Humectación**: Mezclar el pigmento con unas gotas de agua o solvente para romper grumos y reducir polvo.
+- **Dispersión en aglutinante**: Moler con moleta hasta que cada partícula quede recubierta; esto mejora la cobertura y la estabilidad.
+- **Ajuste de carga**: Aumentar pigmento para opacidad o reducirlo para transparencias, evitando exceso que vuelva la pintura quebradiza.
+- **Consistencia para pincel**: Diluir gradualmente hasta lograr flujo uniforme sin goteo ni textura arenosa.
+- **Prueba de trazo**: Probar en paleta o papel para comprobar color, transparencia y marca del pincel antes de aplicar.
+
 ### Formas comunes de uso
 
 - **Polvo seco**: Almacenado para uso posterior.

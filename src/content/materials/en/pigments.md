@@ -51,6 +51,14 @@ Pigments appear as fine, colored powders. The color intensity and coverage depen
 - **Bowls/Jars**: For washing and settling.
 - **Sieves**: To remove large debris.
 
+### Mixing pigments for paints and brushes
+
+- **Wetting**: Mix pigment with a few drops of water or solvent to break clumps and reduce dust.
+- **Binder dispersion**: Mull into the binder until each particle is coated to improve coverage and stability.
+- **Pigment load**: Increase for opacity or reduce for transparency while avoiding an overly brittle paint film.
+- **Brush consistency**: Thin gradually until the flow is smooth without dripping or grit.
+- **Stroke test**: Test on a palette or paper to confirm color, transparency, and brush mark before applying.
+
 ### Common forms of use
 
 - **Dry Powder**: Stored for later use.

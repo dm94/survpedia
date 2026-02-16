@@ -46,6 +46,10 @@ The bristles hold the liquid (paint/ink) through capillary action and surface te
   - Handle: Wood, bamboo, bone.
   - Binding: String, wire, **[leather](/en/materials/leather)** strip.
 - **Tools**: Knife, scissors (for trimming base, not tips), [Glue](../../materials/en/glue.md)/[Resin](../../materials/en/resin.md).
+- **Possible substitutes**:
+  - **Application**: Cloth, sponge, hand, or feather for broad effects or simple strokes.
+  - **Bristles**: Moss, palm fibers, or feathers for rough use.
+  - **Binding**: Resin, sinew, or braided plant fiber if string is unavailable.
 
 ## Variants and improvements
 
