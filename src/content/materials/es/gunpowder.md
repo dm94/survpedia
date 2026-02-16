@@ -78,4 +78,4 @@ Se ve como granos o polvo gris oscuro a negro. Es polvorienta, ligeramente aceit
 
 - **[Carbón vegetal](/es/materials/charcoal)**: Componente combustible.
 - **[Azufre](/es/elements/sulfur)**: Modificador de combustión.
-- **Nitrato de potasio (salitre)**: Oxidante principal.
+- **[Nitrato de potasio (salitre)](/es/materials/potassium_nitrate)**: Oxidante principal.

@@ -78,4 +78,4 @@ It appears as dark gray to black grains or powder. It is dusty, slightly oily to
 
 - **[Charcoal](/en/materials/charcoal)**: Fuel component.
 - **[Sulfur](/en/elements/sulfur)**: Burn-rate modifier and stabilizer.
-- **Potassium nitrate (saltpeter)**: Primary oxidizer.
+- **[Potassium nitrate (saltpeter)](/en/materials/potassium_nitrate)**: Primary oxidizer.
