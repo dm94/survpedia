@@ -24,7 +24,7 @@ category: mineral
 image: ../../../assets/images/materials/pigmentos.jpg
 ---
 
-Los pigmentos son partículas sólidas insolubles finamente molidas que se utilizan para dar color a otros materiales, como pintura, tinta, plástico, tela y cosméticos. A diferencia de los tintes, los pigmentos no se disuelven en el medio, sino que permanecen suspendidos en él.
+Los pigmentos son partículas sólidas insolubles finamente molidas que se utilizan para dar color a otros materiales, como pintura, tinta, plástico, tela y cosméticos. A diferencia de los tintes, los pigmentos no se disuelven en el medio, sino que permanecen suspendidos en él. En trabajos de pintura y pinceles, los pigmentos se dispersan en la [pintura](/es/materials/pintura) y se aplican con [pinceles](/es/inventions/pincel).
 
 ## Descripción física
 
@@ -76,9 +76,9 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 
 ### Materiales relacionados
 
-- **[Pintura](../../materials/es/paint.md)**: La aplicación principal de los pigmentos (Pigmento + Aglutinante).
+- **[Pintura](/es/materials/pintura)**: La aplicación principal de los pigmentos (Pigmento + Aglutinante).
 - **[Cardenillo](/es/materials/verdigris)**: Un pigmento verde común a base de cobre.
 - **[Albayalde](/es/materials/white-lead)**: Un pigmento blanco común a base de plomo.
-- **[Tinta](../../materials/es/ink.md)**: Pigmentos suspendidos en un líquido para escribir.
-- **[Pegamento](../../materials/es/glue.md)**: Puede actuar como aglutinante.
-- **[Arcilla](../../materials/es/clay.md)**: Una fuente de pigmentos de tierra (Ocre).
+- **[Tinta](/es/materials/ink)**: Pigmentos suspendidos en un líquido para escribir.
+- **[Pegamento](/es/materials/glue)**: Puede actuar como aglutinante.
+- **[Arcilla](/es/materials/clay)**: Una fuente de pigmentos de tierra (Ocre).

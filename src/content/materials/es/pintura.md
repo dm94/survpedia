@@ -30,7 +30,7 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 
 ## Origen y dónde encontrarlo
 
-- **Pigmento**: Obtenido de minerales, plantas u hollín (ver Pigmentos).
+- **Pigmento**: Obtenido de minerales, plantas u hollín (ver [Pigmentos](/es/materials/pigmentos)).
 - **Aglutinante**:
   - **Natural**: Yema de huevo (Temple), Goma Arábiga (Acuarela), Cola animal (Temple de cola), Aceite de linaza/nuez (Óleo), Caseína (Pintura de leche).
   - **Sintético**: Acrílicos, Alquídicos.
@@ -78,9 +78,9 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 
 ### Materiales relacionados
 
-- **Pigmentos**: El agente colorante.
-- **Pincel**: Herramienta de aplicación.
+- **[Pigmentos](/es/materials/pigmentos)**: El agente colorante.
+- **[Pincel](/es/inventions/pincel)**: Herramienta de aplicación.
 - **Aceite**: Aglutinante común.
 - **Huevo**: Aglutinante común.
-- **Lienzo/Madera**: Sustratos comunes.
+- **[Lienzo](/es/materials/lienzo)** / **[Madera](/es/materials/wood)**: Sustratos comunes.
 - **Imprimación/Gesso**: Capa base para preparar la superficie.

@@ -30,7 +30,7 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 
 ## Origin and where to find it
 
-- **Pigment**: Sourced from minerals, plants, or soot (see Pigments).
+- **Pigment**: Sourced from minerals, plants, or soot (see [Pigments](/en/materials/pigments)).
 - **Binder**:
   - **Natural**: Egg yolk (Tempera), Gum Arabic (Watercolor), Animal Glue (Distemper), Linseed/Walnut Oil (Oil Paint), Casein (Milk Paint).
   - **Synthetic**: Acrylics, Alkyds.
@@ -78,9 +78,9 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 
 ### Related materials
 
-- **Pigments**: The coloring agent.
-- **Brush**: Tool for application.
+- **[Pigments](/en/materials/pigments)**: The coloring agent.
+- **[Brush](/en/inventions/brush)**: Tool for application.
 - **Oil**: Common binder.
 - **Egg**: Common binder.
-- **Canvas/Wood**: Common substrates.
+- **[Canvas](/en/materials/canvas)** / **[Wood](/en/materials/wood)**: Common substrates.
 - **Primer/Gesso**: Base coat to prepare the surface.

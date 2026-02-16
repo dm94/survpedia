@@ -24,7 +24,7 @@ category: mineral
 image: ../../../assets/images/materials/pigments.jpg
 ---
 
-Pigments are finely ground, insoluble solid particles that are used to impart color to other materials, such as paint, ink, plastic, fabric, and cosmetics. Unlike dyes, pigments do not dissolve in the medium but remain suspended in it.
+Pigments are finely ground, insoluble solid particles that are used to impart color to other materials, such as paint, ink, plastic, fabric, and cosmetics. Unlike dyes, pigments do not dissolve in the medium but remain suspended in it. In paint and brush workflows, pigments are dispersed into [paint](/en/materials/paint) and applied with [brushes](/en/inventions/brush).
 
 ## Description of what it is like
 
@@ -76,9 +76,9 @@ Pigments appear as fine, colored powders. The color intensity and coverage depen
 
 ### Related materials
 
-- **[Paint](../../materials/en/paint.md)**: The primary application of pigments (Pigment + Binder).
+- **[Paint](/en/materials/paint)**: The primary application of pigments (Pigment + Binder).
 - **[Verdigris](/en/materials/verdigris)**: A common copper-based green pigment.
 - **[White Lead](/en/materials/white-lead)**: A common lead-based white pigment.
-- **[Ink](../../materials/en/ink.md)**: Pigments suspended in a liquid for writing.
-- **[Glue](../../materials/en/glue.md)**: Can act as a binder.
-- **[Clay](../../materials/en/clay.md)**: A source of earth pigments (Ochre).
+- **[Ink](/en/materials/ink)**: Pigments suspended in a liquid for writing.
+- **[Glue](/en/materials/glue)**: Can act as a binder.
+- **[Clay](/en/materials/clay)**: A source of earth pigments (Ochre).
