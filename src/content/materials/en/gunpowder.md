@@ -19,17 +19,63 @@ composition:
   - nitrogen
   - oxygen
 naturalAvailability: false
+manufacturingProcess: Milled and blended fuel and oxidizer are dampened, pressed, granulated, dried, and screened into consistent grains.
 image: ../../../assets/images/materials/gunpowder.jpg
 ---
 
-## History
+Gunpowder (black powder) is a granular propellant made from potassium nitrate, charcoal, and sulfur. It releases large volumes of hot gas when ignited, making it useful for propulsion and controlled blasting.
 
-Gunpowder (or Black Powder) is one of the "Four Great Inventions" of China. Discovered in the 9th century by Taoist alchemists searching for an elixir of life. By the 11th century, it was used in bombs and fire arrows. It spread to the Middle East and Europe via the Silk Road.
+## Description of what it is like
 
-## Properties
+It appears as dark gray to black grains or powder. It is dusty, slightly oily to the touch, and burns rapidly with a bright flash and heavy smoke.
 
-It is a low explosive, meaning it deflagrates (subsonic combustion) rather than detonating. This makes it suitable for propelling projectiles without destroying the gun barrel. The mixture consists of a fuel (charcoal), an oxidizer (potassium nitrate/saltpeter), and a stabilizer (sulfur).
+## Origin and where to find it
 
-## Manufacturing
+- **Components**: Potassium nitrate (saltpeter), charcoal, and sulfur are sourced separately.
+- **Saltpeter sources**: Nitrate-rich soils, compost heaps, or mineral deposits processed into potassium nitrate.
+- **Charcoal sources**: Kilns or covered pits that convert wood into charcoal.
+- **Sulfur sources**: Volcanic deposits or sulfur-bearing minerals.
+- It is a manufactured material.
 
-The traditional ratio is 75:15:10 (Saltpeter:Charcoal:Sulfur). The ingredients are ground separately into fine powders and then mixed (often wet, to reduce ignition risk) and "corned" into grains to improve burning consistency.
+### Minimum processing required
+
+1.  **Refine ingredients**: Dry and grind each component to a fine powder.
+2.  **Blend**: Mix to a consistent ratio while keeping the mixture slightly damp.
+3.  **Press and granulate**: Compress into cakes, then break into grains.
+4.  **Dry and screen**: Dry thoroughly and sort grain sizes for consistent burn rate.
+
+### Tools needed to work on it
+
+- Non-sparking grinders or mortars.
+- Screens or sieves for grading grain size.
+- Pressing tools and a drying area with good airflow.
+
+### Common forms of use
+
+- **Fine grains**: Priming and fast-ignition applications.
+- **Medium grains**: Small arms and **[Fireworks](/en/inventions/fireworks)** lift charges.
+- **Coarse grains**: Cannons and quarry blasting.
+
+### Possible substitutes
+
+- **Compressed air or springs**: Mechanical propulsion for small projectiles.
+- **Smokeless propellants**: Modern alternatives with higher energy density.
+- **Mechanical wedges and water pressure**: For some blasting or splitting tasks.
+
+### Limitations and common failures
+
+- **Moisture uptake**: Absorbs water and loses power.
+- **Inconsistent burn**: Poor mixing or grain sizing causes erratic performance.
+- **Caking**: Fine powder can pack and ignite unevenly.
+
+### Risks and safety
+
+- **Ignition hazards**: Sparks, static, and friction can trigger ignition.
+- **Explosive confinement**: Pressure build-up can cause catastrophic failure.
+- **Toxic smoke**: Produces irritating gases and dense smoke in enclosed spaces.
+
+### Related materials
+
+- **[Charcoal](/en/materials/charcoal)**: Fuel component.
+- **[Sulfur](/en/elements/sulfur)**: Burn-rate modifier and stabilizer.
+- **Potassium nitrate (saltpeter)**: Primary oxidizer.
