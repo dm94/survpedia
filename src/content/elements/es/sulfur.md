@@ -10,15 +10,17 @@ related_materials:
   - gunpowder
 ---
 
-El azufre es un elemento químico con símbolo S y número atómico 16. Es un no metal abundante y multivalente. En condiciones normales, los átomos de azufre forman moléculas cíclicas octatómicas con fórmula S8.
+El azufre es un elemento químico con símbolo S y número atómico 16. También se conoce como brimstone en inglés antiguo, término asociado a su uso histórico en pólvora y mezclas pirotécnicas. Es un no metal abundante y multivalente. En condiciones normales, los átomos de azufre forman moléculas cíclicas octatómicas con fórmula S8.
 
 ## Properties
+
 - Phase: Solid
 - Density: 2.07 g/cm³
 - Melting Point: 388.36 K
 - Boiling Point: 717.8 K
 
 ## Uses
+
 - Pólvora y mezclas pirotécnicas
 - Producción de ácido sulfúrico
 - Fertilizantes y enmiendas del suelo

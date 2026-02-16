@@ -23,7 +23,7 @@ manufacturingProcess: Se muele y mezcla el combustible con el oxidante, se humed
 image: ../../../assets/images/materials/gunpowder.jpg
 ---
 
-La pólvora (pólvora negra) es un propelente granular hecho de nitrato de potasio, carbón y azufre. Al encenderse libera grandes volúmenes de gas caliente, útil para propulsión y voladuras controladas.
+La pólvora (pólvora negra) es un propelente granular hecho de nitrato de potasio, carbón y azufre (brimstone). Al encenderse libera grandes volúmenes de gas caliente, útil para propulsión y voladuras controladas.
 
 ## Descripción de cómo es
 
@@ -34,7 +34,7 @@ Se ve como granos o polvo gris oscuro a negro. Es polvorienta, ligeramente aceit
 - **Componentes**: Nitrato de potasio (salitre), carbón y azufre se obtienen por separado.
 - **Fuentes de salitre**: Suelos ricos en nitratos, pilas de compost o depósitos minerales procesados a nitrato de potasio.
 - **Fuentes de carbón**: Hornos o fosas cubiertas que convierten madera en carbón vegetal.
-- **Fuentes de azufre**: Depósitos volcánicos o minerales sulfurados.
+- **Fuentes de azufre (brimstone)**: Depósitos volcánicos o minerales sulfurados.
 - Es un material manufacturado.
 
 ### Procesamiento mínimo requerido
