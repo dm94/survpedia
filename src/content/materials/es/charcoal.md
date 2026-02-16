@@ -47,7 +47,7 @@ Es negro, ligero y quebradizo. Mancha las manos con polvo oscuro y produce un ca
 ### Formas comunes de uso
 
 - Trozos de carbón: Para cocción y calefacción.
-- Carbón pulverizado: Para tintas, pigmentos o filtración.
+- Carbón pulverizado: Para tintas, pigmentos, filtración o pólvora.
 - Briquetas: Mezcladas con aglutinantes para un combustible uniforme.
 
 ### Posibles sustitutos
@@ -70,6 +70,9 @@ Es negro, ligero y quebradizo. Mancha las manos con polvo oscuro y produce un ca
 
 ### Materiales relacionados
 
-- Madera: Materia prima principal.
-- Ceniza: Residuo tras la combustión completa.
-- Carbón mineral: Combustible mineral más denso.
+- **[Madera](/es/materials/wood)**: Materia prima principal.
+- **[Ceniza](/es/materials/ash)**: Residuo tras la combustión completa.
+- **[Carbón mineral](/es/materials/coal)**: Combustible mineral más denso.
+- **[Pólvora](/es/materials/gunpowder)**: Usa carbón vegetal como combustible.
+- **[Nitrato de potasio (salitre)](/es/materials/potassium_nitrate)**: Oxidante combinado con carbón en pólvora negra.
+- **[Azufre](/es/elements/sulfur)**: Modificador de la velocidad de combustión.

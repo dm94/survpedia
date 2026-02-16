@@ -47,7 +47,7 @@ Charcoal is black, lightweight, and brittle. It leaves a dark powder when handle
 ### Common forms of use
 
 - Lump charcoal: For cooking and heating.
-- Pulverized charcoal: For inks, pigments, or filtration.
+- Pulverized charcoal: For inks, pigments, filtration, or gunpowder.
 - Briquettes: Mixed with binders for uniform fuel.
 
 ### Possible substitutes
@@ -70,6 +70,9 @@ Charcoal is black, lightweight, and brittle. It leaves a dark powder when handle
 
 ### Related materials
 
-- Wood: Primary source material.
-- Ash: Residue after full combustion.
-- Coal: Mineral fuel with higher density.
+- **[Wood](/en/materials/wood)**: Primary source material.
+- **[Ash](/en/materials/ash)**: Residue after full combustion.
+- **[Coal](/en/materials/coal)**: Mineral fuel with higher density.
+- **[Gunpowder](/en/materials/gunpowder)**: Uses charcoal as a fuel component.
+- **[Potassium nitrate (saltpeter)](/en/materials/potassium_nitrate)**: Oxidizer paired with charcoal in black powder.
+- **[Sulfur](/en/elements/sulfur)**: Burn-rate modifier commonly mixed with charcoal.
