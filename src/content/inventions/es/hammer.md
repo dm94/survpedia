@@ -2,7 +2,7 @@
 title: Martillo
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
   - plant-fibers
   - leather

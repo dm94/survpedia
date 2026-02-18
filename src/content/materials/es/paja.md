@@ -67,6 +67,6 @@ Son tubos huecos amarillos o dorados. Es ligera, seca y quebradiza. Su estructur
 
 ### Materiales relacionados
 
-- **[Arcilla](/es/materials/clay)**: Se mezcla con paja para construir.
+- **[Arcilla](/es/materials/arcilla)**: Se mezcla con paja para construir.
 - **[Madera](/es/materials/wood)**: Estructura para techos de paja.
 - **[Aislamiento térmico](/es/materials/aislamiento-termico)**: La paja es una forma primitiva de aislamiento.

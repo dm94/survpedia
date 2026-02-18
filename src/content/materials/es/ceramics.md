@@ -26,7 +26,7 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 
 ## Origen y dónde encontrarla
 
-- **Materiales base:** **[Arcilla](/es/materials/clay)** y otros polvos minerales.
+- **Materiales base:** **[Arcilla](/es/materials/arcilla)** y otros polvos minerales.
 - **Señales:** Se produce en hornos o fosas de cocción, no aparece en la naturaleza.
 - **Sintética:** Requiere transformación por calor.
 
@@ -57,7 +57,7 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 - **[Madera](/es/materials/wood):** Fácil de trabajar pero no resiste el calor.
 - **[Hierro](/es/materials/iron):** Resistente y conductor, reacciona con algunos alimentos.
 - **[Vidrio](/es/materials/glass):** Resiste calor, pero es frágil al impacto.
-- **[Piedra](/es/materials/stone):** Duradera pero difícil de moldear.
+- **[Piedra](/es/materials/piedra):** Duradera pero difícil de moldear.
 
 ### Limitaciones y fallos comunes
 
@@ -73,7 +73,7 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 
 ### Materiales relacionados
 
-- **[Arcilla](/es/materials/clay):** Materia prima principal.
+- **[Arcilla](/es/materials/arcilla):** Materia prima principal.
 - **[Vidrio](/es/materials/glass):** Esmaltes y tecnología de horno similar.
-- **[Ladrillo](/es/materials/brick):** Producto de arcilla cocida con proceso similar.
-- **[Piedra](/es/materials/stone):** Alternativa estructural.
+- **[Ladrillo](/es/materials/ladrillo):** Producto de arcilla cocida con proceso similar.
+- **[Piedra](/es/materials/piedra):** Alternativa estructural.

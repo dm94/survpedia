@@ -1,7 +1,7 @@
 ---
 title: Canalización
 materialsUsed:
-  - clay
+  - arcilla
   - lead
   - wood
   - bambu

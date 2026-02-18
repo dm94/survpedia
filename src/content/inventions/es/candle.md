@@ -46,7 +46,7 @@ El calor de la llama de la mecha derrite el combustible sólido justo debajo de 
 - **Esenciales**:
   - **Combustible sólido**: **[Cera de Abejas](/es/materials/beeswax)** (a menudo de **[Apicultura](/es/knowledge/beekeeping)**), **[Grasa Animal](/es/materials/animal-fat)** (sebo de vaca/oveja; el cerdo es demasiado blando).
   - **Mecha**: **[Algodón](/es/materials/cotton)** trenzado, lino, **[Fibras Vegetales](/es/materials/plant-fibers)**.
-- **Herramientas**: **[Contenedores](/es/inventions/containers)** para derretir, fuente de calor con **[Fuego controlado](/es/inventions/fire)** y un molde simple (bambú, **[Arcilla](/es/materials/clay)** o metal).
+- **Herramientas**: **[Contenedores](/es/inventions/containers)** para derretir, fuente de calor con **[Fuego controlado](/es/inventions/fire)** y un molde simple (bambú, **[Arcilla](/es/materials/arcilla)** o metal).
 - **Sustitutos**: Grasas más blandas para velas de emergencia, o **[Fibras Vegetales](/es/materials/plant-fibers)** torcidas si no hay algodón.
 
 ## Variantes y mejoras

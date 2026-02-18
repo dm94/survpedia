@@ -1,6 +1,6 @@
 ---
 title: "Herramientas de medición"
-materialsUsed: ["wood", "iron", "stone", "rope", "water"]
+materialsUsed: ["wood", "iron", "piedra", "rope", "water"]
 ---
 
 # Descripción breve

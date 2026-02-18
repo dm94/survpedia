@@ -29,7 +29,7 @@ La puzolana es un material silíceo o aluminosilíceo que, por sí solo, posee p
 ## Origen y dónde encontrarlo
 
 - **Natural:** Depósitos de ceniza volcánica (famosa en Pozzuoli, Italia).
-- **Artificial:** **[Cerámica](/es/inventions/pottery)**, **[Ladrillos](/es/materials/brick)** o tejas trituradas hasta obtener un polvo fino.
+- **Artificial:** **[Cerámica](/es/inventions/pottery)**, **[Ladrillos](/es/materials/ladrillo)** o tejas trituradas hasta obtener un polvo fino.
 
 ### Procesamiento mínimo requerido
 

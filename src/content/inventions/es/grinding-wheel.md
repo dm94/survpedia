@@ -1,9 +1,9 @@
 ---
 title: "Muela Abrasiva"
 materialsUsed:
-  - sand
-  - clay
-  - stone
+  - arena
+  - arcilla
+  - piedra
   - resin
 ---
 
@@ -32,10 +32,10 @@ La muela consta de granos abrasivos unidos por un agente aglomerante. A medida q
 
 ### Versión avanzada (Aglomerante Vitrificado)
 
-1.  **Abrasivo:** Triture y tamice material duro (**[Arena](/es/materials/sand)**, **[Esmeril](/es/materials/stone)**, **[Corindón](/es/materials/ruby)**) a un tamaño de grano específico.
-2.  **Mezcla:** Mezcle con un agente aglomerante (generalmente **[Arcilla](/es/materials/clay)** y feldespato).
+1.  **Abrasivo:** Triture y tamice material duro (**[Arena](/es/materials/arena)**, **[Esmeril](/es/materials/piedra)**, **[Corindón](/es/materials/ruby)**) a un tamaño de grano específico.
+2.  **Mezcla:** Mezcle con un agente aglomerante (generalmente **[Arcilla](/es/materials/arcilla)** y feldespato).
 3.  **Moldeo:** Presione la mezcla en un molde a alta presión.
-4.  **Cocción:** Cueza en un **[Horno](/es/inventions/kiln)** a alta temperatura para vitrificar (convertir en vidrio) el aglomerante.
+4.  **Cocción:** Cueza en un **[Horno](/es/inventions/horno)** a alta temperatura para vitrificar (convertir en vidrio) el aglomerante.
 5.  **Rectificado:** Rectifique la muela con una piedra más dura o diamante para asegurar que sea perfectamente redonda.
 
 ## Materiales necesarios

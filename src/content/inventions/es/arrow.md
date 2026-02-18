@@ -3,7 +3,7 @@ title: Flecha
 materialsUsed:
   - wood
   - feather
-  - stone
+  - piedra
   - bone
   - resin
   - pine-resin-glue

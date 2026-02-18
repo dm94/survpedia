@@ -1,6 +1,6 @@
 ---
 title: "Fermentación"
-materialsUsed: ["sugar", "water", "yeast", "salt", "wood", "clay", "glass"]
+materialsUsed: ["sugar", "water", "yeast", "salt", "wood", "arcilla", "glass"]
 image: ../../../assets/inventions/fermentation.jpg
 ---
 
@@ -47,7 +47,7 @@ Permite conservar alimentos, desarrollar sabores y producir alcohol, **[Pan](/es
   - **[Levadura](/es/materials/yeast)** o cultivos lácticos
   - **[Sal](/es/materials/salt)** para fermentación láctica
 - **Herramientas**:
-  - **Recipientes**: Ollas de **[Arcilla](/es/materials/clay)**, frascos de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)**
+  - **Recipientes**: Ollas de **[Arcilla](/es/materials/arcilla)**, frascos de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)**
   - Airlock o tela limpia
 - **Sustitutos posibles**:
   - Iniciadores salvajes de cáscaras de fruta

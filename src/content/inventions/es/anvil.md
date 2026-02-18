@@ -3,7 +3,7 @@ title: Yunque
 materialsUsed:
   - iron
   - steel
-  - stone
+  - piedra
 ---
 
 # Breve descripción
@@ -42,7 +42,7 @@ El yunque se basa en la **Tercera Ley de Newton** y la **Inercia**.
 
 - **Esenciales**:
   - **Masa**: Cuanto más pesado mejor (típicamente 50kg+ para trabajos serios).
-  - **Material Duro**: **[Piedra](/es/materials/stone)**, **[Hierro](/es/materials/iron)**, o **[Acero](/es/materials/steel)**.
+  - **Material Duro**: **[Piedra](/es/materials/piedra)**, **[Hierro](/es/materials/iron)**, o **[Acero](/es/materials/steel)**.
 - **Soporte**: Un tocón de madera pesado (olmo o roble) para absorber la vibración y montar el yunque a la altura correcta.
 
 ## Variantes y mejoras

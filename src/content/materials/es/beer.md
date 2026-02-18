@@ -39,7 +39,7 @@ Es un líquido turbio o claro con espuma y amargor suave a intenso. Los sabores 
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: Vasijas de **[Arcilla](/es/materials/clay)**, frascos de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)**.
+- **Recipientes**: Vasijas de **[Arcilla](/es/materials/arcilla)**, frascos de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)**.
 - **Calor**: **[Fuego](/es/inventions/fire)** constante para macerado y hervido.
 - **Colador**: **[Tela](/es/materials/fabric)** limpia para separar sólidos.
 - **Enfriado**: Espacio limpio y sombreado para una temperatura segura.

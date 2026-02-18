@@ -1,8 +1,8 @@
 ---
 title: Pozo de Nieve
 materialsUsed:
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - wood
   - straw
   - water

@@ -1,6 +1,6 @@
 ---
 title: "Reloj de Sol"
-materialsUsed: ["stone", "metal", "wood"]
+materialsUsed: ["piedra", "metal", "wood"]
 ---
 
 # Descripción breve

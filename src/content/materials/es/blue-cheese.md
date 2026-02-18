@@ -40,7 +40,7 @@ La textura va de cremosa y untuosa a quebradiza según la humedad y la maduraci�
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir y envolver.
 - **Herramienta de perforado**: Brochetas o varillas finas para canales de aire.
 - **Espacio de maduración**: Estantes de **[Madera](/es/materials/wood)** con humedad controlada.

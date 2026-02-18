@@ -2,7 +2,7 @@
 title: "Lanza"
 image: ../../../assets/inventions/spear.jpg
 materialsUsed:
-  ["wood", "stone", "bone", "plant-fibers", "resin", "pine-resin-glue"]
+  ["wood", "piedra", "bone", "plant-fibers", "resin", "pine-resin-glue"]
 ---
 
 # Breve descripción
@@ -24,7 +24,7 @@ El asta actúa como palanca que amplifica el alcance y el control. La fuerza se 
 
 1. **Elegir el asta**: Seleccionar un palo recto de **[Madera](/es/materials/wood)** y quitar la corteza.
 2. **Enderezar y endurecer**: Calentar sobre fuego suave y ajustar la curvatura.
-3. **Formar la cabeza**: Tallar **[Piedra](/es/materials/stone)** o hueso en punta, o forjar metal.
+3. **Formar la cabeza**: Tallar **[Piedra](/es/materials/piedra)** o hueso en punta, o forjar metal.
 4. **Enastar la punta**: Abrir una hendidura o encaje, insertar la cabeza y amarrar.
 5. **Sellar el amarre**: Aplicar **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** para fijar y proteger.
 

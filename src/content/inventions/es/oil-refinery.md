@@ -1,6 +1,6 @@
 ---
 title: "Refinería de petróleo"
-materialsUsed: ["steel", "iron", "brick", "concrete", "stone", "copper", "glass", "water"]
+materialsUsed: ["steel", "iron", "ladrillo", "concrete", "piedra", "copper", "glass", "water"]
 ---
 
 # Breve descripción
@@ -41,7 +41,7 @@ Intermedio a avanzado. Requiere metalurgia fiable, sellado y control térmico.
 
 ## Materiales necesarios
 
-- **Esenciales**: Recipientes de **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**, cimientos de **[Ladrillo](/es/materials/brick)** o **[Hormigón](/es/materials/concrete)**, serpentines de **[Cobre](/es/materials/copper)** o condensadores de **[Vidrio](/es/materials/glass)**, **[Agua](/es/materials/water)** para enfriar.
+- **Esenciales**: Recipientes de **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**, cimientos de **[Ladrillo](/es/materials/ladrillo)** o **[Hormigón](/es/materials/concrete)**, serpentines de **[Cobre](/es/materials/copper)** o condensadores de **[Vidrio](/es/materials/glass)**, **[Agua](/es/materials/water)** para enfriar.
 - **Herramientas**: Herramientas de corte, martillos, sellantes y control de temperatura.
 - **Sustitutos**: Alambiques de arcilla para lotes pequeños, condensadores por aire si no hay agua.
 

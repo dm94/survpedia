@@ -2,8 +2,8 @@
 title: Huso
 materialsUsed:
   - wood
-  - clay
-  - stone
+  - arcilla
+  - piedra
 image: ../../../assets/images/inventions/spindle.jpg
 ---
 

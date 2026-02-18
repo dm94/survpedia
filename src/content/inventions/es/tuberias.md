@@ -1,7 +1,7 @@
 ---
 title: Tuberías
 materialsUsed:
-  - clay
+  - arcilla
   - lead
   - wood
   - bamboo

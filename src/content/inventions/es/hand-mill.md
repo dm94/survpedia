@@ -1,7 +1,7 @@
 ---
 title: Molino manual (grano)
 materialsUsed:
-  - stone
+  - piedra
   - wood
 image: ../../../assets/images/inventions/hand-mill.jpg
 ---

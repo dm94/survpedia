@@ -2,10 +2,10 @@
 title: Vivienda simple
 materialsUsed:
   - wood
-  - stone
-  - clay
+  - piedra
+  - arcilla
   - plant-fibers
-  - sand
+  - arena
   - gravel
   - lime
 image: ../../../assets/images/inventions/simple-housing.jpg
@@ -27,9 +27,9 @@ Una vivienda simple es un hogar pequeño y semi-permanente construido con materi
 
 La vivienda simple combina una **estructura portante** con una **envolvente** que bloquea agua y viento.
 1. **Estructura:** Postes y vigas soportan el peso del techo.
-2. **Muros:** Tierra compactada, **[Piedra](/es/materials/stone)** apilada o entramados con **[Arcilla](/es/materials/clay)** reducen corrientes de aire.
+2. **Muros:** Tierra compactada, **[Piedra](/es/materials/piedra)** apilada o entramados con **[Arcilla](/es/materials/arcilla)** reducen corrientes de aire.
 3. **Techo:** Inclinación para evacuar la lluvia y alejarla de la base.
-4. **Drenaje:** Base seca con **[Grava](/es/materials/gravel)** y **[Arena](/es/materials/sand)** para evitar humedad ascendente.
+4. **Drenaje:** Base seca con **[Grava](/es/materials/gravel)** y **[Arena](/es/materials/arena)** para evitar humedad ascendente.
 5. **Sellado:** Revoques de **[Cal](/es/materials/lime)** o arcilla cierran grietas y reducen plagas.
 
 ## Cómo crearlo

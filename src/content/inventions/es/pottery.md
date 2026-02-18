@@ -1,6 +1,6 @@
 ---
 title: "Alfarería"
-materialsUsed: ["clay", "water", "wood"]
+materialsUsed: ["arcilla", "water", "wood"]
 ---
 
 # Breve descripción
@@ -24,13 +24,13 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 1. **Preparación:** Mezclar arcilla con agua hasta obtener una masa maleable.
 2. **Modelado:** Dar forma a mano, por rollos o usando un [torno](/es/inventions/potters-wheel).
 3. **Secado:** Dejar evaporar el agua a temperatura ambiente para evitar grietas.
-4. **Cocción:** Calentar en un [horno](/es/inventions/kiln) o fosa a altas temperaturas (800°C - 1200°C).
+4. **Cocción:** Calentar en un [horno](/es/inventions/horno) o fosa a altas temperaturas (800°C - 1200°C).
 
 ## Materiales necesarios
 
-- **[Arcilla](/es/materials/clay):** Tierra arcillosa rica en silicatos.
+- **[Arcilla](/es/materials/arcilla):** Tierra arcillosa rica en silicatos.
 - **[Agua](/es/materials/water):** Para la plasticidad.
-- **Desgrasante:** **[Arena](/es/materials/sand)** o **[paja](/es/materials/straw)** picada para reducir la contracción durante el secado.
+- **Desgrasante:** **[Arena](/es/materials/arena)** o **[paja](/es/materials/straw)** picada para reducir la contracción durante el secado.
 - **Combustible:** **[Madera](/es/materials/wood)** o **[carbón vegetal](/es/materials/charcoal)** para el horno.
 
 ## Variantes y mejoras
@@ -49,9 +49,9 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 ### Inventos relacionados
 
 - **[Torno de alfarero](/es/inventions/potters-wheel):** Máquina para dar forma a vasijas redondas.
-- **[Horno](/es/inventions/kiln):** Horno para cocer cerámica.
+- **[Horno](/es/inventions/horno):** Horno para cocer cerámica.
 
 ### Materiales relacionados
 
 - **[Cerámica](/es/materials/ceramics):** La categoría más amplia de material.
-- **[Ladrillo](/es/materials/brick):** Material de construcción hecho de manera similar.
+- **[Ladrillo](/es/materials/ladrillo):** Material de construcción hecho de manera similar.

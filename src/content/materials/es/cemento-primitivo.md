@@ -61,7 +61,7 @@ Es un material compuesto sintético. No se encuentra en la naturaleza, pero sus 
 ### Posibles sustitutos
 
 - **[Mortero de Cal](/es/materials/mortero):** Si no se requiere resistencia al agua.
-- **[Arcilla](/es/materials/clay):** Para estructuras simples (adobe), pero se deshace con la lluvia.
+- **[Arcilla](/es/materials/arcilla):** Para estructuras simples (adobe), pero se deshace con la lluvia.
 - **[Cemento](/es/materials/cemento) Portland:** La versión moderna, más fuerte pero más difícil de fabricar (requiere 1450°C vs 900°C de la cal).
 
 ### Limitaciones y fallos comunes

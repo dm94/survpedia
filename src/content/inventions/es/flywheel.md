@@ -1,7 +1,7 @@
 ---
 title: Volante de inercia
 materialsUsed:
-  - stone
+  - piedra
   - iron
   - lead
   - wood
@@ -24,14 +24,14 @@ Cuando se agrega energía al sistema, el volante acelera, almacenando esa energ�
 
 ## Cómo crearlo
 
-1.  **Selección de Material:** Elegir un material pesado. [Piedra](/es/materials/stone), [Hierro](/es/materials/iron) o [Plomo](/es/materials/lead) son ideales.
+1.  **Selección de Material:** Elegir un material pesado. [Piedra](/es/materials/piedra), [Hierro](/es/materials/iron) o [Plomo](/es/materials/lead) son ideales.
 2.  **Equilibrado:** El paso más crítico. La masa debe estar perfectamente distribuida alrededor del centro. Un volante desequilibrado vibrará destructivamente a altas velocidades.
 3.  **Montaje:** Fijar firmemente el volante a un [eje](/es/inventions/axle).
 4.  **Reducción de Fricción:** Usar buenos cojinetes para minimizar la pérdida de energía.
 
 ## Materiales necesarios
 
-- **Masa Pesada:** [Piedra](/es/materials/stone), [Hierro](/es/materials/iron), [Plomo](/es/materials/lead) o [Madera](/es/materials/wood) densa.
+- **Masa Pesada:** [Piedra](/es/materials/piedra), [Hierro](/es/materials/iron), [Plomo](/es/materials/lead) o [Madera](/es/materials/wood) densa.
 - **[Eje](/es/inventions/axle):** Lo suficientemente fuerte para soportar el peso.
 
 ## Variantes y mejoras

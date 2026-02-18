@@ -1,8 +1,8 @@
 ---
 title: Torre de Viento (Badgir)
 materialsUsed:
-  - brick
-  - clay
+  - ladrillo
+  - arcilla
   - wood
   - hormigon
 image: ../../../assets/images/inventions/windcatcher.jpg

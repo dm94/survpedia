@@ -1,8 +1,8 @@
 ---
 title: Sello
 materialsUsed:
-  - stone
-  - clay
+  - piedra
+  - arcilla
   - bone
   - beeswax
   - gold

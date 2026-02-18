@@ -2,7 +2,7 @@
 title: Porra
 materialsUsed:
   - wood
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/club.jpg
 ---
 

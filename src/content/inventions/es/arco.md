@@ -1,8 +1,8 @@
 ---
 title: Arco
 materialsUsed:
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - concrete
   - mortar
   - wood
@@ -42,7 +42,7 @@ Debido a que la piedra y el ladrillo son fuertes en compresión pero débiles en
 ## Materiales necesarios
 
 - **Esenciales**:
-  - **[Piedra](/es/materials/stone)/[Ladrillo](/es/materials/brick)**: Con forma de cuña (dovelas).
+  - **[Piedra](/es/materials/piedra)/[Ladrillo](/es/materials/ladrillo)**: Con forma de cuña (dovelas).
   - **[Mortero](/es/materials/mortero)**: Para unir las piedras (aunque los arcos de piedra seca son posibles).
   - **[Madera](/es/materials/wood)**: Crítica para el marco temporal de la cimbra.
 - **Herramientas**: Cinceles (para dar forma a la piedra), sierras (para madera), niveles.

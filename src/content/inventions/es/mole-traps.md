@@ -36,7 +36,7 @@ La trampa se coloca dentro del túnel y se activa por movimiento o presión sobr
 
 - **Esenciales:** Armazón o estacas de **[Madera](/es/materials/wood)**, **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)** para muelle o mandíbulas.
 - **Herramientas:** Pala, cuchillo, martillo, alicates.
-- **Sustitutos:** **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuerda](/es/inventions/rope)** para lazos, una **[Piedra](/es/materials/stone)** como peso.
+- **Sustitutos:** **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuerda](/es/inventions/rope)** para lazos, una **[Piedra](/es/materials/piedra)** como peso.
 
 ## Variantes y mejoras
 

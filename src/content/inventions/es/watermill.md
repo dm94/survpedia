@@ -1,6 +1,6 @@
 ---
 title: "Molino de agua"
-materialsUsed: ["wood", "stone", "iron", "water", "animal-fat"]
+materialsUsed: ["wood", "piedra", "iron", "water", "animal-fat"]
 ---
 
 # Breve descripción

@@ -68,5 +68,5 @@ La piedra es generalmente dura, fría al tacto y no maleable. Se presenta en var
 ### Materiales relacionados
 
 - **[Sílex](/es/materials/flint):** Un tipo específico de piedra excelente para herramientas afiladas.
-- **[Arena](/es/materials/sand):** Pequeños fragmentos de piedra.
-- **[Arcilla](/es/materials/clay):** A menudo se encuentra en contextos geológicos similares.
+- **[Arena](/es/materials/arena):** Pequeños fragmentos de piedra.
+- **[Arcilla](/es/materials/arcilla):** A menudo se encuentra en contextos geológicos similares.

@@ -1,10 +1,10 @@
 ---
 title: Mortero
 composition:
-  - sand
+  - arena
   - water
   - cal
-  - clay
+  - arcilla
 properties:
   - Adhesión
   - Plasticidad
@@ -22,7 +22,7 @@ category: synthetic
 image: ../../../assets/images/materials/mortero.jpg
 ---
 
-El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir **[ladrillos](/es/materials/brick)**, piedras o bloques de **[hormigón](/es/materials/hormigon)**, y para rellenar los espacios entre ellos. También se usa para revestir paredes.
+El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir **[ladrillos](/es/materials/ladrillo)**, piedras o bloques de **[hormigón](/es/materials/hormigon)**, y para rellenar los espacios entre ellos. También se usa para revestir paredes.
 
 ## Descripción de cómo es
 
@@ -32,8 +32,8 @@ En estado fresco, es una pasta grisácea o arenosa, moldeable y pegajosa. Al end
 
 Es un material compuesto fabricado in situ.
 
-- **[Arena](/es/materials/sand):** Debe estar limpia y libre de materia orgánica o sal.
-- **Aglomerante:** Puede ser **[cal](/es/materials/cal)**, **[arcilla](/es/materials/clay)** (barro), **[yeso](/es/materials/gypsum)** o **[cemento](/es/materials/cemento)**.
+- **[Arena](/es/materials/arena):** Debe estar limpia y libre de materia orgánica o sal.
+- **Aglomerante:** Puede ser **[cal](/es/materials/cal)**, **[arcilla](/es/materials/arcilla)** (barro), **[yeso](/es/materials/gypsum)** o **[cemento](/es/materials/cemento)**.
 - **[Agua](/es/materials/water):** Limpia.
 
 ### Procesamiento mínimo necesario
@@ -51,9 +51,9 @@ Es un material compuesto fabricado in situ.
 
 ### Formas comunes de uso
 
-- **Mortero de barro:** **[Arcilla](/es/materials/clay)** + **[Arena](/es/materials/sand)** + **[Paja](/es/materials/paja)**. El más antiguo y fácil de hacer, pero vulnerable al agua.
-- **Mortero de cal:** **[Cal](/es/materials/cal)** + **[Arena](/es/materials/sand)** + **[Agua](/es/materials/water)**. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
-- **Mortero de cemento:** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/sand)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
+- **Mortero de barro:** **[Arcilla](/es/materials/arcilla)** + **[Arena](/es/materials/arena)** + **[Paja](/es/materials/paja)**. El más antiguo y fácil de hacer, pero vulnerable al agua.
+- **Mortero de cal:** **[Cal](/es/materials/cal)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
+- **Mortero de cemento:** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
 - **Mortero bastardo:** Mezcla de cal y cemento para combinar propiedades.
 
 ### Posibles sustitutos
@@ -77,5 +77,5 @@ Es un material compuesto fabricado in situ.
 
 - **[Cemento](/es/materials/cemento):** Aglomerante moderno común.
 - **[Cal](/es/materials/cal):** Aglomerante tradicional.
-- **[Ladrillo](/es/materials/brick):** Material que suele unir.
+- **[Ladrillo](/es/materials/ladrillo):** Material que suele unir.
 - **[Hormigón](/es/materials/hormigon):** Similar pero con grava.

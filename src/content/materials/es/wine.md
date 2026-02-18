@@ -41,7 +41,7 @@ Un líquido aromático que va de amarillo pálido a rojo profundo. Es levemente 
 ### Herramientas necesarias para trabajarlo
 
 - **Recipientes**: Botellas de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)** para fermentar y envejecer.
-- **Recipiente primario**: Tinaja de **[Arcilla](/es/materials/clay)** o un **[Contenedor](/es/inventions/containers)** limpio.
+- **Recipiente primario**: Tinaja de **[Arcilla](/es/materials/arcilla)** o un **[Contenedor](/es/inventions/containers)** limpio.
 - **Colador**: **[Tela](/es/materials/fabric)** limpia o tejido de fibras.
 - **Sellos**: **[Corcho](/es/materials/corcho)** o tapones ajustados para el almacenamiento.
 

@@ -4,7 +4,7 @@ materialsUsed:
   - wood
   - iron
   - steel
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/saw.jpg
 ---
 

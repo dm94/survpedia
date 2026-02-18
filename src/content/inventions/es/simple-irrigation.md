@@ -1,7 +1,7 @@
 ---
 title: "Irrigación simple"
 image: ../../../assets/inventions/simple-irrigation.jpg
-materialsUsed: ["clay", "wood", "stone", "water"]
+materialsUsed: ["arcilla", "wood", "piedra", "water"]
 ---
 
 # Breve descripción

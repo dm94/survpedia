@@ -1,7 +1,7 @@
 ---
 title: Chimenea
 materialsUsed:
-  - brick
+  - ladrillo
   - mortar
 image: ../../../assets/images/inventions/chimney.jpg
 ---
@@ -48,8 +48,8 @@ Intermedio. Requiere conocimientos de albañilería y proporciones precisas para
 ## Materiales necesarios
 
 - **Esenciales:**
-  - **[Ladrillo](/es/materials/brick):** Preferiblemente refractario para el hogar, o ladrillo cocido de alta calidad.
-  - **[Mortero](/es/materials/mortero):** Resistente al calor (mezcla de [arcilla](/es/materials/clay)/arena o cemento refractario).
+  - **[Ladrillo](/es/materials/ladrillo):** Preferiblemente refractario para el hogar, o ladrillo cocido de alta calidad.
+  - **[Mortero](/es/materials/mortero):** Resistente al calor (mezcla de [arcilla](/es/materials/arcilla)/arena o cemento refractario).
 - **Herramientas:**
   - Llana, plomada (muy importante para la verticalidad), nivel.
 

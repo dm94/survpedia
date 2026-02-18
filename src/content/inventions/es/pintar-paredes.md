@@ -7,9 +7,9 @@ materialsUsed:
   - cal
   - gypsum
   - mortero
-  - brick
+  - ladrillo
   - wood
-  - sand
+  - arena
 ---
 
 # Breve descripción
@@ -51,8 +51,8 @@ La pintura forma una película fina que se adhiere a la pared. Las paredes poros
   - **[Agua](/es/materials/water)**
   - **[Yeso](/es/materials/gypsum)** o **[mortero](/es/materials/mortero)** para nivelar
   - **[Cal](/es/materials/cal)** para encalado o sellado
-  - **[Arena](/es/materials/sand)** para rellenos o revoques
-  - **[Ladrillo](/es/materials/brick)** o **[madera](/es/materials/wood)** como soporte
+  - **[Arena](/es/materials/arena)** para rellenos o revoques
+  - **[Ladrillo](/es/materials/ladrillo)** o **[madera](/es/materials/wood)** como soporte
 - **Herramientas**: **[Pincel](/es/inventions/pincel)**, cubo de mezcla, palo de agitar, llana, trapos.
 - **Posibles sustitutos**:
   - **Arcilla o barro coloreado**: Coloración temporal de paredes.

@@ -1,6 +1,6 @@
 ---
 title: "Recipiente de Medición"
-materialsUsed: ["glass", "clay", "metal", "plastic"]
+materialsUsed: ["glass", "arcilla", "metal", "plastic"]
 ---
 
 # Breve descripción
@@ -37,7 +37,7 @@ El recipiente tiene un volumen interno definido. Cuando se llena hasta una marca
 ## Materiales necesarios
 
 - **Esenciales:**
-  - **Material del recipiente:** **[Vidrio](/es/materials/glass)** (transparente, no reactivo), **[Arcilla](/es/materials/clay)** (opaco pero resistente), **[Metal](/es/materials/metal)**, o **[Plástico](/es/materials/plastic)**.
+  - **Material del recipiente:** **[Vidrio](/es/materials/glass)** (transparente, no reactivo), **[Arcilla](/es/materials/arcilla)** (opaco pero resistente), **[Metal](/es/materials/metal)**, o **[Plástico](/es/materials/plastic)**.
 - **Herramientas:**
   - **Herramienta de marcado:** Herramienta de grabado para vidrio, pintura para arcilla/metal.
   - **Estándar:** Un peso conocido de agua u otro recipiente estándar.

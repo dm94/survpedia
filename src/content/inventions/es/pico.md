@@ -3,7 +3,7 @@ title: Pico
 materialsUsed:
   - wood
   - iron
-  - stone
+  - piedra
   - bone
 image: ../../../assets/images/inventions/pico.jpg
 ---

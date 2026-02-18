@@ -2,7 +2,7 @@
 title: Raspador
 materialsUsed:
   - flint
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/scraper.jpg
 ---
 

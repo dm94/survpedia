@@ -1,7 +1,7 @@
 ---
 title: Chimenea Solar
 materialsUsed:
-  - brick
+  - ladrillo
   - glass
   - iron
   - steel

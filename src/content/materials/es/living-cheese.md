@@ -39,7 +39,7 @@ La corteza puede ser florida, lavada o ligeramente pegajosa, mientras el interio
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir y envolver.
 - **Superficies de maduración**: Tablas de **[Madera](/es/materials/wood)** para aireación.
 - **Agua y sal**: **[Agua](/es/materials/water)** y **[Sal](/es/materials/salt)** para lavado y salmuera.

@@ -2,9 +2,9 @@
 title: Baño de Vapor
 materialsUsed:
   - water
-  - stone
+  - piedra
   - wood
-  - brick
+  - ladrillo
   - mortar
 image: ../../../assets/images/inventions/steam-bath.jpg
 ---
@@ -31,15 +31,15 @@ Un baño de vapor es un recinto calentado que se llena de calor húmedo para lim
 ## Cómo crearlo
 
 - **Versión mínima:** Calentar piedras en un fuego, llevarlas a un pozo o círculo de piedra, cubrir con una tienda o mantas y añadir agua para vapor.
-- **Recinto:** Construir una sala pequeña de **[piedra](/es/materials/stone)** o **[ladrillo](/es/materials/brick)** con juntas selladas para retener vapor.
+- **Recinto:** Construir una sala pequeña de **[piedra](/es/materials/piedra)** o **[ladrillo](/es/materials/ladrillo)** con juntas selladas para retener vapor.
 - **Fuente de calor:** Fogón externo o hogar interno con piedras. Sacar humo fuera o calentar las piedras afuera.
 - **Drenaje:** Ligera pendiente o desagüe pequeño para evitar charcos.
 - **Nivel técnico:** Básico (tienda de vapor) a Intermedio (baño de mampostería).
 
 ## Materiales necesarios
 
-- **Esenciales:** **[Agua](/es/materials/water)**, **[piedra](/es/materials/stone)** resistente al calor, **[madera](/es/materials/wood)** como combustible.
-- **Estructura:** **[Ladrillo](/es/materials/brick)** y **[mortero](/es/materials/mortero)** para una sala permanente.
+- **Esenciales:** **[Agua](/es/materials/water)**, **[piedra](/es/materials/piedra)** resistente al calor, **[madera](/es/materials/wood)** como combustible.
+- **Estructura:** **[Ladrillo](/es/materials/ladrillo)** y **[mortero](/es/materials/mortero)** para una sala permanente.
 - **Herramientas:** Pala, mazo para mover piedras, recipientes para el agua.
 - **Sustitutos:** Muros de tierra, arcilla compactada o tienda de corteza/tela.
 

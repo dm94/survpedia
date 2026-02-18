@@ -39,7 +39,7 @@ La cuajada fresca es blanda, húmeda y suave, mientras que el queso puede ir de 
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Calor**: **[Fuego](/es/inventions/fire)** suave para calentar sin quemar.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir y envolver.
 - **Pesos**: Piedras o prensas simples para quesos firmes.

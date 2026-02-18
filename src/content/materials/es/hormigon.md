@@ -1,8 +1,8 @@
 ---
 title: Hormigón
 composition:
-  - stone
-  - sand
+  - piedra
+  - arena
   - lime
   - water
 properties:
@@ -53,8 +53,8 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 
 ### Posibles sustitutos
 
-- **[Piedra](/es/materials/stone):** Más difícil de dar forma pero natural.
-- **[Ladrillo](/es/materials/brick):** Requiere cocción pero es modular.
+- **[Piedra](/es/materials/piedra):** Más difícil de dar forma pero natural.
+- **[Ladrillo](/es/materials/ladrillo):** Requiere cocción pero es modular.
 - **[Madera](/es/materials/wood):** Para estructuras (pero riesgo de podredumbre/fuego).
 
 ### Limitaciones y fallos comunes

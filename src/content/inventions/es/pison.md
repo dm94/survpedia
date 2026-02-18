@@ -2,7 +2,7 @@
 title: Pisón
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
 image: ../../../assets/images/inventions/pison.jpg
 ---

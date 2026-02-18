@@ -62,7 +62,7 @@ El fundente puede aparecer como polvo, pasta o líquido, dependiendo de su tipo 
 
 ### Materiales relacionados
 
-- **[Arena (Sand)](/es/materials/sand)**: Un fundente común de alta temperatura.
+- **[Arena (Sand)](/es/materials/arena)**: Un fundente común de alta temperatura.
 - **[Piedra Caliza (Limestone)](/es/materials/limestone)**: Usada como fundente en la fundición de hierro.
 - **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Fuente de colofonia.
 - **[Boro (Boron)](/es/elements/boron)**: Elemento clave en el bórax.

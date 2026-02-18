@@ -36,7 +36,7 @@ Nivel técnico: Carpintería básica y manejo cuidadoso de muelles.
 
 - **Esenciales:** Base de **[Madera](/es/materials/wood)**, muelle en **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**, **[Fibras vegetales](/es/materials/plant-fibers)** para amarres o hilo de cebo.
 - **Herramientas:** Cuchillo, sierra, punzón o taladro, alicates.
-- **Sustitutos:** Lazo con **[Cuerda](/es/inventions/rope)**, una caída de **[Piedra](/es/materials/stone)** o un gatillo simple de **[Trampas](/es/inventions/traps)**.
+- **Sustitutos:** Lazo con **[Cuerda](/es/inventions/rope)**, una caída de **[Piedra](/es/materials/piedra)** o un gatillo simple de **[Trampas](/es/inventions/traps)**.
 
 ## Variantes y mejoras
 

@@ -2,12 +2,12 @@
 title: Puente
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - rope
   - iron
   - steel
   - concrete
-  - brick
+  - ladrillo
   - mortar
 image: ../../../assets/images/inventions/puente.jpg
 ---
@@ -52,7 +52,7 @@ La estructura transfiere la carga (Carga muerta: peso del puente + Carga viva: t
 
 - **Esenciales**:
   - **[Madera](/es/materials/wood)**: Para luces cortas, puentes temporales o elementos de celosía.
-  - **[Piedra](/es/materials/stone)/[Ladrillo](/es/materials/brick)**: Para puentes de arco duraderos (requiere [mortero](/es/materials/mortero)).
+  - **[Piedra](/es/materials/piedra)/[Ladrillo](/es/materials/ladrillo)**: Para puentes de arco duraderos (requiere [mortero](/es/materials/mortero)).
   - **Cuerda/Cables**: Para puentes colgantes.
   - **[Hormigón](/es/materials/hormigon)/[Acero](/es/materials/steel)**: Para puentes modernos de gran luz.
 - **Herramientas**: Sierras, cinceles, martillos, grúas (poleas), niveles.

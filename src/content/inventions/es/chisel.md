@@ -4,7 +4,7 @@ materialsUsed:
   - iron
   - steel
   - wood
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/chisel.jpg
 ---
 

@@ -48,7 +48,7 @@ Las semillas crudas son blandas y amargas, envueltas en pulpa dulce. Tras el sec
 
 - Cajas o cestas para fermentación.
 - Esteras o bandejas de secado.
-- Un sartén o comal de **[Arcilla](/es/materials/clay)** sobre **[Fuego](/es/inventions/fire)** para tostar.
+- Un sartén o comal de **[Arcilla](/es/materials/arcilla)** sobre **[Fuego](/es/inventions/fire)** para tostar.
 - **[Molino de mano](/es/inventions/hand-mill)** o metate para moler.
 - **[Contenedores](/es/inventions/containers)** limpios para transporte y almacenamiento.
 
@@ -82,6 +82,6 @@ Las semillas crudas son blandas y amargas, envueltas en pulpa dulce. Tras el sec
 - **[Agua](/es/materials/water)**: Base de bebidas y limpieza.
 - **[Azúcar](/es/materials/sugar)**: Endulzante habitual del chocolate.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Filtros o sacos de almacenamiento.
-- **[Arcilla](/es/materials/clay)**: Recipientes para tostar o preparar.
+- **[Arcilla](/es/materials/arcilla)**: Recipientes para tostar o preparar.
 - **[Café](/es/materials/coffee)**: Bebida estimulante alternativa.
 - **[Té](/es/materials/tea)**: Bebida estimulante alternativa.

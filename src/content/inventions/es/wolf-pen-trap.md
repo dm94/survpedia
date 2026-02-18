@@ -2,7 +2,7 @@
 title: Trampa de corral para lobos
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - plant-fibers
   - iron
 ---
@@ -26,7 +26,7 @@ Un embudo de cercas o muros dirige al animal hacia una entrada estrecha. La puer
 
 1. **Elige el lugar:** Usa un corredor con huellas recientes y espacio para embudo y corral.
 2. **Traza el embudo:** Construye dos cercas convergentes hacia la entrada.
-3. **Levanta el corral:** Usa palizadas de **[Madera](/es/materials/wood)** o muros de **[Piedra](/es/materials/stone)** de altura al menos de pecho con inclinación interior.
+3. **Levanta el corral:** Usa palizadas de **[Madera](/es/materials/wood)** o muros de **[Piedra](/es/materials/piedra)** de altura al menos de pecho con inclinación interior.
 4. **Instala la puerta:** Puerta de caída pesada o puerta que abra hacia dentro, asegurada con bisagras o barra de **[Hierro](/es/materials/iron)**.
 5. **Añade el disparador:** Un pisón o línea de disparo libera la puerta al cruzar.
 6. **Guía y coloca el cebo:** Oculta el embudo con ramas y pon el cebo al fondo.
@@ -36,7 +36,7 @@ Nivel técnico: Carpintería intermedia y manejo seguro de animales grandes.
 
 ## Materiales necesarios
 
-- **Esenciales:** Estacas y travesaños de **[Madera](/es/materials/wood)**, **[Piedra](/es/materials/stone)** para lastre o muro, **[Fibras vegetales](/es/materials/plant-fibers)** para amarres, **[Hierro](/es/materials/iron)** para bisagras o barras.
+- **Esenciales:** Estacas y travesaños de **[Madera](/es/materials/wood)**, **[Piedra](/es/materials/piedra)** para lastre o muro, **[Fibras vegetales](/es/materials/plant-fibers)** para amarres, **[Hierro](/es/materials/iron)** para bisagras o barras.
 - **Herramientas:** Hacha, sierra, pala, martillo, cordel o útil para hacer cordaje.
 - **Sustitutos:** Muros de piedra en seco en lugar de madera, amarres de cuero crudo en lugar de herrajes.
 

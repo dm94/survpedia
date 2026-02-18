@@ -1,7 +1,7 @@
 ---
 title: "Molino de viento"
 image: ../../../assets/inventions/windmill.jpg
-materialsUsed: ["wood", "stone", "iron", "fabric", "animal-fat"]
+materialsUsed: ["wood", "piedra", "iron", "fabric", "animal-fat"]
 ---
 
 # Breve descripción

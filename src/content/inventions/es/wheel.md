@@ -2,7 +2,7 @@
 title: Rueda
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - metal
 ---
 

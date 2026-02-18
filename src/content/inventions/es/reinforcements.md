@@ -1,6 +1,6 @@
 ---
 title: Refuerzos estructurales
-materialsUsed: ["wood", "stone", "iron", "steel", "clay", "plant-fibers"]
+materialsUsed: ["wood", "piedra", "iron", "steel", "arcilla", "plant-fibers"]
 ---
 
 # Breve descripción
@@ -33,7 +33,7 @@ Los refuerzos estructurales son sistemas de soporte que estabilizan excavaciones
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Madera](/es/materials/wood)** para puntales y marcos, **[Piedra](/es/materials/stone)** o **[Arcilla](/es/materials/clay)** para revestimiento, **[Hierro](/es/materials/iron)** o **[Acero](/es/materials/steel)** para grapas y refuerzos.
+- **Esenciales**: **[Madera](/es/materials/wood)** para puntales y marcos, **[Piedra](/es/materials/piedra)** o **[Arcilla](/es/materials/arcilla)** para revestimiento, **[Hierro](/es/materials/iron)** o **[Acero](/es/materials/steel)** para grapas y refuerzos.
 - **Herramientas**: Martillo, sierra, cincel, cuñas, cuerdas o fibras para amarres.
 - **Sustitutos**: Tierra compactada, muros de piedra seca, amarres con **[Fibras vegetales](/es/materials/plant-fibers)**.
 

@@ -2,7 +2,7 @@
 title: Palanca
 materialsUsed:
   - wood
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/lever.jpg
 ---
 

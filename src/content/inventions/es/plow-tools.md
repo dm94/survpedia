@@ -2,7 +2,7 @@
 title: Arado y herramientas
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
   - bronze
   - plant-fibers
@@ -41,7 +41,7 @@ El arado y las herramientas son un conjunto básico agrícola para romper el sue
 
 ## Materiales necesarios
 
-- **Esenciales:** Armazón de **[Madera](/es/materials/wood)**, reja de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, amarres de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**.
+- **Esenciales:** Armazón de **[Madera](/es/materials/wood)**, reja de **[Piedra](/es/materials/piedra)** o **[Hierro](/es/materials/iron)**, amarres de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**.
 - **Herramientas:** **[Herramientas de piedra](/es/inventions/stone-tools)** o metal para dar forma, más **[Pala](/es/inventions/shovel)** para despejar.
 - **Sustitutos:** Palo cavador o arado raso para suelos ligeros.
 

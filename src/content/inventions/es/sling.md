@@ -1,7 +1,7 @@
 ---
 title: "Honda"
 image: ../../../assets/inventions/sling.jpg
-materialsUsed: ["plant-fibers", "leather", "stone"]
+materialsUsed: ["plant-fibers", "leather", "piedra"]
 ---
 
 # Breve descripción

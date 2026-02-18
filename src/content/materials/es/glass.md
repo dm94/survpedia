@@ -97,6 +97,6 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
 
 ### Materiales relacionados
 
-- **[Arena](/es/materials/sand):** Ingrediente principal.
+- **[Arena](/es/materials/arena):** Ingrediente principal.
 - **[Obsidiana](/es/materials/obsidian):** Vidrio natural.
 - **[Cerámica](/es/materials/ceramics):** Tecnología de horno similar, material hermano.

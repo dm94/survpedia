@@ -1,7 +1,7 @@
 ---
 title: "Refugio básico"
 image: ../../../assets/inventions/basic-shelter.jpg
-materialsUsed: ["wood", "stone", "plant-fibers", "leather", "clay"]
+materialsUsed: ["wood", "piedra", "plant-fibers", "leather", "arcilla"]
 ---
 
 # Breve descripción

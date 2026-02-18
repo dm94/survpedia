@@ -39,7 +39,7 @@ El queso puede ser blando y cremoso o duro y quebradizo. La maduración intensif
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Calor**: **[Fuego](/es/inventions/fire)** suave para calentamiento controlado.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir y envolver.
 - **Pesos**: Piedras o prensas simples para dar forma.

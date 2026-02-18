@@ -41,7 +41,7 @@ El plástico se refiere a una amplia gama de materiales sintéticos o semisinté
 
 ### Sustitutos posibles
 
-- **Contenedores:** **[Arcilla](/es/materials/clay)**, **[Vidrio](/es/materials/glass)**, metal, calabazas.
+- **Contenedores:** **[Arcilla](/es/materials/arcilla)**, **[Vidrio](/es/materials/glass)**, metal, calabazas.
 - **Impermeabilización:** Tela encerada, alquitrán, tripa.
 - **Piezas moldeables:** Cuerno, hueso, madera.
 

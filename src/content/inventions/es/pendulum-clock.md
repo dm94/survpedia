@@ -1,6 +1,6 @@
 ---
 title: "Reloj de Péndulo"
-materialsUsed: ["wood", "iron", "brass", "rope", "stone"]
+materialsUsed: ["wood", "iron", "brass", "rope", "piedra"]
 ---
 
 # Breve descripción

@@ -17,7 +17,7 @@ category: synthetic
 composition:
   - salt
   - ash
-  - clay
+  - arcilla
   - water
 image: ../../../assets/images/materials/toothpaste.jpg
 ---

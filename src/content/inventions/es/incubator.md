@@ -7,7 +7,7 @@ materialsUsed:
   - cotton
   - water
   - charcoal
-  - clay
+  - arcilla
 image: ../../../assets/images/inventions/incubator.jpg
 ---
 
@@ -33,7 +33,7 @@ Una incubadora es un recinto protegido y cálido que ayuda a mantener la tempera
 
 1. **Construir el recinto**: Armar una caja de **[Madera](/es/materials/wood)** con ventana de **[Vidrio](/es/materials/glass)** o una abertura cubierta con **[Tela](/es/materials/fabric)** limpia.
 2. **Añadir aislamiento**: Forrar paredes con capas de **[Tela](/es/materials/fabric)** o **[Algodón](/es/materials/cotton)**, evitando el contacto directo del bebé con la fuente de calor.
-3. **Preparar una fuente de calor suave**: Usar un recipiente de **[Arcilla](/es/materials/clay)** con **[Agua](/es/materials/water)** tibia, o baldosas de arcilla calentadas cerca de **[Carbón vegetal](/es/materials/charcoal)**.
+3. **Preparar una fuente de calor suave**: Usar un recipiente de **[Arcilla](/es/materials/arcilla)** con **[Agua](/es/materials/water)** tibia, o baldosas de arcilla calentadas cerca de **[Carbón vegetal](/es/materials/charcoal)**.
 4. **Ventilar y posicionar**: Dejar pequeñas entradas de aire y colocar la fuente de calor a un lado para poder apartar al bebé si hay exceso de calor.
 5. **Monitorear con frecuencia**: Revisar el calor de la piel y el color, y renovar el agua tibia cuando se enfríe.
 6. **Nivel tecnológico**: Básico a intermedio.
@@ -41,7 +41,7 @@ Una incubadora es un recinto protegido y cálido que ayuda a mantener la tempera
 ## Materiales necesarios
 
 - **Materiales esenciales**: **[Madera](/es/materials/wood)**, **[Vidrio](/es/materials/glass)** o **[Tela](/es/materials/fabric)** limpia, **[Algodón](/es/materials/cotton)**, **[Agua](/es/materials/water)**.
-- **Fuente de calor**: Recipientes o baldosas de **[Arcilla](/es/materials/clay)**, **[Carbón vegetal](/es/materials/charcoal)** para calentar de forma controlada.
+- **Fuente de calor**: Recipientes o baldosas de **[Arcilla](/es/materials/arcilla)**, **[Carbón vegetal](/es/materials/charcoal)** para calentar de forma controlada.
 - **Herramientas**: Herramientas de corte, unión básica, paños limpios.
 - **Sustitutos posibles**: Cesta de fibras con capas de telas, piedras tibias envueltas en tela, doble caja con cámara de aire.
 

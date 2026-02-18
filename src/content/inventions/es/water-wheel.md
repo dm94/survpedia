@@ -2,7 +2,7 @@
 title: Rueda hidráulica
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
 ---
 

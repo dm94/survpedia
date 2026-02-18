@@ -1,7 +1,7 @@
 ---
 title: Ancla
 materialsUsed:
-  - stone
+  - piedra
   - wood
   - iron
   - lead

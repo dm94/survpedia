@@ -1,6 +1,6 @@
 ---
 title: "Balanza"
-materialsUsed: ["wood", "plant-fibers", "stone"]
+materialsUsed: ["wood", "plant-fibers", "piedra"]
 image: ../../../assets/inventions/balance-scale.jpg
 ---
 
@@ -26,7 +26,7 @@ Palanca. Una barra pivota en su centro (fulcro). La gravedad actúa sobre las ma
 
 ## Materiales necesarios
 
-- **Esenciales**: Barra recta de **[Madera](/es/materials/wood)** o hueso, cordajes de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**, platillos iguales de **[Arcilla](/es/materials/clay)**, madera o calabaza.
+- **Esenciales**: Barra recta de **[Madera](/es/materials/wood)** o hueso, cordajes de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**, platillos iguales de **[Arcilla](/es/materials/arcilla)**, madera o calabaza.
 - **Herramientas**: Cuchillo, punzón o taladro, cuerda de suspensión, pesas de referencia o patrón conocido.
 - **Sustitutos posibles**: Piedras o semillas para calibrar, cestas tejidas en lugar de platillos, fibras trenzadas en lugar de cuero.
 

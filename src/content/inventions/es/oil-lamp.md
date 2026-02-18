@@ -1,7 +1,7 @@
 ---
 title: Lámpara de Aceite
 materialsUsed:
-  - clay
+  - arcilla
   - vegetable-oil
   - animal-fat
   - plant-fibers
@@ -47,7 +47,7 @@ La mecha actúa como un regulador, limitando la cantidad de combustible que lleg
 ## Materiales necesarios
 
 - **Esenciales**:
-  - **Recipiente no inflamable**: **[Arcilla](/es/materials/clay)** (alfarería), **[Piedra](/es/materials/stone)** tallada, conchas, metal.
+  - **Recipiente no inflamable**: **[Arcilla](/es/materials/arcilla)** (alfarería), **[Piedra](/es/materials/piedra)** tallada, conchas, metal.
   - **Combustible**: **[Aceite Vegetal](/es/materials/vegetable-oil)** (oliva, sésamo, nuez) o **[Grasa Animal](/es/materials/animal-fat)** (sebo, manteca).
   - **Mecha**: **[Fibras Vegetales](/es/materials/plant-fibers)** (lino, papiro, cáñamo), **[Algodón](/es/materials/cotton)**, o tiras de tela vieja.
 

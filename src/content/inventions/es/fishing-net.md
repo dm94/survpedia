@@ -3,7 +3,7 @@ title: Red de pesca
 materialsUsed:
   - plant-fibers
   - wood
-  - stone
+  - piedra
   - corcho
 ---
 
@@ -26,7 +26,7 @@ La malla guía a los peces hacia bolsillos o barreras. Los flotadores mantienen 
 1. **Hacer cordel**: Torcer **[Fibras vegetales](/es/materials/plant-fibers)** en hilo fino.
 2. **Anudar la malla**: Usar aguja de red y separador para cuadros uniformes.
 3. **Añadir flotadores**: Atar **[Corcho](/es/materials/corcho)** o **[Madera](/es/materials/wood)** tallada al borde superior.
-4. **Añadir plomos**: Amarrar **[Piedra](/es/materials/stone)** al borde inferior.
+4. **Añadir plomos**: Amarrar **[Piedra](/es/materials/piedra)** al borde inferior.
 5. **Inspección y reparación**: Reemplazar nudos dañados antes de usar.
 
 ## Materiales necesarios

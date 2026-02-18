@@ -1,7 +1,7 @@
 ---
 title: "Alambique"
 image: ../../../assets/inventions/alembic.jpg
-materialsUsed: ["copper", "clay", "glass", "fire"]
+materialsUsed: ["copper", "arcilla", "glass", "fire"]
 ---
 
 # Breve descripción

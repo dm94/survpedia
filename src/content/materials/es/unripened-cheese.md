@@ -38,7 +38,7 @@ Es blando, húmedo y cremoso, a veces quebradizo según el escurrido. El sabor e
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Calor**: **[Fuego](/es/inventions/fire)** suave para calentar la leche.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir.
 

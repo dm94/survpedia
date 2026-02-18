@@ -7,7 +7,7 @@ materialsUsed:
   - beeswax
   - gold
   - silver
-  - clay
+  - arcilla
   - natural-rubber
 image: ../../../assets/images/inventions/dental-prosthetics.jpg
 ---
@@ -33,17 +33,17 @@ La prótesis reproduce la forma del diente perdido y se ancla en la boca con una
 ## Cómo crearla
 
 1. **Evaluar y medir**: Limpiar la boca y revisar el tamaño del hueco con un **[Espejo](/es/inventions/espejo)**.
-2. **Hacer un molde**: Presionar **[Cera de abejas](/es/materials/beeswax)** o **[Arcilla](/es/materials/clay)** blanda para capturar la forma.
-3. **Crear formas dentales**: Tallar **[Hueso](/es/materials/bone)** o **[Madera](/es/materials/wood)** para un diente simple, o moldear arcilla y cocerla en un **[Horno](/es/inventions/kiln)**.
+2. **Hacer un molde**: Presionar **[Cera de abejas](/es/materials/beeswax)** o **[Arcilla](/es/materials/arcilla)** blanda para capturar la forma.
+3. **Crear formas dentales**: Tallar **[Hueso](/es/materials/bone)** o **[Madera](/es/materials/wood)** para un diente simple, o moldear arcilla y cocerla en un **[Horno](/es/inventions/horno)**.
 4. **Construir la base**: Usar **[Resina](/es/materials/resin)** o **[Caucho natural](/es/materials/natural-rubber)** como placa; reforzar con **[Oro](/es/materials/gold)** o **[Plata](/es/materials/silver)** si es posible.
-5. **Ajustar y pulir**: Suavizar bordes con una **[Lima](/es/inventions/file)** y **[Lija](/es/materials/sandpaper)** hasta que sea cómodo.
+5. **Ajustar y pulir**: Suavizar bordes con una **[Lima](/es/inventions/file)** y **[Lija](/es/materials/arenapaper)** hasta que sea cómodo.
 6. **Terminar y desinfectar**: Lavar con **[Jabón](/es/materials/soap)** y desinfectar con **[Alcohol](/es/materials/alcohol)**.
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Hueso](/es/materials/bone)** o **[Madera](/es/materials/wood)**, **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)**, **[Arcilla](/es/materials/clay)**.
+- **Esenciales**: **[Hueso](/es/materials/bone)** o **[Madera](/es/materials/wood)**, **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)**, **[Arcilla](/es/materials/arcilla)**.
 - **Durabilidad opcional**: **[Oro](/es/materials/gold)** o **[Plata](/es/materials/silver)** para soportes.
-- **Herramientas**: **[Espejo](/es/inventions/espejo)**, **[Horno](/es/inventions/kiln)**, **[Lima](/es/inventions/file)**.
+- **Herramientas**: **[Espejo](/es/inventions/espejo)**, **[Horno](/es/inventions/horno)**, **[Lima](/es/inventions/file)**.
 - **Higiene**: **[Agua](/es/materials/water)**, **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
 
 ## Variantes y mejoras

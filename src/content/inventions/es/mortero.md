@@ -1,7 +1,7 @@
 ---
 title: "Mortero y Maja"
 image: ../../../assets/inventions/mortar.jpg
-materialsUsed: ["stone", "wood", "pottery"]
+materialsUsed: ["piedra", "wood", "pottery"]
 ---
 
 # Breve descripción
@@ -27,7 +27,7 @@ Utiliza **compresión** y **fricción**. El recipiente (mortero) sostiene el mat
 
 ## Materiales necesarios
 
--   **Esenciales:** **[Piedra](/es/materials/stone)** dura (granito, basalto), **[madera](/es/materials/wood)** dura o cerámica cocida.
+-   **Esenciales:** **[Piedra](/es/materials/piedra)** dura (granito, basalto), **[madera](/es/materials/wood)** dura o cerámica cocida.
 -   **Herramientas:** Cinceles, raspadores u otras piedras para dar forma.
 
 ## Variantes y mejoras

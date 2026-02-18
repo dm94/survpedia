@@ -78,5 +78,5 @@ Los granos verdes son pálidos y duros. Tras el tostado se vuelven marrón oscur
 - **[Agua](/es/materials/water)**: Base de la infusión.
 - **[Azúcar](/es/materials/sugar)**: Endulzante común.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Filtros o bolsas simples.
-- **[Arcilla](/es/materials/clay)**: Para fabricar recipientes de infusión.
+- **[Arcilla](/es/materials/arcilla)**: Para fabricar recipientes de infusión.
 - **[Té](/es/materials/tea)**: Alternativa estimulante.

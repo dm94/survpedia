@@ -38,7 +38,7 @@ La superficie queda dorada y ligeramente crujiente mientras el interior se manti
 
 ### Herramientas necesarias para trabajarlo
 
-- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/clay)**.
+- **Recipientes**: **[Contenedores](/es/inventions/containers)** limpios o vasijas de **[Arcilla](/es/materials/arcilla)**.
 - **Calor**: Calor uniforme con **[Fuego](/es/inventions/fire)**, piedra o superficie metálica.
 - **Tela**: **[Tela](/es/materials/fabric)** para escurrir y prensar.
 - **Superficie de prensado**: Tablas de **[Madera](/es/materials/wood)** o piedra limpia.

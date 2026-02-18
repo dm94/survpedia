@@ -1,6 +1,6 @@
 ---
 title: "Molino"
-materialsUsed: ["stone", "wood", "iron", "animal-fat"]
+materialsUsed: ["piedra", "wood", "iron", "animal-fat"]
 ---
 
 # Breve descripción

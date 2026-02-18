@@ -56,7 +56,7 @@ Suele ser negra o marrón oscura con superficie brillante y vítrea. Es lisa al 
 ### Posibles sustitutos
 
 - **[Sílex](/es/materials/flint):** Cortante y más común en muchas regiones.
-- **[Piedra](/es/materials/stone):** Útil para herramientas romas, menos afilada.
+- **[Piedra](/es/materials/piedra):** Útil para herramientas romas, menos afilada.
 - **[Hueso](/es/materials/bone):** Más ligero, pero menos duradero.
 
 ### Limitaciones y fallos comunes
@@ -75,4 +75,4 @@ Suele ser negra o marrón oscura con superficie brillante y vítrea. Es lisa al 
 
 - **[Vidrio](/es/materials/glass):** Estructura amorfa similar.
 - **[Sílex](/es/materials/flint):** Otra piedra para talla.
-- **[Piedra](/es/materials/stone):** Material común y alternativo.
+- **[Piedra](/es/materials/piedra):** Material común y alternativo.

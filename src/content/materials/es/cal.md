@@ -52,7 +52,7 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 ### Posibles sustitutos
 
 - **[Cemento](/es/materials/cemento):** Alternativa moderna.
-- **[Arcilla](/es/materials/clay):** Para mortero simple (adobe).
+- **[Arcilla](/es/materials/arcilla):** Para mortero simple (adobe).
 - **[Yeso](/es/materials/gypsum):** Para enlucidos.
 
 ### Limitaciones y fallos comunes

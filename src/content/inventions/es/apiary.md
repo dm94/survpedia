@@ -1,6 +1,6 @@
 ---
 title: "Apiario"
-materialsUsed: ["wood", "plant-fibers", "resin", "stone"]
+materialsUsed: ["wood", "plant-fibers", "resin", "piedra"]
 ---
 
 # Breve descripción
@@ -25,7 +25,7 @@ Un apiario es un sitio gestionado donde se colocan, protegen y mantienen múltip
 
 1. **Elige el sitio**: Zona soleada, bien drenada, con cortavientos y **[Agua](/es/materials/water)** limpia cerca.
 2. **Traza el diseño**: Marca posiciones con pasillos claros y separación suficiente para trabajar.
-3. **Construye bases**: Usa marcos de **[Madera](/es/materials/wood)** o camas de **[Piedra](/es/materials/stone)** para evitar humedad.
+3. **Construye bases**: Usa marcos de **[Madera](/es/materials/wood)** o camas de **[Piedra](/es/materials/piedra)** para evitar humedad.
 4. **Añade barreras**: Instala cercas o pantallas tejidas con **[Fibras vegetales](/es/materials/plant-fibers)** para elevar el vuelo.
 5. **Protege y marca**: Sella uniones con **[Resina](/es/materials/resin)** y etiqueta colmenas.
 6. **Opera**: Usa humo suave de **[Fuego controlado](/es/inventions/fire)** y **[Contenedores](/es/inventions/containers)** para la cosecha.
@@ -36,7 +36,7 @@ Básico a intermedio. El diseño y las bases son de baja tecnología; el manejo 
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Madera](/es/materials/wood)** para bases, **[Piedra](/es/materials/stone)** o suelo compactado, **[Fibras vegetales](/es/materials/plant-fibers)** para pantallas.
+- **Esenciales**: **[Madera](/es/materials/wood)** para bases, **[Piedra](/es/materials/piedra)** o suelo compactado, **[Fibras vegetales](/es/materials/plant-fibers)** para pantallas.
 - **Herramientas**: Herramientas de corte, mazo, cuerda de medir, **[Contenedores](/es/inventions/containers)** para la miel.
 - **Sustitutos**: Taludes de tierra compactada, placas de barro o matorral tejido para cortavientos.
 

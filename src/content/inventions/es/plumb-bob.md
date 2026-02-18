@@ -5,7 +5,7 @@ materialsUsed:
   - brass
   - cuerda
   - wood
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/plumb-bob.jpg
 ---
 

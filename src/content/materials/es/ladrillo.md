@@ -1,8 +1,8 @@
 ---
 title: Ladrillo
 composition:
-  - clay
-  - sand
+  - arcilla
+  - arena
   - water
   - paja
 properties:
@@ -31,8 +31,8 @@ Generalmente tiene forma de paralelepípedo rectangular. Su color varía dependi
 
 El ladrillo no se encuentra en la naturaleza; debe ser fabricado. Sin embargo, sus componentes principales son muy comunes:
 
-- **[Arcilla](/es/materials/clay):** Suelos arcillosos, lechos de ríos.
-- **[Arena](/es/materials/sand):** Playas, ríos, canteras.
+- **[Arcilla](/es/materials/arcilla):** Suelos arcillosos, lechos de ríos.
+- **[Arena](/es/materials/arena):** Playas, ríos, canteras.
 - **[Agua](/es/materials/water).**
 
 ### Procesamiento mínimo necesario
@@ -81,6 +81,6 @@ Para obtener un ladrillo útil:
 ### Materiales relacionados
 
 - **Adobe:** Ladrillo sin cocer, secado al sol.
-- **[Arcilla](/es/materials/clay):** La materia prima principal.
+- **[Arcilla](/es/materials/arcilla):** La materia prima principal.
 - **[Mortero](/es/materials/mortero):** Necesario para unir los ladrillos.
 - **[Cerámica](/es/materials/ceramics):** Material relacionado por proceso de cocción.

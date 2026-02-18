@@ -4,7 +4,7 @@ materialsUsed:
   - glass
   - wood
   - iron
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/ventana.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Nevera de tierra
 materialsUsed:
-  - clay
-  - sand
+  - arcilla
+  - arena
   - water
   - fabric
 image: ../../../assets/images/inventions/nevera-de-tierra.jpg

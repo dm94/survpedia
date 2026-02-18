@@ -26,7 +26,7 @@ El pan es un alimento horneado hecho con masa de cereal que aporta calorías est
 - **Versión funcional mínima (pan plano)**:
   1. Muele **[Trigo](/es/materials/wheat)** u otro grano con **[Molino de mano](/es/inventions/hand-mill)** o **[Mortero](/es/inventions/mortar)**.
   2. Mezcla harina con **[Agua](/es/materials/water)** y **[Sal](/es/materials/salt)** hasta formar una masa firme.
-  3. Aplana y cocina sobre piedra caliente o en **[Horno](/es/inventions/kiln)** cerca del **[Fuego](/es/inventions/fire)**.
+  3. Aplana y cocina sobre piedra caliente o en **[Horno](/es/inventions/horno)** cerca del **[Fuego](/es/inventions/fire)**.
 - **Versión funcional mínima (pan leudado)**:
   1. Añade **[Levadura](/es/materials/yeast)** o masa madre.
   2. Deja fermentar, forma y hornea.
@@ -35,7 +35,7 @@ El pan es un alimento horneado hecho con masa de cereal que aporta calorías est
 ## Materiales necesarios
 
 - **Materiales esenciales**: Harina de grano, **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)**, **[Levadura](/es/materials/yeast)** o masa madre.
-- **Herramientas**: **[Molino de mano](/es/inventions/hand-mill)** o **[Mortero](/es/inventions/mortar)**, **[Contenedores](/es/inventions/containers)**, **[Fuego](/es/inventions/fire)**, **[Horno](/es/inventions/kiln)**.
+- **Herramientas**: **[Molino de mano](/es/inventions/hand-mill)** o **[Mortero](/es/inventions/mortar)**, **[Contenedores](/es/inventions/containers)**, **[Fuego](/es/inventions/fire)**, **[Horno](/es/inventions/horno)**.
 - **Sustitutos posibles**: **[Maíz](/es/materials/maize)**, **[Arroz](/es/materials/rice)** o **[Yuca](/es/materials/cassava)** para panes planos cuando no hay trigo.
 
 ## Variantes y mejoras

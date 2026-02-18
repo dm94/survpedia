@@ -1,9 +1,9 @@
 ---
 title: Carretera Pavimentada
 materialsUsed:
-  - stone
+  - piedra
   - gravel
-  - sand
+  - arena
   - concrete
   - asphalt
 image: ../../../assets/images/inventions/road.jpg

@@ -3,8 +3,8 @@ title: Asfalto
 composition:
   - bitumen
   - gravel
-  - sand
-  - stone
+  - arena
+  - piedra
 properties:
   - Duradero
   - Impermeable

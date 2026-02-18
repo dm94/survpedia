@@ -2,7 +2,7 @@
 title: Hacha de mano
 materialsUsed:
   - flint
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/hand-axe.jpg
 ---
 

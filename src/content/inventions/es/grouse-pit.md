@@ -2,7 +2,7 @@
 title: Pozo para urogallos
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - plant-fibers
 ---
 
@@ -33,7 +33,7 @@ Nivel técnico: Básico en excavación y camuflaje.
 
 ## Materiales necesarios
 
-- **Esenciales:** **[Madera](/es/materials/wood)** para tapa y guías, **[Fibras vegetales](/es/materials/plant-fibers)** para amarres, **[Piedra](/es/materials/stone)** para anclar o lastrar.
+- **Esenciales:** **[Madera](/es/materials/wood)** para tapa y guías, **[Fibras vegetales](/es/materials/plant-fibers)** para amarres, **[Piedra](/es/materials/piedra)** para anclar o lastrar.
 - **Herramientas:** **[Pala](/es/inventions/shovel)**, cuchillo.
 - **Sustitutos:** Paredes de nieve, tapa de césped o entramado de ramas.
 

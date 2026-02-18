@@ -2,7 +2,7 @@
 title: Torno de Alfarero
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - leather
 image: ../../../assets/images/inventions/potters-wheel.jpg
 ---
@@ -30,7 +30,7 @@ El torno de alfarero se basa en los principios del **momento angular** y la **fu
 
 Dominar el torno de alfarero requiere coordinación y práctica. El proceso se divide generalmente en varios pasos:
 
-1.  **Amasado:** Antes de usar el torno, la [arcilla](/es/materials/clay) debe amasarse para eliminar las burbujas de aire y asegurar una consistencia uniforme.
+1.  **Amasado:** Antes de usar el torno, la [arcilla](/es/materials/arcilla) debe amasarse para eliminar las burbujas de aire y asegurar una consistencia uniforme.
 2.  **Centrado:** Colocar la bola de arcilla firmemente en el centro de la cabeza del torno giratorio. Aplicar presión con las manos mojadas para obligar a la arcilla a formar un montículo perfectamente simétrico. Este es el paso más crítico y físicamente exigente.
 3.  **Apertura:** Presionar los pulgares o dedos en el centro del montículo giratorio para crear un agujero, dejando una base de grosor adecuado.
 4.  **Estirado:** Apretar la pared de arcilla entre los dedos de una mano por dentro y la otra por fuera. Levantar suavemente las manos para tirar de la arcilla hacia arriba, adelgazando las paredes y aumentando la altura.
@@ -43,7 +43,7 @@ El trabajo del alfarero no termina con el modelado en el torno. La pieza debe so
 
 1.  **Secado:**
     - **Dureza de cuero:** Después de un día aproximadamente (dependiendo de la humedad), la arcilla está rígida pero aún húmeda. Esta es la etapa para el **retorneado**, colocar asas y decorar.
-    - **Secado completo (Estado de hueso):** La pieza debe secarse completamente hasta que esté a temperatura ambiente y tenga un color más claro. Cualquier humedad restante puede hacer que la pieza explote en el **[Horno](/es/inventions/kiln)** al convertirse el agua en vapor.
+    - **Secado completo (Estado de hueso):** La pieza debe secarse completamente hasta que esté a temperatura ambiente y tenga un color más claro. Cualquier humedad restante puede hacer que la pieza explote en el **[Horno](/es/inventions/horno)** al convertirse el agua en vapor.
 2.  **Cocción:**
     - **Bizcochado (Primera cocción):** La primera cocción (típicamente alrededor de 900°C - 1000°C). Esto convierte la arcilla frágil en cerámica porosa. Ahora es permanente pero no impermeable.
     - **Esmaltado (Opcional):** Aplicación de una suspensión líquida de minerales (esmalte) sobre el bizcocho.
@@ -62,9 +62,9 @@ El trabajo del alfarero no termina con el modelado en el torno. La pieza debe so
 ## Materiales necesarios
 
 - **[Madera](/es/materials/wood):** Para la estructura, el banco, el eje y la cabeza del torno.
-- **[Piedra](/es/materials/stone):** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
+- **[Piedra](/es/materials/piedra):** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
 - **[Cuero](/es/materials/leather)** / Grasa: Para lubricar los puntos de contacto (cojinetes).
-- **[Arcilla](/es/materials/clay):** ¡Para probar y usar el torno!
+- **[Arcilla](/es/materials/arcilla):** ¡Para probar y usar el torno!
 - **[Agua](/es/materials/water):** Esencial para lubricar las manos y la arcilla durante el torneado.
 
 ## Variantes y mejoras
@@ -82,7 +82,7 @@ El trabajo del alfarero no termina con el modelado en el torno. La pieza debe so
 
 ### Inventos relacionados
 
-- **[Horno](/es/inventions/kiln):** Esencial para cocer la cerámica hecha en el torno.
+- **[Horno](/es/inventions/horno):** Esencial para cocer la cerámica hecha en el torno.
 - **[Alfarería](/es/inventions/pottery):** El oficio habilitado por el torno.
 - **[Volante de inercia](/es/inventions/flywheel):** El mecanismo central que almacena el momento.
 - **[Eje](/es/inventions/axle):** El eje central que permite la rotación.

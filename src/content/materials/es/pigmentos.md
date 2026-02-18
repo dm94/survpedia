@@ -89,4 +89,4 @@ Los pigmentos aparecen como polvos finos y coloreados. La intensidad del color y
 - **[Albayalde](/es/materials/white-lead)**: Un pigmento blanco común a base de plomo.
 - **[Tinta](/es/materials/ink)**: Pigmentos suspendidos en un líquido para escribir.
 - **[Pegamento](/es/materials/glue)**: Puede actuar como aglutinante.
-- **[Arcilla](/es/materials/clay)**: Una fuente de pigmentos de tierra (Ocre).
+- **[Arcilla](/es/materials/arcilla)**: Una fuente de pigmentos de tierra (Ocre).

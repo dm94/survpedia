@@ -1,8 +1,8 @@
 ---
 title: Camino Empedrado
 materialsUsed:
-  - stone
-  - sand
+  - piedra
+  - arena
   - gravel
   - pico
   - pison

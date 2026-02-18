@@ -1,11 +1,11 @@
 ---
 title: Ventilación Pasiva
 materialsUsed:
-  - brick
-  - stone
+  - ladrillo
+  - piedra
   - wood
   - hormigon
-  - clay
+  - arcilla
 image: ../../../assets/images/inventions/passive-ventilation.jpg
 ---
 

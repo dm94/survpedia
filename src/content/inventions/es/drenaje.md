@@ -1,9 +1,9 @@
 ---
 title: Drenaje
 materialsUsed:
-  - stone
+  - piedra
   - gravel
-  - clay
+  - arcilla
   - bambu
 image: ../../../assets/images/inventions/drenaje.jpg
 ---

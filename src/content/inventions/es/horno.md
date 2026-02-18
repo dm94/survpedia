@@ -1,7 +1,6 @@
 ---
 title: "Horno"
-image: ../../../assets/inventions/kiln.jpg
-materialsUsed: ["clay", "stone", "wood", "charcoal"]
+materialsUsed: ["arcilla", "piedra", "wood", "charcoal"]
 ---
 
 # Breve descripción
@@ -11,9 +10,9 @@ Un horno es una cámara térmicamente aislada utilizada para calentar, cocer o s
 ## Uso / Función
 
 - **Preparación de alimentos:** Cocer pan y cocinar alimentos.
-- **[Alfarería](/es/inventions/pottery):** Cocer [arcilla](/es/materials/clay) para crear [cerámica](/es/materials/ceramics).
+- **[Alfarería](/es/inventions/pottery):** Cocer [arcilla](/es/materials/arcilla) para crear [cerámica](/es/materials/ceramics).
 - **Metalurgia:** Fundir minerales y metales.
-- **Fabricación:** Creación de [ladrillos](/es/materials/brick) y [cal](/es/materials/lime).
+- **Fabricación:** Creación de [ladrillos](/es/materials/ladrillo) y [cal](/es/materials/lime).
 
 ## Principio de funcionamiento
 
@@ -29,8 +28,8 @@ El horno funciona confinando el calor dentro de un espacio aislado. Al controlar
 
 ## Materiales necesarios
 
-- **Estructura:** [Arcilla](/es/materials/clay), barro, ladrillos refractarios o [piedras](/es/materials/stone) resistentes al calor.
-- **Ligante:** [Arcilla](/es/materials/clay) húmeda o [mortero](/es/materials/mortar).
+- **Estructura:** [Arcilla](/es/materials/arcilla), barro, ladrillos refractarios o [piedras](/es/materials/piedra) resistentes al calor.
+- **Ligante:** [Arcilla](/es/materials/arcilla) húmeda o [mortero](/es/materials/mortar).
 - **Combustible:** [Madera](/es/materials/wood), [carbón vegetal](/es/materials/charcoal) o [carbón mineral](/es/materials/coal).
 - **Herramientas:** Palas, pinzas y potencialmente fuelles para temperaturas más altas.
 
@@ -57,6 +56,6 @@ El horno funciona confinando el calor dentro de un espacio aislado. Al controlar
 ### Materiales relacionados
 
 - **[Carbón vegetal](/es/materials/charcoal):** Combustible común de alto calor.
-- **[Arcilla](/es/materials/clay):** El material principal cocido en hornos.
+- **[Arcilla](/es/materials/arcilla):** El material principal cocido en hornos.
 - **[Cerámica](/es/materials/ceramics):** El producto de la cocción de arcilla.
-- **[Ladrillo](/es/materials/brick):** Material de construcción cocido.
+- **[Ladrillo](/es/materials/ladrillo):** Material de construcción cocido.

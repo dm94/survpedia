@@ -1,9 +1,9 @@
 ---
 title: Fragua
 materialsUsed:
-  - clay
-  - stone
-  - brick
+  - arcilla
+  - piedra
+  - ladrillo
   - iron
   - wood
   - leather

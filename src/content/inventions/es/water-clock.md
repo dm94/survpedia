@@ -1,6 +1,6 @@
 ---
 title: "Reloj de agua"
-materialsUsed: ["stone", "ceramic", "water"]
+materialsUsed: ["piedra", "ceramic", "water"]
 ---
 
 # Descripción breve

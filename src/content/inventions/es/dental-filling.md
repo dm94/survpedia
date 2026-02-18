@@ -1,6 +1,6 @@
 ---
 title: "Empaste dental"
-materialsUsed: ["clay", "resin", "beeswax", "charcoal", "tin", "silver", "gold"]
+materialsUsed: ["arcilla", "resin", "beeswax", "charcoal", "tin", "silver", "gold"]
 image: ../../../assets/images/inventions/dental-filling.jpg
 ---
 
@@ -29,14 +29,14 @@ El empaste elimina tejido blando o contaminado, limpia la cavidad y la sella con
 3. **Desinfección y secado**: Limpiar con **[Alcohol](/es/materials/alcohol)** y secar con **[Algodón](/es/materials/cotton)**.
 4. **Preparar el relleno**:
    - **Temporal**: Mezclar **[Cera de abejas](/es/materials/beeswax)** con un poco de **[Resina](/es/materials/resin)**.
-   - **Más resistente**: Polvo fino de **[Arcilla](/es/materials/clay)** cocida mezclado con resina.
+   - **Más resistente**: Polvo fino de **[Arcilla](/es/materials/arcilla)** cocida mezclado con resina.
    - **Metálico**: Incrustación simple de **[Plata](/es/materials/silver)** o **[Estaño](/es/materials/tin)** si se puede adaptar.
 5. **Colocar y ajustar**: Compactar el material, alisar bordes con una **[Lima](/es/inventions/file)** y comprobar la mordida.
 6. **Higiene posterior**: Lavar con **[Jabón](/es/materials/soap)** y mantener cepillado suave.
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Arcilla](/es/materials/clay)**, **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)**.
+- **Esenciales**: **[Arcilla](/es/materials/arcilla)**, **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)**.
 - **Refuerzo opcional**: **[Plata](/es/materials/silver)**, **[Estaño](/es/materials/tin)** o **[Oro](/es/materials/gold)** para incrustaciones.
 - **Higiene**: **[Agua](/es/materials/water)**, **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
 - **Herramientas**: **[Espejo](/es/inventions/espejo)**, **[Herramientas de cirugía](/es/inventions/surgery-tools)**, **[Lima](/es/inventions/file)**.
