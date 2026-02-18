@@ -7,6 +7,7 @@ relatedMaterials:
   - asphalt
 relatedInventions:
   - distillation
+  - oil-refinery
   - alembic
   - fire
   - containers
@@ -44,7 +45,7 @@ El refinado de petróleo es la separación controlada del petróleo crudo en fra
 ## Materiales necesarios
 
 - **Esenciales**: **[Petróleo crudo](/es/materials/crude-oil)**, fuente de calor, recipiente cerrado pero ventilado, condensador.
-- **Herramientas**: **[Alambique](/es/inventions/alembic)** o sistema de **[Destilación](/es/inventions/distillation)**, **[Contenedores](/es/inventions/containers)**, **[Tuberías](/es/inventions/tuberias)**, **[Bomba de petróleo](/es/inventions/oil-pump)** para residuos espesos.
+- **Herramientas**: **[Refinería de petróleo](/es/inventions/oil-refinery)** para proceso organizado, **[Alambique](/es/inventions/alembic)** o sistema de **[Destilación](/es/inventions/distillation)**, **[Contenedores](/es/inventions/containers)**, **[Tuberías](/es/inventions/tuberias)**, **[Bomba de petróleo](/es/inventions/oil-pump)** para residuos espesos.
 - **Sustitutos**: Recipientes de arcilla o metal si no hay vidrio; condensador por aire si el agua escasea.
 
 ## Variantes y mejoras
@@ -71,6 +72,7 @@ El refinado de petróleo es la separación controlada del petróleo crudo en fra
 ### Inventos relacionados
 
 - **[Destilación](/es/inventions/distillation)**: Método base de separación.
+- **[Refinería de petróleo](/es/inventions/oil-refinery)**: Planta estructurada para refinado continuo.
 - **[Alambique](/es/inventions/alembic)**: Aparato simple de destilación.
 - **[Fuego controlado](/es/inventions/fire)**: Fuente de calor.
 - **[Contenedores](/es/inventions/containers)**: Almacenamiento de fracciones.

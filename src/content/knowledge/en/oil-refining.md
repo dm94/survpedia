@@ -7,6 +7,7 @@ relatedMaterials:
   - asphalt
 relatedInventions:
   - distillation
+  - oil-refinery
   - alembic
   - fire
   - containers
@@ -44,7 +45,7 @@ Oil refining is the controlled separation of crude oil into useful fractions by 
 ## Materials needed
 
 - **Essential**: **[Crude Oil](/en/materials/crude-oil)**, heat source, sealed but vented vessel, condenser.
-- **Tools**: **[Alembic](/en/inventions/alembic)** or **[Distillation](/en/inventions/distillation)** setup, **[Containers](/en/inventions/containers)**, **[Pipes](/en/inventions/pipes)**, **[Oil Pump](/en/inventions/oil-pump)** for thick residue.
+- **Tools**: **[Oil Refinery](/en/inventions/oil-refinery)** for organized processing, **[Alembic](/en/inventions/alembic)** or **[Distillation](/en/inventions/distillation)** setup, **[Containers](/en/inventions/containers)**, **[Pipes](/en/inventions/pipes)**, **[Oil Pump](/en/inventions/oil-pump)** for thick residue.
 - **Possible substitutes**: Clay or metal vessels if glass is unavailable; air-cooled condenser if water is scarce.
 
 ## Variants and improvements
@@ -71,6 +72,7 @@ Oil refining is the controlled separation of crude oil into useful fractions by 
 ### Related inventions
 
 - **[Distillation](/en/inventions/distillation)**: Core separation method.
+- **[Oil Refinery](/en/inventions/oil-refinery)**: Structured plant for continuous refining.
 - **[Alembic](/en/inventions/alembic)**: Simple distillation apparatus.
 - **[Controlled Fire](/en/inventions/fire)**: Heat source for boiling.
 - **[Containers](/en/inventions/containers)**: Fraction storage.
