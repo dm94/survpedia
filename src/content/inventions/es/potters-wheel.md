@@ -37,6 +37,18 @@ Dominar el torno de alfarero requiere coordinación y práctica. El proceso se d
 5.  **Modelado:** Aplicar presión variable desde el interior o el exterior para abombar o estrechar la forma.
 6.  **Retorneado:** Una vez que la pieza se ha secado hasta alcanzar el estado de dureza de cuero, se devuelve al torno (a menudo boca abajo) para recortar el exceso de arcilla y refinar la forma utilizando herramientas afiladas.
 
+## Procesamiento posterior (Secado y Cocción)
+
+El trabajo del alfarero no termina con el modelado en el torno. La pieza debe someterse a un proceso crítico de secado y cocción para convertirse en cerámica duradera.
+
+1.  **Secado:**
+    - **Dureza de cuero:** Después de un día aproximadamente (dependiendo de la humedad), la arcilla está rígida pero aún húmeda. Esta es la etapa para el **retorneado**, colocar asas y decorar.
+    - **Secado completo (Estado de hueso):** La pieza debe secarse completamente hasta que esté a temperatura ambiente y tenga un color más claro. Cualquier humedad restante puede hacer que la pieza explote en el **[Horno](/es/inventions/kiln)** al convertirse el agua en vapor.
+2.  **Cocción:**
+    - **Bizcochado (Primera cocción):** La primera cocción (típicamente alrededor de 900°C - 1000°C). Esto convierte la arcilla frágil en cerámica porosa. Ahora es permanente pero no impermeable.
+    - **Esmaltado (Opcional):** Aplicación de una suspensión líquida de minerales (esmalte) sobre el bizcocho.
+    - **Cocción de esmalte:** Una segunda cocción (a menudo a mayor temperatura) para fundir el esmalte, formando un recubrimiento vítreo e impermeable.
+
 ## Cómo crearlo
 
 ### Torno de pie (Tradicional)

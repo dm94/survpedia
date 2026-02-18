@@ -43,6 +43,24 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 - **[Kiln](/en/inventions/kiln):** For firing and hardening the clay into ceramic.
 - **Wire cutters:** For slicing clay blocks or removing pots from the wheel.
 
+### Quick quality tests
+
+- **Coil test:** Roll a thin cylinder and bend it; if it breaks easily, it needs more plasticity.
+- **Flattening test:** Flatten a piece; if it cracks at the edges, there is too much sand or lack of moisture.
+- **Jar test:** Mix with water, shake, and let settle to separate layers to see proportions of sand and silt.
+
+### Useful improvements and mixtures
+
+- **Temper:** Fine sand, grog, or ash to reduce shrinkage and cracking.
+- **Fibers:** Straw or hair for adobe and resistant plasters.
+- **Additives:** Ash or lime to modify hardness and water resistance.
+
+### Storage and preservation
+
+- Keep clay moist and covered to prevent uneven drying.
+- Store in blocks wrapped in cloth or reusable plastic.
+- Avoid contamination with roots, leaves, or salts.
+
 ### Common forms of use
 
 - **Raw:** For simple mud-daub construction.
@@ -60,6 +78,7 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 - Cracking: Happens if it dries too quickly or unevenly.
 - Shrinkage: Clay loses volume as it dries and fires.
 - Water Damage: Unfired clay will dissolve back into mud if it gets wet.
+- Poor Firing: Uneven firing leaves pieces fragile or porous.
 
 ### Risks and safety
 

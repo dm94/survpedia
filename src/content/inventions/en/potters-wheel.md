@@ -37,6 +37,18 @@ Mastering the potter's wheel requires coordination and practice. The process is 
 5.  **Shaping:** Apply varying pressure from the inside or outside to bulge or narrow the form.
 6.  **Trimming:** Once the piece has dried to a leather-hard state, it is returned to the wheel (often upside down) to trim away excess clay and refine the shape using sharp tools.
 
+## Post-processing (Drying and Firing)
+
+The work of the potter does not end with shaping on the wheel. The piece must undergo a critical drying and firing process to become durable ceramic.
+
+1.  **Drying:**
+    - **Leather Hard:** After a day or so (depending on humidity), the clay is stiff but still damp. This is the stage for **trimming**, attaching handles, and decorating.
+    - **Bone Dry:** The piece must dry completely until it is warm to the touch (room temperature) and lighter in color. Any remaining moisture can cause the piece to explode in the **[Kiln](/en/inventions/kiln)** as water turns to steam.
+2.  **Firing:**
+    - **Bisque Firing:** The first firing (typically around 900°C - 1000°C). This turns the fragile clay into porous ceramic. It is now permanent but not waterproof.
+    - **Glazing (Optional):** Applying a liquid suspension of minerals (glaze) to the bisque ware.
+    - **Glaze Firing:** A second firing (often at higher temperature) to melt the glaze, forming a glass-like waterproof coating.
+
 ## How to create it
 
 ### Kick Wheel (Traditional)
