@@ -10,7 +10,7 @@ Measuring tools are instruments designed to quantify physical magnitudes such as
 ## Use / Function
 
 - **Construction:** Ensuring structures are straight, level, and of correct dimensions (ruler, plumb bob, level).
-- **Trade:** Quantifying goods for fair exchange (balance scale).
+- **Trade:** Quantifying goods for fair exchange (balance scale, measuring container).
 - **Navigation:** Determining position and direction (compass, sextant, chronometer).
 - **Timekeeping:** Organizing daily activities and agriculture (sundial, calendar).
 - **Science:** Observing and recording natural phenomena (thermometer, barometer).
@@ -44,6 +44,7 @@ Creation varies by tool, but generally involves:
 - **Linear:** [Ruler](./ruler), [Tape measure](./tape-measure), [Calipers](./calipers), [Micrometer](./micrometer).
 - **Angular:** [Protractor](./protractor), [Sextant](./sextant), [Theodolite](./theodolite).
 - **Mass/Weight:** [Balance scale](./balance-scale), [Spring scale](./spring-scale).
+- **Volume:** [Measuring Container](./measuring-container).
 - **Leveling:** [Plumb bob](./plumb-bob), [Spirit level](./level), [Water level](./level).
 - **Time:** [Sundial](./sundial), [Water clock](./water-clock), [Pendulum clock](./pendulum-clock), [Mechanical Watch](./mechanical-watch).
 - **Environmental:** [Thermometer](./thermometer), [Barometer](./barometer).

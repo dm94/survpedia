@@ -10,7 +10,7 @@ Las herramientas de medición son instrumentos diseñados para cuantificar magni
 ## Uso / Función
 
 - **Construcción:** Asegurar que las estructuras estén rectas, niveladas y con las dimensiones correctas (regla, plomada, nivel).
-- **Comercio:** Cuantificar bienes para un intercambio justo (balanza).
+- **Comercio:** Cuantificar bienes para un intercambio justo (balanza, recipiente de medición).
 - **Navegación:** Determinar posición y dirección (brújula, sextante, cronómetro).
 - **Medición del tiempo:** Organizar actividades diarias, agricultura y navegación (reloj de sol, calendario, reloj de agua, reloj de péndulo).
 - **Ciencia:** Observar y registrar fenómenos naturales (termómetro, barómetro).
@@ -50,11 +50,12 @@ La creación varía según la herramienta, pero generalmente implica:
 
 ## Variantes y mejoras
 
-- **Lineal:** [Regla](./ruler), [Cinta métrica](./cinta-metrica), [Calibre](./calipers), [Micrómetro](./micrometer).
+- **Lineal:** [Regla](./ruler), [Cinta métrica](./tape-measure), [Calibre](./calipers), [Micrómetro](./micrometer).
 - **Angular:** [Transportador](./protractor), [Sextante](./sextant), [Teodolito](./theodolite).
 - **Masa/Peso:** [Balanza](./balance-scale), [Báscula de resorte](./spring-scale).
-- **Nivelación:** [Plomada](./plomada), [Nivel de burbuja](./level), [Nivel de agua](./level).
-- **Tiempo:** [Reloj de sol](./sundial), [Reloj de agua](./water-clock), [Reloj de péndulo](./pendulum-clock), [Reloj Mecánico](./reloj-mecanico).
+- **Volumen:** [Recipiente de Medición](./measuring-container).
+- **Nivelación:** [Plomada](./plumb-bob), [Nivel de burbuja](./level), [Nivel de agua](./level).
+- **Tiempo:** [Reloj de sol](./sundial), [Reloj de agua](./water-clock), [Reloj de péndulo](./pendulum-clock), [Reloj Mecánico](./mechanical-watch).
 - **Ambiental:** [Termómetro](./thermometer), [Barómetro](./barometer).
 
 ## Límites y riesgos
