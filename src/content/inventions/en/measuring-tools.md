@@ -16,6 +16,13 @@ Measuring tools are instruments designed to quantify physical magnitudes such as
 - **Science:** Observing and recording natural phenomena (thermometer, barometer).
 - **Scale:** Individual to Industrial.
 
+## Temperature Measurement
+
+Temperature measurement is crucial for chemical processes, cooking, medicine, and weather prediction.
+
+- **Thermometer:** Uses the thermal expansion of liquids (mercury, alcohol) or solids to indicate temperature on a graduated scale. It allows for precise process control and health safety.
+- **Thermocouple:** For extreme temperatures or rapid digital measurements.
+
 ## Operating principle
 
 All measuring tools work on the principle of **comparison against a standard**.

@@ -1,43 +1,45 @@
 ---
 title: "Ruler"
-materialsUsed: ["wood", "bone", "steel", "brass", "iron"]
-image: ../../../assets/inventions/ruler.jpg
+materialsUsed: ["wood", "metal", "plastic"]
 ---
 
 # Brief description
 
-A straight strip of plastic, wood, metal, or other rigid material, marked at regular intervals, used to draw straight lines or measure distances.
+A ruler is a tool used to measure lengths and draw straight lines. It is a fundamental instrument in geometry, technical drawing, engineering, and construction.
 
 ## Use / Function
 
-- **Measurement**: Measuring length.
-- **Drawing**: Guiding straight lines.
-- **Scale**: Used in domestic, educational, and industrial settings.
+- **Measurement:** Determining the length of an object or distance.
+- **Drawing:** Guiding a pen or pencil to draw straight lines.
+- **Cutting:** Providing a straight edge for cutting materials.
+- **Scale:** Personal to small-scale construction.
 
 ## Operating principle
 
-Direct comparison against a standard scale marked on the tool. The user aligns the zero mark with the start of the object and reads the value at the end.
+It works by **direct comparison**. The ruler has markings (graduations) that represent standard units of length (centimeters, inches). By aligning the object with the ruler, its length can be read directly.
 
 ## How to create it
 
-1.  **Body**: Find a straight branch or split a log. Plane it flat and straight. Alternatively, cut a strip of metal or bone.
-2.  **Marking**: Use a known standard (e.g., thumb width, foot, or another ruler) to mark intervals. Carve notches or paint lines. Ensure spacing is consistent.
+1.  **Material Selection:** Choose a rigid, straight material (hardwood, metal strip).
+2.  **Straightening:** Plane one edge until it is perfectly straight.
+3.  **Marking:** Using a known standard, mark equal intervals along the edge.
+4.  **Finishing:** Ensure markings are clear and durable.
+
+- **Technical level:** Basic.
 
 ## Materials needed
 
-- **Essential**: Wood, Bone, or Metal (Steel, Brass, Iron).
-- **Tools**: Knife, Saw, Plane, Marking tool (scribe or paint).
+- **Essential:** Hardwood, metal, or rigid plastic.
+- **Tools:** Planer, scribe or fine pen, standard reference for calibration.
 
 ## Variants and improvements
 
-- **Tape Measure**: Flexible for measuring curves.
-- **Folding Ruler**: Compact storage.
-- **Caliper**: For more precise internal/external measurements.
-- **Triangular Scale**: Multiple scales on one ruler.
+- **Folding ruler:** Hinged sections for portability.
+- **Scale ruler:** Multiple scales for reading architectural drawings.
+- **Steel rule:** High precision for machining.
 
 ## Limits and risks
 
-- **Precision**: Limited by the thickness of the markings and the visual acuity of the user.
-- **Thermal Expansion**: Metal rulers expand with heat, affecting accuracy.
-- **Warping**: Wood rulers can warp with humidity.
-- **Length**: Not suitable for measuring long distances (use a tape measure or chain) or very small objects (use a caliper or micrometer).
+- **Length:** Limited by the physical length of the ruler.
+- **Parallax:** Reading from an angle can cause errors.
+- **Wear:** Markings can fade or the edge can become damaged.

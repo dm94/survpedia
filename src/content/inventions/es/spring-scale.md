@@ -1,42 +1,50 @@
 ---
-title: "Báscula de Resorte"
-materialsUsed: ["steel", "iron", "brass"]
+title: "Báscula de resorte"
+materialsUsed: ["metal", "plastic"]
 ---
 
-# Breve descripción
+# Descripción breve
 
-Dispositivo de pesaje que mide el peso de un objeto basándose en la deformación elástica de un resorte. Es compacta, robusta y fácil de usar, aunque menos precisa que una balanza de brazos para el comercio fino.
+Una báscula de resorte, o balanza de resorte, es un tipo de báscula de pesaje. Consiste en un resorte fijo en un extremo con un gancho para sujetar un objeto en el otro.
 
 ## Uso / Función
 
-- **Comercio y Logística:** Pesar sacos, pescado, equipaje.
-- **Industrial:** Medir fuerzas (dinamómetro).
-- **Hogar:** Básculas de cocina o baño.
+- **Pesaje:** Medir el peso (fuerza de gravedad) de un objeto.
+- **Medición de fuerza:** Medir fuerza en experimentos de física (dinamómetro).
+- **Comercio:** Pesar productos o mercancías (a menudo balanzas colgantes).
+- **Escala:** Personal a Industrial.
 
 ## Principio de funcionamiento
 
-Se basa en la **Ley de Hooke**: la extensión (o compresión) de un resorte es directamente proporcional a la fuerza (peso) aplicada sobre él, siempre que no se exceda el límite elástico.
-El resorte mueve una aguja sobre una escala graduada.
+Funciona según la **Ley de Hooke**, que establece que la fuerza necesaria para extender o comprimir un resorte una cierta distancia es proporcional a esa distancia.
+- A medida que se aplica peso, el resorte se estira.
+- Un puntero unido al resorte se mueve a lo largo de una escala calibrada para indicar el peso.
 
 ## Cómo crearlo
 
-1.  **Resorte:** Enrollar un alambre de acero templado para formar un muelle helicoidal.
-2.  **Cuerpo:** Un tubo o caja que contenga el resorte.
-3.  **Gancho:** Un extremo para colgar el objeto.
-4.  **Escala:** Calibrar marcando posiciones con pesos conocidos.
+1.  **Selección del resorte:** Elegir un resorte con una rigidez adecuada (constante del resorte) para el rango de peso deseado.
+2.  **Carcasa:** Crear un tubo o marco para sostener el resorte y protegerlo.
+3.  **Puntero:** Colocar un marcador en el extremo móvil del resorte.
+4.  **Calibración:**
+    - Marcar el punto cero sin carga.
+    - Colgar un peso conocido y marcar ese punto.
+    - Dividir la distancia linealmente (asumiendo un resorte lineal).
+
+- **Nivel técnico:** Básico.
 
 ## Materiales necesarios
 
-- **Esenciales:** Acero de alto carbono (para el resorte), Hierro o Latón (cuerpo y ganchos).
-- **Herramientas:** Alicates, herramientas para templar metal.
+- **Esenciales:** Resorte helicoidal de metal (acero).
+- **Herramientas:** Alicates, herramientas de marcado, pesos estándar.
 
 ## Variantes y mejoras
 
-- **Dinamómetro:** Calibrado en Newtons para medir fuerza en lugar de masa.
-- **Báscula de compresión:** El peso comprime el resorte (ej. báscula de baño).
+- **Tubular:** Diseño cilíndrico compacto.
+- **Báscula de dial:** El movimiento lineal se convierte en un movimiento rotatorio (tipo reloj) mediante una cremallera y piñón.
+- **Dinamómetro:** Diseñado específicamente para medir fuerza/tensión.
 
 ## Límites y riesgos
 
-- **Fatiga del metal:** Con el uso excesivo, el resorte puede perder tensión y precisión.
-- **Temperatura:** El calor puede alterar la elasticidad del acero.
-- **Gravedad:** Mide peso (fuerza), no masa; la lectura varía ligeramente con la gravedad local (altitud/latitud), a diferencia de una balanza de contrapeso.
+- **Límite elástico:** Si se sobrecarga, el resorte puede deformarse permanentemente, arruinando la báscula.
+- **Gravedad:** Mide peso, no masa. Las lecturas varían ligeramente con la gravedad (altitud/ubicación).
+- **Temperatura:** El calor extremo puede afectar la elasticidad del resorte.

@@ -1,36 +1,45 @@
 ---
 title: "Regla"
-materialsUsed: ["wood", "bone", "steel", "brass", "iron"]
-image: ../../../assets/inventions/ruler.jpg
+materialsUsed: ["wood", "metal", "plastic"]
 ---
 
-# Breve descripción
-Una tira recta de madera, metal u otro material rígido, marcada a intervalos regulares, utilizada para trazar líneas rectas o medir distancias.
+# Descripción breve
+
+Una regla es una herramienta utilizada para medir longitudes y trazar líneas rectas. Es un instrumento fundamental en geometría, dibujo técnico, ingeniería y construcción.
 
 ## Uso / Función
--   **Medición**: Medir longitud.
--   **Dibujo**: Guiar líneas rectas.
--   **Escala**: Utilizado en entornos domésticos, educativos e industriales.
+
+- **Medición:** Determinar la longitud de un objeto o distancia.
+- **Dibujo:** Guiar un bolígrafo o lápiz para trazar líneas rectas.
+- **Corte:** Proporcionar un borde recto para cortar materiales.
+- **Escala:** Personal a construcción a pequeña escala.
 
 ## Principio de funcionamiento
-Comparación directa con una escala estándar marcada en la herramienta. El usuario alinea la marca cero con el inicio del objeto y lee el valor al final.
+
+Funciona por **comparación directa**. La regla tiene marcas (graduaciones) que representan unidades estándar de longitud (centímetros, pulgadas). Al alinear el objeto con la regla, su longitud se puede leer directamente.
 
 ## Cómo crearlo
-1.  **Cuerpo**: Encuentra una rama recta o divide un tronco. Cepíllalo hasta que quede plano y recto. Alternativamente, corta una tira de metal o hueso.
-2.  **Marcado**: Usa un estándar conocido (ej. ancho del pulgar, pie u otra regla) para marcar intervalos. Talla muescas o pinta líneas. Asegúrate de que el espaciado sea constante.
+
+1.  **Selección de material:** Elegir un material rígido y recto (madera dura, tira de metal).
+2.  **Enderezado:** Cepillar un borde hasta que esté perfectamente recto.
+3.  **Marcado:** Usando un estándar conocido, marcar intervalos iguales a lo largo del borde.
+4.  **Acabado:** Asegurar que las marcas sean claras y duraderas.
+
+- **Nivel técnico:** Básico.
 
 ## Materiales necesarios
--   **Esenciales**: Madera, Hueso o Metal (Acero, Latón, Hierro).
--   **Herramientas**: Cuchillo, Sierra, Cepillo, Herramienta de marcado (punzón o pintura).
+
+- **Esenciales:** Madera dura, metal o plástico rígido.
+- **Herramientas:** Cepillo, punzón o bolígrafo fino, referencia estándar para calibración.
 
 ## Variantes y mejoras
--   **Cinta métrica**: Flexible para medir curvas.
--   **Regla plegable**: Almacenamiento compacto.
--   **Calibrador**: Para mediciones internas/externas más precisas.
--   **Escalímetro**: Múltiples escalas en una sola regla.
+
+- **Regla plegable:** Secciones con bisagras para portabilidad.
+- **Escalímetro:** Múltiples escalas para leer planos arquitectónicos.
+- **Regla de acero:** Alta precisión para mecanizado.
 
 ## Límites y riesgos
--   **Precisión**: Limitada por el grosor de las marcas y la agudeza visual del usuario.
--   **Expansión térmica**: Las reglas de metal se expanden con el calor, afectando la precisión.
--   **Deformación**: Las reglas de madera pueden deformarse con la humedad.
--   **Longitud**: No es adecuada para medir largas distancias (usar cinta métrica o cadena) ni objetos muy pequeños (usar calibrador o micrómetro).
+
+- **Longitud:** Limitada por la longitud física de la regla.
+- **Paralaje:** Leer desde un ángulo puede causar errores.
+- **Desgaste:** Las marcas pueden borrarse o el borde puede dañarse.

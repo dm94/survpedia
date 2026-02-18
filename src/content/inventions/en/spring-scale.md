@@ -1,42 +1,51 @@
 ---
 title: "Spring Scale"
-materialsUsed: ["steel", "iron", "brass"]
+materialsUsed: ["metal", "plastic"]
 ---
 
 # Brief description
 
-Weighing device that measures the weight of an object based on the elastic deformation of a spring. It is compact, robust, and easy to use, though less accurate than a beam balance for fine trade.
+A spring scale, or spring balance, is a type of weighing scale. It consists of a spring fixed at one end with a hook to attach an object at the other.
 
 ## Use / Function
 
-- **Trade and Logistics:** Weighing sacks, fish, luggage.
-- **Industrial:** Measuring forces (dynamometer).
-- **Home:** Kitchen or bathroom scales.
+- **Weighing:** Measuring the weight (force of gravity) of an object.
+- **Force Measurement:** Measuring force in physics experiments (Newton meter).
+- **Commerce:** Weighing produce or goods (often hanging scales).
+- **Scale:** Personal to Industrial.
 
 ## Operating principle
 
-Based on **Hooke's Law**: the extension (or compression) of a spring is directly proportional to the force (weight) applied to it, provided the elastic limit is not exceeded.
-The spring moves a pointer over a graduated scale.
+It works on **Hooke's Law**, which states that the force needed to extend or compress a spring by some distance is proportional to that distance.
+
+- As weight is applied, the spring stretches.
+- A pointer attached to the spring moves along a calibrated scale to indicate the weight.
 
 ## How to create it
 
-1.  **Spring:** Coil a tempered steel wire to form a helical spring.
-2.  **Body:** A tube or box containing the spring.
-3.  **Hook:** One end to hang the object.
-4.  **Scale:** Calibrate by marking positions with known weights.
+1.  **Spring Selection:** Choose a spring with an appropriate stiffness (spring constant) for the desired weight range.
+2.  **Housing:** Create a tube or frame to hold the spring and protect it.
+3.  **Pointer:** Attach a marker to the moving end of the spring.
+4.  **Calibration:**
+    - Mark the zero point with no load.
+    - Hang a known weight and mark that point.
+    - Divide the distance linearly (assuming a linear spring).
+
+- **Technical level:** Basic.
 
 ## Materials needed
 
-- **Essential:** High-carbon steel (for the spring), Iron or Brass (body and hooks).
-- **Tools:** Pliers, metal tempering tools.
+- **Essential:** Metal coil spring (steel).
+- **Tools:** Pliers, marking tools, standard weights.
 
 ## Variants and improvements
 
-- **Dynamometer:** Calibrated in Newtons to measure force instead of mass.
-- **Compression Scale:** The weight compresses the spring (e.g., bathroom scale).
+- **Tubular:** Compact, cylindrical design.
+- **Dial Scale:** The linear motion is converted to a rotary motion (clock-face) via a rack and pinion.
+- **Dynamometer:** Designed specifically for measuring force/tension.
 
 ## Limits and risks
 
-- **Metal Fatigue:** With excessive use, the spring may lose tension and accuracy.
-- **Temperature:** Heat can alter the elasticity of steel.
-- **Gravity:** Measures weight (force), not mass; the reading varies slightly with local gravity (altitude/latitude), unlike a counterbalance scale.
+- **Elastic Limit:** If overloaded, the spring can permanently deform, ruining the scale.
+- **Gravity:** Measures weight, not mass. Readings vary slightly with gravity (altitude/location).
+- **Temperature:** Extreme heat can affect the spring's elasticity.

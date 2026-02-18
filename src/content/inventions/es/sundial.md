@@ -1,30 +1,47 @@
 ---
 title: "Reloj de Sol"
-materialsUsed: ["wood", "stone"]
-image: ../../../assets/inventions/sundial.jpg
+materialsUsed: ["stone", "metal", "wood"]
 ---
 
-# Breve descripción
-Dispositivo que indica la hora del día cuando hay luz solar mediante la posición aparente del Sol en el cielo.
+# Descripción breve
+
+Un reloj de sol es un dispositivo que indica la hora del día cuando hay luz solar mediante la posición aparente del Sol en el cielo.
 
 ## Uso / Función
--   **Cronometraje**: Saber la hora del día.
--   **Navegación**: Encontrar el Norte verdadero (al mediodía).
+
+- **Medición del tiempo:** Indicar la hora del día.
+- **Navegación:** Determinar latitud y dirección (Norte/Sur).
+- **Decoración:** Ornamento de jardín.
 
 ## Principio de funcionamiento
-A medida que el sol se mueve por el cielo, proyecta una sombra. Un palo (gnomon) proyecta una sombra sobre una superficie plana (dial). El ángulo de la sombra cambia con la posición del sol.
+
+A medida que el sol se mueve por el cielo, proyecta una sombra desde un **gnomon** (una varilla delgada o borde afilado) sobre una placa plana (el **dial**). La posición de la sombra indica la hora.
+
+- **Alineación del Gnomon:** Debe ser paralelo al eje de rotación de la Tierra (apuntando al polo celeste).
 
 ## Cómo crearlo
-1.  **Gnomon**: Clava una varilla en el suelo.
-2.  **Calibración**:
-    -   Marca la punta de la sombra al amanecer y al atardecer.
-    -   Encuentra la sombra más corta del día; este es el mediodía local (línea Norte/Sur).
-    -   Divide el arco entre el amanecer y el mediodía en horas aproximadamente iguales.
+
+1.  **Base:** Crear una superficie plana (horizontal, vertical o inclinada).
+2.  **Gnomon:** Instalar una varilla en un ángulo igual a la latitud local.
+3.  **Alineación:** Orientar el gnomon para que apunte al Norte Verdadero (en el Hemisferio Norte) o al Sur Verdadero (en el Hemisferio Sur).
+4.  **Marcado:** Marcar la posición de la sombra en cada hora usando un reloj confiable o por geometría.
+
+- **Nivel técnico:** Intermedio (requiere conocimientos astronómicos).
 
 ## Materiales necesarios
--   Palo (Gnomon)
--   Superficie plana (Suelo, Piedra, Madera)
+
+- **Esenciales:** Piedra o metal para durabilidad en exteriores.
+- **Herramientas:** Brújula, nivel, transportador.
 
 ## Variantes y mejoras
--   **Gnomon Inclinado**: Apuntar el gnomon hacia el polo celeste (paralelo al eje de la Tierra) hace que las líneas horarias sean consistentes durante todo el año.
--   **Reloj de Sol Portátil**: Una versión de bolsillo ajustada por latitud.
+
+- **Reloj horizontal:** El tipo de jardín más común.
+- **Reloj vertical:** Montado en paredes.
+- **Reloj ecuatorial:** La placa del dial es paralela al ecuador.
+- **Reloj analemático:** El gnomon es vertical y se mueve dependiendo de la fecha.
+
+## Límites y riesgos
+
+- **Noche/Nubes:** Solo funciona cuando brilla el sol.
+- **Ecuación del Tiempo:** La hora solar varía de la hora del reloj a lo largo del año (hasta ~16 min).
+- **Latitud:** Un reloj fijo solo funciona con precisión en la latitud para la que fue diseñado.

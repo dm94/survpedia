@@ -16,6 +16,13 @@ Las herramientas de medición son instrumentos diseñados para cuantificar magni
 - **Ciencia:** Observar y registrar fenómenos naturales (termómetro, barómetro).
 - **Escala:** Individual a Industrial.
 
+## Medición de temperatura
+
+La medición de la temperatura es crucial para procesos químicos, cocina, medicina y predicción del clima.
+
+- **Termómetro:** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
+- **Termopar:** Para temperaturas extremas o mediciones digitales rápidas.
+
 ## Medición del tiempo
 
 La medición del tiempo es fundamental para la civilización, permitiendo desde la agricultura hasta la navegación transoceánica.
