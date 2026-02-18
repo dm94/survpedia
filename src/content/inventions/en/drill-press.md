@@ -50,6 +50,14 @@ A motor drives a spindle via a belt and pulley system (to change speeds). The sp
 - **Radial Arm Drill:** The head can move along an arm to drill large plates without moving the workpiece.
 - **Magnetic Drill:** Portable drill press that clamps to steel structures with an electromagnet.
 
+## Relationship with Lathes and Mills
+
+The Drill Press, the **[Lathe](/en/inventions/lathe)**, and the **[Milling Machine](/en/inventions/milling-machine)** are essential in any workshop.
+
+- It is the simplest of the three and often the first to be built or acquired.
+- The lathe and milling machine can drill, but the drill press is specialized to do so quickly and accurately.
+- Drill press parts (like the spindle) are manufactured on a lathe.
+
 ## Limits and risks
 
 - **Work Holding:** If the bit grabs the workpiece, it can spin dangerously ("helicoptering"). Always clamp the work.

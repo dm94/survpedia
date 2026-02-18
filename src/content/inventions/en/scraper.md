@@ -40,6 +40,7 @@ A scraper is a unifacial stone tool (worked primarily on one side) designed with
 - **Side Scraper:** The working edge is on the long side (common for woodworking).
 - **Thumb Scraper:** A small, thumbnail-sized scraper.
 - **Modern Scraper:** Metal blades used in carpentry and painting.
+- **Metal Scraper:** A manual precision tool used to flatten the ways of **[Lathes](/en/inventions/lathe)** and **[Milling Machines](/en/inventions/milling-machine)**, removing minuscule high spots to achieve perfect flatness and oil retention.
 
 ## Limits and risks
 

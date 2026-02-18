@@ -46,6 +46,16 @@ La pieza de trabajo se sujeta en un mandril o pinza (en el cabezal fijo) y se ha
 - **Torno Revólver:** Tiene una torreta giratoria con múltiples herramientas para producción en masa.
 - **Torno CNC:** Controlado por computadora para perfiles complejos y alta precisión.
 
+## Relación con Fresadoras y Taladros
+
+El Torno, la **[Fresadora](/es/inventions/milling-machine)** y el **[Taladro de Columna](/es/inventions/drill-press)** forman la tríada fundamental de las máquinas herramienta.
+
+- El **Torno** crea piezas cilíndricas y roscas.
+- La **Fresadora** crea superficies planas, ranuras y formas complejas.
+- El **Taladro** crea orificios precisos.
+
+Juntos, permiten la creación de casi cualquier otra máquina, incluida la replicación de sí mismos.
+
 ## Límites y riesgos
 
 - **Seguridad:** Los mandriles giratorios son extremadamente peligrosos. Nunca use guantes ni ropa suelta. El cabello largo debe estar atado. Las llaves del mandril nunca deben dejarse puestas.

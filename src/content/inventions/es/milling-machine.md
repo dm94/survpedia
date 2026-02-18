@@ -51,6 +51,14 @@ La fresadora opera bajo el principio de corte rotativo. Un husillo hace girar un
 - **Fresadora Universal:** La mesa puede girar, permitiendo el corte en espiral (ej. engranajes helicoidales).
 - **Fresadora CNC:** Controlada por computadora para mecanizado automatizado y complejo.
 
+## Relación con Tornos y Taladros
+
+La Fresadora, el **[Torno](/es/inventions/lathe)** y el **[Taladro de Columna](/es/inventions/drill-press)** son complementarios.
+
+- Mientras que el torno rota la pieza, la fresadora rota la herramienta.
+- La fresadora puede realizar muchas operaciones de taladrado, pero el taladro de columna es más rápido y eficiente para agujeros simples.
+- Las fresas utilizadas en la fresadora se pueden afilar o fabricar parcialmente en un torno.
+
 ## Límites y riesgos
 
 - **Vibración:** La falta de rigidez causa "chatter" (traqueteo), arruinando el acabado superficial y rompiendo herramientas.

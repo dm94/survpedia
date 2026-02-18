@@ -46,6 +46,16 @@ The workpiece is held in a chuck or collet (on the headstock) and rotated at hig
 - **Turret Lathe:** Has a rotating turret with multiple tools for mass production.
 - **CNC Lathe:** Computer-controlled for complex profiles and high precision.
 
+## Relationship with Mills and Drills
+
+The Lathe, the **[Milling Machine](/en/inventions/milling-machine)**, and the **[Drill Press](/en/inventions/drill-press)** form the fundamental triad of machine tools.
+
+- The **Lathe** creates cylindrical parts and threads.
+- The **Milling Machine** creates flat surfaces, slots, and complex shapes.
+- The **Drill Press** creates precise holes.
+
+Together, they allow for the creation of almost any other machine, including the replication of themselves.
+
 ## Limits and risks
 
 - **Safety:** Rotating chucks are extremely dangerous. Never wear gloves or loose clothing. Long hair must be tied back. Chuck keys must never be left in the chuck.

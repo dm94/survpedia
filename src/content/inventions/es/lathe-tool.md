@@ -7,7 +7,7 @@ materialsUsed:
 
 # Breve descripción
 
-El buril es una herramienta de corte de un solo punto utilizada en tornos para mecanizar materiales. A diferencia de las herramientas rotativas como brocas o fresas, el buril suele mantenerse estacionario mientras la pieza de trabajo gira, eliminando material en forma de viruta continua.
+El buril es una herramienta de corte de un solo punto utilizada en **[Tornos](/es/inventions/lathe)** para mecanizar materiales. A diferencia de las herramientas rotativas como **[Brocas](/es/inventions/drill-bit)** o **[Fresas](/es/inventions/milling-cutter)**, el buril suele mantenerse estacionario mientras la pieza de trabajo gira, eliminando material en forma de viruta continua.
 
 ## Uso / Función
 

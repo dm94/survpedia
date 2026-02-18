@@ -40,6 +40,7 @@ Un raspador es una herramienta de piedra unifacial (trabajada principalmente por
 - **Raspador lateral:** El borde de trabajo está en el lado largo (común para trabajar la madera).
 - **Raspador de pulgar:** Un raspador pequeño del tamaño de una uña.
 - **Raspador moderno:** Cuchillas de metal usadas en carpintería y pintura.
+- **Raspador de metales:** Herramienta de precisión manual utilizada para aplanar las guías de **[Tornos](/es/inventions/lathe)** y **[Fresadoras](/es/inventions/milling-machine)**, eliminando puntos altos minúsculos para lograr una planitud perfecta y retención de aceite.
 
 ## Límites y riesgos
 

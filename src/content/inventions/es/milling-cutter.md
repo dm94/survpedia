@@ -7,7 +7,7 @@ materialsUsed:
 
 # Breve descripción
 
-Una fresa es una herramienta de corte rotativa utilizada en fresadoras para eliminar material de una pieza de trabajo. A diferencia de una broca, que corta solo en la punta, una fresa puede cortar con sus lados, permitiendo el mecanizado de superficies planas, ranuras y contornos complejos.
+Una fresa es una herramienta de corte rotativa utilizada en **[Fresadoras](/es/inventions/milling-machine)** para eliminar material de una pieza de trabajo. A diferencia de una **[Broca](/es/inventions/drill-bit)**, que corta solo en la punta, una fresa puede cortar con sus lados, permitiendo el mecanizado de superficies planas, ranuras y contornos complejos.
 
 ## Uso / Función
 

@@ -7,7 +7,7 @@ materialsUsed:
 
 # Brief description
 
-A lathe tool (or tool bit) is a single-point cutting tool used in lathes to machine materials. Unlike rotary tools such as drill bits or milling cutters, the lathe tool is typically held stationary while the workpiece rotates, removing material in the form of continuous chips.
+A lathe tool (or tool bit) is a single-point cutting tool used in **[Lathes](/en/inventions/lathe)** to machine materials. Unlike rotary tools such as **[Drill Bits](/en/inventions/drill-bit)** or **[Milling Cutters](/en/inventions/milling-cutter)**, the lathe tool is typically held stationary while the workpiece rotates, removing material in the form of continuous chips.
 
 ## Use / Function
 

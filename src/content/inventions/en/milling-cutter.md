@@ -7,7 +7,7 @@ materialsUsed:
 
 # Brief description
 
-A milling cutter is a rotary cutting tool used in milling machines to remove material from a workpiece. Unlike a drill bit, which cuts only at its tip, a milling cutter can cut with its sides, allowing for the machining of flat surfaces, slots, and complex contours.
+A milling cutter is a rotary cutting tool used in **[Milling Machines](/en/inventions/milling-machine)** to remove material from a workpiece. Unlike a **[Drill Bit](/en/inventions/drill-bit)**, which cuts only at the tip, a milling cutter can cut with its sides, allowing for the machining of flat surfaces, slots, and complex contours.
 
 ## Use / Function
 
@@ -26,9 +26,11 @@ The cutter rotates at high speed and has multiple cutting edges (teeth or flutes
 ## How to create it
 
 ### Minimum functional version
+
 A hardened steel bar with hand-filed teeth (before hardening) can work for soft materials like wood or plastic.
 
 ### Advanced version (High Speed Steel - HSS)
+
 1.  **Turning**: A high-speed steel bar is turned to the basic shape.
 2.  **Flute Milling**: Another milling machine (or dividing head) is used to cut the helical grooves that form the cutting edges.
 3.  **Hardening**: The steel is heated and tempered to achieve maximum hardness without being too brittle.

@@ -50,6 +50,14 @@ Un motor impulsa un husillo a través de un sistema de correas y poleas (para ca
 - **Taladro Radial:** El cabezal puede moverse a lo largo de un brazo para perforar placas grandes sin mover la pieza.
 - **Taladro Magnético:** Taladro portátil que se sujeta a estructuras de acero con un electroimán.
 
+## Relación con Tornos y Fresadoras
+
+El Taladro de Columna, el **[Torno](/es/inventions/lathe)** y la **[Fresadora](/es/inventions/milling-machine)** son esenciales en cualquier taller.
+
+- Es la máquina más simple de las tres y a menudo la primera en construirse o adquirirse.
+- El torno y la fresadora pueden taladrar, pero el taladro de columna está especializado para hacerlo de manera rápida y precisa.
+- Las piezas del taladro (como el husillo) se fabrican en un torno.
+
 ## Límites y riesgos
 
 - **Sujeción de la pieza:** Si la broca agarra la pieza, puede girar peligrosamente ("efecto helicóptero"). Siempre sujete la pieza.

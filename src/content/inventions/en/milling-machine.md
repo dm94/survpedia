@@ -51,6 +51,14 @@ The milling machine operates on the principle of rotary cutting. A spindle rotat
 - **Universal Mill:** The table can swivel, allowing for spiral cutting (e.g., helical gears).
 - **CNC Mill:** Computer-controlled for automated, complex machining.
 
+## Relationship with Lathes and Drills
+
+The Milling Machine, the **[Lathe](/en/inventions/lathe)**, and the **[Drill Press](/en/inventions/drill-press)** are complementary.
+
+- While the lathe rotates the workpiece, the milling machine rotates the tool.
+- The milling machine can perform many drilling operations, but the drill press is faster and more efficient for simple holes.
+- The cutters used in the milling machine can be sharpened or partially manufactured on a lathe.
+
 ## Limits and risks
 
 - **Vibration:** Lack of rigidity causes "chatter," ruining the surface finish and breaking tools.
