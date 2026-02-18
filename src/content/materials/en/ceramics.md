@@ -33,7 +33,7 @@ Ceramics are hard and rigid with a smooth or matte surface. They resist heat and
 ### Minimum processing required
 
 - **Preparation:** Remove stones and organic matter from clay, then knead with water.
-- **Shaping:** Form vessels, tiles, or parts by hand or on a wheel.
+- **Shaping:** Form vessels, tiles, or parts by hand or on a [potter's wheel](/en/inventions/potters-wheel).
 - **Drying:** Air-dry completely to avoid steam cracks.
 - **Firing:** Heat in a kiln to harden the body.
 - **Glazing (optional):** Apply a glassy coating for waterproofing.

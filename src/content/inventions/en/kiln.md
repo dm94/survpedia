@@ -11,9 +11,9 @@ A kiln or oven is a thermally insulated chamber used for heating, baking, or dry
 ## Use / Function
 
 - **Food Preparation:** Baking bread and cooking food.
-- **Pottery:** Firing clay to create ceramics.
+- **[Pottery](/en/inventions/pottery):** Firing [clay](/en/materials/clay) to create [ceramics](/en/materials/ceramics).
 - **Metallurgy:** Smelting ores and melting metals.
-- **Manufacturing:** Creating bricks and lime.
+- **Manufacturing:** Creating [bricks](/en/materials/brick) and [lime](/en/materials/lime).
 
 ## Operating principle
 
@@ -29,9 +29,9 @@ The kiln works by confining heat within an insulated space. By controlling the f
 
 ## Materials needed
 
-- **Structure:** Clay, mud, firebricks, or heat-resistant stones.
-- **Binding:** Wet clay or mortar.
-- **Fuel:** Wood, charcoal, or coal.
+- **Structure:** [Clay](/en/materials/clay), mud, firebricks, or heat-resistant [stones](/en/materials/stone).
+- **Binding:** Wet [clay](/en/materials/clay) or [mortar](/en/materials/mortar).
+- **Fuel:** [Wood](/en/materials/wood), [charcoal](/en/materials/charcoal), or [coal](/en/materials/coal).
 - **Tools:** Shovels, tongs, and potentially bellows for higher temperatures.
 
 ## Variants and improvements

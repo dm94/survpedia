@@ -33,7 +33,7 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 ### Procesamiento mínimo requerido
 
 - **Preparación:** Quitar piedras y materia orgánica de la arcilla y amasarla con agua.
-- **Modelado:** Formar piezas a mano o con torno.
+- **Modelado:** Formar piezas a mano o con [torno](/es/inventions/potters-wheel).
 - **Secado:** Dejar secar por completo para evitar grietas por vapor.
 - **Cocción:** Calentar en horno para endurecer el cuerpo.
 - **Esmaltado (opcional):** Aplicar una capa vítrea para impermeabilizar.

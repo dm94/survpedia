@@ -13,7 +13,7 @@ A circular component that is intended to rotate on an axle bearing. The wheel is
 ## Use / Function
 
 - **Transportation:** Fundamental for [carts](/en/inventions/cart), [wagons](/en/inventions/wagon), and [chariots](/en/inventions/chariot).
-- **Machinery:** Essential for gears, flywheels, [water wheels](/en/inventions/water-wheel), and [potter's wheels](/en/inventions/potters-wheel).
+- **Machinery:** Essential for gears, [flywheels](/en/inventions/flywheel), [water wheels](/en/inventions/water-wheel), and [potter's wheels](/en/inventions/potters-wheel).
 - **Energy Conversion:** Transforms linear motion into rotary motion and vice versa.
 
 ## Operating principle
