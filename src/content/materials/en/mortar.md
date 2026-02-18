@@ -51,7 +51,7 @@ It is a composite material manufactured in situ.
 
 - **Mud mortar:** Clay + Sand + Straw. The oldest and easiest to make, but vulnerable to water.
 - **Lime mortar:** Lime + Sand + Water. Resistant, breathable, and flexible. It "self-heals" over time.
-- **Cement mortar:** Cement + Sand + Water. Very hard and resistant, waterproof, but rigid (can crack if the building moves).
+- **[Cement mortar](/en/materials/cement-mortar):** Cement + Sand + Water. Very hard and resistant, waterproof, but rigid (can crack if the building moves).
 - **Bastard mortar:** Mixture of lime and cement to combine properties.
 
 ### Possible substitutes

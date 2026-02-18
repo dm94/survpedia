@@ -53,7 +53,7 @@ Es un material compuesto fabricado in situ.
 
 - **Mortero de barro:** **[Arcilla](/es/materials/arcilla)** + **[Arena](/es/materials/arena)** + **[Paja](/es/materials/paja)**. El más antiguo y fácil de hacer, pero vulnerable al agua.
 - **Mortero de cal:** **[Cal](/es/materials/cal)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
-- **Mortero de cemento:** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
+- **[Mortero de cemento](/es/materials/mortero-de-cemento):** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
 - **Mortero bastardo:** Mezcla de cal y cemento para combinar propiedades.
 
 ### Posibles sustitutos
