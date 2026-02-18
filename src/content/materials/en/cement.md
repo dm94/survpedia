@@ -47,8 +47,8 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 
 ### Common forms of use
 
-- **Concrete:** Cement + Sand + Gravel + Water.
-- **Mortar:** Cement + Sand + Water (often with lime added for workability).
+- **[Concrete](/en/materials/concrete):** Cement + Sand + Gravel + Water.
+- **[Cement Mortar](/en/materials/cement-mortar):** Cement + Sand + Water.
 - **Grout:** Cement + Water (for filling gaps).
 
 ### Possible substitutes
