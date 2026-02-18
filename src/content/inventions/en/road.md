@@ -5,6 +5,7 @@ materialsUsed:
   - gravel
   - sand
   - concrete
+  - asphalt-concrete
   - asphalt
 image: ../../../assets/images/inventions/road.jpg
 ---
@@ -39,13 +40,13 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 1.  **Sub-base:** Compacted soil and heavy [gravel](/en/materials/gravel).
 2.  **Base:** Smaller crushed [stone](/en/materials/stone).
 3.  **Binder Course:** Coarse aggregate with [bitumen](/en/materials/bitumen).
-4.  **Surface Course:** Fine aggregate with [bitumen](/en/materials/bitumen) ([Asphalt](/en/materials/asphalt)).
+4.  **Surface Course:** Fine aggregate with [bitumen](/en/materials/bitumen) ([Asphalt Concrete](/en/materials/asphalt-concrete)).
 
 ## Materials needed
 
 - **Essential:** [Stone](/en/materials/stone), [Gravel](/en/materials/gravel), [Sand](/en/materials/sand).
-- **Binders:** [Lime](/en/materials/lime) (for [concrete](/en/materials/concrete)), [Bitumen](/en/materials/bitumen) (for [asphalt](/en/materials/asphalt)).
-- **Tools:** [Picks](/en/inventions/pickaxe), [shovels](/en/inventions/shovel), [rammers](/en/inventions/rammer), [levels](/en/inventions/level).
+- **Binders:** [Lime](/en/materials/lime) (for [concrete](/en/materials/concrete)), [Bitumen](/en/materials/bitumen) (for [asphalt concrete](/en/materials/asphalt-concrete)).
+- **Tools:** [Pickaxes](/en/inventions/pickaxe), [shovels](/en/inventions/shovel), [rammers](/en/inventions/rammer), [levels](/en/inventions/level).
 
 ## Variants and improvements
 

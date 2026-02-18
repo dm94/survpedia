@@ -5,6 +5,7 @@ materialsUsed:
   - gravel
   - arena
   - hormigon
+  - asphalt-concrete
   - asphalt
 ---
 
@@ -38,12 +39,12 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 1.  **Subbase:** Suelo compactado y **[grava](/es/materials/gravel)** pesada.
 2.  **Base:** **[Piedra](/es/materials/piedra)** triturada más pequeña.
 3.  **Capa base:** Agregado grueso con **[betún](/es/materials/bitumen)**.
-4.  **Capa de rodadura:** Agregado fino con **[betún](/es/materials/bitumen)** (**[Asfalto](/es/materials/asphalt)**).
+4.  **Capa de rodadura:** Agregado fino con **[betún](/es/materials/bitumen)** (**[Hormigón Asfáltico](/es/materials/asphalt-concrete)**).
 
 ## Materiales necesarios
 
 - **Esenciales:** **[Piedra](/es/materials/piedra)**, **[Grava](/es/materials/gravel)**, **[Arena](/es/materials/arena)**.
-- **Aglomerantes:** **[Cal](/es/materials/cal)** (para **[hormigón](/es/materials/hormigon)**), **[Betún](/es/materials/bitumen)** (para **[asfalto](/es/materials/asphalt)**).
+- **Aglomerantes:** **[Cal](/es/materials/cal)** (para **[hormigón](/es/materials/hormigon)**), **[Betún](/es/materials/bitumen)** (para **[hormigón asfáltico](/es/materials/asphalt-concrete)**).
 - **Herramientas:** **[Picos](/es/inventions/pico)**, **[palas](/es/inventions/shovel)**, **[pisones](/es/inventions/pison)**, **[niveles](/es/inventions/level)**.
 
 ## Variantes y mejoras
