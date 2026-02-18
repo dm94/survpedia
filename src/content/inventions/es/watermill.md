@@ -6,7 +6,7 @@ materialsUsed: ["wood", "stone", "iron", "water", "animal-fat"]
 
 # Breve descripción
 
-Un molino de agua es una estructura que utiliza una rueda hidráulica o una turbina para accionar un proceso mecánico, como la molienda (trituración), el aserrado o el martilleo. Estos procesos fueron innovaciones clave para la agricultura y la manufactura.
+Un molino de agua es una estructura que utiliza una [rueda hidráulica](/es/inventions/water-wheel) o una turbina para accionar un proceso mecánico, como la molienda (trituración), el aserrado o el martilleo. Estos procesos fueron innovaciones clave para la agricultura y la manufactura.
 
 ## Uso / Función
 
@@ -19,7 +19,7 @@ Un molino de agua es una estructura que utiliza una rueda hidráulica o una turb
 ## Principio de funcionamiento
 
 El molino aprovecha la energía cinética del agua que fluye o cae.
-1. **Flujo:** El agua se dirige hacia las palas o cangilones de una rueda hidráulica.
+1. **Flujo:** El agua se dirige hacia las palas o cangilones de una [rueda hidráulica](/es/inventions/water-wheel).
 2. **Rotación:** La fuerza del agua hace que la rueda gire.
 3. **Transmisión:** El eje giratorio de la rueda se conecta a engranajes que cambian la dirección o velocidad de rotación.
 4. **Trabajo:** El engranaje o eje final acciona la maquinaria (por ejemplo, haciendo girar la muela superior).

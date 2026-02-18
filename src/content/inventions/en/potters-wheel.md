@@ -27,8 +27,8 @@ A heavy flywheel (kick wheel) or a powered mechanism rotates a flat disk (wheelh
 ### Kick Wheel (Traditional)
 
 1.  **Frame:** Build a sturdy wooden frame or bench that allows the potter to sit comfortably above the mechanism.
-2.  **Axle:** Install a vertical shaft (axle) made of hard wood or metal. It needs to rotate freely but without wobbling.
-3.  **Flywheel:** Attach a heavy, balanced wheel (stone or heavy wood) to the bottom of the axle. This acts as the flywheel to store momentum.
+2.  **Axle:** Install a vertical shaft ([axle](/en/inventions/axle)) made of hard wood or metal. It needs to rotate freely but without wobbling.
+3.  **Flywheel:** Attach a heavy, balanced [wheel](/en/inventions/wheel) (stone or heavy wood) to the bottom of the axle. This acts as the flywheel to store momentum.
 4.  **Wheelhead:** Attach a flat, circular disk to the top of the axle. This is where the clay will be placed.
 5.  **Bearings:** Use greased **[leather](/en/materials/leather)** or stone sockets as bearings for the axle to minimize friction.
 

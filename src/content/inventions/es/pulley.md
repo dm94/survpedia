@@ -6,7 +6,7 @@ materialsUsed: ["wood", "iron", "bronze", "plant-fibers"]
 
 # Breve descripción
 
-Una polea es una máquina simple compuesta por una rueda sobre un eje o árbol que puede tener un surco entre dos pestañas alrededor de su circunferencia. Se utiliza para elevar cargas pesadas o cambiar la dirección de una fuerza aplicada.
+Una polea es una máquina simple compuesta por una [rueda](/es/inventions/wheel) sobre un [eje](/es/inventions/axle) o árbol que puede tener un surco entre dos pestañas alrededor de su circunferencia. Se utiliza para elevar cargas pesadas o cambiar la dirección de una fuerza aplicada.
 
 ## Uso / Función
 

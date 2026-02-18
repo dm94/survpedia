@@ -1,49 +1,60 @@
 ---
-title: "Wheel"
-image: ../../../assets/inventions/wheel.jpg
-materialsUsed: ["wood", "stone", "iron", "animal-fat"]
+title: Wheel
+materialsUsed:
+  - wood
+  - stone
+  - metal
 ---
 
 # Brief description
 
-A wheel is a circular component that is intended to rotate on an axle bearing. It is one of the key components of the wheel and [axle](/en/inventions/axle), one of the six simple machines.
+A circular component that is intended to rotate on an axle bearing. The wheel is one of the key components of the wheel and axle which is one of the six simple machines. It allows heavy objects to be moved easily facilitating movement or transportation while supporting a load, or performing labor in machines.
 
 ## Use / Function
 
-- **Transportation:** Moving goods and people with significantly reduced friction.
-- **Pottery:** The [potter's wheel](/en/inventions/potters-wheel) for creating symmetrical vessels.
-- **Machinery:** Gears and pulleys in complex mechanical systems.
-- **Milling:** Using large stones to grind grain.
-- **Water Wheels:** Converting the flow of water into rotational energy.
+- **Transportation:** Fundamental for carts, wagons, and [chariots](/en/inventions/chariot).
+- **Machinery:** Essential for gears, flywheels, [water wheels](/en/inventions/water-wheel), and [potter's wheels](/en/inventions/potters-wheel).
+- **Energy Conversion:** Transforms linear motion into rotary motion and vice versa.
 
 ## Operating principle
 
-The wheel reduces friction by substituting rolling motion for sliding motion. By using an axle, it also allows for the transfer of torque, where a small force applied to the rim can overcome a large resistance at the axle, or vice versa.
+The wheel reduces friction by facilitating motion by rolling together with the use of an [axle](/en/inventions/axle).
+
+- **Rolling Friction:** Rolling friction is significantly lower than sliding friction.
+- **Leverage:** A wheel is a continuous lever, with the fulcrum at the contact point with the ground.
 
 ## How to create it
 
-1.  **Disc creation:** Cut a circular disc from a hard material like wood or stone.
-2.  **Axle hole:** Drill a perfectly centered hole in the disc.
-3.  **Axle fabrication:** Create a cylindrical rod (axle) that fits through the hole.
-4.  **Assembly:** Mount the wheel on the axle, ensuring it can rotate freely but with minimal wobble.
-5.  **Lubrication:** Apply animal fat or oil to the axle to further reduce friction.
+### Solid Wood Wheel (Basic)
+
+1.  **Selection:** Find a large log of hardwood (oak, elm).
+2.  **Cutting:** Saw a slice (disk) from the log.
+3.  **Shaping:** Ensure it is circular.
+4.  **Boring:** Drill a hole in the exact center for the [axle](/en/inventions/axle).
+5.  **Reinforcing:** Use cross-planks or metal bands to prevent splitting.
+
+### Spoked Wheel (Advanced)
+
+1.  **Hub:** Create a central hub with mortises for spokes.
+2.  **Rim:** Bend [wood](/en/materials/wood) (using steam) or assemble curved segments (felloes) to form a circle.
+3.  **Spokes:** Insert spokes connecting the hub to the rim.
+4.  **Tire:** Shrink-fit a [metal](/en/materials/metal) tire ([iron](/en/materials/iron) or [bronze](/en/materials/bronze)) around the rim to hold it all together and provide durability.
 
 ## Materials needed
 
-- **Wheel body:** Hardwood (oak, ash) or durable stone.
-- **Axle:** Sturdy wood or metal.
-- **Fasteners:** Pins or wedges to keep the wheel on the axle.
-- **Lubricant:** Grease or oil.
+- **Wood:** Seasoned hardwood for durability.
+- **Metal:** Iron or bronze for the tire and hub reinforcement.
+- **Tools:** Saw, chisel, drill, hammer.
 
 ## Variants and improvements
 
-- **Solid wheel:** Made from a single piece or joined planks.
-- **Spoked wheel:** Lighter and faster, uses less material while maintaining strength.
-- **Pneumatic tire:** Modern improvement using rubber and compressed air for cushioning.
-- **Gears:** Toothed wheels for transmitting power between shafts.
+- **Potter's Wheel:** A horizontal wheel used for shaping clay.
+- **Water Wheel:** A wheel with blades or buckets to harness water energy.
+- **Gear:** A toothed wheel for transmitting torque.
+- **Pulley:** A wheel with a grooved rim for a rope or chain.
 
 ## Limits and risks
 
-- **Terrain:** Requires relatively flat or prepared surfaces (roads).
-- **Alignment:** An off-center axle causes vibration and inefficiency.
-- **Wear:** Constant friction at the axle eventually wears down the components.
+- **Terrain:** Wheels require relatively smooth surfaces to be effective.
+- **Friction:** The axle bearing generates friction and heat; lubrication is essential.
+- **Maintenance:** Spoked wheels are complex and can break under stress; solid wheels are heavy and can split.

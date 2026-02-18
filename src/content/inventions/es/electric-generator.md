@@ -22,7 +22,7 @@ Se basa en la Ley de Faraday de inducción electromagnética. Al mover un conduc
 
 1. Construir una bobina enrollando hilo de cobre aislado muchas veces alrededor de un eje.
 2. Colocar imanes potentes alrededor de la bobina.
-3. Conectar un eje a una fuente de movimiento (manivela, rueda de agua, turbina) para hacer girar la bobina o los imanes.
+3. Conectar un eje a una fuente de movimiento (manivela, [rueda hidráulica](/es/inventions/water-wheel), turbina) para hacer girar la bobina o los imanes.
 
 ## Materiales necesarios
 

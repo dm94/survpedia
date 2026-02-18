@@ -5,7 +5,7 @@ materialsUsed: ["brass", "steel", "glass", "spring-steel", "ruby"]
 
 # Brief description
 
-A portable timekeeping device driven by a mainspring and regulated by a balance wheel. It allows for personal time management and coordination on the go.
+A portable timekeeping device driven by a mainspring and regulated by a balance [wheel](/en/inventions/wheel). It allows for personal time management and coordination on the go.
 
 ## Use / Function
 

@@ -15,7 +15,7 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 
 ## Use / Function
 
-- **Primary use:** Facilitate the movement of wheeled vehicles, animals, and pedestrians.
+- **Primary use:** Facilitate the movement of [wheeled](/en/inventions/wheel) vehicles, animals, and pedestrians.
 - **Secondary uses:** Drainage management, defining borders, trade routes.
 - **Scale:** From local paths to intercontinental highway networks.
 

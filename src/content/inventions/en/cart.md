@@ -43,7 +43,7 @@ The cart utilizes the wheel and axle to reduce friction.
 
 - **Handcart:** Smaller, pushed or pulled by a human.
 - **Wagon:** A four-wheeled vehicle (requires a steering mechanism for the front axle).
-- **Chariot:** Lightweight, fast cart for war or racing.
+- **[Chariot](/en/inventions/chariot):** Lightweight, fast cart for war or racing.
 - **Tumbrel:** A cart that can tilt to dump its load.
 
 ## Limits and risks

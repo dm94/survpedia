@@ -18,7 +18,7 @@ Un dispositivo portátil para medir el tiempo impulsado por un muelle real y reg
 Almacena energía en un muelle enrollado (muelle real) que se libera a través de un tren de engranajes. La velocidad de liberación es controlada por un mecanismo de escape y un volante de inercia que oscila hacia adelante y hacia atrás a una velocidad constante.
 
 1. **Fuente de energía:** Muelle real.
-2. **Transmisión:** Tren de engranajes (ruedas y piñones).
+2. **Transmisión:** Tren de engranajes ([ruedas](/es/inventions/wheel) y piñones).
 3. **Regulación:** Volante de inercia y espiral (isocronismo).
 4. **Escape:** Bloquea y desbloquea el tren de engranajes, contando las oscilaciones.
 5. **Indicación:** Agujas moviéndose en una esfera.

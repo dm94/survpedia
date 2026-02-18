@@ -6,7 +6,7 @@ materialsUsed: ["wood", "iron", "bronze", "plant-fibers"]
 
 # Brief description
 
-A pulley is a simple machine consisting of a wheel on an axle or shaft that may have a groove between two flanges around its circumference. It is used to lift heavy loads or change the direction of an applied force.
+A pulley is a simple machine consisting of a [wheel](/en/inventions/wheel) on an [axle](/en/inventions/axle) or shaft that may have a groove between two flanges around its circumference. It is used to lift heavy loads or change the direction of an applied force.
 
 ## Use / Function
 

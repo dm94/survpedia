@@ -27,8 +27,8 @@ Un volante pesado (en el torno de pie) o un mecanismo motorizado hace girar un d
 ### Torno de pie (Tradicional)
 
 1.  **Estructura:** Construir un marco o banco de madera robusto que permita al alfarero sentarse cómodamente sobre el mecanismo.
-2.  **Eje:** Instalar un eje vertical de madera dura o metal. Debe girar libremente pero sin tambalearse.
-3.  **Volante:** Fijar una rueda pesada y equilibrada (piedra o madera pesada) en la parte inferior del eje. Esto actúa como volante de inercia para almacenar el momento.
+2.  **Eje:** Instalar un [eje](/es/inventions/axle) vertical de madera dura o metal. Debe girar libremente pero sin tambalearse.
+3.  **Volante:** Fijar una [rueda](/es/inventions/wheel) pesada y equilibrada (piedra o madera pesada) en la parte inferior del eje. Esto actúa como volante de inercia para almacenar el momento.
 4.  **Cabeza del torno:** Fijar un disco circular plano en la parte superior del eje. Aquí es donde se colocará la arcilla.
 5.  **Cojinetes:** Utilizar **[cuero](/es/materials/leather)** engrasado o huecos en piedra como cojinetes para el eje para minimizar la fricción.
 

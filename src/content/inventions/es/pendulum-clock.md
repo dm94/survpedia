@@ -23,8 +23,8 @@ Se basa en el **isocronismo del péndulo**: el período de oscilación de un pé
 ## Cómo crearlo
 
 1.  **Péndulo:** Una varilla larga con un peso ajustable en el extremo.
-2.  **Mecanismo de Escape:** Construir una rueda de escape (con dientes de sierra) y un ancla que bloquee y libere la rueda al ritmo del péndulo.
-3.  **Pesas:** Un sistema de pesas y poleas para impulsar el tren de engranajes.
+2.  **Mecanismo de Escape:** Construir una [rueda](/es/inventions/wheel) de escape (con dientes de sierra) y un ancla que bloquee y libere la rueda al ritmo del péndulo.
+3.  **Pesas:** Un sistema de pesas y [poleas](/es/inventions/pulley) para impulsar el tren de engranajes.
 4.  **Esfera:** Un sistema de reducción de engranajes para mover las manecillas de horas y minutos.
 
 ## Materiales necesarios

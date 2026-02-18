@@ -11,7 +11,7 @@ image: ../../../assets/images/inventions/gears.jpg
 
 # Brief description
 
-Gears are toothed wheels designed to mesh with one another to transmit motion and force between two shafts. They allow for the change of speed, torque, and direction of a power source.
+Gears are toothed [wheels](/en/inventions/wheel) designed to mesh with one another to transmit motion and force between two shafts. They allow for the change of speed, torque, and direction of a power source.
 
 ## Use / Function
 

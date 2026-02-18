@@ -6,7 +6,7 @@ materialsUsed: ["wood", "stone", "iron", "water", "animal-fat"]
 
 # Brief description
 
-A watermill is a structure that uses a water wheel or water turbine to drive a mechanical process such as milling (grinding), rolling, or hammering. Such processes are innovative for agriculture and manufacturing.
+A watermill is a structure that uses a [water wheel](/en/inventions/water-wheel) or water turbine to drive a mechanical process such as milling (grinding), rolling, or hammering. Such processes are innovative for agriculture and manufacturing.
 
 ## Use / Function
 
@@ -19,7 +19,7 @@ A watermill is a structure that uses a water wheel or water turbine to drive a m
 ## Operating principle
 
 The mill harnesses the kinetic energy of flowing or falling water.
-1. **Flow:** Water is directed onto the blades or buckets of a water wheel.
+1. **Flow:** Water is directed onto the blades or buckets of a [water wheel](/en/inventions/water-wheel).
 2. **Rotation:** The force of the water causes the wheel to rotate.
 3. **Transmission:** The rotating shaft of the water wheel is connected to gears that change the direction or speed of rotation.
 4. **Work:** The final gear or shaft drives the machinery (e.g., rotating the upper millstone).

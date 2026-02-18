@@ -24,8 +24,8 @@ Based on the **isochronism of the pendulum**: the period of oscillation depends 
 ## How to create it
 
 1. **Pendulum:** A long rod with an adjustable weight at the end.
-2. **Escapement Mechanism:** Build an escape wheel (saw-toothed) and an anchor that locks and releases the wheel to the rhythm of the pendulum.
-3. **Weights:** A system of weights and pulleys to drive the gear train.
+2. **Escapement Mechanism:** Build an escape [wheel](/en/inventions/wheel) (saw-toothed) and an anchor that locks and releases the wheel to the rhythm of the pendulum.
+3. **Weights:** A system of weights and [pulleys](/en/inventions/pulley) to drive the gear train.
 4. **Dial:** A gear reduction system to move hour and minute hands.
 
 ## Materials needed

@@ -19,9 +19,9 @@ Un molino de viento es una estructura que convierte la energía cinética del vi
 ## Principio de funcionamiento
 
 1.  **Captura:** El viento empuja contra las aspas o velas inclinadas, creando sustentación y arrastre que hace girar el eje del viento.
-2.  **Transmisión:** El eje del viento (horizontal o ligeramente inclinado) conecta con una gran rueda de freno.
+2.  **Transmisión:** El eje del viento (horizontal o ligeramente inclinado) conecta con una gran [rueda](/es/inventions/wheel) de freno.
 3.  **Engranajes:** La rueda de freno impulsa una linterna (engranaje) en un eje principal vertical, convirtiendo el movimiento de horizontal a vertical.
-4.  **Aplicación:** El eje vertical impulsa las muelas (a través de una rueda de espuelas) o una rueda de paletas/tornillo de Arquímedes para bombear.
+4.  **Aplicación:** El eje vertical impulsa las muelas (a través de una [rueda](/es/inventions/wheel) de espuelas) o una rueda de paletas/tornillo de Arquímedes para bombear.
 
 ## Cómo crearlo
 

@@ -19,9 +19,9 @@ A windmill is a structure that converts the kinetic energy of the wind into rota
 ## Operating principle
 
 1.  **Capture:** Wind pushes against the angled sails or blades, creating lift and drag that rotates the windshaft.
-2.  **Transmission:** The windshaft (horizontal or slightly inclined) connects to a large brake wheel.
+2.  **Transmission:** The windshaft (horizontal or slightly inclined) connects to a large brake [wheel](/en/inventions/wheel).
 3.  **Gearing:** The brake wheel drives a wallower (lantern gear) on a vertical main shaft, converting the motion from horizontal to vertical.
-4.  **Application:** The vertical shaft drives the millstones (via a spur wheel and stone nuts) or a scoop wheel/Archimedes' screw for pumping.
+4.  **Application:** The vertical shaft drives the millstones (via a spur [wheel](/en/inventions/wheel) and stone nuts) or a scoop wheel/Archimedes' screw for pumping.
 
 ## How to create it
 

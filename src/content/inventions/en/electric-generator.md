@@ -22,7 +22,7 @@ It is based on Faraday's Law of electromagnetic induction. By moving a conductor
 
 1. Build a coil by winding insulated copper wire many times around an axis.
 2. Place powerful magnets around the coil.
-3. Connect a shaft to a power source (crank, water wheel, turbine) to rotate the coil or the magnets.
+3. Connect a shaft to a power source (crank, [water wheel](/en/inventions/water-wheel), turbine) to rotate the coil or the magnets.
 
 ## Materials needed
 

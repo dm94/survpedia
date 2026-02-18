@@ -11,7 +11,7 @@ image: ../../../assets/images/inventions/gears.jpg
 
 # Breve descripción
 
-Los engranajes son ruedas dentadas diseñadas para encajar entre sí con el fin de transmitir movimiento y fuerza entre dos ejes. Permiten cambiar la velocidad, el par motor (torque) y la dirección de una fuente de energía.
+Los engranajes son [ruedas](/es/inventions/wheel) dentadas diseñadas para encajar entre sí con el fin de transmitir movimiento y fuerza entre dos ejes. Permiten cambiar la velocidad, el par motor (torque) y la dirección de una fuente de energía.
 
 ## Uso / Función
 

@@ -43,7 +43,7 @@ El carro utiliza la rueda y el eje para reducir la fricción.
 
 - **Carretilla:** Más pequeña, empujada o tirada por un humano.
 - **Vagón:** Un vehículo de cuatro ruedas (requiere un mecanismo de dirección para el eje delantero).
-- **Carro de guerra:** Carro ligero y rápido para la guerra o las carreras.
+- **[Carro de guerra](/es/inventions/chariot):** Carro ligero y rápido para la guerra o las carreras.
 - **Volquete:** Un carro que puede inclinarse para descargar su carga.
 
 ## Límites y riesgos

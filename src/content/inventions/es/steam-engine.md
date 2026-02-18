@@ -21,7 +21,7 @@ El principio fundamental consiste en calentar agua para crear vapor en un espaci
 1. **Generación de vapor:** Se quema un combustible (madera, carbón vegetal, carbón mineral) para hervir agua.
 2. **Expansión:** El vapor a alta presión se dirige hacia un cilindro.
 3. **Trabajo:** El vapor se expande y empuja un pistón.
-4. **Escape:** El vapor usado se libera o se condensa, y el pistón vuelve a su posición inicial, a menudo ayudado por un volante de inercia.
+4. **Escape:** El vapor usado se libera o se condensa, y el pistón vuelve a su posición inicial, a menudo ayudado por un volante de inercia (una gran [rueda](/es/inventions/wheel)).
 5. **Transmisión:** El movimiento alternativo del pistón se convierte en movimiento rotativo mediante una biela y un cigüeñal.
 
 ## Cómo crearlo
