@@ -26,7 +26,7 @@ La forja generalmente requiere calentar el metal a una temperatura donde se vuel
 
 1.  **Calentamiento**: El metal se calienta en una fragua alimentada por **[Carbón vegetal](/es/materials/charcoal)** o **[Carbón mineral](/es/materials/coal)**. A menudo se utiliza un **[Fuelle](/es/inventions/bellows)** para intensificar el calor.
 2.  **Conformado**: El metal se martillea sobre un yunque. Las técnicas incluyen estirado (alargar), recalcado (engrosar) y doblado. Ver **[Conformado](/es/knowledge/shaping)** para un contexto más amplio.
-3.  **Tratamiento Térmico**: Procesos como el recocido, templado y revenido se realizan a menudo después de la forja para ajustar las propiedades del metal.
+3.  **Tratamiento Térmico**: Procesos como el recocido, templado y revenido se realizan a menudo después de la forja para ajustar las propiedades del metal. Ver **[Tratamiento Térmico](/es/knowledge/heat-treatment)**.
 4.  **Equilibrado**: Ajuste de la distribución del peso para un manejo óptimo, especialmente para herramientas y armas. Ver **[Equilibrado](/es/knowledge/balancing)**.
 
 ## Importancia
@@ -49,4 +49,5 @@ Las piezas forjadas son generalmente más fuertes que las producidas por fundici
 
 - **[Conformado](/es/knowledge/shaping)**
 - **[Metalurgia](/es/knowledge/metallurgy)**
+- **[Tratamiento Térmico](/es/knowledge/heat-treatment)**
 - **[Equilibrado](/es/knowledge/balancing)**
