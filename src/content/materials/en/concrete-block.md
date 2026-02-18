@@ -51,7 +51,7 @@ A concrete block (CMU - Concrete Masonry Unit) is a standard-size rectangular bl
 
 - **Structural Walls:** Stacked in a running bond pattern and joined with **[Cement Mortar](/en/materials/cement-mortar)**.
 - **Reinforced Masonry:** Steel bars (rebar) are placed vertically in the hollow cores and filled with grout (fluid concrete) for earthquake/wind resistance.
-- **Foundations:** Used for basement walls.
+- **[Foundations](/en/inventions/foundation):** Used for basement walls.
 
 ### Possible substitutes
 

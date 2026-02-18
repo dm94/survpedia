@@ -47,7 +47,7 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 
 ### Formas comunes de uso
 
-- **Hormigón en masa:** Para presas o grandes cimientos.
+- **Hormigón en masa:** Para presas o grandes **[cimientos](/es/inventions/cimientos)**.
 - **Hormigón armado:** Combinado con acero (varilla) para añadir resistencia a la tracción (moderno).
 - **[Mortero](/es/materials/mortero):** Mezcla más fina para unir ladrillos/piedras.
 

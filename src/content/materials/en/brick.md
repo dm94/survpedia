@@ -21,7 +21,7 @@ category: synthetic
 image: ../../../assets/images/materials/brick.jpg
 ---
 
-A brick is a block of ceramic material or concrete, primarily used in masonry to build walls, foundations, arches, and other structures. It is one of the oldest and most versatile construction materials.
+A brick is a block of ceramic material or concrete, primarily used in masonry to build walls, **[foundations](/en/inventions/foundation)**, arches, and other structures. It is one of the oldest and most versatile construction materials.
 
 ## Description of what it is like
 

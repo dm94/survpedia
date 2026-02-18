@@ -47,7 +47,7 @@ Initially a semi-liquid slurry that can be poured into molds. When cured, it bec
 
 ### Common forms of use
 
-- **Mass Concrete:** For dams or large foundations.
+- **Mass Concrete:** For dams or large **[foundations](/en/inventions/foundation)**.
 - **Reinforced Concrete:** Combined with steel (rebar) to add tensile strength (modern).
 - **Mortar:** Finer mix for bonding bricks/stones.
 

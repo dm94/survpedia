@@ -20,7 +20,7 @@ manufacturingProcess: Moldeado de arcilla y posterior secado al sol o [cocción]
 category: synthetic
 ---
 
-El ladrillo es un bloque de material cerámico u hormigón, utilizado principalmente en albañilería para construir muros, cimientos, arcos y otras estructuras. Es uno de los materiales de construcción más antiguos y versátiles.
+El ladrillo es un bloque de material cerámico u hormigón, utilizado principalmente en albañilería para construir muros, **[cimientos](/es/inventions/cimientos)**, arcos y otras estructuras. Es uno de los materiales de construcción más antiguos y versátiles.
 
 ## Descripción de cómo es
 
