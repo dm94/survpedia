@@ -12,7 +12,7 @@ Un componente circular diseñado para girar sobre un eje. La rueda es uno de los
 
 ## Uso / Función
 
-- **Transporte:** Fundamental para carros, vagones y [carros de guerra](/es/inventions/chariot).
+- **Transporte:** Fundamental para [carros](/es/inventions/cart), [vagones](/es/inventions/wagon) y [carros de guerra](/es/inventions/chariot).
 - **Maquinaria:** Esencial para engranajes, volantes de inercia, [ruedas hidráulicas](/es/inventions/water-wheel) y [tornos de alfarero](/es/inventions/potters-wheel).
 - **Conversión de energía:** Transforma el movimiento lineal en movimiento rotatorio y viceversa.
 
@@ -33,6 +33,8 @@ La eficacia de la rueda depende de su integridad estructural y del correcto ensa
 - **Neumático (Banda):** Una banda (metal o cuero) colocada alrededor de la llanta para protegerla del desgaste y mantener la rueda unida.
 
 ## Cómo crearla
+
+Para una guía detallada sobre el oficio de carretero, ver [Construcción de la Rueda](/es/knowledge/construccion-de-la-rueda).
 
 ### Rueda de Madera Maciza (Básica)
 

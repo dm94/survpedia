@@ -12,7 +12,7 @@ A circular component that is intended to rotate on an axle bearing. The wheel is
 
 ## Use / Function
 
-- **Transportation:** Fundamental for carts, wagons, and [chariots](/en/inventions/chariot).
+- **Transportation:** Fundamental for [carts](/en/inventions/cart), [wagons](/en/inventions/wagon), and [chariots](/en/inventions/chariot).
 - **Machinery:** Essential for gears, flywheels, [water wheels](/en/inventions/water-wheel), and [potter's wheels](/en/inventions/potters-wheel).
 - **Energy Conversion:** Transforms linear motion into rotary motion and vice versa.
 
@@ -33,6 +33,8 @@ The effectiveness of the wheel depends on its structural integrity and the prope
 - **Tire:** A band (metal or leather) placed around the rim to protect it from wear and hold the wheel together.
 
 ## How to create it
+
+For a detailed guide on the craft of wheelwrighting, see [Wheel Construction](/en/knowledge/wheel-construction).
 
 ### Solid Wood Wheel (Basic)
 
