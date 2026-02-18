@@ -31,9 +31,9 @@ Generally, it has a rectangular parallelepiped shape. Its color varies depending
 
 Bricks are not found in nature; they must be manufactured. However, their main components are very common:
 
-- **Clay:** Clay soils, riverbeds.
-- **Sand:** Beaches, rivers, quarries.
-- **Water.**
+- **[Clay](/en/materials/clay):** Clay soils, riverbeds.
+- **[Sand](/en/materials/sand):** Beaches, rivers, quarries.
+- **[Water](/en/materials/water).**
 
 ### Minimum processing required
 
@@ -81,6 +81,6 @@ To obtain a useful brick:
 ### Related materials
 
 - **Adobe:** Unfired brick, sun-dried.
-- **Clay:** The main raw material.
-- **Mortar:** Necessary to join bricks.
-- **Ceramics:** Material related by the firing process.
+- **[Clay](/en/materials/clay):** The main raw material.
+- **[Mortar](/en/materials/mortar):** Necessary to join bricks.
+- **[Ceramics](/en/materials/ceramics):** Material related by the firing process.

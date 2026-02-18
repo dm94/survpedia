@@ -47,3 +47,16 @@ El horno funciona confinando el calor dentro de un espacio aislado. Al controlar
 - **Gases tóxicos:** El monóxido de carbono y otros gases pueden acumularse en zonas mal ventiladas.
 - **Riesgo de incendio:** Las altas temperaturas pueden inflamar materiales inflamables cercanos.
 - **Control de temperatura:** Difícil de mantener temperaturas precisas sin sensores modernos.
+
+### Inventos relacionados
+
+- **[Alfarería](/es/inventions/pottery):** Requiere un horno para la cocción.
+- **[Chimenea](/es/inventions/chimney):** Esencial para el tiro de aire.
+- **[Fuelle](/es/inventions/bellows):** Utilizado para aumentar la temperatura (si está disponible).
+
+### Materiales relacionados
+
+- **[Carbón vegetal](/es/materials/charcoal):** Combustible común de alto calor.
+- **[Arcilla](/es/materials/clay):** El material principal cocido en hornos.
+- **[Cerámica](/es/materials/ceramics):** El producto de la cocción de arcilla.
+- **[Ladrillo](/es/materials/brick):** Material de construcción cocido.

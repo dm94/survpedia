@@ -31,9 +31,9 @@ Generalmente tiene forma de paralelepípedo rectangular. Su color varía dependi
 
 El ladrillo no se encuentra en la naturaleza; debe ser fabricado. Sin embargo, sus componentes principales son muy comunes:
 
-- **Arcilla:** Suelos arcillosos, lechos de ríos.
-- **Arena:** Playas, ríos, canteras.
-- **Agua.**
+- **[Arcilla](/es/materials/clay):** Suelos arcillosos, lechos de ríos.
+- **[Arena](/es/materials/sand):** Playas, ríos, canteras.
+- **[Agua](/es/materials/water).**
 
 ### Procesamiento mínimo necesario
 
@@ -83,4 +83,4 @@ Para obtener un ladrillo útil:
 - **Adobe:** Ladrillo sin cocer, secado al sol.
 - **[Arcilla](/es/materials/clay):** La materia prima principal.
 - **[Mortero](/es/materials/mortero):** Necesario para unir los ladrillos.
-- **Cerámica:** Material relacionado por proceso de cocción.
+- **[Cerámica](/es/materials/ceramics):** Material relacionado por proceso de cocción.

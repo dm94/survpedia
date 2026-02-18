@@ -51,8 +51,9 @@ Mastering the potter's wheel requires coordination and practice. The process is 
 
 - **[Wood](/en/materials/wood):** For the frame, bench, axle, and wheelhead.
 - **[Stone](/en/materials/stone):** For the flywheel (weight is crucial) and potentially for the bottom bearing.
-- **[Leather](/en/materials/leather)**/Grease:\*\* For lubricating the contact points (bearings).
+- **[Leather](/en/materials/leather)** / Grease: For lubricating the contact points (bearings).
 - **[Clay](/en/materials/clay):** To test and use the wheel!
+- **[Water](/en/materials/water):** Essential for lubricating hands and clay during throwing.
 
 ## Variants and improvements
 
@@ -66,3 +67,10 @@ Mastering the potter's wheel requires coordination and practice. The process is 
 - **Physical strain:** Using a kick wheel requires physical effort and coordination.
 - **Learning curve:** "Throwing" on a wheel requires significant skill and practice to center the clay and pull up walls without collapsing them.
 - **Maintenance:** Bearings need regular lubrication; wood can warp if constantly wet.
+
+### Related inventions
+
+- **[Kiln](/en/inventions/kiln):** Essential for firing the pottery made on the wheel.
+- **[Pottery](/en/inventions/pottery):** The craft enabled by the wheel.
+- **[Flywheel](/en/inventions/flywheel):** The core mechanism that stores momentum.
+- **[Axle](/en/inventions/axle):** The central shaft allowing rotation.

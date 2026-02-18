@@ -51,8 +51,9 @@ Dominar el torno de alfarero requiere coordinación y práctica. El proceso se d
 
 - **[Madera](/es/materials/wood):** Para la estructura, el banco, el eje y la cabeza del torno.
 - **[Piedra](/es/materials/stone):** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
-- **[Cuero](/es/materials/leather)**/Grasa:\*\* Para lubricar los puntos de contacto (cojinetes).
+- **[Cuero](/es/materials/leather)** / Grasa: Para lubricar los puntos de contacto (cojinetes).
 - **[Arcilla](/es/materials/clay):** ¡Para probar y usar el torno!
+- **[Agua](/es/materials/water):** Esencial para lubricar las manos y la arcilla durante el torneado.
 
 ## Variantes y mejoras
 
@@ -66,3 +67,10 @@ Dominar el torno de alfarero requiere coordinación y práctica. El proceso se d
 - **Esfuerzo físico:** El uso de un torno de pie requiere esfuerzo físico y coordinación.
 - **Curva de aprendizaje:** "Tornear" requiere una habilidad y práctica significativas para centrar la arcilla y levantar las paredes sin que colapsen.
 - **Mantenimiento:** Los cojinetes necesitan lubricación regular; la madera puede deformarse si está constantemente mojada.
+
+### Inventos relacionados
+
+- **[Horno](/es/inventions/kiln):** Esencial para cocer la cerámica hecha en el torno.
+- **[Alfarería](/es/inventions/pottery):** El oficio habilitado por el torno.
+- **[Volante de inercia](/es/inventions/flywheel):** El mecanismo central que almacena el momento.
+- **[Eje](/es/inventions/axle):** El eje central que permite la rotación.

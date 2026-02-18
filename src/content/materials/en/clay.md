@@ -38,16 +38,16 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 
 ### Tools needed to work on it
 
-- Hands for basic shaping.
-- [Pottery wheels](/en/inventions/potters-wheel) for symmetrical vessels.
-- Kilns for firing and hardening.
-- Wire cutters for slicing.
+- **Hands:** For basic shaping and coil building.
+- **[Potter's Wheel](/en/inventions/potters-wheel):** Essential for rapidly creating symmetrical vessels. Requires high-plasticity clay without coarse particles.
+- **[Kiln](/en/inventions/kiln):** For firing and hardening the clay into ceramic.
+- **Wire cutters:** For slicing clay blocks or removing pots from the wheel.
 
 ### Common forms of use
 
-- Raw: For simple mud-daub construction.
-- Processed: Dried into sun-baked bricks (adobe).
-- **Fired**: Hardened into ceramics, **[Pottery](/en/inventions/pottery)**, and terracotta.
+- **Raw:** For simple mud-daub construction.
+- **Processed:** Dried into sun-baked **[Bricks](/en/materials/brick)** (adobe).
+- **Fired:** Hardened into **[Ceramics](/en/materials/ceramics)**, **[Pottery](/en/inventions/pottery)**, and terracotta.
 
 ### Possible substitutes
 
@@ -71,3 +71,5 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 - **[Sand](/en/materials/sand):** Often mixed with clay to reduce shrinkage (tempering).
 - **[Stone](/en/materials/stone):** What clay becomes after intense heat and pressure over geological time.
 - **[Water](/en/materials/water):** Essential for making clay malleable.
+- **[Ceramics](/en/materials/ceramics):** The final product of fired clay.
+- **[Brick](/en/materials/brick):** A common construction material made from clay.

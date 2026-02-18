@@ -45,3 +45,13 @@ Clay contains chemically bound water. When heated above 600°C, it loses this wa
 - **Brittleness:** Breaks easily on impact or falls.
 - **Thermal shock:** Sudden temperature changes can crack it.
 - **Contamination:** Some old glazes contained lead.
+
+### Related inventions
+
+- **[Potter's Wheel](/en/inventions/potters-wheel):** Machine for shaping round vessels.
+- **[Kiln](/en/inventions/kiln):** Oven for firing pottery.
+
+### Related materials
+
+- **[Ceramics](/en/materials/ceramics):** The broader category of material.
+- **[Brick](/en/materials/brick):** Construction material made similarly.

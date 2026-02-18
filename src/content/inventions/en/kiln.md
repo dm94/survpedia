@@ -47,3 +47,16 @@ The kiln works by confining heat within an insulated space. By controlling the f
 - **Toxic Fumes:** Carbon monoxide and other gases can build up in poorly ventilated areas.
 - **Fire Hazard:** High temperatures can ignite nearby flammable materials.
 - **Temperature Control:** Difficult to maintain precise temperatures without modern sensors.
+
+### Related inventions
+
+- **[Pottery](/en/inventions/pottery):** Requires a kiln for firing.
+- **[Chimney](/en/inventions/chimney):** Essential for drafting air.
+- **[Bellows](/en/inventions/bellows):** Used to increase temperature (if available).
+
+### Related materials
+
+- **[Charcoal](/en/materials/charcoal):** Common high-heat fuel.
+- **[Clay](/en/materials/clay):** The primary material fired in kilns.
+- **[Ceramics](/en/materials/ceramics):** The product of firing clay.
+- **[Brick](/en/materials/brick):** Fired construction material.

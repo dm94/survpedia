@@ -1,11 +1,11 @@
 ---
-title: "Cerámica"
+title: "Alfarería"
 materialsUsed: ["clay", "water", "wood"]
 ---
 
 # Breve descripción
 
-La cerámica es el arte y la tecnología de fabricar objetos a partir de arcilla moldeada que luego se endurece mediante la aplicación de calor a altas temperaturas.
+La alfarería es el arte y la tecnología de fabricar objetos a partir de arcilla moldeada que luego se endurece mediante la aplicación de calor a altas temperaturas.
 
 ## Uso / Función
 
@@ -45,3 +45,13 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 - **Fragilidad:** Se rompe fácilmente ante impactos o caídas.
 - **Choque térmico:** Cambios bruscos de temperatura pueden agrietarla.
 - **Contaminación:** Algunos barnices antiguos contenían plomo.
+
+### Inventos relacionados
+
+- **[Torno de alfarero](/es/inventions/potters-wheel):** Máquina para dar forma a vasijas redondas.
+- **[Horno](/es/inventions/kiln):** Horno para cocer cerámica.
+
+### Materiales relacionados
+
+- **[Cerámica](/es/materials/ceramics):** La categoría más amplia de material.
+- **[Ladrillo](/es/materials/brick):** Material de construcción hecho de manera similar.

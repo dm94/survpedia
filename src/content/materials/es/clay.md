@@ -38,10 +38,10 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 
 ### Herramientas necesarias para trabajarla
 
-- Manos para el modelado básico.
-- [Tornos de alfarero](/es/inventions/potters-wheel) para vasijas simétricas.
-- Hornos para cocer y endurecer.
-- Cortadores de alambre para rebanar.
+- **Manos:** Para el modelado básico.
+- **[Torno de alfarero](/es/inventions/potters-wheel):** Esencial para crear rápidamente vasijas simétricas. Requiere arcilla de alta plasticidad y sin partículas gruesas.
+- **[Horno](/es/inventions/kiln):** Para cocer y endurecer la arcilla convirtiéndola en cerámica.
+- **Cortadores de alambre:** Para rebanar bloques o separar las piezas del torno.
 
 ### Pruebas rápidas de calidad
 
@@ -63,9 +63,9 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 
 ### Formas comunes de uso
 
-- Cruda: Para construcciones sencillas de barro y paja (bahareque).
-- Procesada: Secada en ladrillos cocidos al sol (adobe).
-- **Cocida**: Endurecida en cerámica, **[Alfarería](/es/inventions/pottery)** y terracota.
+- **Cruda:** Para construcciones sencillas de barro y paja (bahareque).
+- **Procesada:** Secada en **[Ladrillos](/es/materials/brick)** cocidos al sol (adobe).
+- **Cocida:** Endurecida en **[Cerámica](/es/materials/ceramics)**, **[Alfarería](/es/inventions/pottery)** y terracota.
 
 ### Posibles sustitutos
 
@@ -90,3 +90,5 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 - **[Arena](/es/materials/sand):** A menudo se mezcla con arcilla para reducir la contracción (desgrasante).
 - **[Piedra](/es/materials/stone):** En lo que se convierte la arcilla después de calor y presión intensos durante el tiempo geológico.
 - **[Agua](/es/materials/water):** Esencial para hacer la arcilla maleable.
+- **[Cerámica](/es/materials/ceramics):** El producto final de la arcilla cocida.
+- **[Ladrillo](/es/materials/brick):** Material de construcción común hecho de arcilla.
