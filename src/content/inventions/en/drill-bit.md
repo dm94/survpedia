@@ -23,7 +23,7 @@ The primary use of a drill bit is to cut holes in solid materials.
 
 The drill bit acts as a rotating cutting edge.
 
-- **Rotation**: The bit is rotated by a drill (hand or powered).
+- **Rotation**: The bit is rotated by a drill (**[Hand Drill](/en/inventions/hand-drill)** or **[Drill Press](/en/inventions/drill-press)**).
 - **Axial Force**: Pressure is applied along the axis of the bit into the work material.
 - **Shearing/Chipping**: The cutting edges of the bit shear off material (in metal/wood) or chip it away (in stone), while the flutes (grooves) help evacuate the debris (chips/dust) from the hole.
 
@@ -31,15 +31,15 @@ The drill bit acts as a rotating cutting edge.
 
 ### Minimum functional version
 
-A simple hard stone (flint) flake with a sharp point can serve as a primitive drill bit for softer materials like wood or bone.
+A simple hard stone (**[Flint](/en/materials/flint)**) flake with a sharp point can serve as a primitive drill bit for softer materials like wood or bone.
 
 ### Intermediate version
 
-A metal rod (copper, bronze, iron) flattened at the tip and sharpened into a spear-point shape.
+A metal rod (**[Copper](/en/materials/copper)**, **[Bronze](/en/materials/bronze)**, **[Iron](/en/materials/iron)**) flattened at the tip and sharpened into a spear-point shape.
 
 ### Advanced version
 
-Twist drills made of hardened steel. This requires:
+Twist drills made of hardened **[Steel](/en/materials/steel)** or **[High Speed Steel](/en/materials/steel)**. This requires:
 
 1.  Forging a steel rod.
 2.  Twisting it while hot to create flutes (for chip removal).
@@ -49,13 +49,13 @@ Twist drills made of hardened steel. This requires:
 ## Materials needed
 
 - **Essential materials**: Hard material (Flint, Obsidian, Copper, Bronze, Iron, Steel).
-- **Tools**: Hammer, Anvil, Files (for shaping metal), Grindstone (for sharpening).
+- **Tools**: **[Hammer](/en/inventions/hammer)**, **[Anvil](/en/inventions/anvil)**, **[Files](/en/inventions/file)** (for shaping metal), **[Grinding Wheel](/en/inventions/grinding-wheel)** (for sharpening).
 
 ## Variants and improvements
 
 - **Spoon bit**: An early type of bit shaped like a gouge, good for wood.
 - **Twist bit**: The modern standard, with helical flutes to remove chips.
-- **Masonry bit**: Has a carbide tip for drilling into stone or concrete.
+- **Masonry bit**: Has a **[Tungsten Carbide](/en/materials/tungsten)** tip for drilling into stone or concrete.
 - **Auger**: A large wood-boring bit with a screw tip to pull itself into the wood.
 
 ## Limits and risks

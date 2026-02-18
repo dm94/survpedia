@@ -9,11 +9,11 @@ materialsUsed:
 
 # Breve descripción
 
-Una muela abrasiva es una rueda compuesta de material abrasivo utilizada para diversas operaciones de rectificado (corte abrasivo) y mecanizado. Es esencial para afilar las herramientas de corte utilizadas en tornos, fresadoras y taladros.
+Una muela abrasiva es una rueda compuesta de material abrasivo utilizada para diversas operaciones de rectificado (corte abrasivo) y mecanizado. Es esencial para afilar las herramientas de corte utilizadas en **[Tornos](/es/inventions/lathe)**, **[Fresadoras](/es/inventions/milling-machine)** y **[Taladros](/es/inventions/drill-press)**.
 
 ## Uso / Función
 
-- **Afilado:** Restaurar el filo de cinceles, brocas y herramientas de torno.
+- **Afilado:** Restaurar el filo de cinceles, **[Brocas](/es/inventions/drill-bit)**, **[Fresas](/es/inventions/milling-cutter)** y **[Herramientas de torno](/es/inventions/lathe-tool)**.
 - **Suavizado:** Eliminar bordes ásperos de fundiciones o forjas.
 - **Rectificado de precisión:** Lograr dimensiones y acabados superficiales de alta precisión en piezas de acero endurecido.
 - **Corte:** Muelas delgadas (discos de corte) pueden cortar metal.

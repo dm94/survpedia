@@ -9,7 +9,7 @@ materialsUsed:
 
 # Breve descripción
 
-Una fresadora es una máquina herramienta versátil que utiliza una herramienta de corte rotativa de múltiples dientes para eliminar material de una pieza de trabajo. A diferencia de un torno, donde la pieza gira, en una fresadora la herramienta gira mientras la pieza se mueve contra ella.
+Una fresadora es una máquina herramienta versátil que utiliza una herramienta de corte rotativa de múltiples dientes, llamada **[Fresa](/es/inventions/milling-cutter)**, para eliminar material de una pieza de trabajo. A diferencia de un torno, donde la pieza gira, en una fresadora la herramienta gira mientras la pieza se mueve contra ella.
 
 ## Uso / Función
 
@@ -40,7 +40,7 @@ La fresadora opera bajo el principio de corte rotativo. Un husillo hace girar un
 
 - **Esenciales:**
   - **Hierro fundido:** Para la base, columna y mesa (proporciona masa y amortiguación).
-  - **Acero:** Para el husillo, tornillos guía y herramientas de corte.
+  - **Acero:** Para el husillo, tornillos guía y herramientas de corte (**[Fresas](/es/inventions/milling-cutter)**).
   - **Bronce:** Para cojinetes y tuercas de tornillo guía (piezas de desgaste sacrificables).
 - **Herramientas:** **[Torno](/es/inventions/lathe)** (para hacer el husillo y tornillos), **[Taladro de columna](/es/inventions/drill-press)**, **[Raspador](/es/inventions/scraper)** (para aplanar guías).
 

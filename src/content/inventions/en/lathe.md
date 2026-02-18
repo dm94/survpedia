@@ -19,7 +19,7 @@ A lathe is a machine tool that rotates a workpiece about an axis of rotation to 
 
 ## Operating principle
 
-The workpiece is held in a chuck or collet (on the headstock) and rotated at high speed. A cutting tool, mounted on a carriage that moves along the bed (Z-axis) and cross-slide (X-axis), is fed into the rotating workpiece to remove material in the form of continuous chips.
+The workpiece is held in a chuck or collet (on the headstock) and rotated at high speed. A **[Lathe Tool](/en/inventions/lathe-tool)**, mounted on a carriage that moves along the bed (Z-axis) and cross-slide (X-axis), is fed into the rotating workpiece to remove material in the form of continuous chips.
 
 ## How to create it
 
@@ -35,7 +35,7 @@ The workpiece is held in a chuck or collet (on the headstock) and rotated at hig
 
 - **Essential:**
   - **Cast Iron:** For the bed, headstock, and carriage (vibration damping is critical).
-  - **Hardened Steel:** For the spindle, ways, and lead screw.
+  - **Hardened Steel:** For the spindle, ways, and lead screw. Cutting tools (**[Lathe Tools](/en/inventions/lathe-tool)**) are often made of **[High Speed Steel](/en/materials/steel)** or **[Carbide](/en/materials/tungsten)**.
   - **Bronze:** For bearings and the lead screw nut.
 - **Tools:** **[Scraper](/en/inventions/scraper)** (for hand-scraping ways to precision), **[Drill Press](/en/inventions/drill-press)**, **[Files](/en/inventions/file)**.
 

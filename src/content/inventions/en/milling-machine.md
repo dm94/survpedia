@@ -9,7 +9,7 @@ materialsUsed:
 
 # Brief description
 
-A milling machine is a versatile machine tool that uses a rotating multi-tooth cutter to remove material from a workpiece. Unlike a lathe, where the workpiece rotates, in a milling machine, the cutter rotates while the workpiece is moved against it.
+A milling machine is a versatile machine tool that uses a rotating multi-tooth cutter, known as a **[Milling Cutter](/en/inventions/milling-cutter)**, to remove material from a workpiece. Unlike a lathe, where the workpiece rotates, in a milling machine, the cutter rotates while the workpiece is moved against it.
 
 ## Use / Function
 
@@ -40,7 +40,7 @@ The milling machine operates on the principle of rotary cutting. A spindle rotat
 
 - **Essential:**
   - **Cast Iron:** For the base, column, and table (provides mass and damping).
-  - **Steel:** For the spindle, lead screws, and cutting tools.
+  - **Steel:** For the spindle, lead screws, and cutting tools (**[Milling Cutters](/en/inventions/milling-cutter)**).
   - **Bronze:** For bearings and lead screw nuts (sacrificial wear parts).
 - **Tools:** **[Lathe](/en/inventions/lathe)** (to make the spindle and screws), **[Drill Press](/en/inventions/drill-press)**, **[Scraper](/en/inventions/scraper)** (for flattening ways).
 

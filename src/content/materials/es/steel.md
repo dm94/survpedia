@@ -50,6 +50,7 @@ El acero es un metal duro, fuerte y grisáceo. Puede pulirse hasta obtener un gr
 - **Forjado**: Dando forma mientras está caliente.
 - **Fundido**: Vertido en moldes (menos común para herramientas).
 - **Mecanizado**: Cortado y conformado con otras herramientas más duras.
+- **Acero Rápido (HSS)**: Una aleación específica con tungsteno y cromo que mantiene su dureza a altas temperaturas, utilizada para **[Brocas](/es/inventions/drill-bit)** y **[Herramientas de Torno](/es/inventions/lathe-tool)**.
 
 ### Posibles sustitutos
 

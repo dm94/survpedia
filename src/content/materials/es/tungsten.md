@@ -53,7 +53,7 @@ Es plateado-gris, muy pesado y duro, pero quebradizo a temperatura ambiente. Man
 
 - Barras y placas sinterizadas.
 - Alambre o filamento.
-- Puntas de carburo para corte.
+- **Carburo de Tungsteno**: Un compuesto químico que contiene partes iguales de átomos de tungsteno y carbono, utilizado en maquinaria industrial, **[Fresas](/es/inventions/milling-cutter)** y **[Herramientas de Torno](/es/inventions/lathe-tool)** por su extrema dureza.
 - Blindajes densos o contrapesos.
 
 ### Posibles sustitutos

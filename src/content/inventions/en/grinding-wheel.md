@@ -9,11 +9,11 @@ materialsUsed:
 
 # Brief description
 
-A grinding wheel is a wheel composed of abrasive compound used for various grinding (abrasive cutting) and abrasive machining operations. It is essential for sharpening the cutting tools used in lathes, mills, and drills.
+A grinding wheel is a wheel composed of abrasive compound used for various grinding (abrasive cutting) and abrasive machining operations. It is essential for sharpening the cutting tools used in **[Lathes](/en/inventions/lathe)**, **[Milling Machines](/en/inventions/milling-machine)**, and **[Drills](/en/inventions/drill-press)**.
 
 ## Use / Function
 
-- **Sharpening:** Restoring the cutting edge of chisels, drill bits, and lathe tools.
+- **Sharpening:** Restoring the cutting edge of chisels, **[Drill Bits](/en/inventions/drill-bit)**, **[Milling Cutters](/en/inventions/milling-cutter)**, and **[Lathe Tools](/en/inventions/lathe-tool)**.
 - **Smoothing:** Removing rough edges from castings or forgings.
 - **Precision Grinding:** Achieving high-precision dimensions and surface finishes on hardened steel parts.
 - **Cutting:** Thin wheels (cutoff wheels) can slice through metal.

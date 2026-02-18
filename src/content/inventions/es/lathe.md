@@ -19,7 +19,7 @@ Un torno es una máquina herramienta que hace girar una pieza de trabajo alreded
 
 ## Principio de funcionamiento
 
-La pieza de trabajo se sujeta en un mandril o pinza (en el cabezal fijo) y se hace girar a alta velocidad. Una herramienta de corte, montada en un carro que se mueve a lo largo de la bancada (eje Z) y el carro transversal (eje X), se alimenta hacia la pieza giratoria para eliminar material en forma de virutas continuas.
+La pieza de trabajo se sujeta en un mandril o pinza (en el cabezal fijo) y se hace girar a alta velocidad. Una **[Herramienta de Torno (Buril)](/es/inventions/lathe-tool)**, montada en un carro que se mueve a lo largo de la bancada (eje Z) y el carro transversal (eje X), se alimenta hacia la pieza giratoria para eliminar material en forma de virutas continuas.
 
 ## Cómo crearlo
 
@@ -35,7 +35,7 @@ La pieza de trabajo se sujeta en un mandril o pinza (en el cabezal fijo) y se ha
 
 - **Esenciales:**
   - **Hierro fundido:** Para la bancada, cabezal y carro (la amortiguación de vibraciones es crítica).
-  - **Acero endurecido:** Para el husillo, las guías y el husillo patrón.
+  - **Acero endurecido:** Para el husillo, las guías y el husillo patrón. Las herramientas de corte (**[Buriles](/es/inventions/lathe-tool)**) suelen ser de **[Acero Rápido](/es/materials/steel)** o **[Carburo](/es/materials/tungsten)**.
   - **Bronce:** Para cojinetes y la tuerca del husillo patrón.
 - **Herramientas:** **[Raspador](/es/inventions/scraper)** (para rasquetear guías a mano con precisión), **[Taladro de columna](/es/inventions/drill-press)**, **[Limas](/es/inventions/file)**.
 

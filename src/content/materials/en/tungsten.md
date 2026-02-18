@@ -54,7 +54,7 @@ Tungsten is silvery-gray, very heavy in the hand, and hard but brittle at room t
 
 - Sintered rods and plates.
 - Wire or filaments.
-- Carbide tips in cutting tools.
+- **Tungsten Carbide**: A chemical compound containing equal parts of tungsten and carbon atoms, used in industrial machinery, **[Milling Cutters](/en/inventions/milling-cutter)**, and **[Lathe Tools](/en/inventions/lathe-tool)** for its extreme hardness.
 - Dense shields or counterweights.
 
 ### Possible substitutes

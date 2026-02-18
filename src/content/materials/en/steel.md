@@ -48,6 +48,7 @@ Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unli
 - **Forged**: Shaped while hot.
 - **Cast**: Poured into molds (less common for tools).
 - **Machined**: Cut and shaped with other harder tools.
+- **High Speed Steel (HSS)**: A specific alloy with tungsten and chromium that retains hardness at high temperatures, used for **[Drill Bits](/en/inventions/drill-bit)** and **[Lathe Tools](/en/inventions/lathe-tool)**.
 
 ### Possible substitutes
 
