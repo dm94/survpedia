@@ -2,6 +2,7 @@
 title: "Basic Metallurgy (Copper & Bronze)"
 image: ../../../assets/inventions/metallurgy.jpg
 relatedMaterials: ["copper", "bronze", "charcoal"]
+relatedInventions: ["forge", "bellows", "anvil", "hammer"]
 ---
 
 # Brief description
@@ -17,7 +18,7 @@ Metallurgy is the science and technology of extracting metals from their ores an
 
 ## Operating principle
 
-Most metals are found in nature as ores (combined with other elements). Metallurgy exploits heat and chemical reactions (reduction) to separate the metal. Once liquid, the metal can be poured into molds (casting) or hammered into shape (forging). Adding tin to copper creates bronze, which is significantly harder.
+Most metals are found in nature as ores (combined with other elements). Metallurgy exploits heat and chemical reactions (reduction) to separate the metal. Once liquid, the metal can be poured into molds (casting) or hammered into shape (**[Forging](/en/knowledge/forging)**). Adding tin to copper creates bronze, which is significantly harder.
 
 ## How to create it
 
@@ -32,7 +33,7 @@ Most metals are found in nature as ores (combined with other elements). Metallur
 - **Ore:** Copper ore (malachite, chalcopyrite) and tin ore (cassiterite).
 - **Fuel:** Charcoal (produces the necessary high heat and reduction atmosphere).
 - **Flux:** Substances like limestone to help separate impurities (slag).
-- **Tools:** Kiln/Furnace, bellows (can be water-powered), crucibles, molds, and hammers.
+- **Tools:** **[Forge](/en/inventions/forge)**, **[Bellows](/en/inventions/bellows)**, crucibles (**[Containers](/en/inventions/containers)**), molds, and **[Hammers](/en/inventions/hammer)**.
 
 ## Variants and improvements
 

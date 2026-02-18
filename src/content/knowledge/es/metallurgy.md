@@ -2,6 +2,7 @@
 title: "Metalurgia básica (Cobre y Bronce)"
 image: ../../../assets/inventions/metallurgy.jpg
 relatedMaterials: ["copper", "bronze", "charcoal"]
+relatedInventions: ["forge", "bellows", "anvil", "hammer"]
 ---
 
 # Breve descripción
@@ -17,7 +18,7 @@ La metalurgia es la ciencia y tecnología de extraer metales de sus minerales y 
 
 ## Principio de funcionamiento
 
-La mayoría de los metales se encuentran en la naturaleza en forma de minerales (combinados con otros elementos). La metalurgia aprovecha el calor y las reacciones químicas (reducción) para separar el metal. Una vez líquido, el metal puede verterse en moldes (fundición) o martillearse para darle forma (forjado). Añadir estaño al cobre crea bronce, que es significativamente más duro.
+La mayoría de los metales se encuentran en la naturaleza en forma de minerales (combinados con otros elementos). La metalurgia aprovecha el calor y las reacciones químicas (reducción) para separar el metal. Una vez líquido, el metal puede verterse en moldes (fundición) o martillearse para darle forma (**[Forjado](/es/knowledge/forging)**). Añadir estaño al cobre crea bronce, que es significativamente más duro.
 
 ## Cómo crearlo
 
@@ -32,7 +33,7 @@ La mayoría de los metales se encuentran en la naturaleza en forma de minerales 
 - **Mineral:** Mineral de cobre (malaquita, calcopirita) y mineral de estaño (casiterita).
 - **Combustible:** Carbón vegetal (produce el calor alto necesario y la atmósfera de reducción).
 - **Fundente:** Sustancias como la caliza para ayudar a separar las impurezas (escoria).
-- **Herramientas:** Horno, fuelles (pueden ser accionados por agua), crisoles, moldes y martillos.
+- **Herramientas:** **[Fragua](/es/inventions/forge)**, **[Fuelles](/es/inventions/bellows)**, crisoles (**[Contenedores](/es/inventions/containers)**), moldes y **[Martillos](/es/inventions/hammer)**.
 
 ## Variantes y mejoras
 
