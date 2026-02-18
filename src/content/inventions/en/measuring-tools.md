@@ -41,12 +41,12 @@ Creation varies by tool, but generally involves:
 
 ## Variants and improvements
 
-- **Linear:** Ruler, Tape measure, Calipers, Micrometer.
-- **Angular:** Protractor, Sextant, Theodolite.
-- **Mass/Weight:** Balance scale, Spring scale.
-- **Leveling:** Plumb bob, Spirit level, Water level.
-- **Time:** Sundial, Water clock, Pendulum clock, Mechanical Watch.
-- **Environmental:** Thermometer, Barometer.
+- **Linear:** [Ruler](./ruler), [Tape measure](./tape-measure), [Calipers](./calipers), [Micrometer](./micrometer).
+- **Angular:** [Protractor](./protractor), [Sextant](./sextant), [Theodolite](./theodolite).
+- **Mass/Weight:** [Balance scale](./balance-scale), [Spring scale](./spring-scale).
+- **Leveling:** [Plumb bob](./plumb-bob), [Spirit level](./level), [Water level](./level).
+- **Time:** [Sundial](./sundial), [Water clock](./water-clock), [Pendulum clock](./pendulum-clock), [Mechanical Watch](./mechanical-watch).
+- **Environmental:** [Thermometer](./thermometer), [Barometer](./barometer).
 
 ## Limits and risks
 

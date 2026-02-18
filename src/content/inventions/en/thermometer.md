@@ -11,30 +11,30 @@ A thermometer is an instrument used to measure temperature or temperature gradie
 
 - **Meteorology:** Measuring air temperature to predict weather.
 - **Medicine:** Measuring body temperature to detect fever.
-- **Cooking:** Ensuring food is cooked to a safe temperature.
+- **Cooking:** Ensuring food cooks to a safe temperature.
 - **Science/Industrial:** Monitoring chemical reactions and processes.
 
 ## Operating principle
 
-Most traditional thermometers rely on **thermal expansion**. As a substance gets hotter, it expands. By confining a liquid (like alcohol or mercury) in a very narrow tube, a small expansion in volume results in a large visible rise in the column height.
+Most traditional thermometers rely on **thermal expansion**. As a substance heats up, it expands. By confining a liquid (like alcohol or mercury) in a very narrow tube, a small expansion in volume results in a large visible increase in column height.
 
 ## How to create it
 
-### Liquid-in-Glass Thermometer
+### Liquid-in-glass Thermometer
 1.  **Materials:** A narrow glass tube with a bulb at one end (capillary tube), alcohol (dyed red for visibility) or mercury.
-2.  **Assembly:** Fill the bulb with the liquid. Heat the liquid to drive out air, then seal the top of the tube while it is hot. As it cools, a vacuum forms.
+2.  **Assembly:** Fill the bulb with liquid. Heat the liquid to expel air, then seal the top of the tube while hot. Upon cooling, a vacuum forms.
 3.  **Calibration:**
     - Place in melting ice: Mark this point as 0°C (32°F).
     - Place in boiling water (at sea level): Mark this point as 100°C (212°F).
-    - Divide the distance into 100 equal parts (degrees Celsius).
+    - Divide the distance into 100 equal parts (Celsius degrees).
 
 - **Technical level:** Advanced (requires glassblowing skills).
 
 ## Materials needed
 
-- **Essential:** Glass tubing, expansive liquid (alcohol is safer than mercury).
-- **Tools:** Heat source (torch) for sealing glass.
-- **Substitutes:** Bimetallic strip (two metals bonded together that bend when heated) can be used for dial thermometers.
+- **Essential:** Glass tube, expansive liquid (alcohol is safer than mercury).
+- **Tools:** Heat source (torch) to seal glass.
+- **Substitutes:** Bimetallic strip (two bonded metals that bend when heated) can be used for dial thermometers.
 
 ## Variants and improvements
 

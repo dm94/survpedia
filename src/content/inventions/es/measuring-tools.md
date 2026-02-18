@@ -50,12 +50,12 @@ La creación varía según la herramienta, pero generalmente implica:
 
 ## Variantes y mejoras
 
-- **Lineal:** Regla, Cinta métrica, Calibre, Micrómetro.
-- **Angular:** Transportador, Sextante, Teodolito.
-- **Masa/Peso:** Balanza, Báscula de resorte.
-- **Nivelación:** Plomada, Nivel de burbuja, Nivel de agua.
-- **Tiempo:** Reloj de sol, Reloj de agua, Reloj de péndulo, Reloj Mecánico.
-- **Ambiental:** Termómetro, Barómetro.
+- **Lineal:** [Regla](./ruler), [Cinta métrica](./cinta-metrica), [Calibre](./calipers), [Micrómetro](./micrometer).
+- **Angular:** [Transportador](./protractor), [Sextante](./sextant), [Teodolito](./theodolite).
+- **Masa/Peso:** [Balanza](./balance-scale), [Báscula de resorte](./spring-scale).
+- **Nivelación:** [Plomada](./plomada), [Nivel de burbuja](./level), [Nivel de agua](./level).
+- **Tiempo:** [Reloj de sol](./sundial), [Reloj de agua](./water-clock), [Reloj de péndulo](./pendulum-clock), [Reloj Mecánico](./reloj-mecanico).
+- **Ambiental:** [Termómetro](./thermometer), [Barómetro](./barometer).
 
 ## Límites y riesgos
 
