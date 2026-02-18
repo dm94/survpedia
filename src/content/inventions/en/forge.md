@@ -7,7 +7,6 @@ materialsUsed:
   - iron
   - wood
   - leather
-image: ../../../assets/images/inventions/forge.jpg
 ---
 
 # Brief description

@@ -20,7 +20,6 @@ manufacturingProcess: >-
   Recubrimiento de una malla de tela (gasa) con polietileno, luego aplicación de
   un adhesivo sensible a la presión a base de caucho.
 category: synthetic
-image: ../../../assets/images/materials/duct-tape.jpg
 ---
 
 La cinta americana (o cinta de plata) es una cinta adhesiva duradera y sensible a la presión con un respaldo de tela y un revestimiento de polietileno. Es conocida por su versatilidad, resistencia y resistencia al agua.
@@ -50,7 +49,7 @@ Aunque la verdadera cinta americana es industrial, se puede hacer un sustituto f
 
 1.  **Respaldo**: Cortar tiras de **[Algodón](/es/materials/cotton)** o **[Lienzo](/es/materials/lienzo)**.
 2.  **Impermeabilización**: Recubrir un lado con **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)** o **[Alquitrán](/es/materials/tar)**.
-3.  **Adhesivo**: Aplicar una capa pegajosa de **[Resina](/es/materials/resin)** mezclada con **[Carbón vegetal](/es/materials/charcoal)** (brea) o **[Caucho natural](/es/materials/natural-rubber)** en el otro lado.
+3.  **Adhesivo**: Aplicar una capa pegajosa de **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** (resina mezclada con carbón) o **[Caucho natural](/es/materials/natural-rubber)** en el otro lado.
 4.  **Montaje**: Presionar el lado adhesivo sobre la superficie objetivo.
 
 ### Herramientas necesarias para trabajarla
@@ -92,3 +91,4 @@ Aunque la verdadera cinta americana es industrial, se puede hacer un sustituto f
 - **[Algodón](/es/materials/cotton)**: La capa de malla.
 - **[Caucho natural](/es/materials/natural-rubber)**: La base adhesiva.
 - **[Pegamento](/es/materials/glue)**: El componente adhesivo.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Una alternativa adhesiva improvisada.

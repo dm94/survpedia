@@ -67,6 +67,7 @@ Natural resin is a sticky, thick liquid that hardens over time or when cooled. I
 
 ### Related materials
 
-- Wood: The source of most natural resins.
-- Charcoal: Often produced alongside resin when heating wood.
-- Natural Rubber: Another type of plant exudate.
+- **[Wood](/en/materials/wood)**: The source of most natural resins.
+- **[Charcoal](/en/materials/charcoal)**: Often produced alongside resin when heating wood.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: Made from resin.
+- **[Natural Rubber](/en/materials/natural-rubber)**: Another type of plant exudate.

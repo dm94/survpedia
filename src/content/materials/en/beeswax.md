@@ -1,72 +1,77 @@
 ---
 title: Beeswax
+composition:
+  - esters
+  - fatty-acids
 properties:
   - Waterproof
   - Malleable
   - Flammable
-  - Adhesive
+  - Lubricant
 uses:
   - Candles
   - Waterproofing
-  - Ointments
-  - Polishes
-  - Sealing
+  - Cosmetics
+  - Polish
+  - Lubricant
+  - Sewing
 naturalAvailability: true
-manufacturingProcess: Harvested from honeycombs and melted to purify.
+manufacturingProcess: >-
+  Secreted by worker bees to build honeycombs. Harvested by melting the comb and straining out impurities.
 category: animal
-image: ../../../assets/images/materials/beeswax.jpg
 ---
 
-Beeswax is a natural wax produced by honey bees of the genus Apis. It is an incredibly versatile material used for lighting, waterproofing, and as a structural component in mixtures.
+Beeswax is a natural wax produced by honey bees of the genus Apis. The wax is formed into scales by eight wax-producing glands in the abdominal segments of worker bees, which discard it in or at the hive.
 
 ## Description of what it is like
 
-A tough wax that is brittle when cold but becomes plastic and malleable when warmed by hand. It ranges in color from white (new) to yellow or brown (older/pollen-stained). It has a sweet, honey-like scent.
+It is a tough wax formed from a mixture of several chemical compounds. It is solid at room temperature, brittle when cold, and becomes soft and pliable when held in the hand. It has a pleasant, honey-like aroma.
 
 ## Origin and where to find it
 
-- **Environments**: Wherever bee colonies exist (hollow trees, rock crevices, beehives).
-- **Origin**: Secreted by worker bees to build honeycombs.
-- **Natural**: Requires harvesting from the hive.
+- **Environments**: Wherever honey bees are found (wild or domesticated).
+- **Signs**: Beehives, honeycombs.
+- **It is a natural material**: Produced directly by bees.
 
 ### Minimum processing required
 
-- **Harvesting**: Removing the comb from the hive (often after honey extraction).
-- **Melting**: Heating the comb in water to separate wax from debris.
-- **Filtering**: Straining the molten wax through cloth.
-- **Cooling**: Allowing it to harden into blocks.
+- **Harvesting**: Collecting honeycombs (after removing honey).
+- **Melting**: Heating in water to separate wax from debris.
+- **Straining**: Filtering through cloth to remove impurities.
+- **Cooling**: Allowing it to solidify into cakes.
 
 ### Tools needed to work on it
 
-- **Pot**: For melting (double boiler is best to prevent burning).
-- **Cloth**: For filtering.
-- **Molds**: To shape the cooling wax.
+- **Pot**: For melting (double boiler recommended).
+- **Strainer/Cloth**: For filtering.
+- **Molds**: For shaping.
 
 ### Common forms of use
 
-- **[Candles](/en/inventions/candle)**: Burns slowly and cleanly without smoke.
-- **Ointments/Salves**: Mixed with **[Vegetable Oil](/en/materials/vegetable-oil)** or **[Animal Fat](/en/materials/animal-fat)** to thicken medicinal mixtures.
-- **Waterproofing**: Rubbed onto leather or fabric and melted in.
-- **Wood Polish**: Mixed with turpentine or oil to protect wood.
+- **Solid Block**: For rubbing onto threads or tools.
+- **Melted**: For dipping candles or mixing into salves.
+- **Paste**: Mixed with oil or turpentine for polish.
 
 ### Possible substitutes
 
-- **Paraffin**: Modern petroleum-based wax.
-- **[Animal Fat](/en/materials/animal-fat)**: Can be used for waterproofing or candles (tallow), but smells and is softer.
-- **Pine Resin**: For sealing and adhesive purposes.
+- **Paraffin Wax**: Petroleum-derived, cheaper but not renewable.
+- **Soy Wax**: Plant-based, softer.
+- **Animal Fat (Tallow)**: Can be used for candles but smells and is softer.
+- **Pine Resin**: For waterproofing, but is sticky and brittle.
 
 ### Limitations and common failures
 
-- **Melting Point**: Melts at ~62°C (144°F). Can deform in very hot environments.
-- **Brittleness**: Can crack in freezing temperatures if not mixed with oil.
+- **Melting Point**: Melts at relatively low temperatures (~62°C / 144°F).
+- **Brittleness**: Can crack in freezing temperatures.
+- **Flammability**: Can ignite if overheated directly.
 
 ### Risks and safety
 
-- **Fire**: Flammable when molten.
-- **Stings**: Harvesting requires dealing with bees.
+- **Burns**: Melted wax can cause burns.
+- **Fire**: Highly flammable when molten; never leave unattended on heat.
 
 ### Related materials
 
-- **[Honey](/en/materials/honey)**: Found with the wax.
-- **[Vegetable Oil](/en/materials/vegetable-oil)**: Often mixed with wax.
-- **[Resin](/en/materials/resin)**: Often mixed with wax for adhesives.
+- **[Honey](/en/materials/honey)**: Produced alongside wax.
+- **[Animal Fat](/en/materials/animal-fat)**: Another lipid used for similar purposes.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: Beeswax is added to make it flexible.

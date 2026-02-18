@@ -3,7 +3,6 @@ title: Tongs
 materialsUsed:
   - iron
   - steel
-image: ../../../assets/images/inventions/tongs.jpg
 ---
 
 # Brief description

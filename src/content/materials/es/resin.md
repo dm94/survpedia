@@ -67,6 +67,7 @@ La resina natural es un líquido pegajoso y espeso que se endurece con el tiempo
 
 ### Materiales relacionados
 
-- Madera: La fuente de la mayoría de las resinas naturales.
-- Carbón vegetal: A menudo se produce junto con la resina al calentar la madera.
-- Caucho natural: Otro tipo de exudado vegetal.
+- **[Madera](/es/materials/wood)**: La fuente de la mayoría de las resinas naturales.
+- **[Carbón vegetal](/es/materials/charcoal)**: A menudo se produce junto con la resina al calentar la madera.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Hecho de resina.
+- **[Caucho natural](/es/materials/natural-rubber)**: Otro tipo de exudado vegetal.

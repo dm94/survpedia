@@ -1,74 +1,73 @@
 ---
-title: Grasa animal
+title: Grasa Animal
+composition:
+  - triglycerides
 properties:
+  - Hidrofóbico
+  - Inflamable
   - Lubricante
-  - Combustible
-  - Hidrófugo
-  - Blando a temperatura ambiente
+  - Suave
 uses:
-  - Lubricación
-  - Fabricación de jabón
-  - Velas
   - Cocina
+  - Jabón
+  - Velas
+  - Lubricante
+  - Impermeabilización
 naturalAvailability: true
 manufacturingProcess: >-
-  Extraída de los tejidos adiposos de los animales (como vacas, ovejas o cerdos)
-  mediante calentamiento (derretido).
+  Obtenida al fundir tejido graso de animales (calentándolo para derretir la grasa y separarla del tejido conectivo).
 category: animal
-image: ../../../assets/images/materials/animal-fat.jpg
 ---
 
-La grasa animal, específicamente cuando se procesa como sebo o manteca, es un material orgánico versátil utilizado desde la antigüedad tanto para energía como para lubricación.
+La grasa animal (Sebo, Manteca) es un lípido obtenido de animales. Dependiendo de la fuente y el procesamiento, puede ser sólida o semisólida a temperatura ambiente. El sebo (grasa de res/oveja) es más duro, mientras que la manteca (grasa de cerdo) es más suave.
 
 ## Descripción de cómo es
 
-Es una sustancia grasienta y pálida que es sólida o semisólida a temperatura ambiente pero se derrite fácilmente cuando se calienta. Tiene un olor característico y es resbaladiza al tacto.
+La grasa animal purificada suele ser blanca o amarillenta, inodora (si está bien fundida) y grasosa al tacto. Se derrite en un aceite claro cuando se calienta.
 
-## Origen y dónde encontrarla
+## Origen y dónde encontrarlo
 
-- Entornos: Obtenida de cualquier animal cazado o criado.
-- Señales: Se encuentra en depósitos grasos alrededor de los órganos internos o bajo la piel de los animales.
-- Es un material natural pero requiere un proceso de derretido (renderizado) para ser útil como sustancia pura.
+- **Entornos**: Donde sea que se cacen o críen animales.
+- **Señales**: Depósitos grasos alrededor de los órganos (riñones, intestinos) y debajo de la piel de los animales.
+- **Es un material natural**: Se encuentra en todos los animales.
 
 ### Procesamiento mínimo requerido
 
-- Recolección: Separar el tejido graso de la carne y el hueso.
-- Derretido: Calentar la grasa a fuego lento para separarla de las membranas celulares y el agua.
-- Filtrado: Eliminar los trozos sólidos (chicharrones) para dejar la grasa líquida pura.
-- Enfriamiento: Permitir que la grasa líquida se solidifique para su almacenamiento.
+- **Fundición (Rendering)**: Cortar la grasa en trozos pequeños y calentar lentamente para derretir la grasa líquida fuera del tejido (chicharrones).
+- **Colado**: Eliminar trozos sólidos.
+- **Enfriamiento**: Dejar solidificar.
 
-### Herramientas necesarias para trabajarla
+### Herramientas necesarias para trabajar en él
 
-- Cuchillos para cortar y raspar.
-- Fuente de calor y una olla para derretir.
-- Paño o malla fina para filtrar.
+- **Cuchillo**: Para recortar la grasa de la carne.
+- **Olla**: Para fundir.
+- **Colador**: Para purificación.
 
 ### Formas comunes de uso
 
-- Sebo: Grasa dura de vaca u oveja, excelente para **[Velas](/es/inventions/candle)**, combustible para **[Lámparas de Aceite](/es/inventions/oil-lamp)** y lubricación pesada.
-- Manteca: Grasa más blanda de cerdo, a menudo utilizada en cocina y lubricación fina.
-- Grasa: Grasa derretida utilizada directamente en ejes y engranajes.
-- Materia prima de biodiésel: Grasa derretida para **[Biocombustible](/es/materials/biofuel)**.
+- **Sólido**: Frotado en cuero o herramientas.
+- **Derretido**: Para freír, hacer jabón o sumergir velas de junco.
 
 ### Posibles sustitutos
 
-- Aceites vegetales: Derivados de semillas o frutos (como el de oliva o lino).
-- Aceite mineral: Derivado del petróleo (moderno).
-- Cera de abejas: Para velas o impermeabilización, aunque no es tan buena para lubricación.
+- **Aceites Vegetales**: Oliva, coco o aceites de semillas.
+- **Vaselina**: Alternativa sintética moderna para lubricación/protección.
+- **Cera de Abejas**: Para impermeabilización y velas (más dura/quema más limpio).
 
-### Limitaciones y fallos comunes
+### Limitaciones y fallas comunes
 
-- Rancidez: Se descompone y huele mal con el tiempo si no se mantiene fresca o salada.
-- Punto de fusión: Se vuelve demasiado líquida en climas muy cálidos, perdiendo su eficacia lubricante.
-- Plagas: Atrae insectos y roedores.
+- **Rancidez**: Puede estropearse si no se funde adecuadamente o se almacena en un lugar fresco, oliendo mal.
+- **Suavidad**: Se derrite fácilmente en climas cálidos (a diferencia de la cera de abejas).
+- **Olor**: Quemar grasa puede producir un olor acre en comparación con la cera.
 
 ### Riesgos y seguridad
 
-- Peligro de quemaduras: La grasa caliente líquida puede causar quemaduras graves.
-- Peligro de incendio: Altamente inflamable; puede provocar incendios de grasa que son difíciles de extinguir con agua.
+- **Fuego de Grasa**: Altamente inflamable cuando está caliente; no usar agua para extinguir.
+- **Quemaduras**: El aceite caliente causa quemaduras graves.
 
 ### Materiales relacionados
 
-- **[Cuero](/es/materials/leather)**: A menudo tratado con grasas para mantenerlo flexible (parte del [Curtido](/es/knowledge/curtido)).
-- **[Jabón](/es/materials/soap)**: Producido al reaccionar grasas con un álcali.
-- **[Madera](/es/materials/wood)**: Los ejes y engranajes de madera requieren una aplicación frecuente de grasa.
+- **[Cuero](/es/materials/leather)**: A menudo tratado con grasa para permanecer flexible.
+- **[Jabón](/es/materials/soap)**: Hecho reaccionando grasa con lejía.
+- **[Cera de Abejas](/es/materials/beeswax)**: Una alternativa más limpia para velas.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Se añade grasa para evitar la fragilidad.

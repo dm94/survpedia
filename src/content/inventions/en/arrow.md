@@ -6,6 +6,7 @@ materialsUsed:
   - stone
   - bone
   - resin
+  - pine-resin-glue
   - plant-fibers
 image: ../../../assets/images/inventions/arrow.jpg
 ---
@@ -28,8 +29,8 @@ The arrow converts the kinetic energy transferred from the bowstring into flight
 
 1.  **Shaft**: Select a straight, lightweight shoot of wood or reed. Straighten it by heating and bending if necessary.
 2.  **Nock**: Cut a small groove at the rear end to accept the bowstring.
-3.  **Fletching**: Attach 3 feathers near the rear end using glue (resin) and thread. They should be equally spaced around the shaft.
-4.  **Point**: Haft a sharp tip (stone, bone, or hardened wood) to the front end. Secure it with resin and binding material (sinew or plant fibers).
+3.  **Fletching**: Attach 3 feathers near the rear end using **[Pine Resin Glue](/en/materials/pine-resin-glue)** and thread. They should be equally spaced around the shaft.
+4.  **Point**: Haft a sharp tip (stone, bone, or hardened wood) to the front end. Secure it with **[Pine Resin Glue](/en/materials/pine-resin-glue)** and binding material (sinew or plant fibers).
 
 ## Materials needed
 
@@ -37,7 +38,7 @@ The arrow converts the kinetic energy transferred from the bowstring into flight
 - **Fletching**: Feathers (goose, turkey).
 - **Point**: Flint, obsidian, bone, or simply fire-hardened wood.
 - **Binding**: Sinew, thread, plant fibers.
-- **Adhesive**: Pine resin, birch tar, or animal glue.
+- **Adhesive**: **[Pine Resin Glue](/en/materials/pine-resin-glue)**, **[Tar](/en/materials/tar)**, or **[Glue](/en/materials/glue)**.
 
 ## Variants and improvements
 

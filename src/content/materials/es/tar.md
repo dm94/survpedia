@@ -22,7 +22,6 @@ manufacturingProcess: >-
   Destilación destructiva de materia orgánica (raíces de pino, corteza de abedul,
   carbón) en un entorno bajo en oxígeno.
 category: synthetic
-image: ../../../assets/images/materials/tar.jpg
 ---
 
 El alquitrán es un líquido oscuro, espeso y aceitoso producido por la destilación destructiva de materia orgánica, como madera o carbón. El alquitrán de pino, específicamente, se ha utilizado durante siglos para preservar la madera y las cuerdas.
@@ -54,7 +53,7 @@ Es un líquido viscoso negro o marrón oscuro con un olor fuerte, ahumado y dist
 - **Conservante de madera**: Pintado en revestimientos, barcos y tejas para evitar la pudrición (por ejemplo, "esquís").
 - **Tratamiento de cuerdas**: Remojar cuerdas de fibra natural en alquitrán evita que se pudran en el agua.
 - **Jabón**: El alquitrán de pino se añade al jabón por sus propiedades antisépticas (tratar eczema, psoriasis).
-- **Adhesivo**: Cuando se hierve más para convertirse en Brea, se convierte en un fuerte pegamento termofusible.
+- **Adhesivo**: Cuando se hierve más para convertirse en Brea, se convierte en un fuerte pegamento termofusible (similar al **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**).
 
 ### Posibles sustitutos
 
@@ -80,4 +79,5 @@ Es un líquido viscoso negro o marrón oscuro con un olor fuerte, ahumado y dist
 - **[Carbón vegetal](/es/materials/charcoal)**: El subproducto sólido que queda en el contenedor después de extraer el alquitrán.
 - **[Madera](/es/materials/wood)**: El material de origen.
 - **[Resina](/es/materials/resin)**: El componente crudo en la madera que se convierte en alquitrán.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Un adhesivo similar a base de resina.
 - **Brea**: Alquitrán que ha sido hervido hasta un estado sólido.

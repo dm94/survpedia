@@ -20,7 +20,6 @@ manufacturingProcess: >-
   Coating a cloth mesh (scrim) with polyethylene, then applying a rubber-based
   pressure-sensitive adhesive.
 category: synthetic
-image: ../../../assets/images/materials/duct-tape.jpg
 ---
 
 Duct tape is a durable, pressure-sensitive adhesive tape with a cloth backing and a polyethylene coating. It is known for its versatility, strength, and water resistance.
@@ -50,7 +49,7 @@ While true duct tape is industrial, a functional substitute can be made:
 
 1.  **Backing**: Cut strips of **[Cotton](/en/materials/cotton)** or **[Canvas](/en/materials/canvas)**.
 2.  **Waterproofing**: Coat one side with **[Resin](/en/materials/resin)**, **[Beeswax](/en/materials/beeswax)**, or **[Tar](/en/materials/tar)**.
-3.  **Adhesive**: Apply a sticky layer of **[Resin](/en/materials/resin)** mixed with **[Charcoal](/en/materials/charcoal)** (pitch) or **[Natural Rubber](/en/materials/natural-rubber)** to the other side.
+3.  **Adhesive**: Apply a sticky layer of **[Pine Resin Glue](/en/materials/pine-resin-glue)** (resin mixed with charcoal) or **[Natural Rubber](/en/materials/natural-rubber)** to the other side.
 4.  **Assembly**: Press the adhesive side onto the target surface.
 
 ### Tools needed to work on it
@@ -92,3 +91,4 @@ While true duct tape is industrial, a functional substitute can be made:
 - **[Cotton](/en/materials/cotton)**: The scrim layer.
 - **[Natural Rubber](/en/materials/natural-rubber)**: The adhesive base.
 - **[Glue](/en/materials/glue)**: The adhesive component.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: An improvised adhesive alternative.

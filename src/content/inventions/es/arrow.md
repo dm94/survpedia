@@ -6,6 +6,7 @@ materialsUsed:
   - stone
   - bone
   - resin
+  - pine-resin-glue
   - plant-fibers
 image: ../../../assets/images/inventions/arrow.jpg
 ---
@@ -28,8 +29,8 @@ La flecha convierte la energía cinética transferida desde la cuerda del arco e
 
 1.  **Eje**: Selecciona un brote recto y ligero de madera o caña. Enderezalo calentándolo y doblándolo si es necesario.
 2.  **Muesca**: Corta una pequeña ranura en el extremo posterior para aceptar la cuerda del arco.
-3.  **Emplumado**: Coloca 3 plumas cerca del extremo posterior usando pegamento (resina) e hilo. Deben estar espaciadas equitativamente alrededor del eje.
-4.  **Punta**: Coloca una punta afilada (piedra, hueso o madera endurecida) en el extremo delantero. Asegúrala con resina y material de atadura (tendón o fibras vegetales).
+3.  **Emplumado**: Coloca 3 plumas cerca del extremo posterior usando **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** e hilo. Deben estar espaciadas equitativamente alrededor del eje.
+4.  **Punta**: Coloca una punta afilada (piedra, hueso o madera endurecida) en el extremo delantero. Asegúrala con **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** y material de atadura (tendón o fibras vegetales).
 
 ## Materiales necesarios
 
@@ -37,7 +38,7 @@ La flecha convierte la energía cinética transferida desde la cuerda del arco e
 - **Emplumado**: Plumas (ganso, pavo).
 - **Punta**: Sílex, obsidiana, hueso, o simplemente madera endurecida al fuego.
 - **Atadura**: Tendón, hilo, fibras vegetales.
-- **Adhesivo**: Resina de pino, brea de abedul o pegamento animal.
+- **Adhesivo**: **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**, **[Alquitrán](/es/materials/tar)**, o **[Pegamento](/es/materials/glue)**.
 
 ## Variantes y mejoras
 

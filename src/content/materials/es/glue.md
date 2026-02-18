@@ -81,4 +81,5 @@ El pegamento animal se vende típicamente como gránulos, láminas o bloques dur
 - **[Madera](/es/materials/wood)**: El material principal unido con pegamento.
 - **[Agua](/es/materials/water)**: El solvente para el pegamento.
 - **[Resina](/es/materials/resin)**: Un adhesivo alternativo.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Un adhesivo natural e impermeable.
 - **[Cinta Americana](/es/materials/duct-tape)**: Una cinta de tela que utiliza un adhesivo a base de caucho.

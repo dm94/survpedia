@@ -3,7 +3,6 @@ title: Tenazas
 materialsUsed:
   - iron
   - steel
-image: ../../../assets/images/inventions/tongs.jpg
 ---
 
 # Breve descripción

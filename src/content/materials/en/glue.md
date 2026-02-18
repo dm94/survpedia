@@ -81,4 +81,5 @@ Animal glue is typically sold as hard, brittle, amber-colored granules, sheets, 
 - **[Wood](/en/materials/wood)**: The primary material bonded with glue.
 - **[Water](/en/materials/water)**: The solvent for the glue.
 - **[Resin](/en/materials/resin)**: An alternative adhesive.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: A waterproof, natural adhesive.
 - **[Duct Tape](/en/materials/duct-tape)**: A cloth tape that uses a rubber-based adhesive.

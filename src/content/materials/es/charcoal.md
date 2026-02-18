@@ -1,82 +1,77 @@
 ---
-title: Carbón vegetal
+title: Carbón Vegetal
 composition:
   - carbon
 properties:
-  - Ligero
+  - Inflamable
   - Poroso
-  - Alto calor
-  - Bajo humo
+  - Adsorbente
+  - Frágil
+  - Ligero
 uses:
   - Combustible
-  - Metalurgia
-  - Cocción
-  - Filtración
+  - Filtración de agua
+  - Pólvora
+  - Dibujo
+  - Fabricación de acero
+  - Medicina
 naturalAvailability: false
 manufacturingProcess: >-
-  Se produce calentando madera con poco oxígeno (pirolisis) para eliminar agua y
-  volátiles.
-category: synthetic
-image: ../../../assets/images/materials/charcoal.jpg
+  Producido calentando madera u otros materiales orgánicos en ausencia de oxígeno (pirólisis) para eliminar agua y constituyentes volátiles.
+category: plant
 ---
 
-El carbón vegetal es un combustible rico en carbono hecho a partir de madera o biomasa calentada sin suficiente oxígeno para arder por completo. Quema más caliente y limpio que la madera.
+El carbón vegetal es un residuo de carbono negro y ligero producido al eliminar el agua y otros constituyentes volátiles de materiales animales y vegetales. Generalmente se produce mediante pirólisis lenta: el calentamiento de madera u otras sustancias orgánicas en ausencia de oxígeno.
 
 ## Descripción de cómo es
 
-Es negro, ligero y quebradizo. Mancha las manos con polvo oscuro y produce un calor intenso con menos llama y humo que la madera.
+El carbón es negro, frágil y ligero. Es poroso y tiene una gran superficie. Arde más caliente y limpio que la madera.
 
 ## Origen y dónde encontrarlo
 
-- Entornos: Se fabrica en hornos de tierra, fosos cubiertos o recipientes sellados.
-- Señales: Trozos negros, porosos, de baja densidad y textura leñosa.
-- Es un material manufacturado.
+- **Entornos**: Donde haya madera disponible.
+- **Señales**: Restos de incendios forestales; hecho deliberadamente en hornos o fosas.
+- **Es un material procesado**: Requiere intervención humana para crearse eficientemente.
 
 ### Procesamiento mínimo requerido
 
-- Recolectar madera seca.
-- Calentarla en un recinto con poco oxígeno hasta que se carbonice.
-- Enfriar sin exposición al aire para evitar que se convierta en ceniza.
+- **Pirólisis**: Calentar madera en un ambiente con poco oxígeno (fosa cubierta u horno).
+- **Enfriamiento**: Debe enfriarse antes de exponerse al aire para evitar la ignición.
+- **Molienda**: Para uso en pólvora o filtración.
 
-### Herramientas necesarias para trabajarlo
+### Herramientas necesarias para trabajar en él
 
-- Horno o foso cubierto.
-- Fuente de calor para carbonizar.
-- Pala o pinzas para manipularlo caliente.
+- **Horno o Fosa**: Para contener el calor y excluir el oxígeno.
+- **Pala**: Para cavar fosas y mover tierra.
+- **Molinillo/Mortero y Maja**: Para pulverizarlo.
 
 ### Formas comunes de uso
 
-- Trozos de carbón: Para cocción y calefacción.
-- Carbón pulverizado: Para tintas, pigmentos, filtración o pólvora.
-- Briquetas: Mezcladas con aglutinantes para un combustible uniforme.
+- **Trozos**: Como combustible para cocinar y herrería.
+- **Polvo**: Para pólvora, medicina o filtración.
+- **Briquetas**: Polvo comprimido con aglutinantes (moderno).
 
 ### Posibles sustitutos
 
-- Madera: Más disponible pero menos energética.
-- Carbón mineral: Más caliente pero más humo y difícil de extraer.
-- Estiércol seco: Útil sin madera, pero con menor calor.
+- **Carbón Mineral**: Combustible fósil, arde más caliente pero contiene impurezas (azufre) malas para el acero.
+- **Madera**: Fácilmente disponible pero arde más fría y con más humo.
+- **Coque**: Carbón procesado, usado en altos hornos modernos.
 
-### Limitaciones y fallos comunes
+### Limitaciones y fallas comunes
 
-- Absorción de humedad: Pierde eficiencia si se guarda húmedo.
-- Fragilidad: Se desmorona en el transporte.
-- Exceso de oxígeno: Puede terminar en ceniza si no se controla.
+- **Humedad**: Absorbe agua fácilmente, dificultando el encendido.
+- **Aplastamiento**: Se tritura fácilmente en polvo durante el transporte.
+- **Ceniza**: Deja residuos que deben limpiarse de las fraguas.
 
 ### Riesgos y seguridad
 
-- Monóxido de carbono: Gas tóxico en espacios cerrados.
-- Riesgo de incendio: Brasas y chispas pueden propagarse.
-- Polvo: Irrita pulmones si se inhala.
+- **Monóxido de Carbono**: Quemar carbón produce gas CO mortal; asegurar ventilación.
+- **Peligro de Incendio**: Puede ocurrir combustión espontánea si el carbón fresco no se enfría y ventila adecuadamente.
+- **Polvo**: La inhalación puede dañar los pulmones con el tiempo.
 
 ### Materiales relacionados
 
-- **[Madera](/es/materials/wood)**: Materia prima principal.
-- **[Ceniza](/es/materials/ash)**: Residuo tras la combustión completa.
-- **[Carbón mineral](/es/materials/coal)**: Combustible mineral más denso.
-- **[Pólvora](/es/materials/gunpowder)**: Usa carbón vegetal como combustible.
-- **[Nitrato de potasio (salitre)](/es/materials/potassium_nitrate)**: Oxidante combinado con carbón en pólvora negra.
-- **[Azufre](/es/elements/sulfur)**: Modificador de la velocidad de combustión.
-
-## Conocimiento Relacionado
-
-- **[Forja](/es/knowledge/forging)**
+- **[Madera](/es/materials/wood)**: La materia prima principal.
+- **[Pólvora](/es/materials/gunpowder)**: El carbón es un ingrediente clave.
+- **[Acero](/es/materials/steel)**: El carbón proporciona el carbono necesario para convertir el hierro en acero.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Mezclado con polvo de carbón para resistencia.

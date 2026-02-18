@@ -1,7 +1,8 @@
 ---
 title: "Lanza"
 image: ../../../assets/inventions/spear.jpg
-materialsUsed: ["wood", "stone", "bone", "plant-fibers", "resin"]
+materialsUsed:
+  ["wood", "stone", "bone", "plant-fibers", "resin", "pine-resin-glue"]
 ---
 
 # Breve descripción
@@ -25,11 +26,11 @@ El asta actúa como palanca que amplifica el alcance y el control. La fuerza se 
 2. **Enderezar y endurecer**: Calentar sobre fuego suave y ajustar la curvatura.
 3. **Formar la cabeza**: Tallar **[Piedra](/es/materials/stone)** o hueso en punta, o forjar metal.
 4. **Enastar la punta**: Abrir una hendidura o encaje, insertar la cabeza y amarrar.
-5. **Sellar el amarre**: Aplicar **[Resina](/es/materials/resin)** para fijar y proteger.
+5. **Sellar el amarre**: Aplicar **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** para fijar y proteger.
 
 ## Materiales necesarios
 
-- **Esenciales**: Asta de madera, punta de piedra o hueso, **[Resina](/es/materials/resin)** para sellar.
+- **Esenciales**: Asta de madera, punta de piedra o hueso, **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)** para sellar.
 - **Amarres**: **[Fibras vegetales](/es/materials/plant-fibers)**.
 - **Herramientas**: Cuchillo, raspador, punzón, percutor, fuego.
 - **Sustitutos**: Punta de madera endurecida al fuego o astilla de hueso afilada.

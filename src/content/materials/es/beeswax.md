@@ -1,72 +1,77 @@
 ---
 title: Cera de Abejas
+composition:
+  - esters
+  - fatty-acids
 properties:
   - Impermeable
   - Maleable
   - Inflamable
-  - Adhesiva
+  - Lubricante
 uses:
   - Velas
   - Impermeabilización
-  - Ungüentos
-  - Pulimentos
-  - Sellado
+  - Cosméticos
+  - Pulido
+  - Lubricante
+  - Costura
 naturalAvailability: true
-manufacturingProcess: Cosechada de panales y fundida para purificar.
+manufacturingProcess: >-
+  Secretada por las abejas obreras para construir panales. Se cosecha derritiendo el panal y filtrando las impurezas.
 category: animal
-image: ../../../assets/images/materials/beeswax.jpg
 ---
 
-La cera de abejas es una cera natural producida por las abejas melíferas del género Apis. Es un material increíblemente versátil utilizado para la iluminación, la impermeabilización y como componente estructural en mezclas.
+La cera de abejas es una cera natural producida por las abejas melíferas del género Apis. La cera se forma en escamas por ocho glándulas productoras de cera en los segmentos abdominales de las abejas obreras, que la depositan en la colmena.
 
 ## Descripción de cómo es
 
-Una cera resistente que es quebradiza cuando está fría pero se vuelve plástica y maleable cuando se calienta con la mano. Varía en color de blanco (nueva) a amarillo o marrón (más vieja/manchada de polen). Tiene un aroma dulce, parecido a la miel.
+Es una cera resistente formada por una mezcla de varios compuestos químicos. Es sólida a temperatura ambiente, quebradiza cuando está fría y se vuelve suave y flexible cuando se sostiene en la mano. Tiene un aroma agradable similar a la miel.
 
 ## Origen y dónde encontrarlo
 
-- **Entornos**: Dondequiera que existan colonias de abejas (árboles huecos, grietas de rocas, colmenas).
-- **Origen**: Secretada por las abejas obreras para construir panales.
-- **Natural**: Requiere ser cosechada de la colmena.
+- **Entornos**: Donde se encuentren abejas melíferas (salvajes o domésticas).
+- **Señales**: Colmenas, panales.
+- **Es un material natural**: Producido directamente por las abejas.
 
-### Procesamiento mínimo necesario
+### Procesamiento mínimo requerido
 
-- **Cosecha**: Retirar el panal de la colmena (a menudo después de la extracción de miel).
-- **Fundición**: Calentar el panal en agua para separar la cera de los residuos.
-- **Filtrado**: Colar la cera fundida a través de una tela.
-- **Enfriamiento**: Dejar que se endurezca en bloques.
+- **Cosecha**: Recolección de panales (después de retirar la miel).
+- **Derretido**: Calentar en agua para separar la cera de los residuos.
+- **Filtrado**: Filtrar a través de tela para eliminar impurezas.
+- **Enfriamiento**: Dejar solidificar en bloques.
 
-### Herramientas necesarias para trabajarla
+### Herramientas necesarias para trabajar en él
 
-- **Olla**: Para fundir (el baño maría es mejor para evitar que se queme).
-- **Tela**: Para filtrar.
-- **Moldes**: Para dar forma a la cera mientras se enfría.
+- **Olla**: Para derretir (se recomienda baño maría).
+- **Colador/Tela**: Para filtrar.
+- **Moldes**: Para dar forma.
 
 ### Formas comunes de uso
 
-- **[Velas](/es/inventions/candle)**: Arde lenta y limpiamente sin humo.
-- **Ungüentos/Bálsamos**: Mezclada con **[Aceite Vegetal](/es/materials/vegetable-oil)** o **[Grasa Animal](/es/materials/animal-fat)** para espesar mezclas medicinales.
-- **Impermeabilización**: Frotada sobre cuero o tela y fundida.
-- **Pulimento de Madera**: Mezclada con trementina o aceite para proteger la madera.
+- **Bloque Sólido**: Para frotar en hilos o herramientas.
+- **Derretido**: Para sumergir velas o mezclar en ungüentos.
+- **Pasta**: Mezclado con aceite o trementina para pulir.
 
 ### Posibles sustitutos
 
-- **Parafina**: Cera moderna a base de petróleo.
-- **[Grasa Animal](/es/materials/animal-fat)**: Se puede usar para impermeabilizar o velas (sebo), pero huele y es más blanda.
-- **Resina de Pino**: Para fines de sellado y adhesivos.
+- **Parafina**: Derivada del petróleo, más barata pero no renovable.
+- **Cera de Soja**: De origen vegetal, más suave.
+- **Grasa Animal (Sebo)**: Se puede usar para velas pero huele y es más suave.
+- **Resina de Pino**: Para impermeabilizar, pero es pegajosa y quebradiza.
 
-### Limitaciones y fallos comunes
+### Limitaciones y fallas comunes
 
-- **Punto de Fusión**: Se funde a ~62°C (144°F). Puede deformarse en ambientes muy calurosos.
-- **Fragilidad**: Puede agrietarse en temperaturas bajo cero si no se mezcla con aceite.
+- **Punto de Fusión**: Se derrite a temperaturas relativamente bajas (~62°C / 144°F).
+- **Fragilidad**: Puede agrietarse en temperaturas bajo cero.
+- **Inflamabilidad**: Puede encenderse si se sobrecalienta directamente.
 
 ### Riesgos y seguridad
 
-- **Fuego**: Inflamable cuando está fundida.
-- **Picaduras**: La cosecha requiere tratar con abejas.
+- **Quemaduras**: La cera derretida puede causar quemaduras.
+- **Fuego**: Altamente inflamable cuando está fundida; nunca dejar desatendida al fuego.
 
 ### Materiales relacionados
 
-- **[Miel](/es/materials/honey)**: Se encuentra con la cera.
-- **[Aceite Vegetal](/es/materials/vegetable-oil)**: A menudo mezclado con cera.
-- **[Resina](/es/materials/resin)**: A menudo mezclada con cera para adhesivos.
+- **[Miel](/es/materials/honey)**: Producida junto con la cera.
+- **[Grasa Animal](/es/materials/animal-fat)**: Otro lípido usado para propósitos similares.
+- **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Se añade cera de abejas para hacerlo flexible.

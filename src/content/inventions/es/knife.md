@@ -1,6 +1,6 @@
 ---
 title: "Cuchillo"
-materialsUsed: ["steel", "wood"]
+materialsUsed: ["steel", "wood", "pine-resin-glue"]
 ---
 
 # Breve descripción
@@ -16,28 +16,31 @@ Una herramienta o arma con un borde cortante u hoja, generalmente unida a un man
 ## Principio de funcionamiento
 
 El cuchillo funciona según el principio de la cuña (un plano inclinado).
+
 - **Fuerza concentrada**: La fuerza aplicada al mango se concentra en el área de superficie extremadamente pequeña del borde, creando una presión inmensa que separa las fibras del material.
 
 ## Cómo crearlo
 
 ### Versión funcional mínima
+
 1.  **Hoja**: Forjar una pieza de acero en una forma plana, luego esmerilar un borde en un bisel.
 2.  **Tratamiento térmico**: Endurecer la hoja (calentar y enfriar bruscamente) y revenirla (calentar ligeramente) para equilibrar dureza y tenacidad.
-3.  **Mango**: Unir cachas (madera/hueso) a la espiga usando pasadores o envolver con cuero/cuerda.
+3.  **Mango**: Unir cachas (madera/hueso) a la espiga usando pasadores, **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**, o envolver con cuero/cuerda.
 4.  **Afilado**: Afilar el borde en una piedra de afilar.
 
 ### Nivel técnico
+
 - **Básico a Avanzado**: Los cuchillos simples se pueden esmerilar a partir de chatarra; los cuchillos de alta calidad requieren habilidades precisas de tratamiento térmico y forja.
 
 ## Materiales necesarios
 
 - **Materiales esenciales**:
-    - **Acero**: Se prefiere el acero de alto carbono para la retención del filo (dureza), pero el acero inoxidable resiste el óxido.
-    - **Material del mango**: Madera, hueso, asta o cuero para el agarre.
+  - **Acero**: Se prefiere el acero de alto carbono para la retención del filo (dureza), pero el acero inoxidable resiste el óxido.
+  - **Material del mango**: Madera, hueso, asta o cuero para el agarre.
 - **Herramientas**:
-    - **Fragua/Soplete**: Para tratamiento térmico.
-    - **Esmeriladora/Limas**: Para dar forma a los biseles.
-    - **Piedra de afilar**: Para afilar.
+  - **Fragua/Soplete**: Para tratamiento térmico.
+  - **Esmeriladora/Limas**: Para dar forma a los biseles.
+  - **Piedra de afilar**: Para afilar.
 
 ## Variantes y mejoras
 

@@ -4,7 +4,6 @@ materialsUsed:
   - wood
   - leather
   - iron
-image: ../../../assets/images/inventions/bellows.jpg
 ---
 
 # Breve descripción

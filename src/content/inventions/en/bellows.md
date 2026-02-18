@@ -4,7 +4,6 @@ materialsUsed:
   - wood
   - leather
   - iron
-image: ../../../assets/images/inventions/bellows.jpg
 ---
 
 # Brief description
@@ -37,7 +36,7 @@ The bellows relies on **volume displacement** and **valves**.
 
 1.  **Boards**: Cut two tear-drop shaped wooden boards.
 2.  **Leather**: Nail flexible leather around the edges to connect the boards, creating an accordion-like chamber.
-3.  **Valve**: Cut a hole in the bottom board and cover it with a leather flap on the *inside*. This allows air in but not out.
+3.  **Valve**: Cut a hole in the bottom board and cover it with a leather flap on the _inside_. This allows air in but not out.
 4.  **Nozzle**: Attach a pipe to the narrow end.
 
 ### Box Bellows (Piston)

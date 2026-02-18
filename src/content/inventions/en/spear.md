@@ -1,7 +1,8 @@
 ---
 title: "Spear"
 image: ../../../assets/inventions/spear.jpg
-materialsUsed: ["wood", "stone", "bone", "plant-fibers", "resin"]
+materialsUsed:
+  ["wood", "stone", "bone", "plant-fibers", "resin", "pine-resin-glue"]
 ---
 
 # Brief description
@@ -25,11 +26,11 @@ The shaft acts as a lever that amplifies reach and control. Force is concentrate
 2. **Straighten and harden**: Heat gently over a fire and bend until true.
 3. **Form the head**: Shape **[Stone](/en/materials/stone)** or bone into a sharp point or forge a metal head.
 4. **Haft the point**: Cut a split or socket, insert the head, and bind tightly.
-5. **Seal the binding**: Apply **[Resin](/en/materials/resin)** to lock lashings and resist moisture.
+5. **Seal the binding**: Apply **[Pine Resin Glue](/en/materials/pine-resin-glue)** to lock lashings and resist moisture.
 
 ## Materials needed
 
-- **Essential**: Wooden shaft, stone or bone head, **[Resin](/en/materials/resin)** for sealing.
+- **Essential**: Wooden shaft, stone or bone head, **[Pine Resin Glue](/en/materials/pine-resin-glue)** for sealing.
 - **Binding**: **[Plant fibers](/en/materials/plant-fibers)**.
 - **Tools**: Knife, scraper, awl, hammerstone, fire.
 - **Substitutes**: Fire-hardened wooden point or sharpened bone splinter.

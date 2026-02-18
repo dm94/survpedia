@@ -22,7 +22,6 @@ manufacturingProcess: >-
   Destructive distillation of organic matter (pine roots, birch bark, coal) in a
   low-oxygen environment.
 category: synthetic
-image: ../../../assets/images/materials/tar.jpg
 ---
 
 Tar is a dark, thick, oily liquid produced by the destructive distillation of organic matter, such as wood or coal. Pine tar, specifically, has been used for centuries to preserve wood and rope.
@@ -54,7 +53,7 @@ It is a black or dark brown viscous liquid with a strong, smoky, and distinctive
 - **Wood Preservative**: Painted onto siding, boats, and shingles to prevent rot (e.g., "skis").
 - **Cordage Treatment**: Soaking natural fiber ropes in tar prevents them from rotting in water.
 - **Soap**: Pine tar is added to soap for its antiseptic properties (treating eczema, psoriasis).
-- **Adhesive**: When boiled down further to become Pitch, it becomes a strong hot-melt glue.
+- **Adhesive**: When boiled down further to become Pitch, it becomes a strong hot-melt glue (similar to **[Pine Resin Glue](/en/materials/pine-resin-glue)**).
 
 ### Possible substitutes
 
@@ -80,4 +79,5 @@ It is a black or dark brown viscous liquid with a strong, smoky, and distinctive
 - **[Charcoal](/en/materials/charcoal)**: The solid byproduct left in the container after extracting the tar.
 - **[Wood](/en/materials/wood)**: The source material.
 - **[Resin](/en/materials/resin)**: The raw component in the wood that becomes tar.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: A similar resin-based adhesive.
 - **Pitch**: Tar that has been boiled down to a solid state.

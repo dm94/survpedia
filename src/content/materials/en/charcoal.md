@@ -3,80 +3,75 @@ title: Charcoal
 composition:
   - carbon
 properties:
-  - Lightweight
+  - Flammable
   - Porous
-  - High heat
-  - Low smoke
+  - Adsorbent
+  - Brittle
+  - Lightweight
 uses:
   - Fuel
-  - Metallurgy
-  - Cooking
-  - Filtration
+  - Water filtration
+  - Gunpowder
+  - Drawing
+  - Steel making
+  - Medicine
 naturalAvailability: false
 manufacturingProcess: >-
-  Produced by heating wood in low oxygen (pyrolysis) to drive off water and
-  volatiles.
-category: synthetic
-image: ../../../assets/images/materials/charcoal.jpg
+  Produced by heating wood or other organic materials in the absence of oxygen (pyrolysis) to remove water and volatile constituents.
+category: plant
 ---
 
-Charcoal is a carbon-rich fuel made from wood or plant matter heated without enough oxygen to allow full combustion. It burns hotter and cleaner than raw wood.
+Charcoal is a lightweight black carbon residue produced by removing water and other volatile constituents from animal and plant materials. It is usually produced by slow pyrolysis—the heating of wood or other organic substances in the absence of oxygen.
 
 ## Description of what it is like
 
-Charcoal is black, lightweight, and brittle. It leaves a dark powder when handled and produces a steady, intense heat with less flame and smoke than wood.
+Charcoal is black, brittle, and lightweight. It is porous and has a large surface area. It burns hotter and cleaner than wood.
 
 ## Origin and where to find it
 
-- Environments: Made wherever wood can be heated in a covered pit, kiln, or mound.
-- Signs: Black, porous chunks with a woody texture and low weight.
-- It is a manufactured material.
+- **Environments**: Wherever wood is available.
+- **Signs**: Remnants of forest fires; deliberately made in kilns or pits.
+- **It is a processed material**: Requires human intervention to create efficiently.
 
 ### Minimum processing required
 
-- Collect dry wood.
-- Heat it in a low-oxygen enclosure until it turns black and lightweight.
-- Cool it without exposing to open air to prevent it from burning to ash.
+- **Pyrolysis**: Heating wood in a low-oxygen environment (covered pit or kiln).
+- **Cooling**: Must be cooled before exposure to air to prevent ignition.
+- **Grinding**: For use in gunpowder or filtration.
 
 ### Tools needed to work on it
 
-- A covered pit, earthen kiln, or sealed container.
-- Fire source to heat the wood.
-- Shovel or tongs for handling hot material.
+- **Kiln or Pit**: To contain the heat and exclude oxygen.
+- **Shovel**: For digging pits and moving earth.
+- **Grinder/Mortar and Pestle**: To powder it.
 
 ### Common forms of use
 
-- Lump charcoal: For cooking and heating.
-- Pulverized charcoal: For inks, pigments, filtration, or gunpowder.
-- Briquettes: Mixed with binders for uniform fuel.
+- **Lump**: As fuel for cooking and blacksmithing.
+- **Powder**: For gunpowder, medicine, or filtration.
+- **Briquettes**: Compressed dust with binders (modern).
 
 ### Possible substitutes
 
-- Wood: More available but less energy-dense.
-- Coal: Hotter but smoky and often harder to obtain.
-- Dried dung: Useful in treeless regions but lower heat.
+- **Coal**: Fossil fuel, burns hotter but contains impurities (sulfur) bad for steel.
+- **Wood**: Readily available but burns cooler and smokier.
+- **Coke**: Processed coal, used in modern blast furnaces.
 
 ### Limitations and common failures
 
-- Moisture absorption: Loses efficiency if stored damp.
-- Brittleness: Crumbles easily during transport.
-- Over-carbonization: Can turn to ash if oxygen is not controlled.
+- **Moisture**: Absorbs water easily, making it hard to light.
+- **Crushing**: Easily crushed into dust during transport.
+- **Ash**: Leaves residue that must be cleared from forges.
 
 ### Risks and safety
 
-- Carbon monoxide: Produces toxic gas in enclosed spaces.
-- Fire hazard: Sparks and embers can start wildfires.
-- Dust: Fine charcoal dust can irritate lungs.
+- **Carbon Monoxide**: Burning charcoal produces deadly CO gas; ensure ventilation.
+- **Fire Hazard**: Spontaneous combustion can occur if fresh charcoal is not properly cooled and aired.
+- **Dust**: Inhalation can damage lungs over time.
 
 ### Related materials
 
-- **[Wood](/en/materials/wood)**: Primary source material.
-- **[Ash](/en/materials/ash)**: Residue after full combustion.
-- **[Coal](/en/materials/coal)**: Mineral fuel with higher density.
-- **[Gunpowder](/en/materials/gunpowder)**: Uses charcoal as a fuel component.
-- **[Potassium nitrate (saltpeter)](/en/materials/potassium_nitrate)**: Oxidizer paired with charcoal in black powder.
-- **[Sulfur](/en/elements/sulfur)**: Burn-rate modifier commonly mixed with charcoal.
-
-## Related Knowledge
-
-- **[Forging](/en/knowledge/forging)**
+- **[Wood](/en/materials/wood)**: The primary raw material.
+- **[Gunpowder](/en/materials/gunpowder)**: Charcoal is a key ingredient.
+- **[Steel](/en/materials/steel)**: Charcoal provides the carbon needed to turn iron into steel.
+- **[Pine Resin Glue](/en/materials/pine-resin-glue)**: Mixed with charcoal dust for strength.

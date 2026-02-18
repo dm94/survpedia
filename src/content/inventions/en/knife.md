@@ -1,6 +1,6 @@
 ---
 title: "Knife"
-materialsUsed: ["steel", "wood"]
+materialsUsed: ["steel", "wood", "pine-resin-glue"]
 ---
 
 # Brief description
@@ -16,28 +16,31 @@ A tool or weapon with a cutting edge or blade, usually attached to a handle or h
 ## Operating principle
 
 The knife operates on the principle of the wedge (an inclined plane).
+
 - **Concentrated Force**: The force applied to the handle is concentrated on the extremely small surface area of the edge, creating immense pressure that separates material fibers.
 
 ## How to create it
 
 ### Minimum functional version
+
 1.  **Blade**: Forge a piece of steel into a flat shape, then grind one edge to a bevel.
 2.  **Heat Treatment**: Harden the blade (heat and quench) and temper it (reheat slightly) to balance hardness and toughness.
-3.  **Handle**: Attach scales (wood/bone) to the tang using pins or wrap with leather/cord.
+3.  **Handle**: Attach scales (wood/bone) to the tang using pins, **[Pine Resin Glue](/en/materials/pine-resin-glue)**, or wrap with leather/cord.
 4.  **Sharpening**: Hone the edge on a whetstone.
 
 ### Technical level
+
 - **Basic to Advanced**: Simple knives can be ground from scrap metal; high-quality knives require precise heat treatment and forging skills.
 
 ## Materials needed
 
 - **Essential materials**:
-    - **Steel**: High-carbon steel is preferred for edge retention (hardness) but stainless steel resists rust.
-    - **Handle Material**: Wood, bone, antler, or leather for grip.
+  - **Steel**: High-carbon steel is preferred for edge retention (hardness) but stainless steel resists rust.
+  - **Handle Material**: Wood, bone, antler, or leather for grip.
 - **Tools**:
-    - **Forge/Torch**: For heat treatment.
-    - **Grinder/Files**: For shaping the bevels.
-    - **Whetstone**: For sharpening.
+  - **Forge/Torch**: For heat treatment.
+  - **Grinder/Files**: For shaping the bevels.
+  - **Whetstone**: For sharpening.
 
 ## Variants and improvements
 
