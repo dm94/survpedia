@@ -24,8 +24,8 @@ Forging usually requires heating the metal to a temperature where it becomes mal
 
 ### Key Steps:
 
-1.  **Heating**: The metal is heated in a forge fueled by **[Charcoal](/en/materials/charcoal)** or **[Coal](/en/materials/coal)**.
-2.  **Shaping**: The metal is hammered on an anvil. Techniques include drawing out (lengthening), upsetting (thickening), and bending.
+1.  **Heating**: The metal is heated in a forge fueled by **[Charcoal](/en/materials/charcoal)** or **[Coal](/en/materials/coal)**. A pair of **[Bellows](/en/inventions/bellows)** is often used to intensify the heat.
+2.  **Shaping**: The metal is hammered on an anvil. Techniques include drawing out (lengthening), upsetting (thickening), and bending. See **[Shaping](/en/knowledge/shaping)** for broader context.
 3.  **Heat Treatment**: Processes like annealing, hardening, and tempering are often performed after forging to adjust the metal's properties.
 
 ## Importance
@@ -43,3 +43,8 @@ Forged parts are generally stronger than those produced by casting or machining.
 - **[Iron](/en/materials/iron)**: The most common metal for traditional forging.
 - **[Steel](/en/materials/steel)**: An alloy of iron and carbon, used for tools and weapons.
 - **[Bronze](/en/materials/bronze)**: Can be forged, but often cast.
+
+## Related Knowledge
+
+- **[Shaping](/en/knowledge/shaping)**
+- **[Metallurgy](/en/knowledge/metallurgy)**
