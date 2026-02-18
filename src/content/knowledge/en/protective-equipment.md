@@ -18,10 +18,13 @@ image: ../../../assets/images/knowledge/equipo-de-proteccion-personal.jpg
 
 # Brief description
 
-Protective equipment is barrier gear used to reduce exposure to infectious droplets, aerosols, and contaminated surfaces during outbreaks.
+Protective equipment is barrier gear used to reduce exposure to hazards such as infectious agents, heat, chemicals, or physical injury.
 
 ## Use / Function
 
+- **Disease Control**: Limits spread of infection (masks, gowns).
+- **Physical Protection**: Protects against burns, cuts, and impacts (gloves, aprons).
+- **Eye/Face Protection**: Shields from UV radiation, sparks, and splashes (welding masks, goggles).
 - **Source control**: Limits spread from infected people.
 - **Caregiver protection**: Reduces exposure when providing care or cleaning.
 - **Zone separation**: Differentiates clean and contaminated areas.
@@ -59,9 +62,14 @@ Basic to intermediate. Sewing and hygiene routines are the core requirements.
 
 ## Variants and improvements
 
-- **Layered masks**: Cotton inner layers with tighter outer fabric.
-- **Reusable gowns**: Washable overshirts to protect base clothing.
-- **Face shields**: Rigid glass or clear plates mounted on cloth bands.
+- **Medical/Epidemic Gear**:
+  - **Layered masks**: Cotton inner layers with tighter outer fabric.
+  - **Reusable gowns**: Washable overshirts to protect base clothing.
+  - **Face shields**: Rigid glass or clear plates mounted on cloth bands.
+- **Welding/Industrial Gear**:
+  - **Welding Mask**: Essential for arc welding to prevent "Arc Eye" (UV burn). Requires dark glass (shade 10-14).
+  - **Leather Gloves**: Heavy-duty gloves to protect against heat and sparks.
+  - **Apron**: Leather or heavy canvas to protect clothing from fire/sparks.
 - **Rotation sets**: Multiple kits to allow full drying between uses.
 
 ## Limits and risks

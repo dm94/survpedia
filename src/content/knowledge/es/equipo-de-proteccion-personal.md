@@ -18,10 +18,13 @@ image: ../../../assets/images/knowledge/equipo-de-proteccion-personal.jpg
 
 # Breve descripción
 
-El equipo de protección personal es un conjunto de barreras físicas que reduce la exposición a gotas, aerosoles y superficies contaminadas durante brotes.
+El equipo de protección personal es un conjunto de barreras físicas que reduce la exposición a peligros como agentes infecciosos, calor, productos químicos o lesiones físicas.
 
 ## Uso / Función
 
+- **Control de Enfermedades**: Limita la propagación de infecciones (mascarillas, batas).
+- **Protección Física**: Protege contra quemaduras, cortes e impactos (guantes, delantales).
+- **Protección Ocular/Facial**: Protege de la radiación UV, chispas y salpicaduras (máscaras de soldar, gafas).
 - **Control de fuente**: Limita la dispersión desde personas infectadas.
 - **Protección de cuidadores**: Reduce exposición al atender o limpiar.
 - **Separación de zonas**: Diferencia áreas limpias y contaminadas.
@@ -59,9 +62,14 @@ Básico a intermedio. La costura y las rutinas de higiene son lo central.
 
 ## Variantes y mejoras
 
-- **Mascarillas por capas**: Algodón interior con tela externa más densa.
-- **Batas reutilizables**: Sobreropa lavable para proteger la base.
-- **Pantallas faciales**: Placas rígidas montadas en bandas textiles.
+- **Equipo Médico/Epidémico**:
+  - **Mascarillas por capas**: Algodón interior con tela externa más densa.
+  - **Batas reutilizables**: Sobreropa lavable para proteger la base.
+  - **Pantallas faciales**: Placas rígidas montadas en bandas textiles.
+- **Equipo de Soldadura/Industrial**:
+  - **Máscara de Soldar**: Esencial para la soldadura por arco para prevenir el "Ojo de Arco" (quemadura por UV). Requiere vidrio oscuro (sombra 10-14).
+  - **Guantes de Cuero**: Guantes resistentes para proteger contra el calor y las chispas.
+  - **Delantal**: De cuero o lona gruesa para proteger la ropa del fuego/chispas.
 - **Rotación de equipos**: Varios juegos para secado completo entre usos.
 
 ## Límites y riesgos
