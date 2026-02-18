@@ -20,8 +20,14 @@ Measuring tools are instruments designed to quantify physical magnitudes such as
 
 Temperature measurement is crucial for chemical processes, cooking, medicine, and weather prediction.
 
-- **Thermometer:** Uses the thermal expansion of liquids (mercury, alcohol) or solids to indicate temperature on a graduated scale. It allows for precise process control and health safety.
+- **[Thermometer](./thermometer):** Uses the thermal expansion of liquids (mercury, alcohol) or solids to indicate temperature on a graduated scale. It allows for precise process control and health safety.
 - **Thermocouple:** For extreme temperatures or rapid digital measurements.
+
+## Horizontal Measurement
+
+Determining true horizontality is crucial for leveling foundations, floors, and structures, ensuring their stability and functionality.
+
+- **[Level](./level):** Uses an air bubble in a liquid (spirit level) or the principle of communicating vessels (water level) to indicate if a surface is horizontal.
 
 ## Vertical Measurement
 

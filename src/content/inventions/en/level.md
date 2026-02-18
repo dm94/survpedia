@@ -36,9 +36,9 @@ A level is an instrument used to establish or verify a horizontal plane. It is e
 
 ## Materials needed
 
-- **Essential:** Clear tubing or a glass vial, liquid (water or alcohol).
+- **Essential:** Clear tubing or a [glass](/en/materials/glass) vial, liquid ([water](/en/materials/water) or [alcohol](/en/materials/alcohol)).
 - **Tools:** Saws and sandpaper for the frame.
-- **Substitutes:** A plumb bob can be used to find vertical, and a square can then determine horizontal.
+- **Substitutes:** A [plumb bob](./plumb-bob) can be used to find vertical, and a square can then determine horizontal.
 
 ## Variants and improvements
 

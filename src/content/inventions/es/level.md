@@ -21,11 +21,13 @@ Un nivel es un instrumento utilizado para establecer o verificar un plano horizo
 ## Cómo crearlo
 
 ### Nivel de agua (Más simple)
+
 1.  **Materiales:** Un tubo flexible transparente largo ([manguera](./hose)) y agua.
 2.  **Ensamblaje:** Llenar la manguera con agua, asegurando que no queden burbujas de aire atrapadas.
 3.  **Uso:** Sostener los extremos hacia arriba. El nivel del agua en un extremo coincide con la elevación del nivel del agua en el otro extremo.
 
 ### Nivel de burbuja
+
 1.  **Materiales:** Un pequeño vial de vidrio o plástico, alcohol (para evitar la congelación y permitir el movimiento libre) y un marco recto.
 2.  **Ensamblaje:** Llenar el vial dejando una pequeña burbuja. Sellarlo. Montarlo con precisión en un bloque recto de madera o metal.
 3.  **Calibración:** Colocar sobre una superficie, marcar la posición de la burbuja. Girar 180 grados. Ajustar hasta que la burbuja esté en la misma posición en ambas orientaciones.
@@ -34,9 +36,9 @@ Un nivel es un instrumento utilizado para establecer o verificar un plano horizo
 
 ## Materiales necesarios
 
-- **Esenciales:** Tubo transparente o vial de vidrio, líquido (agua o alcohol).
+- **Esenciales:** Tubo transparente o vial de [vidrio](/es/materials/glass), líquido ([agua](/es/materials/water) o [alcohol](/es/materials/alcohol)).
 - **Herramientas:** Sierras y lija para el marco.
-- **Sustitutos:** Se puede usar una plomada para encontrar la vertical, y una escuadra para determinar la horizontal.
+- **Sustitutos:** Se puede usar una [plomada](./plumb-bob) para encontrar la vertical, y una escuadra para determinar la horizontal.
 
 ## Variantes y mejoras
 

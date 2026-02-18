@@ -20,8 +20,14 @@ Las herramientas de medición son instrumentos diseñados para cuantificar magni
 
 La medición de la temperatura es crucial para procesos químicos, cocina, medicina y predicción del clima.
 
-- **Termómetro:** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
+- **[Termómetro](./thermometer):** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
 - **Termopar:** Para temperaturas extremas o mediciones digitales rápidas.
+
+## Medición de la horizontalidad
+
+Determinar la horizontalidad verdadera es crucial para nivelar cimientos, suelos y estructuras, asegurando su estabilidad y funcionalidad.
+
+- **[Nivel](./level):** Utiliza una burbuja de aire en un líquido (nivel de burbuja) o el principio de vasos comunicantes (nivel de agua) para indicar si una superficie es horizontal.
 
 ## Medición de la verticalidad
 
