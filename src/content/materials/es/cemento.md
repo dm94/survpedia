@@ -51,6 +51,14 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento):** Cemento + Arena + Agua.
 - **Lechada:** Cemento + Agua (para rellenar huecos).
 
+### Integración con Aislamiento
+
+El cemento es un excelente conductor del calor (mal aislante), por lo que crea "puentes térmicos" si se usa solo. Sin embargo, es esencial para proteger el aislamiento:
+
+- **Hormigón Aislante:** Al reemplazar la grava pesada con áridos ligeros como **[Perlita](/es/materials/perlita)**, **[Vermiculita](/es/materials/vermiculita)** o perlas de **[Poliestireno](/es/materials/poliestireno)**, el cemento puede formar una solera ligera y aislante para techos o suelos.
+- **Revestimientos para SATE:** Los revestimientos a base de cemento (a menudo reforzados con malla de fibra de vidrio) proporcionan la cáscara dura y resistente a la intemperie para los sistemas de Aislamiento Térmico Exterior, protegiendo el aislamiento blando (**[Lana Mineral](/es/materials/lana-mineral)** o **[Poliuretano](/es/materials/poliuretano)**) que hay debajo.
+- **Encofrados de Hormigón Aislante (ICF):** El hormigón líquido se vierte en bloques huecos de **[Poliestireno](/es/materials/poliestireno)** que permanecen en su lugar permanentemente como aislamiento.
+
 ### Posibles sustitutos
 
 - **[Cal](/es/materials/cal) Hidráulica:** Caliza que contiene arcilla, quemada a temperaturas más bajas. (El precursor histórico).
@@ -75,3 +83,6 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 - **[Ladrillo](/es/materials/ladrillo):** A menudo unido con mortero de cemento.
 - **[Cal](/es/materials/cal):** El antepasado más simple y no hidráulico.
 - **[Arcilla](/es/materials/arcilla):** El otro ingrediente clave.
+- **[Poliestireno](/es/materials/poliestireno):** A menudo unido con cemento en sistemas de Aislamiento Térmico Exterior (SATE).
+- **[Lana Mineral](/es/materials/lana-mineral):** Puede recubrirse con enlucido de cemento.
+- **[Aislamiento Térmico](/es/materials/aislamiento-termico):** El cemento puede mezclarse con áridos ligeros (perlita) para formar hormigón aislante.

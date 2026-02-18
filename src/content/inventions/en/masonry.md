@@ -50,6 +50,7 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 - **Fired Brick:** Standard modern masonry using kiln-fired bricks and [cement mortar](/en/materials/cement-mortar).
 - **Ashlar:** Finely dressed (cut) stone masonry with very thin joints.
 - **Reinforced Masonry:** Incorporating steel bars (rebar) into hollow blocks or cavities to add tensile strength.
+- **Cavity Walls:** Two layers of masonry with a gap in between (often filled with **[Insulation](/en/materials/thermal-insulation)** like **[Mineral Wool](/en/materials/mineral-wool)** or **[Polystyrene](/en/materials/polystyrene)**) to prevent moisture penetration and improve thermal retention.
 
 ## Limits and risks
 
@@ -72,3 +73,5 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 - **[Cement Mortar](/en/materials/cement-mortar)**
 - **[Stone](/en/materials/stone)**
 - **[Cement](/en/materials/cement)**
+- **[Thermal Insulation](/en/materials/thermal-insulation)**
+- **[Mineral Wool](/en/materials/mineral-wool)**

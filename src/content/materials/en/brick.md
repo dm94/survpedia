@@ -59,6 +59,14 @@ To obtain a useful brick:
 - **Arches and vaults:** Taking advantage of their compressive strength.
 - **Kilns and chimneys:** Refractory bricks (special clay) that withstand high temperatures.
 
+### Insulation and Efficiency
+
+Bricks have high thermal mass (they store heat) but are poor insulators (heat passes through them easily). To improve energy efficiency, they are almost always used with insulation:
+
+- **Cavity Walls:** Two layers of brick (or brick + block) with a 50-100mm gap in between. This gap is filled with **[Mineral Wool](/en/materials/mineral-wool)**, **[Polystyrene](/en/materials/polystyrene)** beads, or **[Vermiculite](/en/materials/vermiculite)** to prevent heat loss while maintaining a weather-proof outer skin.
+- **External Wall Insulation (EWI):** A layer of rigid insulation (**[Polystyrene](/en/materials/polystyrene)** or **[Polyurethane](/en/materials/polyurethane)**) is fixed to the outside of an old solid brick wall and covered with render.
+- **Internal Insulation:** Insulated plasterboard applied to the inner face, though this reduces room size and can cause condensation issues if not carefully managed.
+
 ### Possible substitutes
 
 - **Stone:** Harder to work and give regular shape, but very resistant.
@@ -80,14 +88,18 @@ To obtain a useful brick:
 
 ### Related inventions
 
+- **[Masonry](/en/inventions/masonry):** The art of building with bricks.
 - **[Kiln](/en/inventions/kiln):** Needed to fire bricks.
 - **[Molding](/en/inventions/molding):** Process to shape bricks.
 - **[Firing](/en/inventions/firing):** Process to harden bricks.
 
 ### Related materials
 
-- **Adobe:** Unfired brick, sun-dried.
+- **[Adobe](/en/materials/adobe):** Unfired brick, sun-dried.
 - **[Clay](/en/materials/clay):** The main raw material.
 - **[Mortar](/en/materials/mortar):** Necessary to join bricks.
 - **[Cement Mortar](/en/materials/cement-mortar):** The standard mortar for modern fired bricks.
 - **[Ceramics](/en/materials/ceramics):** Material related by the firing process.
+- **[Thermal Insulation](/en/materials/thermal-insulation):** Often combined with bricks (Cavity Walls) to improve energy efficiency.
+- **[Mineral Wool](/en/materials/mineral-wool):** Common insulation placed between brick layers.
+- **[Polystyrene](/en/materials/polystyrene):** Insulation often applied to the exterior of brick walls.

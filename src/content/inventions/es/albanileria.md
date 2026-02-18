@@ -50,6 +50,7 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 - **Ladrillo Cocido:** Albañilería moderna estándar usando ladrillos cocidos en horno y [mortero de cemento](/es/materials/mortero-de-cemento).
 - **Sillería:** Albañilería de piedra finamente labrada (cortada) con juntas muy finas.
 - **Albañilería Armada:** Incorporar barras de acero (varillas) en bloques huecos o cavidades para añadir resistencia a la tracción.
+- **Muros con Cámara (Cavity Walls):** Dos capas de albañilería con un hueco en medio (a menudo relleno de **[Aislamiento](/es/materials/aislamiento-termico)** como **[Lana Mineral](/es/materials/lana-mineral)** o **[Poliestireno](/es/materials/poliestireno)**) para evitar la humedad y mejorar la retención térmica.
 
 ## Límites y riesgos
 
@@ -71,4 +72,6 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 - **[Mortero](/es/materials/mortero)**
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento)**
 - **[Piedra](/es/materials/piedra)**
-- **[Cemento](/es/materials/cemento)**
+- **[Cement](/es/materials/cemento)**
+- **[Aislamiento Térmico](/es/materials/aislamiento-termico)**
+- **[Lana Mineral](/es/materials/lana-mineral)**

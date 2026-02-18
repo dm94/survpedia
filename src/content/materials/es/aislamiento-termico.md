@@ -28,15 +28,15 @@ Pueden presentarse como:
 
 - **Fibras sueltas o mantas**: Como la lana, fibra de vidrio o paja.
 - **Placas rígidas**: Como el corcho o espumas plásticas.
-- **Granulares**: Como la perlita o vermiculita.
+- **Granulares**: Como la [Perlita](/es/materials/perlita) o [Vermiculita](/es/materials/vermiculita).
 
 ## Origen y dónde encontrarlo
 
 - **Naturales**:
   - **Animal**: [Lana](/es/materials/wool), [Plumas](/es/materials/feather), pelaje.
-  - **Vegetal**: [Paja](/es/materials/paja), [Corcho](/es/materials/cork), hojas secas, musgo, [Algodón](/es/materials/cotton).
-  - **Mineral**: Piedra pómez, perlita.
-- **Sintéticos**: [Fibra de vidrio](/es/materials/fiberglass), poliestireno, espumas de poliuretano.
+  - **Vegetal**: [Paja](/es/materials/paja), [Corcho](/es/materials/corcho), hojas secas, musgo, [Algodón](/es/materials/cotton).
+  - **Mineral**: Piedra pómez, [Perlita](/es/materials/perlita), [Vermiculita](/es/materials/vermiculita).
+- **Sintéticos**: [Fibra de vidrio](/es/materials/fibra-de-vidrio), [Poliestireno](/es/materials/poliestireno), [Poliuretano](/es/materials/poliuretano), [Lana Mineral](/es/materials/lana-mineral).
 
 ### Procesamiento mínimo necesario
 
@@ -85,5 +85,9 @@ Para los aislantes naturales:
 - **[Corcho](/es/materials/cork)**: Impermeable y aislante, ideal para suelos y tapones.
 - **[Paja](/es/materials/paja)**: Económico y accesible para construcción.
 - **[Fibra de Vidrio](/es/materials/fiberglass)**: Estándar moderno, eficaz pero irritante.
+- **[Lana Mineral](/es/materials/lana-mineral)**: Fibra más densa y resistente al fuego, usada en **[Albañilería](/es/inventions/masonry)**.
+- **[Poliestireno](/es/materials/poliestireno)**: Espuma rígida usada en SATE y cimientos.
+- **[Ladrillo](/es/materials/ladrillo)**: Mampostería que a menudo requiere aislamiento adicional.
+- **[Cemento](/es/materials/cemento)**: Usado para proteger/enlucir el aislamiento exterior.
 - **[Asbesto](/es/materials/asbestos)**: Histórico y eficaz, pero cancerígeno (a evitar).
 - **[Aire](/es/materials/air)**: El componente secreto de la mayoría de aislantes.

@@ -58,6 +58,14 @@ Para obtener un ladrillo útil:
 - **Arcos y bóvedas:** Aprovechando su resistencia a la compresión.
 - **Hornos y chimeneas:** Ladrillos refractarios (arcilla especial) que soportan altas temperaturas.
 
+### Aislamiento y Eficiencia
+
+El ladrillo tiene una alta masa térmica (almacena calor) pero es un mal aislante (el calor lo atraviesa fácilmente). Para mejorar la eficiencia energética, casi siempre se usa junto con aislamiento:
+
+- **Muros con Cámara (Cavity Walls):** Dos capas de ladrillo (o ladrillo + bloque) con un hueco de 50-100mm en medio. Este hueco se rellena con **[Lana Mineral](/es/materials/lana-mineral)**, perlas de **[Poliestireno](/es/materials/poliestireno)** o **[Vermiculita](/es/materials/vermiculita)** para evitar la pérdida de calor manteniendo una capa exterior impermeable.
+- **Aislamiento Térmico Exterior (SATE):** Una capa de aislamiento rígido (**[Poliestireno](/es/materials/poliestireno)** o **[Poliuretano](/es/materials/poliuretano)**) se fija al exterior de un muro antiguo de ladrillo macizo y se cubre con un revestimiento.
+- **Aislamiento Interior:** Placas de yeso con aislamiento aplicadas en la cara interior, aunque esto reduce el tamaño de la habitación y puede causar problemas de condensación si no se gestiona con cuidado.
+
 ### Posibles sustitutos
 
 - **Piedra:** Más difícil de trabajar y dar forma regular, pero muy resistente.
@@ -79,14 +87,18 @@ Para obtener un ladrillo útil:
 
 ### Inventos relacionados
 
+- **[Albañilería](/es/inventions/masonry):** El arte de construir con ladrillos.
 - **[Horno](/es/inventions/horno):** Necesario para cocer ladrillos.
 - **[Moldeado](/es/inventions/moldeado):** Proceso para dar forma.
 - **[Cocción](/es/inventions/coccion):** Proceso para endurecer.
 
 ### Materiales relacionados
 
-- **Adobe:** Ladrillo sin cocer, secado al sol.
+- **[Adobe](/es/materials/adobe):** Ladrillo sin cocer, secado al sol.
 - **[Arcilla](/es/materials/arcilla):** La materia prima principal.
 - **[Mortero](/es/materials/mortero):** Necesario para unir los ladrillos.
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento):** El mortero estándar para ladrillos cocidos modernos.
 - **[Cerámica](/es/materials/ceramics):** Material relacionado por proceso de cocción.
+- **[Aislamiento Térmico](/es/materials/aislamiento-termico):** A menudo combinado con ladrillos (Muros con cámara) para mejorar la eficiencia.
+- **[Lana Mineral](/es/materials/lana-mineral):** Aislamiento común colocado entre capas de ladrillo.
+- **[Poliestireno](/es/materials/poliestireno):** Aislamiento aplicado a menudo al exterior de muros de ladrillo.

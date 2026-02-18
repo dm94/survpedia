@@ -51,6 +51,14 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 - **[Cement Mortar](/en/materials/cement-mortar):** Cement + Sand + Water.
 - **Grout:** Cement + Water (for filling gaps).
 
+### Insulation Integration
+
+Cement is an excellent conductor of heat (bad insulator), so it creates "thermal bridges" if used alone. However, it is essential for protecting insulation:
+
+- **Insulating Concrete:** By replacing the heavy gravel with lightweight aggregates like **[Perlite](/en/materials/perlite)**, **[Vermiculite](/en/materials/vermiculite)**, or **[Polystyrene](/en/materials/polystyrene)** beads, cement can form a lightweight, insulating screed for roofs or floors.
+- **Renders for EWI:** Cement-based renders (often reinforced with fiberglass mesh) provide the hard, weather-resistant outer shell for External Wall Insulation systems, protecting the soft insulation (**[Mineral Wool](/en/materials/mineral-wool)** or **[Polyurethane](/en/materials/polyurethane)**) underneath.
+- **Insulated Concrete Forms (ICF):** Liquid concrete is poured into hollow **[Polystyrene](/en/materials/polystyrene)** blocks that remain in place permanently as insulation.
+
 ### Possible substitutes
 
 - **Hydraulic Lime:** Limestone containing clay, burnt at lower temps. (The historical precursor).
@@ -72,9 +80,13 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 
 - **[Kiln](/en/inventions/kiln):** Essential for production.
 - **[Firing](/en/inventions/firing):** The key chemical process.
+- **[Masonry](/en/inventions/masonry):** Primary application field.
 
 ### Related materials
 
 - **[Concrete](/en/materials/concrete):** The main product made with cement.
 - **[Lime](/en/materials/lime):** The simpler, non-hydraulic ancestor.
 - **[Clay](/en/materials/clay):** The other key ingredient.
+- **[Polystyrene](/en/materials/polystyrene):** Often bonded with cement in External Wall Insulation systems.
+- **[Mineral Wool](/en/materials/mineral-wool):** Can be coated with cement render.
+- **[Thermal Insulation](/en/materials/thermal-insulation):** Cement can be mixed with lightweight aggregates (perlite) to form insulating concrete.

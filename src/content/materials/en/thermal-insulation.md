@@ -28,15 +28,15 @@ They can appear as:
 
 - **Loose fibers or batts**: Like wool, fiberglass, or straw.
 - **Rigid boards**: Like cork or plastic foams.
-- **Granular**: Like perlite or vermiculite.
+- **Granular**: Like [Perlite](/en/materials/perlite) or [Vermiculite](/en/materials/vermiculite).
 
 ## Origin and where to find it
 
 - **Natural**:
   - **Animal**: [Wool](/en/materials/wool), [Feather](/en/materials/feather), fur.
   - **Vegetal**: [Straw](/en/materials/straw), [Cork](/en/materials/cork), dry leaves, moss, [Cotton](/en/materials/cotton).
-  - **Mineral**: Pumice, perlite.
-- **Synthetic**: [Fiberglass](/en/materials/fiberglass), polystyrene, polyurethane foams.
+  - **Mineral**: Pumice, [Perlite](/en/materials/perlite), [Vermiculite](/en/materials/vermiculite).
+- **Synthetic**: [Fiberglass](/en/materials/fiberglass), [Polystyrene](/en/materials/polystyrene), [Polyurethane](/en/materials/polyurethane) foams, [Mineral Wool](/en/materials/mineral-wool).
 
 ### Minimum processing required
 
@@ -85,5 +85,9 @@ For natural insulators:
 - **[Cork](/en/materials/cork)**: Waterproof and insulating, ideal for floors and stoppers.
 - **[Straw](/en/materials/straw)**: Economical and accessible for construction.
 - **[Fiberglass](/en/materials/fiberglass)**: Modern standard, effective but irritating.
+- **[Mineral Wool](/en/materials/mineral-wool)**: Denser, fire-resistant fiber often used in **[Masonry](/en/inventions/masonry)**.
+- **[Polystyrene](/en/materials/polystyrene)**: Rigid foam used in EWI and foundations.
+- **[Brick](/en/materials/brick)**: Masonry that often requires additional insulation.
+- **[Cement](/en/materials/cement)**: Used to protect/render external insulation.
 - **[Asbestos](/en/materials/asbestos)**: Historical and effective, but carcinogenic (avoid).
 - **[Air](/en/materials/air)**: The secret component of most insulators.
