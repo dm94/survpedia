@@ -1,7 +1,6 @@
 ---
 title: "Soldador de Arco"
 materialsUsed: ["battery", "copper", "steel", "welding-electrode"]
-image: ../../../assets/inventions/arc-welder.jpg
 ---
 
 # Soldador de Arco (Improvisado)

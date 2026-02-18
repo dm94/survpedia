@@ -1,7 +1,6 @@
 ---
 title: "Arc Welder"
 materialsUsed: ["battery", "copper", "steel", "welding-electrode"]
-image: ../../../assets/inventions/arc-welder.jpg
 ---
 
 # Arc Welder (Improvised)
