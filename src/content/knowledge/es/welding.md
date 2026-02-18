@@ -6,12 +6,16 @@ relatedMaterials:
   - sand
   - flux
   - charcoal
+  - acetylene
+  - filler-rod
+  - oxygen
 relatedInventions:
   - forge
   - hammer
   - anvil
   - tongs
   - protective-equipment
+  - gas-welder
 ---
 
 # Soldadura
@@ -38,7 +42,7 @@ La soldadura permite la creación de estructuras metálicas complejas, herramien
 
 - **Soldadura por Forja**: El método más antiguo, usando una fragua y un martillo.
 - **Soldadura por Arco**: Utiliza un **[Soldador de Arco](/es/inventions/arc-welder)** para fundir el metal. Requiere una fuente de energía y **[Electrodos de Soldadura](/es/materials/welding-electrode)**.
-- **Soldadura a Gas**: Utiliza un gas combustible (como acetileno) y oxígeno para producir una llama.
+- **Soldadura a Gas**: Utiliza un gas combustible (como **[Acetileno](/es/materials/acetylene)**) y **[Oxígeno](/es/elements/oxygen)** para producir una llama de alta temperatura. Se emplea un **[Soldador a Gas](/es/inventions/gas-welder)** y una **[Varilla de Aporte](/es/materials/filler-rod)**. Es muy versátil para soldar, soldar con bronce (brazing) y cortar metales.
 
 ## Seguridad
 
