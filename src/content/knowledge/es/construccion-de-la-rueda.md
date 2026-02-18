@@ -1,7 +1,8 @@
 ---
 title: "Construcción de la Rueda"
 relatedMaterials: ["wood", "iron", "leather", "animal-fat"]
-relatedInventions: ["wheel", "cart", "wagon", "chariot", "manual-lathe"]
+relatedInventions:
+  ["wheel", "cart", "wagon", "chariot", "manual-lathe", "spoke-lacing"]
 ---
 
 # Breve descripción
@@ -17,6 +18,7 @@ La construcción de ruedas, o el oficio de carretero, es el arte de fabricar y r
 ## Principio de funcionamiento
 
 Una rueda de radios actúa como un sistema de suspensión en tensión y compresión.
+
 - **Compresión:** El peso del vehículo viaja por los radios desde el cubo hasta el suelo.
 - **Tensión:** La llanta de metal, al encogerse sobre el borde de madera, comprime todos los componentes de madera juntos, manteniéndolos firmes sin pegamento.
 - **Acopado (Dishing):** Las ruedas de radios a menudo tienen forma cónica para resistir fuerzas laterales cuando el vehículo se balancea.
@@ -54,7 +56,7 @@ Una rueda de radios actúa como un sistema de suspensión en tensión y compresi
 
 - **Rueda maciza:** Tres tablones unidos con clavijas y cortados en círculo. Pesada y propensa a romperse a través del grano.
 - **Rueda acopada:** Los radios están inclinados hacia afuera para proporcionar estabilidad lateral.
-- **Rueda de suspensión:** (Rueda de bicicleta moderna) Los radios son de alambre y están bajo tensión, colgando el cubo de la parte superior de la llanta.
+- **Rueda de suspensión:** (Rueda de bicicleta moderna) Los radios son de alambre y están bajo tensión, colgando el cubo de la parte superior de la llanta. Para más detalles sobre la disposición de los radios, ver [Radiado](/es/inventions/spoke-lacing).
 
 ## Límites y riesgos
 

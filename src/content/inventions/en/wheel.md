@@ -28,7 +28,7 @@ The wheel reduces friction by facilitating motion by rolling together with the u
 The effectiveness of the wheel depends on its structural integrity and the proper assembly of its components.
 
 - **Hub:** The central part of the wheel through which the [axle](/en/inventions/axle) passes. In spoked wheels, it anchors the spokes.
-- **Spokes:** Rods radiating from the hub to the rim. They support the rim and transfer the load from the hub.
+- **Spokes:** Rods radiating from the hub to the rim. They support the rim and transfer the load from the hub. The arrangement of these is known as [Spoke Lacing](/en/inventions/spoke-lacing).
 - **Rim:** The outer circular part of the wheel. It holds the tire and connects to the spokes.
 - **Tire:** A band (metal or leather) placed around the rim to protect it from wear and hold the wheel together.
 
