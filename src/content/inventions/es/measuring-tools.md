@@ -54,7 +54,7 @@ La creación varía según la herramienta, pero generalmente implica:
 - **Angular:** Transportador, Sextante, Teodolito.
 - **Masa/Peso:** Balanza, Báscula de resorte.
 - **Nivelación:** Plomada, Nivel de burbuja, Nivel de agua.
-- **Tiempo:** Reloj de sol, Reloj de agua, Reloj de péndulo.
+- **Tiempo:** Reloj de sol, Reloj de agua, Reloj de péndulo, Reloj Mecánico.
 - **Ambiental:** Termómetro, Barómetro.
 
 ## Límites y riesgos

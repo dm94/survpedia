@@ -45,7 +45,7 @@ Creation varies by tool, but generally involves:
 - **Angular:** Protractor, Sextant, Theodolite.
 - **Mass/Weight:** Balance scale, Spring scale.
 - **Leveling:** Plumb bob, Spirit level, Water level.
-- **Time:** Sundial, Water clock, Pendulum clock.
+- **Time:** Sundial, Water clock, Pendulum clock, Mechanical Watch.
 - **Environmental:** Thermometer, Barometer.
 
 ## Limits and risks
