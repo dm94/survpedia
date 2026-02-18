@@ -1,6 +1,5 @@
 ---
 title: "Molino de agua"
-image: ../../../assets/inventions/watermill.jpg
 materialsUsed: ["wood", "stone", "iron", "water", "animal-fat"]
 ---
 

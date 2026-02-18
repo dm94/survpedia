@@ -1,6 +1,5 @@
 ---
 title: "Molino"
-image: ../../../assets/inventions/mill.jpg
 materialsUsed: ["stone", "wood", "iron", "animal-fat"]
 ---
 

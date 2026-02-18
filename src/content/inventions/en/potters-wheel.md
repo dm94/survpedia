@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/potters-wheel.jpg
 
 # Brief description
 
-The potter's wheel is a machine used in the shaping (known as throwing) of round ceramic ware. It allows for the rapid production of symmetrical vessels such as pots, bowls, and vases with uniform wall thickness.
+The potter's wheel is a machine used in the shaping (known as throwing) of round [ceramic](/en/materials/ceramics) ware, specifically **[Pottery](/en/inventions/pottery)**. It allows for the rapid production of symmetrical vessels such as pots, bowls, and vases with uniform wall thickness.
 
 ## Use / Function
 

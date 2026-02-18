@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/potters-wheel.jpg
 
 # Breve descripción
 
-El torno de alfarero es una máquina utilizada para dar forma (tornear) a piezas de cerámica redondas. Permite la producción rápida de recipientes simétricos como ollas, cuencos y jarrones con un grosor de pared uniforme.
+El torno de alfarero es una máquina utilizada para dar forma (tornear) a piezas de [cerámica](/es/materials/ceramics) redondas, específicamente **[Alfarería](/es/inventions/pottery)**. Permite la producción rápida de recipientes simétricos como ollas, cuencos y jarrones con un grosor de pared uniforme.
 
 ## Uso / Función
 

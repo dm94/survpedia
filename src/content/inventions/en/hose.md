@@ -1,11 +1,6 @@
 ---
-title: Hose
-materialsUsed:
-  - plastic
-  - natural-rubber
-  - canvas
-  - leather
-image: ../../../assets/images/inventions/hose.jpg
+title: "Hose"
+materialsUsed: ["plastic", "natural-rubber", "canvas", "leather"]
 ---
 
 # Brief description

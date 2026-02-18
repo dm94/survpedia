@@ -1,6 +1,5 @@
 ---
 title: "Pottery"
-image: ../../../assets/inventions/pottery.jpg
 materialsUsed: ["clay", "water", "wood"]
 ---
 
