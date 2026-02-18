@@ -75,3 +75,7 @@ Bronze has a distinctive brownish-gold color. It is harder than pure copper and 
 - Copper: The main ingredient.
 - Tin: The essential alloying element.
 - Brass: Another copper alloy (using zinc instead of tin).
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

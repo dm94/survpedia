@@ -70,3 +70,7 @@ Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unli
 - **[Iron](/en/materials/iron)**: Base metal for steelmaking.
 - **[Coal](/en/materials/coal)**: Carbon source for smelting and refining.
 - **[Bronze](/en/materials/bronze)**: Alternative tool alloy with different properties.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

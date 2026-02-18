@@ -54,4 +54,8 @@ Las tenazas se basan en el principio de la **Palanca de Primera Clase**.
 
 - **Ajuste Específico**: Las tenazas deben adaptarse al tamaño de la pieza de trabajo. Usar tenazas del tamaño incorrecto es peligroso ya que el metal caliente puede salir volando al ser golpeado. Un herrero generalmente fabrica muchos pares para diferentes tamaños.
 - **Transferencia de Calor**: Si se dejan en el fuego, los mangos pueden calentarse.
-- **Deslizamiento**: Si el agarre es flojo, el metal puede girar o resbalar bajo el golpe del martillo.
+- Deslizamiento: Si el agarre es flojo, el metal puede girar o resbalar bajo el golpe del martillo.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

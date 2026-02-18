@@ -63,4 +63,8 @@ El fuelle se basa en el **desplazamiento de volumen** y las **válvulas**.
 
 - **Retroceso**: Si se suelta el mango repentinamente o la válvula falla, el gas caliente/llama puede ser succionado de vuelta al fuelle, causando una explosión o incendio.
 - **Mantenimiento**: El cuero debe mantenerse engrasado para evitar grietas.
-- **Fatiga**: Operar fuelles a mano durante horas es un trabajo agotador (a menudo el trabajo de un aprendiz).
+- Fatiga: Operar fuelles a mano durante horas es un trabajo agotador (a menudo el trabajo de un aprendiz).
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

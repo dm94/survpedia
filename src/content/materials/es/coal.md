@@ -72,3 +72,7 @@ El carbón es una sustancia dura, negra, similar a la roca. Es pesado y a menudo
 - Carbono: El elemento principal.
 - Carbón vegetal: La versión sintética fabricada a partir de madera.
 - Acero: El carbón (como coque) es esencial para su producción.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

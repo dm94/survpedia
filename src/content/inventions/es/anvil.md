@@ -57,3 +57,7 @@ El yunque se basa en la **Tercera Ley de Newton** y la **Inercia**.
 - **Ruido**: Un buen yunque de acero resuena fuertemente cuando se golpea. Esto puede dañar la audición con el tiempo. (Consejo: Ponerle un imán o cadena para amortiguar el sonido).
 - **Astillado**: Los bordes de una cara de acero endurecido pueden astillarse si se golpean directamente con un martillo sin metal caliente en medio.
 - **Peso**: Difícil de transportar.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

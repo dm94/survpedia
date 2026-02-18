@@ -63,4 +63,8 @@ The bellows relies on **volume displacement** and **valves**.
 
 - **Backfire**: If the handle is released suddenly or the valve fails, hot gas/flame can be sucked back into the bellows, causing an explosion or fire.
 - **Maintenance**: Leather must be kept oiled to prevent cracking.
-- **Fatigue**: Operating bellows by hand for hours is exhausting work (often the job of an apprentice).
+- Fatigue: Operating bellows by hand for hours is exhausting work (often the job of an apprentice).
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

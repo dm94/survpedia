@@ -72,3 +72,7 @@ El acero es un metal duro, fuerte y grisáceo. Puede pulirse hasta obtener un gr
 - **[Hierro](/es/materials/iron)**: Metal base para la producción de acero.
 - **[Carbón](/es/materials/coal)**: Fuente de carbono para fundición y refinado.
 - **[Bronce](/es/materials/bronze)**: Aleación alternativa para herramientas.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

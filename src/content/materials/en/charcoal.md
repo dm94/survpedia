@@ -76,3 +76,7 @@ Charcoal is black, lightweight, and brittle. It leaves a dark powder when handle
 - **[Gunpowder](/en/materials/gunpowder)**: Uses charcoal as a fuel component.
 - **[Potassium nitrate (saltpeter)](/en/materials/potassium_nitrate)**: Oxidizer paired with charcoal in black powder.
 - **[Sulfur](/en/elements/sulfur)**: Burn-rate modifier commonly mixed with charcoal.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

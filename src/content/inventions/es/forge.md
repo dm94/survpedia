@@ -66,4 +66,8 @@ La fragua se basa en la **combustión de tiro forzado**.
 - **Consumo de combustible**: Una fragua consume combustible rápidamente. Se necesita un suministro constante de carbón.
 - **Quemar metal**: Si el flujo de aire es demasiado fuerte o el metal se deja demasiado tiempo, el acero puede "quemarse" (echar chispas excesivamente y volverse quebradizo) o fundirse por completo.
 - **Monóxido de carbono**: La quema de carbón produce gas CO mortal. **Siempre** usar en un área bien ventilada.
-- **Peligro de incendio**: Las chispas y el calor pueden encender los alrededores.
+- Peligro de incendio: Las chispas y el calor pueden encender los alrededores.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

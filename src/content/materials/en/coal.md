@@ -72,3 +72,7 @@ Coal is a hard, black, rock-like substance. It is heavy and often dusty. When bu
 - Carbon: The primary element.
 - Charcoal: The synthetic version made from wood.
 - Steel: Coal (as coke) is essential for its production.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

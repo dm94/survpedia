@@ -75,3 +75,7 @@ El bronce tiene un color distintivo oro-marrón. Es más duro que el cobre puro 
 - Cobre: El ingrediente principal.
 - Estaño: El elemento de aleación esencial.
 - Latón: Otra aleación de cobre (usando zinc en lugar de estaño).
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

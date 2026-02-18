@@ -75,3 +75,7 @@ El hierro recién pulido es de color gris plateado. Es pesado y muy fuerte. Es m
 - Acero: La aleación más importante del hierro.
 - Carbón vegetal: Esencial para la fundición tradicional del hierro.
 - Magnetite: Un mineral de hierro común y magnético.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

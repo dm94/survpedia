@@ -66,4 +66,8 @@ The forge relies on **forced draft combustion**.
 - **Fuel Consumption**: A forge consumes fuel rapidly. A constant supply of charcoal is needed.
 - **Burning Metal**: If the airflow is too strong or the metal is left too long, steel can "burn" (spark excessively and become brittle) or melt completely.
 - **Carbon Monoxide**: Burning charcoal/coal produces deadly CO gas. **Always** use in a well-ventilated area.
-- **Fire Hazard**: Sparks and heat can ignite the surroundings.
+- Fire Hazard: Sparks and heat can ignite the surroundings.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

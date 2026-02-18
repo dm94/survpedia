@@ -60,4 +60,8 @@ Se basa en la **amplificación de fuerza** y la **energía cinética**.
 
 - **Retroceso:** Golpear una superficie dura puede transmitir el impacto a la muñeca y el brazo.
 - **Seguridad:** La cabeza puede salir volando si no está bien sujeta.
-- **Precisión:** Requiere práctica para golpear el objetivo directamente sin dañar la pieza de trabajo o los dedos.
+- Precisión: Requiere práctica para golpear el objetivo directamente sin dañar la pieza de trabajo o los dedos.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

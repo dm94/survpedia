@@ -76,3 +76,7 @@ Es negro, ligero y quebradizo. Mancha las manos con polvo oscuro y produce un ca
 - **[Pólvora](/es/materials/gunpowder)**: Usa carbón vegetal como combustible.
 - **[Nitrato de potasio (salitre)](/es/materials/potassium_nitrate)**: Oxidante combinado con carbón en pólvora negra.
 - **[Azufre](/es/elements/sulfur)**: Modificador de la velocidad de combustión.
+
+## Conocimiento Relacionado
+
+- **[Forja](/es/knowledge/forging)**

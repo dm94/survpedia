@@ -54,4 +54,8 @@ The tongs rely on the **Class 1 Lever** principle.
 
 - **Specific Fit**: Tongs must be sized to the workpiece. Using the wrong size tongs is dangerous as the hot metal can fly out when struck. A smith usually makes many pairs for different sizes.
 - **Heat Transfer**: If left in the fire, the handles can get hot.
-- **Slip**: If the grip is loose, the metal can rotate or slip under the hammer blow.
+- Slip: If the grip is loose, the metal can rotate or slip under the hammer blow.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

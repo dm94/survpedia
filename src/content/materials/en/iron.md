@@ -75,3 +75,7 @@ Freshly polished iron is silvery-grey. It is heavy and very strong. It is magnet
 - Steel: The most important alloy of iron.
 - Charcoal: Essential for the traditional smelting of iron.
 - Magnetite: A common and magnetic iron ore.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

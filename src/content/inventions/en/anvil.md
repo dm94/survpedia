@@ -57,3 +57,7 @@ The anvil relies on **Newton's Third Law** and **Inertia**.
 - **Noise**: A good steel anvil rings loudly when struck. This can damage hearing over time. (Tip: Put a magnet or chain on it to deaden the ring).
 - **Chipping**: The edges of a hardened steel face can chip if struck directly with a hammer without hot metal in between.
 - **Weight**: Difficult to transport.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**

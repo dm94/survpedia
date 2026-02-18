@@ -60,4 +60,8 @@ It relies on **amplification of force** and **kinetic energy**.
 
 - **Recoil:** Striking a hard surface can transmit shock to the wrist and arm.
 - **Safety:** The head can fly off if not securely fastened.
-- **Accuracy:** Requires practice to hit the target squarely without damaging the workpiece or fingers.
+- Accuracy: Requires practice to hit the target squarely without damaging the workpiece or fingers.
+
+## Related Knowledge
+
+- **[Forging](/en/knowledge/forging)**
