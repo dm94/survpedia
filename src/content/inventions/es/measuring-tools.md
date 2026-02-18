@@ -1,6 +1,6 @@
 ---
 title: "Herramientas de medición"
-materialsUsed: ["madera", "metal", "piedra", "cuerda", "agua"]
+materialsUsed: ["wood", "iron", "stone", "rope", "water"]
 ---
 
 # Descripción breve
@@ -12,19 +12,30 @@ Las herramientas de medición son instrumentos diseñados para cuantificar magni
 - **Construcción:** Asegurar que las estructuras estén rectas, niveladas y con las dimensiones correctas (regla, plomada, nivel).
 - **Comercio:** Cuantificar bienes para un intercambio justo (balanza).
 - **Navegación:** Determinar posición y dirección (brújula, sextante, cronómetro).
-- **Medición del tiempo:** Organizar actividades diarias y agricultura (reloj de sol, calendario).
+- **Medición del tiempo:** Organizar actividades diarias, agricultura y navegación (reloj de sol, calendario, reloj de agua, reloj de péndulo).
 - **Ciencia:** Observar y registrar fenómenos naturales (termómetro, barómetro).
 - **Escala:** Individual a Industrial.
+
+## Medición del tiempo
+
+La medición del tiempo es fundamental para la civilización, permitiendo desde la agricultura hasta la navegación transoceánica.
+
+- **Reloj de sol:** La forma más antigua, utiliza la sombra de un gnomon proyectada por el sol. Es preciso para el mediodía local pero depende del clima y la luz diurna.
+- **Reloj de agua (Clepsidra):** Permite medir el tiempo mediante el flujo constante de agua. Funciona de noche y en interiores, crucial para guardias y turnos.
+- **Reloj de péndulo:** Un avance mecánico mayor que utiliza la oscilación regular (isocronismo) de un péndulo para mantener un tiempo constante, permitiendo la precisión de segundos.
+- **Calendario:** Sistema para organizar días, semanas y meses, basado en ciclos astronómicos (solar o lunar) para predecir estaciones y eventos.
 
 ## Principio de funcionamiento
 
 Todas las herramientas de medición funcionan bajo el principio de **comparación contra un estándar**.
+
 - **Comparación directa:** Colocar el objeto junto al estándar (ej. una regla contra una tabla).
 - **Comparación indirecta:** Usar un mecanismo para traducir la propiedad a un valor legible (ej. una balanza de resorte o termómetro).
 
 ## Cómo crearlo
 
 La creación varía según la herramienta, pero generalmente implica:
+
 1.  **Establecer un Estándar:** Definir una unidad (ej. la longitud del pie de un rey, el peso de una piedra específica).
 2.  **Replicación:** Crear herramientas que coincidan con este estándar.
 3.  **Calibración:** Verificar la herramienta contra el estándar para asegurar precisión.

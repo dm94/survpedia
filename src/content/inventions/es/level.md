@@ -1,6 +1,6 @@
 ---
 title: "Nivel"
-materialsUsed: ["agua", "manguera", "vidrio", "alcohol", "madera"]
+materialsUsed: ["water", "glass", "alcohol", "wood"]
 ---
 
 # Descripción breve
