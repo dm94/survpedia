@@ -30,7 +30,7 @@ El carro se basa en un diseño ligero y la fuerza de los caballos.
 2.  **Eje:** Monta un [eje](/es/inventions/axle) fuerte en la parte trasera de la plataforma para maximizar la estabilidad y maniobrabilidad.
 3.  **Ruedas:** Coloca dos [ruedas](/es/inventions/wheel) de radios. Las ruedas macizas son demasiado pesadas para un carro de guerra.
 4.  **Lanza:** Fija un palo largo al centro del eje/chasis, extendiéndose hacia adelante hasta el yugo de los caballos.
-5.  **Yugo:** Conecta la lanza a los caballos usando un yugo y correas de [cuero](/es/materials/leather).
+5.  **Yugo:** Conecta la lanza a los caballos usando un [yugo](/es/inventions/yoke) y correas de [cuero](/es/materials/leather).
 
 ## Materiales necesarios
 

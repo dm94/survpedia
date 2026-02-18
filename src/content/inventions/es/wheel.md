@@ -23,6 +23,15 @@ La rueda reduce la fricción facilitando el movimiento al rodar junto con el uso
 - **Fricción de rodadura:** La fricción de rodadura es significativamente menor que la fricción de deslizamiento.
 - **Palanca:** Una rueda es una palanca continua, con el punto de apoyo en el punto de contacto con el suelo.
 
+## Estructura
+
+La eficacia de la rueda depende de su integridad estructural y del correcto ensamblaje de sus componentes.
+
+- **Cubo (Maza):** La parte central de la rueda por donde pasa el [eje](/es/inventions/axle). En las ruedas de radios, ancla los radios.
+- **Radios:** Varillas que irradian desde el cubo hasta la llanta. Soportan la llanta y transfieren la carga desde el cubo.
+- **Llanta:** La parte circular exterior de la rueda. Sostiene el neumático (banda) y se conecta a los radios.
+- **Neumático (Banda):** Una banda (metal o cuero) colocada alrededor de la llanta para protegerla del desgaste y mantener la rueda unida.
+
 ## Cómo crearla
 
 ### Rueda de Madera Maciza (Básica)

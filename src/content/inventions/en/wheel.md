@@ -23,6 +23,15 @@ The wheel reduces friction by facilitating motion by rolling together with the u
 - **Rolling Friction:** Rolling friction is significantly lower than sliding friction.
 - **Leverage:** A wheel is a continuous lever, with the fulcrum at the contact point with the ground.
 
+## Structure
+
+The effectiveness of the wheel depends on its structural integrity and the proper assembly of its components.
+
+- **Hub:** The central part of the wheel through which the [axle](/en/inventions/axle) passes. In spoked wheels, it anchors the spokes.
+- **Spokes:** Rods radiating from the hub to the rim. They support the rim and transfer the load from the hub.
+- **Rim:** The outer circular part of the wheel. It holds the tire and connects to the spokes.
+- **Tire:** A band (metal or leather) placed around the rim to protect it from wear and hold the wheel together.
+
 ## How to create it
 
 ### Solid Wood Wheel (Basic)

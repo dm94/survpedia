@@ -22,7 +22,7 @@ Un carro es un vehículo de dos ruedas diseñado para el transporte, típicament
 El carro utiliza la rueda y el eje para reducir la fricción.
 
 - **Distribución de la carga:** La carga se equilibra sobre el eje, lo que significa que el animal de tiro (o persona) solo necesita vencer la resistencia a la rodadura y la inercia, en lugar de soportar todo el peso.
-- **Rodar vs. Deslizar:** Las ruedas ruedan sobre el suelo, reduciendo drásticamente la fricción en comparación con un trineo.
+- **Rodar vs. Deslizar:** Las ruedas ruedan sobre el suelo, reduciendo drásticamente la fricción en comparación con un [trineo](/es/inventions/sled).
 
 ## Cómo crearlo
 
@@ -42,7 +42,7 @@ El carro utiliza la rueda y el eje para reducir la fricción.
 ## Variantes y mejoras
 
 - **Carretilla:** Más pequeña, empujada o tirada por un humano.
-- **Vagón:** Un vehículo de cuatro ruedas (requiere un mecanismo de dirección para el eje delantero).
+- **[Vagón](/es/inventions/wagon):** Un vehículo de cuatro ruedas (requiere un mecanismo de dirección para el eje delantero).
 - **[Carro de guerra](/es/inventions/chariot):** Carro ligero y rápido para la guerra o las carreras.
 - **Volquete:** Un carro que puede inclinarse para descargar su carga.
 

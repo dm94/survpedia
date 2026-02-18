@@ -30,7 +30,7 @@ The chariot relies on a lightweight design and the power of horses.
 2.  **Axle:** Mount a strong [axle](/en/inventions/axle) at the very rear of the platform to maximize stability and maneuverability (though this increases the weight on the horses).
 3.  **Wheels:** Attach two spoked [wheels](/en/inventions/wheel). Solid wheels are too heavy for a war chariot.
 4.  **Draft Pole:** Attach a long pole to the center of the axle/frame, extending forward to the horses' yoke.
-5.  **Yoke:** Connect the pole to the horses using a yoke and [leather](/en/materials/leather) straps.
+5.  **Yoke:** Connect the pole to the horses using a [yoke](/en/inventions/yoke) and [leather](/en/materials/leather) straps.
 
 ## Materials needed
 

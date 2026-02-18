@@ -22,7 +22,7 @@ A cart is a two-wheeled vehicle designed for transport, typically pulled by a pe
 The cart utilizes the wheel and axle to reduce friction.
 
 - **Load Distribution:** The load is balanced over the axle, meaning the draft animal (or person) only needs to overcome rolling resistance and inertia, rather than supporting the full weight.
-- **Rolling vs. Sliding:** Wheels roll over the ground, drastically reducing friction compared to a sled.
+- **Rolling vs. Sliding:** Wheels roll over the ground, drastically reducing friction compared to a [sled](/en/inventions/sled).
 
 ## How to create it
 
@@ -42,7 +42,7 @@ The cart utilizes the wheel and axle to reduce friction.
 ## Variants and improvements
 
 - **Handcart:** Smaller, pushed or pulled by a human.
-- **Wagon:** A four-wheeled vehicle (requires a steering mechanism for the front axle).
+- **[Wagon](/en/inventions/wagon):** A four-wheeled vehicle (requires a steering mechanism for the front axle).
 - **[Chariot](/en/inventions/chariot):** Lightweight, fast cart for war or racing.
 - **Tumbrel:** A cart that can tilt to dump its load.
 
