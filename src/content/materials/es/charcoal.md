@@ -17,8 +17,10 @@ uses:
   - Medicina
 naturalAvailability: false
 manufacturingProcess: >-
-  Producido calentando madera u otros materiales orgánicos en ausencia de oxígeno (pirólisis) para eliminar agua y constituyentes volátiles.
+  Producido calentando madera u otros materiales orgánicos en ausencia de
+  oxígeno (pirólisis) para eliminar agua y constituyentes volátiles.
 category: plant
+image: ../../../assets/images/materials/charcoal.jpg
 ---
 
 El carbón vegetal es un residuo de carbono negro y ligero producido al eliminar el agua y otros constituyentes volátiles de materiales animales y vegetales. Generalmente se produce mediante pirólisis lenta: el calentamiento de madera u otras sustancias orgánicas en ausencia de oxígeno.

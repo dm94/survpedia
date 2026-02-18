@@ -17,8 +17,10 @@ uses:
   - Costura
 naturalAvailability: true
 manufacturingProcess: >-
-  Secretada por las abejas obreras para construir panales. Se cosecha derritiendo el panal y filtrando las impurezas.
+  Secretada por las abejas obreras para construir panales. Se cosecha
+  derritiendo el panal y filtrando las impurezas.
 category: animal
+image: ../../../assets/images/materials/beeswax.jpg
 ---
 
 La cera de abejas es una cera natural producida por las abejas melíferas del género Apis. La cera se forma en escamas por ocho glándulas productoras de cera en los segmentos abdominales de las abejas obreras, que la depositan en la colmena.

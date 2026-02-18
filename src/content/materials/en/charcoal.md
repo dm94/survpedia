@@ -17,8 +17,10 @@ uses:
   - Medicine
 naturalAvailability: false
 manufacturingProcess: >-
-  Produced by heating wood or other organic materials in the absence of oxygen (pyrolysis) to remove water and volatile constituents.
+  Produced by heating wood or other organic materials in the absence of oxygen
+  (pyrolysis) to remove water and volatile constituents.
 category: plant
+image: ../../../assets/images/materials/charcoal.jpg
 ---
 
 Charcoal is a lightweight black carbon residue produced by removing water and other volatile constituents from animal and plant materials. It is usually produced by slow pyrolysis—the heating of wood or other organic substances in the absence of oxygen.

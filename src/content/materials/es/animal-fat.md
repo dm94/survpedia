@@ -15,8 +15,10 @@ uses:
   - Impermeabilización
 naturalAvailability: true
 manufacturingProcess: >-
-  Obtenida al fundir tejido graso de animales (calentándolo para derretir la grasa y separarla del tejido conectivo).
+  Obtenida al fundir tejido graso de animales (calentándolo para derretir la
+  grasa y separarla del tejido conectivo).
 category: animal
+image: ../../../assets/images/materials/animal-fat.jpg
 ---
 
 La grasa animal (Sebo, Manteca) es un lípido obtenido de animales. Dependiendo de la fuente y el procesamiento, puede ser sólida o semisólida a temperatura ambiente. El sebo (grasa de res/oveja) es más duro, mientras que la manteca (grasa de cerdo) es más suave.

@@ -17,8 +17,10 @@ uses:
   - Sewing
 naturalAvailability: true
 manufacturingProcess: >-
-  Secreted by worker bees to build honeycombs. Harvested by melting the comb and straining out impurities.
+  Secreted by worker bees to build honeycombs. Harvested by melting the comb and
+  straining out impurities.
 category: animal
+image: ../../../assets/images/materials/beeswax.jpg
 ---
 
 Beeswax is a natural wax produced by honey bees of the genus Apis. The wax is formed into scales by eight wax-producing glands in the abdominal segments of worker bees, which discard it in or at the hive.

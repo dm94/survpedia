@@ -15,8 +15,10 @@ uses:
   - Waterproofing
 naturalAvailability: true
 manufacturingProcess: >-
-  Obtained by rendering fatty tissue from animals (heating it to melt the fat and separate it from connective tissue).
+  Obtained by rendering fatty tissue from animals (heating it to melt the fat
+  and separate it from connective tissue).
 category: animal
+image: ../../../assets/images/materials/animal-fat.jpg
 ---
 
 Animal fat (Tallow, Lard, Grease) is a lipid obtained from animals. Depending on the source and processing, it can be solid or semi-solid at room temperature. Tallow (beef/mutton fat) is harder, while lard (pork fat) is softer.
