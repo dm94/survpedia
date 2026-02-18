@@ -36,7 +36,7 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 ## Materiales necesarios
 
 - **Materiales Esenciales:** **[Ladrillos](/es/materials/ladrillo)**, **[Piedra](/es/materials/piedra)** o bloques de **[Hormigón](/es/materials/hormigon)**.
-- **Aglomerante:** **[Mortero](/es/materials/mortero)** (Cal, Cemento o Barro).
+- **Aglomerante:** **[Mortero](/es/materials/mortero)** o **[Mortero de Cemento](/es/materials/mortero-de-cemento)**.
 - **Herramientas:**
   - **Llana:** Para manejar y extender el mortero.
   - **Cuerda:** Para mantener las filas rectas.
@@ -47,7 +47,7 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 
 - **Piedra Seca:** Apilar piedras sin mortero (requiere gran habilidad).
 - **Adobe:** Ladrillos de barro secados al sol unidos con mortero de barro.
-- **Ladrillo Cocido:** Albañilería moderna estándar usando ladrillos cocidos en horno y mortero de cemento.
+- **Ladrillo Cocido:** Albañilería moderna estándar usando ladrillos cocidos en horno y [mortero de cemento](/es/materials/mortero-de-cemento).
 - **Sillería:** Albañilería de piedra finamente labrada (cortada) con juntas muy finas.
 - **Albañilería Armada:** Incorporar barras de acero (varillas) en bloques huecos o cavidades para añadir resistencia a la tracción.
 
@@ -57,7 +57,8 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 - **Humedad:** La albañilería porosa puede absorber agua, provocando moho o daños por congelación y descongelación.
 - **Mano de obra:** Es lento y requiere mucha mano de obra en comparación con el entramado de madera o el hormigón vertido.
 - **Peso:** Las estructuras de albañilería son muy pesadas y requieren cimientos fuertes.
-### Invenciones relacionadas
+
+### Invenciones relacionadas
 
 - **[Arco](/es/inventions/arco):** Una estructura clave de albañilería.
 - **[Horno](/es/inventions/horno):** Necesario para hacer ladrillos y cal.
@@ -68,5 +69,6 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 
 - **[Ladrillo](/es/materials/ladrillo)**
 - **[Mortero](/es/materials/mortero)**
+- **[Mortero de Cemento](/es/materials/mortero-de-cemento)**
 - **[Piedra](/es/materials/piedra)**
 - **[Cemento](/es/materials/cemento)**

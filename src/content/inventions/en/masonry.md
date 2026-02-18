@@ -47,7 +47,7 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 
 - **Dry Stone:** Stacking stones without mortar (requires great skill).
 - **Adobe:** Sun-dried mud bricks joined with mud mortar.
-- **Fired Brick:** Standard modern masonry using kiln-fired bricks and cement mortar.
+- **Fired Brick:** Standard modern masonry using kiln-fired bricks and [cement mortar](/en/materials/cement-mortar).
 - **Ashlar:** Finely dressed (cut) stone masonry with very thin joints.
 - **Reinforced Masonry:** Incorporating steel bars (rebar) into hollow blocks or cavities to add tensile strength.
 
@@ -57,7 +57,8 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 - **Moisture:** Porous masonry can absorb water, leading to mold or freeze-thaw damage.
 - **Labor:** It is slow and labor-intensive compared to wood framing or poured concrete.
 - **Weight:** Masonry structures are very heavy and require strong foundations.
-### Related inventions
+
+### Related inventions
 
 - **[Arch](/en/inventions/arch):** A key masonry structure.
 - **[Kiln](/en/inventions/kiln):** Needed to make bricks and lime.
@@ -68,5 +69,6 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 
 - **[Brick](/en/materials/brick)**
 - **[Mortar](/en/materials/mortar)**
+- **[Cement Mortar](/en/materials/cement-mortar)**
 - **[Stone](/en/materials/stone)**
 - **[Cement](/en/materials/cement)**

@@ -49,7 +49,7 @@ Un bloque de hormigón es un bloque rectangular de tamaño estándar utilizado e
 
 ### Formas comunes de uso
 
-- **Muros Estructurales:** Apilados en un patrón de aparejo y unidos con **[Mortero](/es/materials/mortero)**.
+- **Muros Estructurales:** Apilados en un patrón de aparejo y unidos con **[Mortero de Cemento](/es/materials/mortero-de-cemento)**.
 - **Albañilería Armada:** Se colocan barras de acero (varillas) verticalmente en los núcleos huecos y se rellenan con lechada (hormigón fluido) para resistencia a terremotos/viento.
 - **Cimientos:** Usado para muros de sótanos.
 
@@ -74,5 +74,6 @@ Un bloque de hormigón es un bloque rectangular de tamaño estándar utilizado e
 
 - **[Cemento](/es/materials/cemento)**
 - **[Hormigón](/es/materials/hormigon)**
+- **[Mortero de Cemento](/es/materials/mortero-de-cemento)**
 - **[Mortero](/es/materials/mortero)**
 - **[Acero](/es/materials/steel):** Para refuerzo.
