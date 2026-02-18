@@ -60,3 +60,9 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 - **Mantenimiento:** Requiere reparación constante (baches, grietas).
 - **Agua:** El agua es el enemigo; sin **[drenaje](/es/inventions/drenaje)** y **[cunetas](/es/inventions/cuneta)**, la base se lava.
 - **Coste:** Alto coste de mano de obra y material para construir y mantener.
+
+## Inventos relacionados
+
+- **[Paso de Peatones](/es/inventions/crosswalk):** Punto de cruce seguro para peatones.
+- **[Rueda](/es/inventions/wheel):** El usuario principal de las carreteras.
+- **[Puente](/es/inventions/puente):** Para cruzar obstáculos.

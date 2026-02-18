@@ -61,3 +61,9 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 - **Maintenance:** Requires constant repair (potholes, cracks).
 - **Water:** Water is the enemy; without **[drainage](/en/inventions/drainage)** and **[gutters](/en/inventions/gutter)**, the base washes away.
 - **Cost:** High labor and material cost to build and maintain.
+
+## Related inventions
+
+- **[Crosswalk](/en/inventions/crosswalk):** Safe crossing point for pedestrians.
+- **[Wheel](/en/inventions/wheel):** The primary user of roads.
+- **[Bridge](/en/inventions/bridge):** To cross obstacles.
