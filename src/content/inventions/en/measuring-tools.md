@@ -23,6 +23,13 @@ Temperature measurement is crucial for chemical processes, cooking, medicine, an
 - **Thermometer:** Uses the thermal expansion of liquids (mercury, alcohol) or solids to indicate temperature on a graduated scale. It allows for precise process control and health safety.
 - **Thermocouple:** For extreme temperatures or rapid digital measurements.
 
+## Vertical Measurement
+
+Determining the true vertical is essential for the stability of any structure.
+
+- **[Plumb Bob](./plumb-bob):** The simplest and most ancient tool, using gravity to define a vertical line.
+- **[Level](./level):** Can be used vertically to check plumb.
+
 ## Operating principle
 
 All measuring tools work on the principle of **comparison against a standard**.

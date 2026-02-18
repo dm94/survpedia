@@ -3,7 +3,7 @@ title: Plumb Bob
 materialsUsed:
   - lead
   - brass
-  - rope
+  - string
   - wood
   - stone
 image: ../../../assets/images/inventions/plumb-bob.jpg
@@ -35,7 +35,7 @@ The plumb bob works due to gravity. The weight of the bob pulls the string taut,
 
 - **Essential:**
   - **Weight:** Lead, brass, iron, or a symmetrical stone.
-  - **String:** Strong thread, twine, or thin rope that does not stretch too much.
+  - **String:** Strong thread, twine, or thin [rope](./rope) that does not stretch too much.
 - **Tools:** Knife to cut the string, mold if casting lead.
 
 ## Variants and improvements

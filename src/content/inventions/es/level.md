@@ -1,6 +1,6 @@
 ---
 title: "Nivel"
-materialsUsed: ["water", "glass", "alcohol", "wood"]
+materialsUsed: ["water", "plastic", "glass", "alcohol", "wood"]
 ---
 
 # Descripción breve
@@ -21,7 +21,7 @@ Un nivel es un instrumento utilizado para establecer o verificar un plano horizo
 ## Cómo crearlo
 
 ### Nivel de agua (Más simple)
-1.  **Materiales:** Un tubo flexible transparente largo (manguera) y agua.
+1.  **Materiales:** Un tubo flexible transparente largo ([manguera](./hose)) y agua.
 2.  **Ensamblaje:** Llenar la manguera con agua, asegurando que no queden burbujas de aire atrapadas.
 3.  **Uso:** Sostener los extremos hacia arriba. El nivel del agua en un extremo coincide con la elevación del nivel del agua en el otro extremo.
 

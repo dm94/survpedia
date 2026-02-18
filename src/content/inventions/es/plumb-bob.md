@@ -3,7 +3,7 @@ title: Plomada
 materialsUsed:
   - lead
   - brass
-  - rope
+  - cuerda
   - wood
   - stone
 image: ../../../assets/images/inventions/plumb-bob.jpg
@@ -35,8 +35,8 @@ La plomada funciona debido a la gravedad. El peso de la plomada tensa la cuerda 
 
 - **Esenciales:**
   - **Peso:** Plomo, latón, hierro o una piedra simétrica.
-  - **Cuerda:** Hilo fuerte, cordel o cuerda delgada que no se estire demasiado.
-- **Herramientas:** Cuchillo para cortar la cuerda, molde si se funde plomo.
+  - **Cuerda:** Hilo fuerte, cordel o [cuerda](./rope) fina que no se estire demasiado.
+- **Herramientas:** Cuchillo para cortar la cuerda, molde si se funde el plomo.
 
 ## Variantes y mejoras
 

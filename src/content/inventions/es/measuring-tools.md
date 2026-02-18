@@ -23,6 +23,13 @@ La medición de la temperatura es crucial para procesos químicos, cocina, medic
 - **Termómetro:** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
 - **Termopar:** Para temperaturas extremas o mediciones digitales rápidas.
 
+## Medición de la verticalidad
+
+Determinar la vertical verdadera es esencial para la estabilidad de cualquier estructura.
+
+- **[Plomada](./plumb-bob):** La herramienta más simple y antigua, utiliza la gravedad para definir una línea vertical.
+- **[Nivel](./level):** Puede usarse verticalmente para comprobar el plomo.
+
 ## Medición del tiempo
 
 La medición del tiempo es fundamental para la civilización, permitiendo desde la agricultura hasta la navegación transoceánica.

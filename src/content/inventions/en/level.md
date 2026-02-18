@@ -1,6 +1,6 @@
 ---
 title: "Level"
-materialsUsed: ["water", "hose", "glass", "alcohol", "wood"]
+materialsUsed: ["water", "plastic", "glass", "alcohol", "wood"]
 ---
 
 # Brief description
@@ -21,11 +21,13 @@ A level is an instrument used to establish or verify a horizontal plane. It is e
 ## How to create it
 
 ### Water Level (Simplest)
-1.  **Materials:** A long, clear flexible tube (hose) and water.
+
+1.  **Materials:** A long, clear flexible tube ([hose](./hose)) and water.
 2.  **Assembly:** Fill the hose with water, ensuring no air bubbles are trapped.
 3.  **Use:** Hold the ends up. The water level at one end matches the elevation of the water level at the other end.
 
 ### Spirit Level
+
 1.  **Materials:** A small glass or plastic vial, alcohol (to prevent freezing and allow free movement), and a straight frame.
 2.  **Assembly:** Fill the vial leaving a small bubble. Seal it. Mount it precisely in a straight block of wood or metal.
 3.  **Calibration:** Place on a surface, mark the bubble's position. Rotate 180 degrees. Adjust until the bubble is in the same position in both orientations.
