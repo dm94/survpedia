@@ -58,6 +58,7 @@ To obtain a useful brick:
 - **Partitions:** Hollow bricks (lighter) for interior divisions.
 - **Arches and vaults:** Taking advantage of their compressive strength.
 - **Kilns and chimneys:** Refractory bricks (special clay) that withstand high temperatures.
+- **Paving:** Paths and driveways (**[Roads](/en/inventions/road)**).
 
 ### Insulation and Efficiency
 

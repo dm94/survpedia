@@ -41,25 +41,31 @@ A durable road surface made of rounded river stones (cobbles) or roughly shaped 
 ## Materials needed
 
 - **Essential:**
-  - **Stones:** River cobbles (rounded) or quarried setts (roughly cubic).
-  - **Sand:** For the bedding layer.
-  - **Gravel:** For the sub-base drainage.
+  - **[Stones](/en/materials/stone):** River cobbles (rounded) or quarried setts (roughly cubic).
+  - **[Sand](/en/materials/sand):** For the bedding layer.
+  - **[Gravel](/en/materials/gravel):** For the sub-base drainage.
 - **Tools:**
-  - **Pickaxe & Shovel:** For excavation.
-  - **Rammer:** For compacting the base and the stones.
-  - **Hammer/Mallet:** For setting individual stones.
+  - **[Pickaxe](/en/inventions/pickaxe) & [Shovel](/en/inventions/shovel):** For excavation.
+  - **[Rammer](/en/inventions/rammer):** For compacting the base and the stones.
+  - **[Hammer](/en/inventions/hammer)/Mallet:** For setting individual stones.
   - **Broom:** For sweeping sand into joints.
 
 ## Variants and improvements
 
 - **Dry Stone Paving:** Stones set in sand/earth (permeable).
-- **Mortared Paving:** Stones set in lime or cement mortar (impermeable, stronger).
+- **Mortared Paving:** Stones set in [lime](/en/materials/lime) or [cement](/en/materials/cement) [mortar](/en/materials/mortar) (impermeable, stronger).
 - **Belgian Block:** Using rectangular dressed stones (setts) for a smoother ride than rounded cobbles.
 - **Patterned Paving:** Arranging stones in fans or arcs (bogan) for strength and aesthetics.
 
 ## Limits and risks
 
-- **Noise/Vibration:** Can be very noisy and rough for wheeled vehicles compared to asphalt.
+- **Noise/Vibration:** Can be very noisy and rough for wheeled vehicles compared to [asphalt](/en/materials/asphalt).
 - **Slippery when wet:** Smooth river stones can be slippery for horses or pedestrians.
 - **Maintenance:** Weeds can grow in sand joints; stones can loosen if the base washes away.
 - **Labor:** Extremely labor-intensive to lay stone by stone.
+
+## Related inventions
+
+- **[Road](/en/inventions/road):** General concept of paved ways.
+- **[Masonry](/en/inventions/masonry):** Working with stone.
+

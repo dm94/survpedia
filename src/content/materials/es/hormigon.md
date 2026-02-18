@@ -3,7 +3,7 @@ title: Hormigón
 composition:
   - piedra
   - arena
-  - lime
+  - cal
   - water
 properties:
   - Duro

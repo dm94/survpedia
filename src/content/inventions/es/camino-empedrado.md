@@ -41,25 +41,31 @@ Una superficie de camino duradera hecha de piedras de río redondeadas (guijarro
 ## Materiales necesarios
 
 - **Esenciales:**
-  - **Piedras:** Guijarros de río (redondeados) o adoquines de cantera (toscamente cúbicos).
-  - **Arena:** Para la capa de cama.
-  - **Grava:** Para el drenaje de la subbase.
+  - **[Piedras](/es/materials/piedra):** Guijarros de río (redondeados) o adoquines de cantera (toscamente cúbicos).
+  - **[Arena](/es/materials/arena):** Para la capa de cama.
+  - **[Grava](/es/materials/gravel):** Para el drenaje de la subbase.
 - **Herramientas:**
-  - **Pico y Pala:** Para excavación.
-  - **Pisón:** Para compactar la base y las piedras.
-  - **Martillo/Mazo:** Para ajustar piedras individuales.
+  - **[Pico](/es/inventions/pico) y [Pala](/es/inventions/shovel):** Para excavación.
+  - **[Pisón](/es/inventions/pison):** Para compactar la base y las piedras.
+  - **[Martillo](/es/inventions/hammer)/Mazo:** Para ajustar piedras individuales.
   - **Escoba:** Para barrer arena en las juntas.
 
 ## Variantes y mejoras
 
 - **Pavimento de piedra seca:** Piedras colocadas en arena/tierra (permeable).
-- **Pavimento con mortero:** Piedras colocadas en mortero de cal o cemento (impermeable, más fuerte).
+- **Pavimento con mortero:** Piedras colocadas en **[mortero](/es/materials/mortero)** de **[cal](/es/materials/cal)** o **[cemento](/es/materials/cemento)** (impermeable, más fuerte).
 - **Adoquín belga:** Uso de piedras rectangulares labradas (adoquines) para un viaje más suave que los guijarros redondeados.
 - **Pavimento con patrón:** Disponer las piedras en abanicos o arcos para mayor resistencia y estética.
 
 ## Límites y riesgos
 
-- **Ruido/Vibración:** Puede ser muy ruidoso y áspero para vehículos con ruedas en comparación con el asfalto.
+- **Ruido/Vibración:** Puede ser muy ruidoso y áspero para vehículos con ruedas en comparación con el **[asfalto](/es/materials/asphalt)**.
 - **Resbaladizo cuando está mojado:** Las piedras de río lisas pueden ser resbaladizas para caballos o peatones.
 - **Mantenimiento:** Las malas hierbas pueden crecer en las juntas de arena; las piedras pueden aflojarse si la base se lava.
 - **Mano de obra:** Extremadamente laborioso de colocar piedra por piedra.
+
+## Inventos relacionados
+
+- **[Carretera](/es/inventions/road):** Concepto general de vías pavimentadas.
+- **[Albañilería](/es/inventions/masonry):** Trabajo con piedra.
+

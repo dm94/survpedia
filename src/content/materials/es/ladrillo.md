@@ -57,6 +57,7 @@ Para obtener un ladrillo útil:
 - **Tabiques:** Ladrillos huecos (más ligeros) para divisiones interiores.
 - **Arcos y bóvedas:** Aprovechando su resistencia a la compresión.
 - **Hornos y chimeneas:** Ladrillos refractarios (arcilla especial) que soportan altas temperaturas.
+- **Pavimentación:** Caminos y calzadas (**[Carreteras](/es/inventions/road)**).
 
 ### Aislamiento y Eficiencia
 
