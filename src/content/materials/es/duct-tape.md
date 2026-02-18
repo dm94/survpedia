@@ -28,6 +28,7 @@ La cinta americana (o cinta de plata) es una cinta adhesiva duradera y sensible 
 ## Descripción de cómo es
 
 Típicamente viene en rollos plateados o negros. Tiene tres capas:
+
 1.  **Capa superior**: Una película delgada de polietileno (plástico) que proporciona impermeabilidad.
 2.  **Capa media**: Una malla de tela (gasa de algodón) que le da resistencia a la tracción y permite rasgarla con la mano.
 3.  **Capa inferior**: Un adhesivo grueso a base de caucho que se adhiere a casi cualquier cosa.
@@ -42,6 +43,15 @@ Típicamente viene en rollos plateados o negros. Tiene tres capas:
 
 - **Ninguno**: Está listo para usar directamente del rollo.
 - **Limpieza de superficies**: Para una mejor adhesión, la superficie debe estar limpia y seca antes de aplicar.
+
+**Fabricación Improvisada:**
+
+Aunque la verdadera cinta americana es industrial, se puede hacer un sustituto funcional:
+
+1.  **Respaldo**: Cortar tiras de **[Algodón](/es/materials/cotton)** o **[Lienzo](/es/materials/lienzo)**.
+2.  **Impermeabilización**: Recubrir un lado con **[Resina](/es/materials/resin)**, **[Cera de abejas](/es/materials/beeswax)** o **[Alquitrán](/es/materials/tar)**.
+3.  **Adhesivo**: Aplicar una capa pegajosa de **[Resina](/es/materials/resin)** mezclada con **[Carbón vegetal](/es/materials/charcoal)** (brea) o **[Caucho natural](/es/materials/natural-rubber)** en el otro lado.
+4.  **Montaje**: Presionar el lado adhesivo sobre la superficie objetivo.
 
 ### Herramientas necesarias para trabajarla
 

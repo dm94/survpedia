@@ -76,8 +76,9 @@ Animal glue is typically sold as hard, brittle, amber-colored granules, sheets, 
 
 ### Related materials
 
-- **Leather**: Made from the same raw material (hides).
-- **Bone**: A source of glue.
-- **Wood**: The primary material bonded with glue.
-- **Water**: The solvent for the glue.
-- **Resin**: An alternative adhesive.
+- **[Leather](/en/materials/leather)**: Made from the same raw material (hides).
+- **[Bone](/en/materials/bone)**: A source of glue.
+- **[Wood](/en/materials/wood)**: The primary material bonded with glue.
+- **[Water](/en/materials/water)**: The solvent for the glue.
+- **[Resin](/en/materials/resin)**: An alternative adhesive.
+- **[Duct Tape](/en/materials/duct-tape)**: A cloth tape that uses a rubber-based adhesive.

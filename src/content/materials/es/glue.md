@@ -76,8 +76,9 @@ El pegamento animal se vende típicamente como gránulos, láminas o bloques dur
 
 ### Materiales relacionados
 
-- **Cuero**: Hecho de la misma materia prima (pieles).
-- **Hueso**: Una fuente de pegamento.
-- **Madera**: El material principal unido con pegamento.
-- **Agua**: El solvente para el pegamento.
-- **Resina**: Un adhesivo alternativo.
+- **[Cuero](/es/materials/leather)**: Hecho de la misma materia prima (pieles).
+- **[Hueso](/es/materials/bone)**: Una fuente de pegamento.
+- **[Madera](/es/materials/wood)**: El material principal unido con pegamento.
+- **[Agua](/es/materials/water)**: El solvente para el pegamento.
+- **[Resina](/es/materials/resin)**: Un adhesivo alternativo.
+- **[Cinta Americana](/es/materials/duct-tape)**: Una cinta de tela que utiliza un adhesivo a base de caucho.

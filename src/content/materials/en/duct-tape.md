@@ -44,6 +44,15 @@ It typically comes in silver or black rolls. It has three layers:
 - **None**: It is ready to use straight off the roll.
 - **Cleaning surfaces**: For best adhesion, the surface should be clean and dry before applying.
 
+**Improvised Manufacture:**
+
+While true duct tape is industrial, a functional substitute can be made:
+
+1.  **Backing**: Cut strips of **[Cotton](/en/materials/cotton)** or **[Canvas](/en/materials/canvas)**.
+2.  **Waterproofing**: Coat one side with **[Resin](/en/materials/resin)**, **[Beeswax](/en/materials/beeswax)**, or **[Tar](/en/materials/tar)**.
+3.  **Adhesive**: Apply a sticky layer of **[Resin](/en/materials/resin)** mixed with **[Charcoal](/en/materials/charcoal)** (pitch) or **[Natural Rubber](/en/materials/natural-rubber)** to the other side.
+4.  **Assembly**: Press the adhesive side onto the target surface.
+
 ### Tools needed to work on it
 
 - **Hands**: It is designed to be torn by hand across the width.
