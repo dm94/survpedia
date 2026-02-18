@@ -35,6 +35,7 @@ A road made by placing sand-covered logs perpendicular to the direction of the r
 
 - **Plank Road:** Using sawn [planks](/en/materials/wood) instead of round logs (smoother).
 - **Puncheon Road:** Using split logs with the flat side up.
+- **[Wooden Pavement](/en/inventions/wooden-pavement):** Urban block paving, much more refined than corduroy roads.
 
 ## Limits and risks
 

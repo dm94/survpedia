@@ -33,7 +33,7 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 2.  **[Foundation](/en/inventions/foundation):** Layer of large [stones](/en/materials/stone) compacted into the earth (statumen).
 3.  **Middle Layers:** [Gravel](/en/materials/gravel) and [sand](/en/materials/sand), sometimes with [lime](/en/materials/lime) [mortar](/en/materials/mortar) (rudus/nucleus).
 4.  **Surface:** Large, fitted flat [stones](/en/materials/stone) (summum dorsum) or [concrete](/en/materials/concrete).
-5.  **Camber:** The center is higher than the sides to drain water.
+5.  **Camber and [Gutters](/en/inventions/gutter):** The center is higher than the sides to drain water into side gutters.
 
 ### Modern Style (Asphalt/Macadam)
 
@@ -52,11 +52,12 @@ A prepared hard surface dedicated to transportation, improving the speed and saf
 
 - **Dirt Track:** Cleared but unpaved (muddy when wet).
 - **[Corduroy Road](/en/inventions/corduroy-road):** Logs placed perpendicular to the path (for swamps).
+- **[Wooden Pavement](/en/inventions/wooden-pavement):** Wood blocks used in cities for noise reduction.
 - **[Macadam](/en/inventions/macadam):** Layers of crushed stone of specific sizes, compacted (water-bound).
 - **Tarmac/Asphalt:** Sealed with [bitumen](/en/materials/bitumen)/[tar](/en/materials/tar) to prevent dust and water damage.
 
 ## Limits and risks
 
 - **Maintenance:** Requires constant repair (potholes, cracks).
-- **Water:** Water is the enemy; without drainage, the base washes away.
+- **Water:** Water is the enemy; without **[drainage](/en/inventions/drainage)** and **[gutters](/en/inventions/gutter)**, the base washes away.
 - **Cost:** High labor and material cost to build and maintain.

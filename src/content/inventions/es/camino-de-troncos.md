@@ -33,8 +33,9 @@ Un camino hecho colocando troncos cubiertos de arena perpendiculares a la direcc
 
 ## Variantes y mejoras
 
-- **Camino de Tablones:** Usar tablones aserrados en lugar de troncos redondos (más suave).
+- **Camino de Tablones:** Usar **[tablones](/es/materials/wood)** aserrados en lugar de troncos redondos (más suave).
 - **Camino de Punzones:** Usar troncos partidos con el lado plano hacia arriba.
+- **[Pavimento de Madera](/es/inventions/pavimento-de-madera):** Pavimento urbano de bloques, mucho más refinado.
 
 ## Límites y riesgos
 

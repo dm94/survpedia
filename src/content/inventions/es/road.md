@@ -32,7 +32,7 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 2.  **[Cimientos](/es/inventions/cimientos):** Capa de **[piedras](/es/materials/piedra)** grandes compactadas en la tierra (statumen).
 3.  **Capas intermedias:** **[Grava](/es/materials/gravel)** y **[arena](/es/materials/arena)**, a veces con **[mortero](/es/materials/mortero)** de **[cal](/es/materials/cal)** (rudus/nucleus).
 4.  **Superficie:** **[Piedras](/es/materials/piedra)** planas grandes y ajustadas (summum dorsum) u **[hormigón](/es/materials/hormigon)**.
-5.  **Peralte:** El centro es más alto que los lados para drenar el agua.
+5.  **Peralte y [Cunetas](/es/inventions/cuneta):** El centro es más alto que los lados para drenar el agua hacia las cunetas.
 
 ### Estilo Moderno (Asfalto/Macadam)
 
@@ -51,11 +51,12 @@ Una superficie dura preparada y dedicada al transporte, mejorando la velocidad y
 
 - **Camino de tierra:** Despejado pero sin pavimentar (fangoso cuando se moja).
 - **[Camino de troncos](/es/inventions/camino-de-troncos):** Troncos colocados perpendiculares al camino (para pantanos).
+- **[Pavimento de Madera](/es/inventions/pavimento-de-madera):** Bloques de madera usados en ciudades para reducir el ruido.
 - **[Macadam](/es/inventions/macadam):** Capas de piedra triturada de tamaños específicos, compactadas.
 - **Tarmac/Asfalto:** Sellado con **[betún](/es/materials/bitumen)**/**[alquitrán](/es/materials/tar)** para evitar el polvo y daños por agua.
 
 ## Límites y riesgos
 
 - **Mantenimiento:** Requiere reparación constante (baches, grietas).
-- **Agua:** El agua es el enemigo; sin drenaje, la base se lava.
+- **Agua:** El agua es el enemigo; sin **[drenaje](/es/inventions/drenaje)** y **[cunetas](/es/inventions/cuneta)**, la base se lava.
 - **Coste:** Alto coste de mano de obra y material para construir y mantener.
