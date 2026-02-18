@@ -68,6 +68,6 @@ Clay is earthy and soft. When wet, it is highly malleable and can be shaped into
 
 ### Related materials
 
-- Sand: Often mixed with clay to reduce shrinkage (tempering).
-- Stone: What clay becomes after intense heat and pressure over geological time.
-- Water: Essential for making clay malleable.
+- **[Sand](/en/materials/sand):** Often mixed with clay to reduce shrinkage (tempering).
+- **[Stone](/en/materials/stone):** What clay becomes after intense heat and pressure over geological time.
+- **[Water](/en/materials/water):** Essential for making clay malleable.

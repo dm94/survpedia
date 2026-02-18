@@ -19,8 +19,12 @@ The potter's wheel is a machine used in the shaping (known as throwing) of round
 
 ## Operating principle
 
-The core principle is **rotational symmetry** combined with **angular momentum**.
-A heavy flywheel (kick wheel) or a powered mechanism rotates a flat disk (wheelhead) horizontally. The inertia of the flywheel keeps the rotation smooth and consistent even when resistance is applied by the potter's hands against the clay. The centrifugal force helps in opening and shaping the clay.
+The potter's wheel relies on the principles of **angular momentum** and **centrifugal force** to enable the shaping of clay.
+
+1.  **Energy Storage (Flywheel Effect):** A heavy flywheel (or the wheelhead itself if heavy enough) is set into motion. Its mass and radius create significant moment of inertia, storing kinetic energy.
+2.  **Smooth Rotation:** This stored energy allows the wheel to continue spinning at a relatively constant speed even when the potter applies friction/pressure to the clay. This is crucial for consistent shaping.
+3.  **Centering:** The rotation allows the potter to exert force towards the center, forcing the clay into a perfectly symmetrical lump (centering).
+4.  **Shaping (Throwing):** As the clay spins, the potter applies pressure. The centrifugal force naturally pushes the clay outwards, while the potter's hands constrain it. The balance between these forces allows the walls of the vessel to be pulled up and thinned evenly.
 
 ## How to create it
 
@@ -34,10 +38,10 @@ A heavy flywheel (kick wheel) or a powered mechanism rotates a flat disk (wheelh
 
 ## Materials needed
 
-- **Wood:** For the frame, bench, axle, and wheelhead.
-- **Stone:** For the flywheel (weight is crucial) and potentially for the bottom bearing.
+- **[Wood](/en/materials/wood):** For the frame, bench, axle, and wheelhead.
+- **[Stone](/en/materials/stone):** For the flywheel (weight is crucial) and potentially for the bottom bearing.
 - **[Leather](/en/materials/leather)**/Grease:\*\* For lubricating the contact points (bearings).
-- **Clay:** To test and use the wheel!
+- **[Clay](/en/materials/clay):** To test and use the wheel!
 
 ## Variants and improvements
 

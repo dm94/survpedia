@@ -53,8 +53,8 @@ Para una guía detallada sobre el oficio de carretero, ver [Construcción de la 
 
 ## Materiales necesarios
 
-- **Madera:** Madera dura curada para mayor durabilidad.
-- **Metal:** Hierro o bronce para la banda y el refuerzo del cubo.
+- **[Madera](/es/materials/wood):** Madera dura curada para mayor durabilidad.
+- **[Metal](/es/materials/metal):** **[Hierro](/es/materials/iron)** o **[bronce](/es/materials/bronze)** para la llanta y el refuerzo del cubo.
 - **Herramientas:** Sierra, cincel, taladro, martillo.
 
 ## Variantes y mejoras

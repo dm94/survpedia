@@ -87,6 +87,6 @@ La arcilla es terrosa y suave. Cuando está húmeda, es muy maleable y se le pue
 
 ### Materiales relacionados
 
-- Arena: A menudo se mezcla con arcilla para reducir la contracción (desgrasante).
-- Piedra: En lo que se convierte la arcilla después de calor y presión intensos durante el tiempo geológico.
-- Agua: Esencial para hacer la arcilla maleable.
+- **[Arena](/es/materials/sand):** A menudo se mezcla con arcilla para reducir la contracción (desgrasante).
+- **[Piedra](/es/materials/stone):** En lo que se convierte la arcilla después de calor y presión intensos durante el tiempo geológico.
+- **[Agua](/es/materials/water):** Esencial para hacer la arcilla maleable.

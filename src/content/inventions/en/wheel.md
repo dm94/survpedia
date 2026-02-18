@@ -53,8 +53,8 @@ For a detailed guide on the craft of wheelwrighting, see [Wheel Construction](/e
 
 ## Materials needed
 
-- **Wood:** Seasoned hardwood for durability.
-- **Metal:** Iron or bronze for the tire and hub reinforcement.
+- **[Wood](/en/materials/wood):** Seasoned hardwood for durability.
+- **[Metal](/en/materials/metal):** **[Iron](/en/materials/iron)** or **[bronze](/en/materials/bronze)** for the tire and hub reinforcement.
 - **Tools:** Saw, chisel, drill, hammer.
 
 ## Variants and improvements

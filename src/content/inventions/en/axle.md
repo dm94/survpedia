@@ -40,9 +40,9 @@ The axle acts as a fulcrum or a hinge point.
 
 ## Materials needed
 
-- **Essential:** Hardwood or Metal (Iron/Steel).
+- **Essential:** Hardwood ([Wood](/en/materials/wood)) or Metal (**[Iron](/en/materials/iron)**/ **[Steel](/en/materials/steel)**).
 - **Tools:** Knife/Chisel (for wood), Hammer/Anvil (for metal), Measuring tools.
-- **Lubricant:** Animal fat or oil is crucial for the bearing surfaces.
+- **Lubricant:** **[Animal fat](/en/materials/animal-fat)** or oil is crucial for the bearing surfaces.
 
 ## Variants and improvements
 

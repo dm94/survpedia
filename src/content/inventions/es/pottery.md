@@ -28,10 +28,10 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 
 ## Materiales necesarios
 
-- **Arcilla:** Tierra arcillosa rica en silicatos.
-- **Agua:** Para la plasticidad.
-- **Desgrasante:** Arena o paja picada para reducir la contracción al secar.
-- **Combustible:** Madera o carbón para el horno.
+- **[Arcilla](/es/materials/clay):** Tierra arcillosa rica en silicatos.
+- **[Agua](/es/materials/water):** Para la plasticidad.
+- **Desgrasante:** **[Arena](/es/materials/sand)** o **[paja](/es/materials/straw)** picada para reducir la contracción durante el secado.
+- **Combustible:** **[Madera](/es/materials/wood)** o **[carbón vegetal](/es/materials/charcoal)** para el horno.
 
 ## Variantes y mejoras
 

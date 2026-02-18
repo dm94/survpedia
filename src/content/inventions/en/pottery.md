@@ -28,10 +28,10 @@ Clay contains chemically bound water. When heated above 600°C, it loses this wa
 
 ## Materials needed
 
-- **Clay:** Clayey soil rich in silicates.
-- **Water:** For plasticity.
-- **Temper:** Sand or chopped straw to reduce shrinkage during drying.
-- **Fuel:** Wood or charcoal for the kiln.
+- **[Clay](/en/materials/clay):** Clayey soil rich in silicates.
+- **[Water](/en/materials/water):** For plasticity.
+- **Temper:** **[Sand](/en/materials/sand)** or chopped **[straw](/en/materials/straw)** to reduce shrinkage during drying.
+- **Fuel:** **[Wood](/en/materials/wood)** or **[charcoal](/en/materials/charcoal)** for the kiln.
 
 ## Variants and improvements
 

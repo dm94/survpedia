@@ -40,9 +40,9 @@ El eje actúa como un punto de apoyo o bisagra.
 
 ## Materiales necesarios
 
-- **Esencial:** Madera dura o Metal (Hierro/Acero).
+- **Esencial:** Madera dura (**[Madera](/es/materials/wood)**) o Metal (**[Hierro](/es/materials/iron)**/ **[Acero](/es/materials/steel)**).
 - **Herramientas:** Cuchillo/Cincel (para madera), Martillo/Yunque (para metal), Herramientas de medición.
-- **Lubricante:** Grasa animal o aceite es crucial para las superficies de rodamiento.
+- **Lubricante:** **[Grasa animal](/es/materials/animal-fat)** o aceite es crucial para las superficies de los cojinetes.rodamiento.
 
 ## Variantes y mejoras
 

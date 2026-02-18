@@ -19,8 +19,12 @@ El torno de alfarero es una máquina utilizada para dar forma (tornear) a piezas
 
 ## Principio de funcionamiento
 
-El principio fundamental es la **simetría rotacional** combinada con el **momento angular**.
-Un volante pesado (en el torno de pie) o un mecanismo motorizado hace girar un disco plano (cabeza del torno) horizontalmente. La inercia del volante mantiene la rotación suave y constante incluso cuando las manos del alfarero aplican resistencia contra la arcilla. La fuerza centrífuga ayuda a abrir y dar forma a la arcilla.
+El torno de alfarero se basa en los principios del **momento angular** y la **fuerza centrífuga** para permitir el modelado de la arcilla.
+
+1.  **Almacenamiento de Energía (Efecto Volante):** Un volante pesado (o la propia cabeza del torno si es lo suficientemente pesada) se pone en movimiento. Su masa y radio crean un momento de inercia significativo, almacenando energía cinética.
+2.  **Rotación Suave:** Esta energía almacenada permite que el torno siga girando a una velocidad relativamente constante incluso cuando el alfarero aplica fricción/presión a la arcilla. Esto es crucial para un modelado consistente.
+3.  **Centrado:** La rotación permite al alfarero ejercer fuerza hacia el centro, obligando a la arcilla a formar una masa perfectamente simétrica (centrado).
+4.  **Modelado (Torneado):** A medida que la arcilla gira, el alfarero aplica presión. La fuerza centrífuga empuja naturalmente la arcilla hacia afuera, mientras que las manos del alfarero la restringen. El equilibrio entre estas fuerzas permite levantar y adelgazar las paredes de la vasija de manera uniforme.
 
 ## Cómo crearlo
 
@@ -34,10 +38,10 @@ Un volante pesado (en el torno de pie) o un mecanismo motorizado hace girar un d
 
 ## Materiales necesarios
 
-- **Madera:** Para la estructura, el banco, el eje y la cabeza del torno.
-- **Piedra:** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
-- **[Cuero](/es/materials/leather)**/Grasa:\*\* Para lubricar los puntos de contacto (cojinetes).
-- **Arcilla:** ¡Para probar y usar el torno!
+- **[Madera](/es/materials/wood):** Para la estructura, el banco, el eje y la cabeza del torno.
+- **[Piedra](/es/materials/stone):** Para el volante (el peso es crucial) y potencialmente para el cojinete inferior.
+- **[Cuero](/es/materials/leather)**/Grasa:** Para lubricar los puntos de contacto (cojinetes).
+- **[Arcilla](/es/materials/clay):** ¡Para probar y usar el torno!
 
 ## Variantes y mejoras
 
