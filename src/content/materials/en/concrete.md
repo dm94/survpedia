@@ -36,7 +36,7 @@ Initially a semi-liquid slurry that can be poured into molds. When cured, it bec
 
 1.  **Preparation:** Gather sand, gravel (aggregate), binder (lime or cement), and water.
 2.  **Mixing:** Thoroughly mix ingredients in correct proportions (e.g., 1 part binder, 2 parts sand, 3 parts gravel).
-3.  **Pouring:** Place into forms/molds immediately.
+3.  **[Pouring (Molding)](/en/inventions/molding):** Place into forms/molds immediately.
 4.  **Curing:** Keep moist for several days to allow chemical hardening (hydration).
 
 ### Tools needed to work on it

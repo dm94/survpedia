@@ -36,7 +36,7 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 
 1.  **Preparación:** Reunir arena, grava (agregado), aglomerante (cal o cemento) y agua.
 2.  **Mezclado:** Mezclar bien los ingredientes en las proporciones correctas (ej. 1 parte de aglomerante, 2 partes de arena, 3 partes de grava).
-3.  **Vertido:** Colocar en encofrados/moldes inmediatamente.
+3.  **[Vertido (Moldeado)](/es/inventions/moldeado):** Colocar en encofrados/moldes inmediatamente.
 4.  **Curado:** Mantener húmedo durante varios días para permitir el endurecimiento químico (hidratación).
 
 ### Herramientas necesarias para trabajarlo

@@ -41,7 +41,7 @@ To obtain a useful brick:
 
 1.  **Extraction and preparation:** Clean the clay of stones and unwanted organic matter.
 2.  **Mixing:** Mix the clay with water (and sometimes sand or straw) until a homogeneous plastic mass is obtained.
-3.  **Molding:** Shape the mass using wooden or metal molds (or manually).
+3.  **[Molding](/en/inventions/molding):** Shape the mass using wooden or metal molds (or manually).
 4.  **Drying:** Let the raw bricks (adobe) dry outdoors protected from rain to eliminate moisture.
 5.  **Firing (Optional but recommended):** Heat the dry bricks in a kiln (between 900°C and 1000°C) to vitrify them and make them water-resistant and more durable.
 

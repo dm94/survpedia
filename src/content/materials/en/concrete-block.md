@@ -36,7 +36,7 @@ A concrete block (CMU - Concrete Masonry Unit) is a standard-size rectangular bl
 ### Minimum processing required
 
 1.  **Mixing:** Prepare a "dry" concrete mix (low water content, zero slump) so it holds its shape.
-2.  **Molding:** Place the mix into a steel or wooden mold.
+2.  **[Molding](/en/inventions/molding):** Place the mix into a steel or wooden mold.
 3.  **Compaction:** Vibrate or ram the mix to remove air pockets and ensure density.
 4.  **Demolding:** Remove the mold immediately (if using dry mix machine) or after setting (if using wet mix).
 5.  **Curing:** Keep the blocks moist for several days to reach full strength.

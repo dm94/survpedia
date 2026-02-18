@@ -70,6 +70,6 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 
 ### Materiales relacionados
 
-- **Hormigón:** El producto principal hecho con cemento.
-- **Cal:** El antepasado más simple y no hidráulico.
-- **Arcilla:** El otro ingrediente clave.
+- **[Hormigón](/es/materials/hormigon):** El producto principal hecho con cemento.
+- **[Cal](/es/materials/cal):** El antepasado más simple y no hidráulico.
+- **[Arcilla](/es/materials/arcilla):** El otro ingrediente clave.

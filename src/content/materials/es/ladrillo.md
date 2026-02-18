@@ -41,7 +41,7 @@ Para obtener un ladrillo útil:
 
 1.  **Extracción y preparación:** Limpiar la arcilla de piedras y materias orgánicas no deseadas.
 2.  **Mezclado:** Mezclar la arcilla con agua (y a veces arena o paja) hasta obtener una masa plástica homogénea.
-3.  **Moldeado:** Dar forma a la masa utilizando moldes de madera o metal (o manualmente).
+3.  **[Moldeado](/es/inventions/moldeado):** Dar forma a la masa utilizando moldes de madera o metal (o manualmente).
 4.  **Secado:** Dejar secar los ladrillos crudos (adobes) al aire libre protegidos de la lluvia para eliminar la humedad.
 5.  **Cocción (Opcional pero recomendada):** Calentar los ladrillos secos en un horno (entre 900°C y 1000°C) para vitrificarlos y hacerlos resistentes al agua y más duraderos.
 

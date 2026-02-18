@@ -57,12 +57,12 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 - **Moisture:** Porous masonry can absorb water, leading to mold or freeze-thaw damage.
 - **Labor:** It is slow and labor-intensive compared to wood framing or poured concrete.
 - **Weight:** Masonry structures are very heavy and require strong foundations.
-
-### Related inventions
+### Related inventions
 
 - **[Arch](/en/inventions/arch):** A key masonry structure.
 - **[Kiln](/en/inventions/kiln):** Needed to make bricks and lime.
 - **[Level](/en/inventions/level):** Essential tool.
+- **[Molding](/en/inventions/molding):** Process to make bricks.
 
 ### Related materials
 

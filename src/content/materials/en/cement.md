@@ -70,6 +70,6 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 
 ### Related materials
 
-- **Concrete:** The main product made with cement.
-- **Lime:** The simpler, non-hydraulic ancestor.
-- **Clay:** The other key ingredient.
+- **[Concrete](/en/materials/concrete):** The main product made with cement.
+- **[Lime](/en/materials/lime):** The simpler, non-hydraulic ancestor.
+- **[Clay](/en/materials/clay):** The other key ingredient.

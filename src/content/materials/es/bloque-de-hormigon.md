@@ -36,7 +36,7 @@ Un bloque de hormigón es un bloque rectangular de tamaño estándar utilizado e
 ### Procesamiento mínimo requerido
 
 1.  **Mezcla:** Preparar una mezcla de hormigón "seca" (bajo contenido de agua, asentamiento cero) para que mantenga su forma.
-2.  **Moldeo:** Colocar la mezcla en un molde de acero o madera.
+2.  **[Moldeo](/es/inventions/moldeado):** Colocar la mezcla en un molde de acero o madera.
 3.  **Compactación:** Vibrar o apisonar la mezcla para eliminar bolsas de aire y asegurar la densidad.
 4.  **Desmoldeo:** Retirar el molde inmediatamente (si se usa máquina de mezcla seca) o después del fraguado (si se usa mezcla húmeda).
 5.  **Curado:** Mantener los bloques húmedos durante varios días para alcanzar la máxima resistencia.

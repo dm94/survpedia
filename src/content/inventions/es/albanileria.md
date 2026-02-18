@@ -57,12 +57,12 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 - **Humedad:** La albañilería porosa puede absorber agua, provocando moho o daños por congelación y descongelación.
 - **Mano de obra:** Es lento y requiere mucha mano de obra en comparación con el entramado de madera o el hormigón vertido.
 - **Peso:** Las estructuras de albañilería son muy pesadas y requieren cimientos fuertes.
-
-### Invenciones relacionadas
+### Invenciones relacionadas
 
 - **[Arco](/es/inventions/arco):** Una estructura clave de albañilería.
 - **[Horno](/es/inventions/horno):** Necesario para hacer ladrillos y cal.
 - **[Nivel](/es/inventions/level):** Herramienta esencial.
+- **[Moldeado](/es/inventions/moldeado):** Proceso para hacer ladrillos.
 
 ### Materiales relacionados
 
