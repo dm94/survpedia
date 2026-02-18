@@ -52,6 +52,7 @@ El horno funciona confinando el calor dentro de un espacio aislado. Al controlar
 - **[Alfarería](/es/inventions/pottery):** Requiere un horno para la cocción.
 - **[Chimenea](/es/inventions/chimney):** Esencial para el tiro de aire.
 - **[Fuelle](/es/inventions/bellows):** Utilizado para aumentar la temperatura (si está disponible).
+- **[Cocción](/es/inventions/coccion):** El proceso realizado en un horno.
 
 ### Materiales relacionados
 

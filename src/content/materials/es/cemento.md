@@ -35,7 +35,7 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 ### Procesamiento mínimo requerido
 
 1.  **Mezcla:** Moler caliza y arcilla juntas en proporciones específicas (aprox. 4:1).
-2.  **Cocción:** Calentar la mezcla en un horno a ~1450°C (sinterización). Esto forma nódulos llamados "clinker".
+2.  **[Cocción](/es/inventions/coccion):** Calentar la mezcla en un horno a ~1450°C (sinterización). Esto forma nódulos llamados "clinker".
 3.  **Molienda:** Moler el clinker hasta obtener un polvo muy fino.
 4.  **Aditivos:** Generalmente se mezcla con una pequeña cantidad de yeso (para controlar el tiempo de fraguado) durante la molienda.
 

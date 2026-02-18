@@ -33,7 +33,7 @@ A versatile chemical derived from limestone. It exists as Quicklime (CaO) and Sl
 ### Minimum processing required
 
 1.  **Quarrying:** Extract limestone.
-2.  **Calcination:** Burn in a kiln (Lime Kiln) to release CO2, creating Quicklime (CaO).
+2.  **[Calcination](/en/inventions/firing):** Burn in a kiln (Lime Kiln) to release CO2, creating Quicklime (CaO).
 3.  **Slaking:** Add water to Quicklime to create Slaked Lime (Ca(OH)2). **DANGER:** This reaction releases intense heat.
 
 ### Tools needed to work on it
@@ -70,4 +70,9 @@ A versatile chemical derived from limestone. It exists as Quicklime (CaO) and Sl
 
 - **Limestone:** The raw material.
 - **Chalk:** Softer form of limestone.
-- **Mortar:** The product.
+- **[Mortar](/en/materials/mortar):** The product.
+
+### Related inventions
+
+- **[Kiln](/en/inventions/kiln):** Needed for calcination.
+- **[Firing](/en/inventions/firing):** The process of creating lime.

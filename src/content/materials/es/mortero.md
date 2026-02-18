@@ -73,6 +73,11 @@ Es un material compuesto fabricado in situ.
 - **Quemaduras químicas:** La cal y el cemento son alcalinos y pueden quemar la piel y los ojos. Usar guantes.
 - **Polvo:** Inhalar polvo de cal o sílice (arena) es peligroso.
 
+### Inventos relacionados
+
+- **[Albañilería](/es/inventions/albanileria):** El oficio de usar mortero.
+- **[Cocción](/es/inventions/coccion):** Proceso para crear los aglomerantes.
+
 ### Materiales relacionados
 
 - **[Cemento](/es/materials/cemento):** Aglomerante moderno común.

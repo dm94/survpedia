@@ -53,6 +53,7 @@ The kiln works by confining heat within an insulated space. By controlling the f
 - **[Pottery](/en/inventions/pottery):** Requires a kiln for firing.
 - **[Chimney](/en/inventions/chimney):** Essential for drafting air.
 - **[Bellows](/en/inventions/bellows):** Used to increase temperature (if available).
+- **[Firing](/en/inventions/firing):** The process performed in a kiln.
 
 ### Related materials
 

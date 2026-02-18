@@ -68,6 +68,11 @@ Cement is a binder, a substance used for construction that sets, hardens, and ad
 - **Silicosis:** Inhalation of dust is hazardous.
 - **Heat of Hydration:** Large pours generate significant heat.
 
+### Related inventions
+
+- **[Kiln](/en/inventions/kiln):** Essential for production.
+- **[Firing](/en/inventions/firing):** The key chemical process.
+
 ### Related materials
 
 - **[Concrete](/en/materials/concrete):** The main product made with cement.

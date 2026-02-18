@@ -16,9 +16,8 @@ uses:
   - Chimeneas
   - Pavimentación
 naturalAvailability: false
-manufacturingProcess: Moldeado de arcilla y posterior secado al sol o cocción en horno.
+manufacturingProcess: Moldeado de arcilla y posterior secado al sol o [cocción](/es/inventions/coccion) en horno.
 category: synthetic
-image: ../../../assets/images/materials/brick.jpg
 ---
 
 El ladrillo es un bloque de material cerámico u hormigón, utilizado principalmente en albañilería para construir muros, cimientos, arcos y otras estructuras. Es uno de los materiales de construcción más antiguos y versátiles.
@@ -43,7 +42,7 @@ Para obtener un ladrillo útil:
 2.  **Mezclado:** Mezclar la arcilla con agua (y a veces arena o paja) hasta obtener una masa plástica homogénea.
 3.  **[Moldeado](/es/inventions/moldeado):** Dar forma a la masa utilizando moldes de madera o metal (o manualmente).
 4.  **Secado:** Dejar secar los ladrillos crudos (adobes) al aire libre protegidos de la lluvia para eliminar la humedad.
-5.  **Cocción (Opcional pero recomendada):** Calentar los ladrillos secos en un horno (entre 900°C y 1000°C) para vitrificarlos y hacerlos resistentes al agua y más duraderos.
+5.  **[Cocción](/es/inventions/coccion) (Opcional pero recomendada):** Calentar los ladrillos secos en un horno (entre 900°C y 1000°C) para vitrificarlos y hacerlos resistentes al agua y más duraderos.
 
 ### Herramientas necesarias para trabajarlo
 
@@ -76,7 +75,13 @@ Para obtener un ladrillo útil:
 
 - **Derrumbes:** Durante la construcción de muros altos sin apuntalamiento.
 - **Polvo de sílice:** Al cortar ladrillos, se genera polvo que es perjudicial si se inhala.
-- **Quemaduras:** Durante el proceso de cocción en hornos.
+- **Quemaduras:** Durante el proceso de **[cocción](/es/inventions/coccion)** en hornos.
+
+### Inventos relacionados
+
+- **[Horno](/es/inventions/horno):** Necesario para cocer ladrillos.
+- **[Moldeado](/es/inventions/moldeado):** Proceso para dar forma.
+- **[Cocción](/es/inventions/coccion):** Proceso para endurecer.
 
 ### Materiales relacionados
 

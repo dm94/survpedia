@@ -70,3 +70,16 @@ It is a composite material manufactured in situ.
 
 - **Chemical burns:** Lime and cement are alkaline and can burn skin and eyes. Use gloves.
 - **Dust:** Inhaling lime or silica (sand) dust is dangerous.
+
+### Related inventions
+
+- **[Masonry](/en/inventions/masonry):** The craft of using mortar.
+- **[Firing](/en/inventions/firing):** Process to create the binders (lime, cement).
+
+### Related materials
+
+- **[Lime](/en/materials/lime):** Common binder.
+- **[Cement](/en/materials/cement):** Modern binder.
+- **[Sand](/en/materials/sand):** Aggregate.
+- **[Water](/en/materials/water):** Solvent.
+- **[Brick](/en/materials/brick):** Material joined by mortar.

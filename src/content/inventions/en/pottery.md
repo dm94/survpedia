@@ -24,7 +24,7 @@ Clay contains chemically bound water. When heated above 600°C, it loses this wa
 1. **Preparation:** Mix clay with water until a malleable mass is obtained.
 2. **Shaping:** Shape by hand, by coils, or using a [potter's wheel](/en/inventions/potters-wheel).
 3. **Drying:** Let water evaporate at room temperature to avoid cracks.
-4. **Firing:** Heat in a [kiln](/en/inventions/kiln) or pit at high temperatures (800°C - 1200°C).
+4. **[Firing](/en/inventions/firing):** Heat in a [kiln](/en/inventions/kiln) or pit at high temperatures (800°C - 1200°C).
 
 ## Materials needed
 
@@ -50,6 +50,7 @@ Clay contains chemically bound water. When heated above 600°C, it loses this wa
 
 - **[Potter's Wheel](/en/inventions/potters-wheel):** Machine for shaping round vessels.
 - **[Kiln](/en/inventions/kiln):** Oven for firing pottery.
+- **[Firing](/en/inventions/firing):** The essential process.
 
 ### Related materials
 

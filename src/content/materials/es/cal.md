@@ -33,7 +33,7 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 ### Procesamiento mínimo requerido
 
 1.  **Cantera:** Extraer piedra caliza.
-2.  **Calcinación:** Quemar en un horno (Horno de cal) para liberar CO2, creando Cal viva (CaO).
+2.  **[Calcinación](/es/inventions/coccion):** Quemar en un horno (Horno de cal) para liberar CO2, creando Cal viva (CaO).
 3.  **Apagado:** Añadir agua a la Cal viva para crear Cal apagada (Ca(OH)2). **PELIGRO:** Esta reacción libera un calor intenso.
 
 ### Herramientas necesarias para trabajarlo
@@ -71,3 +71,8 @@ Un químico versátil derivado de la piedra caliza. Existe como Cal viva (CaO) y
 - **[Piedra caliza](/es/materials/caliza):** La materia prima.
 - **Tiza:** Forma más suave de piedra caliza.
 - **[Mortero](/es/materials/mortero):** El producto.
+
+### Inventos relacionados
+
+- **[Horno](/es/inventions/horno):** Necesario para la calcinación.
+- **[Cocción](/es/inventions/coccion):** El proceso de crear cal.

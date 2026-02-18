@@ -24,7 +24,7 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 1. **Preparación:** Mezclar arcilla con agua hasta obtener una masa maleable.
 2. **Modelado:** Dar forma a mano, por rollos o usando un [torno](/es/inventions/potters-wheel).
 3. **Secado:** Dejar evaporar el agua a temperatura ambiente para evitar grietas.
-4. **Cocción:** Calentar en un [horno](/es/inventions/horno) o fosa a altas temperaturas (800°C - 1200°C).
+4. **[Cocción](/es/inventions/coccion):** Calentar en un [horno](/es/inventions/horno) o fosa a altas temperaturas (800°C - 1200°C).
 
 ## Materiales necesarios
 
@@ -50,6 +50,7 @@ La arcilla contiene agua ligada químicamente. Al calentarla por encima de los 6
 
 - **[Torno de alfarero](/es/inventions/potters-wheel):** Máquina para dar forma a vasijas redondas.
 - **[Horno](/es/inventions/horno):** Horno para cocer cerámica.
+- **[Cocción](/es/inventions/coccion):** El proceso esencial.
 
 ### Materiales relacionados
 

@@ -16,7 +16,7 @@ uses:
   - Chimneys
   - Paving
 naturalAvailability: false
-manufacturingProcess: Molding of clay followed by sun drying or kiln firing.
+manufacturingProcess: Molding of clay followed by sun drying or kiln [firing](/en/inventions/firing).
 category: synthetic
 image: ../../../assets/images/materials/brick.jpg
 ---
@@ -43,7 +43,7 @@ To obtain a useful brick:
 2.  **Mixing:** Mix the clay with water (and sometimes sand or straw) until a homogeneous plastic mass is obtained.
 3.  **[Molding](/en/inventions/molding):** Shape the mass using wooden or metal molds (or manually).
 4.  **Drying:** Let the raw bricks (adobe) dry outdoors protected from rain to eliminate moisture.
-5.  **Firing (Optional but recommended):** Heat the dry bricks in a kiln (between 900°C and 1000°C) to vitrify them and make them water-resistant and more durable.
+5.  **[Firing](/en/inventions/firing) (Optional but recommended):** Heat the dry bricks in a kiln (between 900°C and 1000°C) to vitrify them and make them water-resistant and more durable.
 
 ### Tools needed to work on it
 
@@ -76,7 +76,13 @@ To obtain a useful brick:
 
 - **Collapses:** During the construction of high walls without shoring.
 - **Silica dust:** Cutting bricks generates dust that is harmful if inhaled.
-- **Burns:** During the firing process in kilns.
+- **Burns:** During the **[firing](/en/inventions/firing)** process in kilns.
+
+### Related inventions
+
+- **[Kiln](/en/inventions/kiln):** Needed to fire bricks.
+- **[Molding](/en/inventions/molding):** Process to shape bricks.
+- **[Firing](/en/inventions/firing):** Process to harden bricks.
 
 ### Related materials
 
