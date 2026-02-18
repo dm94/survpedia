@@ -11,7 +11,7 @@ relatedInventions:
   - fire
   - containers
   - tuberias
-  - pump
+  - oil-pump
   - passive-ventilation
 ---
 
@@ -44,7 +44,7 @@ El refinado de petróleo es la separación controlada del petróleo crudo en fra
 ## Materiales necesarios
 
 - **Esenciales**: **[Petróleo crudo](/es/materials/crude-oil)**, fuente de calor, recipiente cerrado pero ventilado, condensador.
-- **Herramientas**: **[Alambique](/es/inventions/alembic)** o sistema de **[Destilación](/es/inventions/distillation)**, **[Contenedores](/es/inventions/containers)**, **[Tuberías](/es/inventions/tuberias)**, **[Bomba](/es/inventions/pump)** para residuos espesos.
+- **Herramientas**: **[Alambique](/es/inventions/alembic)** o sistema de **[Destilación](/es/inventions/distillation)**, **[Contenedores](/es/inventions/containers)**, **[Tuberías](/es/inventions/tuberias)**, **[Bomba de petróleo](/es/inventions/oil-pump)** para residuos espesos.
 - **Sustitutos**: Recipientes de arcilla o metal si no hay vidrio; condensador por aire si el agua escasea.
 
 ## Variantes y mejoras
@@ -75,5 +75,5 @@ El refinado de petróleo es la separación controlada del petróleo crudo en fra
 - **[Fuego controlado](/es/inventions/fire)**: Fuente de calor.
 - **[Contenedores](/es/inventions/containers)**: Almacenamiento de fracciones.
 - **[Tuberías](/es/inventions/tuberias)**: Conducción de vapor y condensación.
-- **[Bomba](/es/inventions/pump)**: Movimiento de residuos espesos.
+- **[Bomba de petróleo](/es/inventions/oil-pump)**: Movimiento de residuos espesos.
 - **[Ventilación pasiva](/es/inventions/passive-ventilation)**: Control de humos.

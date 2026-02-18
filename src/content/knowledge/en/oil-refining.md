@@ -11,7 +11,7 @@ relatedInventions:
   - fire
   - containers
   - pipes
-  - pump
+  - oil-pump
   - passive-ventilation
 ---
 
@@ -44,7 +44,7 @@ Oil refining is the controlled separation of crude oil into useful fractions by 
 ## Materials needed
 
 - **Essential**: **[Crude Oil](/en/materials/crude-oil)**, heat source, sealed but vented vessel, condenser.
-- **Tools**: **[Alembic](/en/inventions/alembic)** or **[Distillation](/en/inventions/distillation)** setup, **[Containers](/en/inventions/containers)**, **[Pipes](/en/inventions/pipes)**, **[Pump](/en/inventions/pump)** for thick residue.
+- **Tools**: **[Alembic](/en/inventions/alembic)** or **[Distillation](/en/inventions/distillation)** setup, **[Containers](/en/inventions/containers)**, **[Pipes](/en/inventions/pipes)**, **[Oil Pump](/en/inventions/oil-pump)** for thick residue.
 - **Possible substitutes**: Clay or metal vessels if glass is unavailable; air-cooled condenser if water is scarce.
 
 ## Variants and improvements
@@ -75,5 +75,5 @@ Oil refining is the controlled separation of crude oil into useful fractions by 
 - **[Controlled Fire](/en/inventions/fire)**: Heat source for boiling.
 - **[Containers](/en/inventions/containers)**: Fraction storage.
 - **[Pipes](/en/inventions/pipes)**: Vapor routing and condensation.
-- **[Pump](/en/inventions/pump)**: Moving thick residues.
+- **[Oil Pump](/en/inventions/oil-pump)**: Moving thick residues.
 - **[Passive Ventilation](/en/inventions/passive-ventilation)**: Fume control.
