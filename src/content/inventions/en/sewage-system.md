@@ -55,4 +55,5 @@ A network of underground pipes and facilities dedicated to collecting and transp
 - **[Latrine](/en/inventions/latrine):** Basic disposal.
 - **[Drainage](/en/inventions/drainage):** Managing surface water.
 - **[Water Supply](/en/inventions/water-supply):** The input counterpart.
+- **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Source of greywater.
 - **[Pipes](/en/inventions/pipes):** Core component.

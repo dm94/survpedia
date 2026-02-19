@@ -57,3 +57,4 @@ Un dispositivo mecánico que controla el flujo de un fluido (líquido, gas o lod
 - **[Bomba](/es/inventions/pump):** Requiere válvulas de retención.
 - **[Máquina de vapor](/es/inventions/steam-engine):** Depende completamente de las válvulas.
 - **[Abastecimiento de Agua](/es/inventions/abastecimiento-agua):** Puntos de control.
+- **[Lavamanos](/es/inventions/lavamanos):** Aplicación común (grifo).

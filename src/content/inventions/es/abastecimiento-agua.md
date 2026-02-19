@@ -60,3 +60,4 @@ Un sistema integral diseñado para captar, tratar, almacenar y distribuir agua a
 - **[Bomba](/es/inventions/pump):** Mover agua contra la gravedad.
 - **[Filtro de Agua](/es/inventions/filtro-agua):** Componente de tratamiento.
 - **[Alcantarillado](/es/inventions/alcantarillado):** La contraparte de salida.
+- **[Lavamanos](/es/inventions/lavamanos):** Interfaz de higiene.

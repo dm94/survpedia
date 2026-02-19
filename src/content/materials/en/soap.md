@@ -74,3 +74,7 @@ Solid soap usually comes in bars or cakes. It is slippery when wet and produces 
 - **[Ash](/en/materials/ash)**: Source of alkali (lye).
 - **[Water](/en/materials/water)**: Required solvent for the process.
 - **[Salt](/en/materials/salt)**: Used to harden soap or separate it from glycerin.
+
+### Related inventions
+
+- **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Primary location for use.

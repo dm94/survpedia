@@ -60,3 +60,4 @@ A comprehensive system designed to collect, treat, store, and distribute water t
 - **[Pump](/en/inventions/pump):** Moving water against gravity.
 - **[Water Filter](/en/inventions/water-filter):** Treatment component.
 - **[Sewage System](/en/inventions/sewage-system):** The output counterpart.
+- **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Hygiene interface.

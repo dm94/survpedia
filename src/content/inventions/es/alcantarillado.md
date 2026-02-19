@@ -55,4 +55,5 @@ Una red de tuberías subterráneas e instalaciones dedicadas a recolectar y tran
 - **[Latrina](/es/inventions/latrine):** Eliminación básica.
 - **[Drenaje](/es/inventions/drenaje):** Gestión de aguas superficiales.
 - **[Abastecimiento de Agua](/es/inventions/abastecimiento-agua):** La contraparte de entrada.
+- **[Lavamanos](/es/inventions/lavamanos):** Fuente de aguas grises.
 - **[Tuberías](/es/inventions/tuberias):** Componente central.
