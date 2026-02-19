@@ -42,8 +42,8 @@ Son tubos huecos amarillos o dorados. Es ligera, seca y quebradiza. Su estructur
 - **Horquilla**: Para mover y apilar.
 
 ### Formas comunes de uso
-
-- **Techado**: Capas de paja en tejados que repelen el agua y aíslan.
+  
+- **Techado ([Techado de Paja](/es/inventions/thatching))**: Capas de paja en tejados que repelen el agua y aíslan.
 - **Construcción**: Mezclada con barro para adobe o cob.
 - **Aislamiento**: Fardos usados como relleno en muros.
 - **Cama animal**: Mantiene el calor y absorbe humedad.

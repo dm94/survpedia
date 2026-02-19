@@ -31,7 +31,7 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 2.  **Decking (Sheathing):** (Optional) Lay a solid base of boards or plywood over the rafters.
 3.  **Underlayment:** Apply a waterproof membrane (felt, tar paper) to protect against wind-driven rain.
 4.  **Battens/Lathing:** (For tiles/slates) Fix horizontal strips of wood to the rafters to hook the tiles onto.
-5.  **Covering:** Install the roof covering material (**[Tile](/en/materials/tile)**, **[Slate](/en/materials/stone)**, **[Thatch](/en/materials/straw)**), starting from the bottom (eaves) and working up to the top (ridge).
+5.  **Covering:** Install the roof covering material (**[Tile](/en/materials/tile)**, **[Slate](/en/materials/slate)**, **[Thatching](/en/inventions/thatching)**), starting from the bottom (eaves) and working up to the top (ridge).
 6.  **Flashing:** Install metal strips around chimneys, vents, and valleys to seal joints.
 7.  **Ridge Cap:** Seal the very top of the roof where the two sides meet.
 
@@ -40,19 +40,19 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 - **Structural:** **[Wood](/en/materials/wood)** beams, bamboo, or steel.
 - **Covering:**
     - **[Tile](/en/materials/tile):** Clay or concrete.
-    - **[Stone](/en/materials/stone):** Slate slabs.
+    - **[Slate](/en/materials/slate):** Natural stone slabs.
     - **[Wood](/en/materials/wood):** Shingles or shakes.
     - **[Metal](/en/materials/metal):** Sheets of copper, lead, zinc, or steel.
-    - **[Straw](/en/materials/straw):** Thatch.
+    - **[Straw](/en/materials/straw):** Used in **[Thatching](/en/inventions/thatching)**.
 - **Fasteners:** Nails, pegs, or wire.
 - **Waterproofing:** Bitumen, tar, or plant resins.
 
 ## Variants and improvements
 
-- **Thatch:** One of the oldest forms, using dry vegetation. Good insulation but high fire risk.
+- **[Thatching](/en/inventions/thatching):** One of the oldest forms, using dry vegetation. Good insulation but high fire risk.
 - **Wood Shingles:** Split logs. Beautiful but requires maintenance and fire treatment.
 - **Ceramic Tiles:** Durable, fire-resistant, and heavy. Common in warm climates.
-- **Slate:** Natural stone, extremely durable (100+ years) but very heavy and expensive.
+- **[Slate](/en/materials/slate):** Natural stone, extremely durable (100+ years) but very heavy and expensive.
 - **Metal Roofing:** Lightweight, durable, and fire-resistant. Can be noisy during rain.
 - **Green Roof:** Covered with vegetation. Excellent insulation and manages stormwater, but requires strong structure and waterproofing.
 
@@ -61,11 +61,12 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 - **Leaks:** The most common failure. Even small leaks can cause rot and structural damage over time.
 - **Wind Damage:** Strong winds can lift tiles or shingles if not properly fastened.
 - **Fire:** Thatch and wood roofs are highly flammable. Sparks from a **[Chimney](/en/inventions/chimney)** can ignite them.
-- **Weight:** Heavy materials like **[Tile](/en/materials/tile)** and **[Stone](/en/materials/stone)** require a very strong supporting structure.
+- **Weight:** Heavy materials like **[Tile](/en/materials/tile)** and **[Slate](/en/materials/slate)** require a very strong supporting structure.
 - **Condensation:** Warm moist air from inside can condense on the cold underside of the roof, causing rot. Ventilation is essential.
 
 ### Related inventions
 
+- **[Thatching](/en/inventions/thatching)**
 - **[Basic Shelter](/en/inventions/basic-shelter):** Primitive roofing.
 - **[Chimney](/en/inventions/chimney):** Penetrates the roof, requiring flashing.
 - **[Gutter](/en/inventions/gutter):** Collects water from the roof.
@@ -74,6 +75,7 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 ### Related materials
 
 - **[Tile](/en/materials/tile)**
+- **[Slate](/en/materials/slate)**
 - **[Wood](/en/materials/wood)**
 - **[Stone](/en/materials/stone)**
 - **[Metal](/en/materials/metal)**

@@ -62,9 +62,9 @@ Tiles are manufactured products.
 ### Possible substitutes
 
 - **[Wood](/en/materials/wood) Shingles:** Lighter but less fire-resistant.
-- **[Stone](/en/materials/stone) (Slate):** Very durable natural alternative for roofing.
+- **[Slate](/en/materials/slate):** Very durable natural alternative for roofing.
 - **[Metal](/en/materials/metal) Sheets:** Lightweight and durable roofing.
-- **[Thatch](/en/materials/straw):** Plant stalks used for roofing (insulating but flammable).
+- **[Thatching](/en/inventions/thatching):** Plant stalks used for roofing (insulating but flammable).
 - **[Brick](/en/materials/brick):** Can be used for flooring but is thicker.
 
 ### Limitations and common failures

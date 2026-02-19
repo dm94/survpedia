@@ -62,9 +62,9 @@ Son productos manufacturados.
 ### Posibles sustitutos
 
 - **Tejas de [Madera](/es/materials/wood):** Más ligeras pero menos resistentes al fuego.
-- **[Piedra](/es/materials/stone) (Pizarra):** Alternativa natural muy duradera para techos.
+- **[Pizarra](/es/materials/slate):** Alternativa natural muy duradera para techos.
 - **Láminas de [Metal](/es/materials/metal):** Techado ligero y duradero.
-- **[Paja](/es/materials/straw):** Tallos de plantas usados para techado (aislante pero inflamable).
+- **[Techado de Paja](/es/inventions/thatching):** Tallos de plantas usados para techado (aislante pero inflamable).
 - **[Ladrillo](/es/materials/brick):** Puede usarse para pavimentos pero es más grueso.
 
 ### Limitaciones y fallos comunes

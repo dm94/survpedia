@@ -43,7 +43,7 @@ Hollow, yellow or golden tubes. It is light, dry, and brittle. The hollow struct
 
 ### Common forms of use
 
-- **Thatching**: Layering straw bundles on roofs to shed water and insulate.
+- **Thatching ([Thatching](/en/inventions/thatching))**: Layering straw bundles on roofs to shed water and insulate.
 - **Construction**: Mixed with mud to make cob or adobe (provides tensile strength and insulation).
 - **Insulation**: Bales used as wall infill (straw-bale construction).
 - **Bedding**: For livestock to keep them warm and clean.
