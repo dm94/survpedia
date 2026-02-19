@@ -49,3 +49,8 @@ It works on **Hooke's Law**, which states that the force needed to extend or com
 - **Elastic Limit:** If overloaded, the spring can permanently deform, ruining the scale.
 - **Gravity:** Measures weight, not mass. Readings vary slightly with gravity (altitude/location).
 - **Temperature:** Extreme heat can affect the spring's elasticity.
+
+### Related Inventions
+
+- **[Spring](/en/inventions/spring)**
+- **[Balance Wheel](/en/inventions/balance-wheel)**

@@ -61,3 +61,4 @@ Requires high precision micro-mechanics.
 - **[Escapement](/en/inventions/escapement)**
 - **[Balance Wheel](/en/inventions/balance-wheel)**
 - **[Gears](/en/inventions/gears)**
+- **[Spring](/en/inventions/spring)**

@@ -47,3 +47,9 @@ The method depends on the required precision and available technology.
 - **Accuracy:** Early methods vary with weather (sun) or temperature (viscosity).
 - **Maintenance:** Mechanical versions need winding, cleaning, and oiling.
 - **Fragility:** Precision instruments are delicate.
+
+### Related Inventions
+
+- **[Mechanical Watch](/en/inventions/mechanical-watch)**
+- **[Pendulum Clock](/en/inventions/pendulum-clock)**
+- **[Spring](/en/inventions/spring)**

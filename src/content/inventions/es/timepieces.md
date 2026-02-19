@@ -47,3 +47,9 @@ El método depende de la precisión requerida y la tecnología disponible.
 - **Precisión:** Los primeros métodos varían con el clima (sol) o la temperatura (viscosidad).
 - **Mantenimiento:** Las versiones mecánicas necesitan cuerda, limpieza y lubricación.
 - **Fragilidad:** Los instrumentos de precisión son delicados.
+
+### Inventos relacionados
+
+- **[Reloj Mecánico](/es/inventions/mechanical-watch)**
+- **[Reloj de Péndulo](/es/inventions/pendulum-clock)**
+- **[Resorte (Muelle)](/es/inventions/spring)**

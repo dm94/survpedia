@@ -5,7 +5,7 @@ materialsUsed: ["brass", "steel", "glass", "spring-steel", "ruby"]
 
 # Breve descripción
 
-Un dispositivo portátil para medir el tiempo impulsado por un muelle real y regulado por un **[Volante de Inercia](/es/inventions/volante-de-inercia)**. Permite la gestión personal del tiempo y la coordinación en movimiento.
+Un dispositivo portátil para medir el tiempo impulsado por un muelle real y regulado por un **[Volante de Inercia](/es/inventions/balance-wheel)**. Permite la gestión personal del tiempo y la coordinación en movimiento.
 
 ## Uso / Función
 
@@ -15,7 +15,7 @@ Un dispositivo portátil para medir el tiempo impulsado por un muelle real y reg
 
 ## Principio de funcionamiento
 
-Almacena energía en un muelle enrollado (muelle real) que se libera a través de un tren de engranajes. La velocidad de liberación es controlada por un **[Mecanismo de Escape](/es/inventions/escape)** y un volante de inercia que oscila hacia adelante y hacia atrás a una velocidad constante.
+Almacena energía en un muelle enrollado (muelle real) que se libera a través de un tren de engranajes. La velocidad de liberación es controlada por un **[Mecanismo de Escape](/es/inventions/escapement)** y un volante de inercia que oscila hacia adelante y hacia atrás a una velocidad constante.
 
 1. **Fuente de energía:** Muelle real.
 2. **Transmisión:** Tren de engranajes ([ruedas](/es/inventions/wheel) y piñones).
@@ -58,6 +58,7 @@ Requiere micromecánica de alta precisión.
 - **[Relojes Mecánicos](/es/inventions/relojes-mecanicos)**
 - **[Reloj de Péndulo](/es/inventions/pendulum-clock)**
 - **[Cronómetro](/es/inventions/chronometer)**
-- **[Escape](/es/inventions/escape)**
-- **[Volante de Inercia](/es/inventions/volante-de-inercia)**
+- **[Escape](/es/inventions/escapement)**
+- **[Volante de Inercia](/es/inventions/balance-wheel)**
 - **[Engranajes](/es/inventions/gears)**
+- **[Resorte (Muelle)](/es/inventions/spring)**

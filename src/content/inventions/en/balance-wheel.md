@@ -51,3 +51,4 @@ The balance wheel works in conjunction with a hairspring (balance spring).
 -   **[Chronometer](/en/inventions/chronometer)**
 -   **[Escapement](/en/inventions/escapement)**
 -   **[Spring Scale](/en/inventions/spring-scale)** (concept of springs)
+-   **[Spring](/en/inventions/spring)**

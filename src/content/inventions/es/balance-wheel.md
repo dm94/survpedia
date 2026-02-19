@@ -51,3 +51,4 @@ El volante de inercia trabaja en conjunto con un muelle espiral (espiral).
 -   **[Cronómetro](/es/inventions/chronometer)**
 -   **[Escape](/es/inventions/escapement)**
 -   **[Balanza de Resorte](/es/inventions/spring-scale)**
+-   **[Resorte (Muelle)](/es/inventions/spring)**

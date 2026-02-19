@@ -53,3 +53,8 @@ Se parece al acero normal pero es mucho más difícil de doblar permanentemente.
 
 - **Rotura violenta:** Puede romperse violentamente bajo tensión, liberando energía almacenada.
 - **Fragmentos:** Los fragmentos duros pueden volar si se rompe.
+
+### Inventos relacionados
+
+- **[Resorte (Muelle)](/es/inventions/spring)**
+- **[Reloj Mecánico](/es/inventions/mechanical-watch)**

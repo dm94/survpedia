@@ -53,3 +53,8 @@ It looks like regular steel but is much harder to bend permanently. If bent with
 
 - **Snapping:** Can break violently under tension, releasing stored energy.
 - **Shards:** Hard fragments can fly if it shatters.
+
+### Related Inventions
+
+- **[Spring](/en/inventions/spring)**
+- **[Mechanical Watch](/en/inventions/mechanical-watch)**

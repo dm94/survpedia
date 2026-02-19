@@ -61,3 +61,4 @@ Construir un reloj mecánico requiere ingeniería de precisión y comprensión d
 -   **[Reloj de Péndulo](/es/inventions/pendulum-clock)**
 -   **[Reloj Mecánico](/es/inventions/mechanical-watch)**
 -   **[Cronómetro](/es/inventions/chronometer)**
+-   **[Resorte (Muelle)](/es/inventions/spring)**

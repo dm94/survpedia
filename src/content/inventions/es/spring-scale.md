@@ -48,3 +48,8 @@ Funciona según la **Ley de Hooke**, que establece que la fuerza necesaria para 
 - **Límite elástico:** Si se sobrecarga, el resorte puede deformarse permanentemente, arruinando la báscula.
 - **Gravedad:** Mide peso, no masa. Las lecturas varían ligeramente con la gravedad (altitud/ubicación).
 - **Temperatura:** El calor extremo puede afectar la elasticidad del resorte.
+
+### Inventos relacionados
+
+- **[Resorte (Muelle)](/es/inventions/spring)**
+- **[Volante de Inercia](/es/inventions/balance-wheel)**
