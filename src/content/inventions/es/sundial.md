@@ -30,7 +30,7 @@ A medida que el sol se mueve por el cielo, proyecta una sombra desde un **gnomon
 
 ## Materiales necesarios
 
-- **Esenciales:** Piedra o metal para durabilidad en exteriores.
+- **Esenciales:** **[Piedra](/es/materials/piedra)** o **[Metal](/es/materials/metal)** para durabilidad en exteriores.
 - **Herramientas:** Brújula, nivel, transportador.
 
 ## Variantes y mejoras

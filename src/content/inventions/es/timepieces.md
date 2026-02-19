@@ -1,6 +1,6 @@
 ---
 title: "Relojes (Instrumentos de tiempo)"
-materialsUsed: ["wood", "stone", "metal", "glass", "water", "sand"]
+materialsUsed: ["wood", "piedra", "metal", "glass", "water", "arena"]
 ---
 
 # Breve descripción
@@ -32,7 +32,7 @@ El método depende de la precisión requerida y la tecnología disponible.
 
 ## Materiales necesarios
 
-- **Naturales:** **[Piedra](/es/materials/stone)**, **[Madera](/es/materials/wood)**, **[Arena](/es/materials/sand)**, **[Agua](/es/materials/water)**.
+- **Naturales:** **[Piedra](/es/materials/piedra)**, **[Madera](/es/materials/wood)**, **[Arena](/es/materials/arena)**, **[Agua](/es/materials/water)**.
 - **Procesados:** **[Metal](/es/materials/metal)** (Latón, Hierro, Acero) para engranajes; **[Vidrio](/es/materials/glass)** para protección y contenedores de arena.
 
 ## Variantes y mejoras

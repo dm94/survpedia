@@ -1,6 +1,6 @@
 ---
 title: "Reloj de Arena"
-materialsUsed: ["glass", "sand", "wood"]
+materialsUsed: ["glass", "arena", "wood"]
 ---
 
 # Breve descripción
@@ -28,7 +28,7 @@ La gravedad tira del material granular a través del cuello estrecho. A diferenc
 ## Materiales necesarios
 
 - **Esenciales:** **[Vidrio](/es/materials/glass)** para visibilidad y suavidad.
-- **Material de flujo:** **[Arena](/es/materials/sand)** (lavada y seca), cáscaras de huevo pulverizadas u óxidos metálicos.
+- **Material de flujo:** **[Arena](/es/materials/arena)** (lavada y seca), cáscaras de huevo pulverizadas u óxidos metálicos.
 - **Estructura:** **[Madera](/es/materials/wood)** o **[Metal](/es/materials/metal)** para el soporte.
 
 ## Variantes y mejoras

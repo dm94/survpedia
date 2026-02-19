@@ -1,6 +1,6 @@
 ---
 title: "Reloj de agua"
-materialsUsed: ["piedra", "ceramic", "water"]
+materialsUsed: ["piedra", "ceramics", "water"]
 ---
 
 # Descripción breve
@@ -16,6 +16,7 @@ Un reloj de agua, o clepsidra, es un dispositivo que mide el tiempo mediante el 
 ## Principio de funcionamiento
 
 Se basa en la **tasa de flujo predecible** del agua.
+
 - **Salida:** El agua gotea fuera de un contenedor. A medida que baja el nivel, la presión disminuye, ralentizando el flujo (un problema a resolver).
 - **Entrada:** El agua gotea en un contenedor con marcas. Si la fuente tiene una altura constante (presión), la tasa de llenado es constante.
 
@@ -31,7 +32,7 @@ Se basa en la **tasa de flujo predecible** del agua.
 
 ## Materiales necesarios
 
-- **Esenciales:** Contenedores estancos (arcilla, piedra, metal), agua.
+- **Esenciales:** Contenedores estancos (**[Cerámica](/es/materials/ceramics)**, **[Piedra](/es/materials/piedra)**, **[Metal](/es/materials/metal)**), **[Agua](/es/materials/water)**.
 - **Herramientas:** Taladro para el orificio.
 
 ## Variantes y mejoras

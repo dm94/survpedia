@@ -1,6 +1,6 @@
 ---
 title: "Water Clock"
-materialsUsed: ["stone", "ceramic", "water"]
+materialsUsed: ["stone", "ceramics", "water"]
 ---
 
 # Brief description
@@ -31,7 +31,7 @@ It relies on the **predictable rate of flow** of water.
 
 ## Materials needed
 
-- **Essential:** Watertight containers (clay, stone, metal), water.
+- **Essential:** Watertight containers (**[Clay](/en/materials/clay)**, **[Stone](/en/materials/stone)**, **[Metal](/en/materials/metal)**), **[Water](/en/materials/water)**.
 - **Tools:** Drill for the orifice.
 
 ## Variants and improvements
@@ -51,4 +51,3 @@ It relies on the **predictable rate of flow** of water.
 - **[Timepieces](/en/inventions/timepieces)**
 - **[Hourglass](/en/inventions/hourglass)**
 - **[Sundial](/en/inventions/sundial)**
-
