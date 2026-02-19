@@ -34,7 +34,7 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 
 ### Procesamiento mínimo requerido
 
-1.  **Encofrado:** Construir moldes (generalmente de madera o acero) para definir la forma de la estructura.
+1.  **[Encofrado](/es/inventions/encofrado):** Construir moldes (generalmente de madera o acero) para definir la forma de la estructura.
 2.  **Armadura:** Cortar, doblar y atar barras de **[Acero](/es/materials/steel)** (**[Varilla](/es/materials/barra-de-refuerzo)**) en una jaula o malla. Colocarla dentro de los moldes, asegurando el espaciado adecuado desde los bordes (recubrimiento).
 3.  **Mezclado:** Preparar **[Hormigón](/es/materials/hormigon)** (cemento, arena, agregado, agua).
 4.  **Vertido:** Verter el hormigón húmedo en los moldes, rodeando el acero completamente.

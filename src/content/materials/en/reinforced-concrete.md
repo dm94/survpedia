@@ -34,7 +34,7 @@ It appears as a standard grey concrete surface, but inside it contains a skeleto
 
 ### Minimum processing required
 
-1.  **Formwork:** Build molds (usually wood or steel) to define the shape of the structure.
+1.  **[Formwork](/en/inventions/formwork):** Build molds (usually wood or steel) to define the shape of the structure.
 2.  **Reinforcement:** Cut, bend, and tie **[Steel](/en/materials/steel)** bars (**[Rebar](/en/materials/rebar)**) into a cage or mesh. Place it inside the forms, ensuring proper spacing from the edges (cover).
 3.  **Mixing:** Prepare **[Concrete](/en/materials/concrete)** (cement, sand, aggregate, water).
 4.  **Pouring:** Pour the wet concrete into the forms, surrounding the steel completely.
