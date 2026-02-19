@@ -15,7 +15,7 @@ Una estructura simétrica curva que salva una abertura y típicamente soporta el
 
 ## Uso / Función
 
-- **Soporte Estructural**: Cubre aberturas para puertas, ventanas y puentes.
+- **Soporte Estructural**: Cubre aberturas para puertas, ventanas y **[Puentes de Arco](/es/inventions/puente-de-arco)**.
 - **Distribución**: Distribuye el peso hacia afuera y hacia abajo a los pilares o estribos.
 - **Estética**: Proporciona una forma curva agradable.
 - **Escala**: Desde pequeñas puertas hasta acueductos masivos y cúpulas.

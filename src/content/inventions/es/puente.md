@@ -45,7 +45,7 @@ La estructura transfiere la carga (Carga muerta: peso del puente + Carga viva: t
 ### Creación de tipos básicos:
 
 - **Puente de Viga**: Colocar una viga rígida (tronco, losa de piedra) a través de dos soportes. Luz limitada.
-- **Puente de Arco**: Construir un soporte de madera temporal (cimbra). Colocar piedras/ladrillos desde ambos lados hasta que se encuentren en la parte superior (clave). Retirar la cimbra.
+- **[Puente de Arco](/es/inventions/puente-de-arco)**: Construir un soporte de madera temporal (cimbra). Colocar piedras/ladrillos desde ambos lados hasta que se encuentren en la parte superior (clave). Retirar la cimbra.
 - **Puente Colgante**: Anclar cuerdas/cables fuertes en ambas orillas. Colgar el tablero de estos cables principales.
 
 ## Materiales necesarios
@@ -61,7 +61,7 @@ La estructura transfiere la carga (Carga muerta: peso del puente + Carga viva: t
 
 - **Puente de Troncos**: La forma más simple.
 - **Puente de Losa**: Losas de piedra sobre pilares de piedra (antiguo).
-- **Puente de Arco**: Invención romana, extremadamente duradero.
+- **[Puente de Arco](/es/inventions/puente-de-arco)**: Invención romana, extremadamente duradero.
 - **Puente de Armadura (Celosía)**: Utiliza triángulos (madera o metal) para distribuir el peso de manera eficiente.
 - **Puente Colgante**: Permite las luces más largas.
 - **[Puente Atirantado](/es/inventions/puente-atirantado)**: Una variante moderna con cables conectados directamente a las torres, ideal para luces medias a largas.

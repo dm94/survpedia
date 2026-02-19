@@ -15,7 +15,7 @@ A curved symmetrical structure spanning an opening and typically supporting the 
 
 ## Use / Function
 
-- **Structural Support**: Spans openings for doors, windows, and bridges.
+- **Structural Support**: Spans openings for doors, windows, and **[Arch Bridges](/en/inventions/arch-bridge)**.
 - **Distribution**: Distributes weight outwards and downwards to the pillars or abutments.
 - **Aesthetics**: Provides a pleasing curved shape.
 - **Scale**: From small doorways to massive aqueducts and domes.

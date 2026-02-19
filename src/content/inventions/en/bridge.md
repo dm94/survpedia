@@ -61,7 +61,7 @@ The structure transfers the load (Dead Load: weight of bridge + Live Load: traff
 
 - **Log Bridge**: The simplest form.
 - **Clapper Bridge**: Stone slabs on stone piers (ancient).
-- **Arch Bridge**: Roman invention, extremely durable.
+- **[Arch Bridge](/en/inventions/arch-bridge)**: Roman invention, extremely durable.
 - **Truss Bridge**: Uses triangles (wood or metal) to distribute weight efficiently.
 - **Suspension Bridge**: Allows for the longest spans (e.g., Golden Gate).
 - **[Cable-Stayed Bridge](/en/inventions/cable-stayed-bridge)**: A modern variant with cables connected directly to towers, ideal for medium to long spans.
