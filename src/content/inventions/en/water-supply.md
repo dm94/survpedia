@@ -62,3 +62,4 @@ A comprehensive system designed to collect, treat, store, and distribute water t
 - **[Sewage System](/en/inventions/sewage-system):** The output counterpart.
 - **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Hygiene interface.
 - **[Cistern](/en/inventions/cistern):** Storage component.
+- **[Toilet](/en/inventions/toilet):** Primary user.

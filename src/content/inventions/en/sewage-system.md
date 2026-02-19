@@ -53,6 +53,8 @@ A network of underground pipes and facilities dedicated to collecting and transp
 ## Related inventions
 
 - **[Latrine](/en/inventions/latrine):** Basic disposal.
+- **[Toilet](/en/inventions/toilet):** The primary source of waste.
+- **[Septic Tank](/en/inventions/septic-tank):** Local variant.
 - **[Drainage](/en/inventions/drainage):** Managing surface water.
 - **[Water Supply](/en/inventions/water-supply):** The input counterpart.
 - **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Source of greywater.

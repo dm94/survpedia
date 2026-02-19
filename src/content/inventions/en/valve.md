@@ -58,3 +58,4 @@ A mechanical device that controls the flow of a fluid (liquid, gas, or slurry) b
 - **[Steam Engine](/en/inventions/steam-engine):** Relies entirely on valves.
 - **[Water Supply](/en/inventions/water-supply):** Control points.
 - **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Common application (faucet).
+- **[Toilet](/en/inventions/toilet):** Fill and flush control.

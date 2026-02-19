@@ -52,3 +52,10 @@ Pipes contain fluids and direct their flow. The movement is driven by **pressure
 - **Bursting:** Freezing water can expand and burst pipes.
 - **Corrosion:** Metal pipes degrade over time.
 - **Toxicity:** Lead pipes are hazardous to health.
+
+## Related inventions
+
+- **[Water Supply](/en/inventions/water-supply):** Primary use.
+- **[Sewage System](/en/inventions/sewage-system):** Primary use.
+- **[Toilet](/en/inventions/toilet):** Plumbing connection.
+- **[Valve](/en/inventions/valve):** Flow control.
