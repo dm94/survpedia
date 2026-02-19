@@ -16,8 +16,9 @@ uses:
   - Asiento de tejas
   - Revestimiento
 naturalAvailability: false
-manufacturingProcess: Mezcla de arena, un aglutinante (cal, cemento o arcilla) y agua.
+manufacturingProcess: 'Mezcla de arena, un aglutinante (cal, cemento o arcilla) y agua.'
 category: synthetic
+image: ../../../assets/images/materials/mortero.jpg
 ---
 
 # Breve descripción

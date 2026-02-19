@@ -7,6 +7,7 @@ materialsUsed:
   - hormigon
   - asphalt-concrete
   - asphalt
+image: ../../../assets/images/inventions/road.jpg
 ---
 
 # Breve descripción

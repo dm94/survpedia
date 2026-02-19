@@ -1,11 +1,12 @@
 ---
-title: "Tuberías"
+title: Tuberías
 materialsUsed:
   - clay
   - lead
   - wood
   - bamboo
   - copper
+image: ../../../assets/images/inventions/pipes.jpg
 ---
 
 # Breve descripción

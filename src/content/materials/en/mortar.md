@@ -16,8 +16,9 @@ uses:
   - Bedding tiles
   - Rendering
 naturalAvailability: false
-manufacturingProcess: Mixing sand, a binder (lime, cement, or clay), and water.
+manufacturingProcess: 'Mixing sand, a binder (lime, cement, or clay), and water.'
 category: synthetic
+image: ../../../assets/images/materials/mortar.jpg
 ---
 
 # Brief description
