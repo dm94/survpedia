@@ -47,7 +47,7 @@ El cemento es un aglomerante, una sustancia utilizada en la construcción que fr
 
 ### Formas comunes de uso
 
-- **[Hormigón](/es/materials/hormigon):** Cemento + Arena + Grava + Agua.
+- **[Hormigón](/es/materials/hormigon):** Cemento + Arena + Grava + Agua. (Base para el **[Hormigón Armado](/es/materials/hormigon-armado)**).
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento):** Cemento + Arena + Agua.
 - **Lechada:** Cemento + Agua (para rellenar huecos).
 

@@ -72,5 +72,6 @@ Un cilindro de metal largo, delgado y flexible. Se puede doblar fácilmente sin 
 ### Materiales relacionados
 
 - **[Acero](/es/materials/steel):** Material común para alambre estructural.
+- **[Hormigón Armado](/es/materials/hormigon-armado):** El alambre se usa para atar las barras de acero.
 - **[Cobre](/es/materials/copper):** Común para alambre eléctrico.
 - **[Cuerda](/es/materials/rope):** Alternativa no metálica.

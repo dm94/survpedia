@@ -30,7 +30,7 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 
 - **Artificial:** Es un material estrictamente manufacturado.
 - **Historia:** Desarrollado a mediados del siglo XIX. Joseph Monier lo usó primero para macetas de jardín en 1867, y François Hennebique desarrolló más tarde un sistema de construcción completo.
-- **Dónde encontrarlo:** En casi todas las grandes estructuras modernas: armazones de edificios, pasos elevados de carreteras, túneles y muros de contención.
+- **Dónde encontrarlo:** En casi todas las grandes estructuras modernas: armazones de edificios, pasos elevados de **[Carreteras](/es/inventions/road)**, túneles y **[Muros](/es/inventions/wall)** de contención.
 
 ### Procesamiento mínimo requerido
 
@@ -43,9 +43,9 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 
 ### Herramientas necesarias para trabajarlo
 
-- **Herramientas de Acero:** Corta pernos o amoladoras para cortar varilla; alicates para atar alambre.
-- **Herramientas de Carpintería:** Sierras y martillos para construir encofrados.
-- **Herramientas de Hormigón:** **[Pala](/es/inventions/shovel)**, **[Hormigonera](/es/inventions/concrete-mixer)**, vibradores y llanas.
+- **Herramientas de Acero:** Corta pernos o amoladoras para cortar varilla; **[Alicates](/es/inventions/pliers)** para atar alambre.
+- **Herramientas de Carpintería:** **[Sierras](/es/inventions/saw)** y **[Martillos](/es/inventions/hammer)** para construir encofrados.
+- **Herramientas de Hormigón:** **[Pala](/es/inventions/shovel)**, **[Hormigonera](/es/inventions/hormigonera)**, vibradores y llanas.
 
 ### Formas comunes de uso
 

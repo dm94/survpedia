@@ -41,15 +41,21 @@ Inicialmente una pasta semilíquida que se puede verter en moldes. Cuando cura, 
 
 ### Herramientas necesarias para trabajarlo
 
-- **Mezclado:** Palas, azadas, caja o artesa de mezcla.
+- **Mezclado:** **[Hormigonera](/es/inventions/hormigonera)**, **[Palas](/es/inventions/shovel)**, azadas, caja o artesa de mezcla.
 - **Encofrados:** Tablas de madera para crear moldes.
 - **Apisonado:** Varillas para eliminar burbujas de aire.
 
 ### Formas comunes de uso
 
-- **Hormigón en masa:** Para presas o grandes **[cimientos](/es/inventions/cimientos)**.
-- **Hormigón armado:** Combinado con acero (varilla) para añadir resistencia a la tracción (moderno).
+- **Hormigón en masa:** Para **[Presas](/es/inventions/presa)** o grandes **[cimientos](/es/inventions/cimientos)**.
+- **[Hormigón armado](/es/materials/hormigon-armado):** Combinado con acero (varilla) para añadir resistencia a la tracción (moderno).
 - **[Mortero](/es/materials/mortero):** Mezcla más fina para unir ladrillos/piedras.
+
+## Relación con el Hormigón Armado
+
+Aunque el hormigón es extremadamente duro y resistente a la compresión (aplastamiento), es frágil y débil a la tracción (estiramiento). Esto limita su uso en estructuras que deben soportar flexión, como vigas o puentes largos.
+
+Para solucionar esto, se desarrolló el **[Hormigón Armado](/es/materials/hormigon-armado)**. Al incrustar barras de acero (que tienen alta resistencia a la tracción) dentro del hormigón, se crea un material compuesto que aprovecha lo mejor de ambos: la resistencia a la compresión del hormigón y la resistencia a la tracción del acero. El hormigón también protege al acero de la corrosión y el fuego.
 
 ### Posibles sustitutos
 
