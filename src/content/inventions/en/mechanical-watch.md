@@ -50,4 +50,11 @@ Requires high precision micro-mechanics.
 
 - **Fragility:** Shock, water, and magnetism can stop or damage it.
 - **Maintenance:** Needs cleaning and oiling every few years.
-- **Accuracy:** Varies by seconds per day (unlike quartz).
+- Accuracy: Varies by seconds per day (unlike quartz).
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Pendulum Clock](/en/inventions/pendulum-clock)**
+- **[Chronometer](/en/inventions/chronometer)**
+

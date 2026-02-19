@@ -41,4 +41,10 @@ Works like a refined mechanical watch but solves critical sea problems:
 
 - **Cost:** Historically extremely expensive and difficult to manufacture.
 - **Maintenance:** Requires specialized cleaning and oiling.
-- **Cumulative Error:** Even the best mechanical chronometer has a small drift that must be accounted for.
+- Cumulative Error: Even the best mechanical chronometer has a small drift that must be accounted for.
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Mechanical Watch](/en/inventions/mechanical-watch)**
+- **[Sextant](/en/inventions/sextant)**

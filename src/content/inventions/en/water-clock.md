@@ -44,4 +44,11 @@ It relies on the **predictable rate of flow** of water.
 
 - **Temperature:** Viscosity of water changes with temperature, affecting flow rate. Freezing stops it.
 - **Evaporation:** Loss of water over time.
-- **Clogging:** Impurities in water can block the orifice.
+- Clogging: Impurities in water can block the orifice.
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Hourglass](/en/inventions/hourglass)**
+- **[Sundial](/en/inventions/sundial)**
+

@@ -52,4 +52,11 @@ El principio central es que **el movimiento celeste es periódico y predecible**
 
 - **Clima:** Las nubes oscurecen el cielo, haciendo imposible la observación.
 - **Contaminación Lumínica:** (Problema moderno) La luz artificial oculta las estrellas.
-- **Complejidad:** El movimiento planetario (como el movimiento retrógrado) es difícil de modelar sin matemáticas avanzadas (Cálculo/Gravedad).
+- **Complejidad**: El movimiento planetario (como el movimiento retrógrado) es difícil de modelar sin matemáticas avanzadas (Cálculo/Gravedad).
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj de Sol](/es/inventions/sundial)**
+- **[Calendario](/es/inventions/calendar)**
+- **[Sextante](/es/inventions/sextant)**

@@ -40,4 +40,10 @@ Funciona como un reloj mecánico refinado, pero resuelve problemas críticos del
 
 - **Costo:** Históricamente extremadamente caro y difícil de fabricar.
 - **Mantenimiento:** Requiere limpieza y aceitado especializado.
-- **Error Acumulativo:** Incluso el mejor cronómetro mecánico tiene una pequeña deriva que debe ser contabilizada.
+- Error Acumulativo: Incluso el mejor cronómetro mecánico tiene una pequeña deriva que debe ser contabilizada.
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj Mecánico](/es/inventions/mechanical-watch)**
+- **[Sextante](/es/inventions/sextant)**

@@ -44,4 +44,10 @@ Se basa en la **tasa de flujo predecible** del agua.
 
 - **Temperatura:** La viscosidad del agua cambia con la temperatura, afectando la tasa de flujo. La congelación lo detiene.
 - **Evaporación:** Pérdida de agua con el tiempo.
-- **Obstrucción:** Las impurezas en el agua pueden bloquear el orificio.
+- Obstrucción: Las impurezas en el agua pueden bloquear el orificio.
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj de Arena](/es/inventions/hourglass)**
+- **[Reloj de Sol](/es/inventions/sundial)**

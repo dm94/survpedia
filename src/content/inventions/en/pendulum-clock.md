@@ -44,4 +44,10 @@ Based on the **isochronism of the pendulum**: the period of oscillation depends 
 
 - **Immobility:** Must remain stationary and level; movement alters the pendulum's period (useless on ships without complex modifications).
 - **Friction:** Requires regular lubrication and cleaning.
-- **Length:** For a 2-second period (1 sec swing each way), the pendulum must be nearly 1 meter long.
+- Length: For a 2-second period (1 sec swing each way), the pendulum must be nearly 1 meter long.
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Mechanical Watch](/en/inventions/mechanical-watch)**
+- **[Gears](/en/inventions/gears)**

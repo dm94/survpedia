@@ -50,4 +50,10 @@ Requiere micromecánica de alta precisión.
 
 - **Fragilidad:** Los golpes, el agua y el magnetismo pueden detenerlo o dañarlo.
 - **Mantenimiento:** Necesita limpieza y engrase cada pocos años.
-- **Precisión:** Varía en segundos por día (a diferencia del cuarzo).
+- Precisión: Varía en segundos por día (a diferencia del cuarzo).
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj de Péndulo](/es/inventions/pendulum-clock)**
+- **[Cronómetro](/es/inventions/chronometer)**

@@ -15,6 +15,7 @@ Optical navigation instrument used to measure the angle between two visible obje
 ## Operating principle
 
 Uses the principle of **double reflection**.
+
 1.  A movable mirror (index) reflects the image of the celestial object to a fixed mirror (horizon).
 2.  The horizon mirror is semi-transparent: it allows viewing the horizon directly through it and seeing the reflection of the star superimposed.
 3.  By aligning both images, the angle of the index mirror indicates the height of the star.
@@ -41,3 +42,10 @@ Uses the principle of **double reflection**.
 
 - **Visibility:** Requires seeing both the star and the horizon (difficult on cloudy days or moonless nights).
 - **Instrument Error:** Must be adjusted and verified regularly.
+
+### Related Inventions
+
+- **[Chronometer](/en/inventions/chronometer)**
+- **[Compass](/en/inventions/compass)**
+- **[Lens](/en/inventions/lens)**
+- **[Mirror](/en/inventions/mirror)**

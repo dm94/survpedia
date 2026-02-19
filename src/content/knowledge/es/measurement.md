@@ -72,3 +72,12 @@ La medición se basa en la **comparación** y la **estandarización**.
 - **Desviación**: Las reglas de madera pueden deformarse; los relojes de agua corren más rápido cuando están llenos (presión); los relojes de sol varían con las estaciones.
 - **Conflicto Social**: El desacuerdo sobre los estándares puede llevar a disputas comerciales.
 - **Temperatura**: El metal se expande con el calor, alterando los estándares de longitud.
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj de Sol](/es/inventions/sundial)**
+- **[Reloj de Agua](/es/inventions/water-clock)**
+- **[Balanza](/es/inventions/balance-scale)**
+- **[Regla](/es/inventions/ruler)**
+

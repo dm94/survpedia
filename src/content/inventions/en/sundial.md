@@ -44,4 +44,10 @@ As the sun moves across the sky, it casts a shadow from a **gnomon** (a thin rod
 
 - **Night/Cloud:** Only works when the sun is shining.
 - **Equation of Time:** Solar time varies from clock time throughout the year (up to ~16 mins).
-- **Latitude:** A fixed dial only works accurately at the latitude it was designed for.
+- Latitude: A fixed dial only works accurately at the latitude it was designed for.
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Water Clock](/en/inventions/water-clock)**
+- **[Compass](/en/inventions/compass)**

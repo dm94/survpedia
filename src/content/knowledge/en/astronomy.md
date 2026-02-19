@@ -51,4 +51,11 @@ The core principle is that **celestial motion is periodic and predictable**.
 
 -   **Weather:** Clouds obscure the sky, making observation impossible.
 -   **Light Pollution:** (Modern problem) Artificial light hides the stars.
--   **Complexity:** Planetary motion (like retrograde motion) is difficult to model without advanced math (Calculus/Gravity).
+- **Complexity**: Planetary motion (like retrograde motion) is difficult to model without advanced math (Calculus/Gravity).
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Sundial](/en/inventions/sundial)**
+- **[Calendar](/en/inventions/calendar)**
+- **[Sextant](/en/inventions/sextant)**

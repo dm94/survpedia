@@ -72,3 +72,12 @@ Measurement relies on **comparison** and **standardization**.
 - **Drift**: Wooden rulers can warp; water clocks run faster when full (pressure); sundials vary with seasons.
 - **Social Conflict**: Disagreement on standards can lead to trade disputes.
 - **Temperature**: Metal expands with heat, altering length standards.
+
+### Related Inventions
+
+- **[Timepieces](/en/inventions/timepieces)**
+- **[Sundial](/en/inventions/sundial)**
+- **[Water Clock](/en/inventions/water-clock)**
+- **[Balance Scale](/en/inventions/balance-scale)**
+- **[Ruler](/en/inventions/ruler)**
+

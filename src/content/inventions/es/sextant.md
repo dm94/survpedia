@@ -15,6 +15,7 @@ Instrumento de navegación óptica utilizado para medir el ángulo entre dos obj
 ## Principio de funcionamiento
 
 Utiliza el principio de **doble reflexión**.
+
 1.  Un espejo móvil (índice) refleja la imagen del objeto celeste hacia un espejo fijo (horizonte).
 2.  El espejo del horizonte es semitransparente: permite ver el horizonte directamente a través de él y ver el reflejo del astro superpuesto.
 3.  Al alinear ambas imágenes, el ángulo del espejo índice indica la altura del astro.
@@ -41,3 +42,10 @@ Utiliza el principio de **doble reflexión**.
 
 - **Visibilidad:** Requiere ver tanto el astro como el horizonte (difícil en días nublados o noches sin luna clara).
 - **Error Instrumental:** Debe ajustarse y verificarse regularmente.
+
+### Inventos relacionados
+
+- **[Cronómetro](/es/inventions/chronometer)**
+- **[Brújula](/es/inventions/compass)**
+- **[Lente](/es/inventions/lens)**
+- **[Espejo](/es/inventions/mirror)**

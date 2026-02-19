@@ -44,4 +44,10 @@ A medida que el sol se mueve por el cielo, proyecta una sombra desde un **gnomon
 
 - **Noche/Nubes:** Solo funciona cuando brilla el sol.
 - **Ecuación del Tiempo:** La hora solar varía de la hora del reloj a lo largo del año (hasta ~16 min).
-- **Latitud:** Un reloj fijo solo funciona con precisión en la latitud para la que fue diseñado.
+- Latitud: Un reloj fijo solo funciona con precisión en la latitud para la que fue diseñado.
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj de Agua](/es/inventions/water-clock)**
+- **[Brújula](/es/inventions/compass)**

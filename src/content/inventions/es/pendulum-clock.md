@@ -43,4 +43,10 @@ Se basa en el **isocronismo del péndulo**: el período de oscilación de un pé
 
 - **Inmovilidad:** Debe permanecer estacionario y nivelado; el movimiento altera el período del péndulo (no sirve para barcos sin modificaciones complejas).
 - **Fricción:** Requiere lubricación y limpieza regular.
-- **Longitud:** Para un período de 2 segundos (1 seg ida, 1 seg vuelta), el péndulo debe medir casi 1 metro.
+- Longitud: Para un período de 2 segundos (1 seg ida, 1 seg vuelta), el péndulo debe medir casi 1 metro.
+
+### Inventos relacionados
+
+- **[Relojes](/es/inventions/timepieces)**
+- **[Reloj Mecánico](/es/inventions/mechanical-watch)**
+- **[Engranajes](/es/inventions/gears)**
