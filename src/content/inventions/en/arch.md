@@ -60,3 +60,4 @@ Because stone and brick are strong in compression but weak in tension, the arch 
 - **Lateral Thrust**: The arch pushes outwards at the base. If the abutments aren't heavy or buttressed enough, the walls will spread and the arch will collapse.
 - **Asymmetry**: If the load is not balanced, the arch can fail.
 - **Construction Risk**: Removing the centering is the most dangerous moment; if the mortar hasn't set or the geometry is wrong, it collapses immediately.
+- **Limited Span**: While strong, stone arches have a practical span limit. For longer distances, steel and cable structures like **[Cable-Stayed Bridges](/en/inventions/cable-stayed-bridge)** are preferred.

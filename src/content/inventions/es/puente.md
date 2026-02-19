@@ -64,6 +64,7 @@ La estructura transfiere la carga (Carga muerta: peso del puente + Carga viva: t
 - **Puente de Arco**: Invención romana, extremadamente duradero.
 - **Puente de Armadura (Celosía)**: Utiliza triángulos (madera o metal) para distribuir el peso de manera eficiente.
 - **Puente Colgante**: Permite las luces más largas.
+- **[Puente Atirantado](/es/inventions/puente-atirantado)**: Una variante moderna con cables conectados directamente a las torres, ideal para luces medias a largas.
 - **Puente en Ménsula (Cantilever)**: Construido utilizando estructuras que se proyectan horizontalmente en el espacio, apoyadas solo en un extremo.
 - **Puente Móvil**: Puentes levadizos para permitir el tráfico de barcos.
 

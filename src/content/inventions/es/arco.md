@@ -60,3 +60,4 @@ Debido a que la piedra y el ladrillo son fuertes en compresión pero débiles en
 - **Empuje Lateral**: El arco empuja hacia afuera en la base. Si los estribos no son lo suficientemente pesados o no están contrafuertes, las paredes se abrirán y el arco colapsará.
 - **Asimetría**: Si la carga no está equilibrada, el arco puede fallar.
 - **Riesgo de Construcción**: Retirar la cimbra es el momento más peligroso; si el mortero no ha fraguado o la geometría es incorrecta, colapsa inmediatamente.
+- **Luz Limitada**: Aunque fuertes, los arcos de piedra tienen un límite práctico de luz. Para distancias mayores, se prefieren estructuras de acero y cables como los **[Puentes Atirantados](/es/inventions/puente-atirantado)**.

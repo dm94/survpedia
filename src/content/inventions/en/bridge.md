@@ -64,6 +64,7 @@ The structure transfers the load (Dead Load: weight of bridge + Live Load: traff
 - **Arch Bridge**: Roman invention, extremely durable.
 - **Truss Bridge**: Uses triangles (wood or metal) to distribute weight efficiently.
 - **Suspension Bridge**: Allows for the longest spans (e.g., Golden Gate).
+- **[Cable-Stayed Bridge](/en/inventions/cable-stayed-bridge)**: A modern variant with cables connected directly to towers, ideal for medium to long spans.
 - **Cantilever Bridge**: Built using structures that project horizontally into space, supported on only one end.
 - **Movable Bridge**: Drawbridges to allow boat traffic.
 
