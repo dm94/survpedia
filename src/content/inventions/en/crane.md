@@ -5,7 +5,7 @@ materialsUsed: ["wood", "iron", "rope", "steel-cable"]
 
 # Brief description
 
-A crane is a machine equipped with a hoist rope, wire ropes or chains, and sheaves, that can be used both to lift and lower materials and to move them horizontally. It is mainly used for lifting heavy things and transporting them to other places.
+A crane is a machine equipped with a hoist rope, wire ropes or [chains](/en/inventions/chain), and [sheaves](/en/inventions/pulley), that can be used both to lift and lower materials and to move them horizontally. It is mainly used for lifting heavy things and transporting them to other places.
 
 ## Use / Function
 
@@ -18,7 +18,7 @@ A crane is a machine equipped with a hoist rope, wire ropes or chains, and sheav
 
 The crane operates on the principle of mechanical advantage. It uses one or more [simple machines](/en/inventions/simple-machines) to create mechanical advantage and thus move loads beyond the normal capability of a human.
 
-- **Lever:** The jib or beam acts as a [lever](/en/inventions/lever), allowing a smaller force to lift a larger load.
+- **Lever:** The [jib](/en/inventions/jib) or beam acts as a [lever](/en/inventions/lever), allowing a smaller force to lift a larger load.
 - **Pulley:** A system of [pulleys](/en/inventions/pulley) (block and tackle) reduces the force required to lift the load.
 - **Winch:** A [winch](/en/inventions/winch) winds the cable to lift the load.
 - **Counterweight:** A heavy weight on the opposite side of the lifting arm balances the load and prevents tipping.
@@ -27,7 +27,7 @@ The crane operates on the principle of mechanical advantage. It uses one or more
 
 1.  **Base:** Construct a stable base. For a stationary crane, this must be firmly anchored to the ground. For a mobile crane, it needs a wide, heavy chassis.
 2.  **Mast:** Erect a vertical mast (tower) that provides height. This must be strong enough to withstand compression forces.
-3.  **Jib (Arm):** Attach a horizontal or angled arm to the top of the mast. This supports the load.
+3.  **Jib (Arm):** Attach a horizontal or angled [arm](/en/inventions/jib) to the top of the mast. This supports the load.
 4.  **Rotating Mechanism:** Create a pivot point where the mast or jib can rotate to move the load horizontally.
 5.  **Lifting Mechanism:** Install a [pulley](/en/inventions/pulley) at the end of the jib and a [winch](/en/inventions/winch) at the base or on the arm. Thread a strong [rope](/en/materials/rope) or [steel cable](/en/materials/steel-cable) through the pulley.
 6.  **Counterweight:** Add heavy stones or metal weights to the short end of the jib or the back of the base to balance the lifting arm.

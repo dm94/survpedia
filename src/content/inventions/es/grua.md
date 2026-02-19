@@ -5,7 +5,7 @@ materialsUsed: ["wood", "iron", "rope", "cable-de-acero"]
 
 # Breve descripción
 
-Una grúa es una máquina equipada con una cuerda de elevación, cables de alambre o cadenas, y poleas, que se puede utilizar tanto para levantar y bajar materiales como para moverlos horizontalmente. Se utiliza principalmente para levantar cosas pesadas y transportarlas a otros lugares.
+Una grúa es una máquina equipada con una cuerda de elevación, [cables de acero](/es/materials/cable-de-acero) o [cadenas](/es/inventions/cadena), y [poleas](/es/inventions/pulley), que se puede utilizar tanto para levantar y bajar materiales como para moverlos horizontalmente. Se utiliza principalmente para levantar cosas pesadas y transportarlas a otros lugares.
 
 ## Uso / Función
 
