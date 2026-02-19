@@ -41,9 +41,9 @@ Basic to Intermediate.
 ## Materials needed
 
 - **Essential materials**:
-  - Wood (for bars/frame).
-  - Yarn/Thread (warp and weft).
-  - Rope/Cord (for binding and tension).
+  - **[Wood](/en/materials/wood)** (for bars/frame).
+  - **[Yarn](/en/materials/yarn)** or **[Thread](/en/materials/cotton-yarn)** (warp and weft).
+  - **[Rope](/en/materials/plant-fibers)** or Cord (for binding and tension).
 - **Tools**:
   - Knife or Saw (to cut wood).
   - Smooth stick (shuttle).
@@ -54,6 +54,15 @@ Basic to Intermediate.
 - **Warp-Weighted Loom**: Vertical, weights keep warp taut.
 - **Floor Loom**: Horizontal frame with foot pedals (treadles) for faster operation.
 - **Improvements**: Adding a reed (comb) to space threads evenly and beat the weft tighter.
+
+## Relationship with Sewing Machine
+
+The loom and the **[Sewing Machine](/en/inventions/sewing-machine)** represent two distinct stages in textile production:
+
+1.  **Fabric Creation (Loom)**: The loom turns raw **[Yarn](/en/materials/yarn)** into **[Fabric](/en/materials/fabric)** (cloth).
+2.  **Assembly (Sewing Machine)**: The sewing machine turns fabric into finished goods (clothes, bags).
+
+While a loom creates the material, the sewing machine joins pieces of that material to create complex shapes.
 
 ## Limits and risks
 

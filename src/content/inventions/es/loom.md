@@ -41,9 +41,9 @@ Básico a Intermedio.
 ## Materiales necesarios
 
 - **Materiales esenciales**:
-  - Madera (para barras/marco).
-  - Hilo (urdimbre y trama).
-  - Cuerda (para ataduras y tensión).
+  - **[Madera](/es/materials/wood)** (para barras/marco).
+  - **[Hilo](/es/materials/yarn)** (urdimbre y trama).
+  - **[Cuerda](/es/materials/plant-fibers)** (para ataduras y tensión).
 - **Herramientas**:
   - Cuchillo o Sierra (para cortar madera).
   - Palo liso (lanzadera).
@@ -54,6 +54,15 @@ Básico a Intermedio.
 - **Telar de pesas**: Vertical, las pesas mantienen la urdimbre tensa.
 - **Telar de suelo**: Marco horizontal con pedales para una operación más rápida.
 - **Mejoras**: Añadir un peine para espaciar los hilos uniformemente y batir la trama más apretada.
+
+## Relación con la Máquina de Coser
+
+El telar y la **[Máquina de Coser](/es/inventions/sewing-machine)** representan dos etapas distintas en la producción textil:
+
+1.  **Creación de Tela (Telar)**: El telar convierte el **[Hilo](/es/materials/yarn)** crudo en **[Tela](/es/materials/fabric)** (paño).
+2.  **Ensamblaje (Máquina de Coser)**: La máquina de coser convierte la tela en productos terminados (ropa, bolsas).
+
+Mientras que un telar crea el material, la máquina de coser une piezas de ese material para crear formas complejas.
 
 ## Límites y riesgos
 
