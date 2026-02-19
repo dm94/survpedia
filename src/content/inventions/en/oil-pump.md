@@ -46,7 +46,7 @@ Intermediate. Basic metalwork and valve fitting are needed for reliable seals.
 
 ## Variants and improvements
 
-- **Gear pump**: Smooth flow and strong suction for warm oil.
+- **Gear pump**: Smooth flow and strong suction for warm oil. See **[Gear Pump](/en/inventions/gear-pump)**.
 - **Screw pump**: Excellent for very viscous residues.
 - **Double-acting piston**: Increases output without increasing size.
 - **Heated jacket**: Keeps heavy fractions flowing.

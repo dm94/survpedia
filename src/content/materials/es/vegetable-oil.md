@@ -72,3 +72,9 @@ Un líquido viscoso a temperatura ambiente, que generalmente varía en color de 
 - **[Grasa Animal](/es/materials/animal-fat)**: La contraparte animal.
 - **[Jabón](/es/materials/soap)**: Hecho de aceite y álcali.
 - **[Plantas Medicinales](/es/knowledge/medicinal-plants)**: A menudo infusionadas en aceite.
+
+### Inventos relacionados
+
+- **[Lámpara de Aceite](/es/inventions/oil-lamp)**: Combustible principal.
+- **[Bomba de Engranajes](/es/inventions/gear-pump)**: Diseñada para mover aceites viscosos.
+- **[Cojinetes](/es/inventions/bearings)**: Lubricante esencial.

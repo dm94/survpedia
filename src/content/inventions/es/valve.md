@@ -54,7 +54,7 @@ Un dispositivo mecánico que controla el flujo de un fluido (líquido, gas o lod
 ## Invenciones relacionadas
 
 - **[Tuberías](/es/inventions/pipes)**: La red que controlan las válvulas.
-- **[Bomba](/es/inventions/pump)**: Requiere válvulas de retención.
+- **[Bomba](/es/inventions/pump)**: Requiere válvulas de retención. Ver también **[Bomba de Engranajes](/es/inventions/gear-pump)** (requiere válvula de alivio).
 - **[Motor de Vapor](/es/inventions/steam-engine)**: Depende completamente de las válvulas.
 - **[Suministro de Agua](/es/inventions/water-supply)**: Puntos de control.
 - **[Lavabo](/es/inventions/hand-washing-basin)**: Aplicación común (grifo).

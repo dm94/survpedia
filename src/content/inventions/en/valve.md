@@ -54,7 +54,7 @@ A mechanical device that controls the flow of a fluid (liquid, gas, or slurry) b
 ## Related inventions
 
 - **[Pipes](/en/inventions/pipes):** The network valves control.
-- **[Pump](/en/inventions/pump):** Requires check valves.
+- **[Pump](/en/inventions/pump):** Requires check valves. See also **[Gear Pump](/en/inventions/gear-pump)** (requires relief valve).
 - **[Steam Engine](/en/inventions/steam-engine):** Relies entirely on valves.
 - **[Water Supply](/en/inventions/water-supply):** Control points.
 - **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Common application (faucet).

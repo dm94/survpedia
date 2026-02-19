@@ -49,6 +49,7 @@ Las bombas suelen utilizar energía para crear una diferencia de presión (succi
 - **Tornillo de Arquímedes:** Un tornillo dentro de un tubo; excelente para elevar agua distancias cortas (por ejemplo, riego) sin válvulas complejas. Puede ser impulsado por un molino de viento.
 - **Bomba de cadena:** Una cadena continua con cubos o discos que tiran del agua hacia arriba por un tubo.
 - **Bomba de fuerza:** Usa un pistón sólido para empujar el agua bajo presión (buena para combatir incendios).
+- **Bomba de engranajes:** Utiliza dos engranajes giratorios para desplazar fluidos viscosos como aceites. Ver **[Bomba de Engranajes](/es/inventions/gear-pump)**.
 - **Bomba de cuerda:** Versión simple de baja tecnología que usa una cuerda y arandelas.
 
 ## Límites y riesgos

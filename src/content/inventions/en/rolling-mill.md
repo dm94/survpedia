@@ -37,7 +37,7 @@ The rolling mill operates on the principle of **plastic deformation**. The metal
 - **Rolls:** Chilled Cast Iron or Alloy Steel for hardness and wear resistance.
 - **Frame:** Cast Iron or heavy Steel to resist deformation.
 - **Bearings:** Bronze, Brass, or Babbitt metal.
-- **Lubricant:** **[Animal Fat](/en/materials/animal-fat)** or heavy **[Vegetable Oil](/en/materials/vegetable-oil)** for the bearings and neck of the rolls.
+- **Lubricant:** **[Animal Fat](/en/materials/animal-fat)** or heavy **[Vegetable Oil](/en/materials/vegetable-oil)** for the bearings and neck of the rolls. A **[Gear Pump](/en/inventions/gear-pump)** can ensure a constant supply.
 
 ## Variants and improvements
 
@@ -56,6 +56,7 @@ The rolling mill operates on the principle of **plastic deformation**. The metal
 ### Related inventions
 
 - **[Gears](/en/inventions/gears)**
+- **[Gear Pump](/en/inventions/gear-pump)**
 - **[Bearings](/en/inventions/bearings)**
 - **[Flywheel](/en/inventions/flywheel)**
 - **[Steam Engine](/en/inventions/steam-engine)**

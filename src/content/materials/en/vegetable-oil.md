@@ -72,3 +72,9 @@ A viscous liquid at room temperature, usually ranging in color from clear to yel
 - **[Animal Fat](/en/materials/animal-fat)**: The animal counterpart.
 - **[Soap](/en/materials/soap)**: Made from oil and alkali.
 - **[Medicinal Plants](/en/knowledge/medicinal-plants)**: Often infused into oil.
+
+### Related inventions
+
+- **[Oil Lamp](/en/inventions/oil-lamp)**: Main fuel source.
+- **[Gear Pump](/en/inventions/gear-pump)**: Designed to move viscous oils.
+- **[Bearings](/en/inventions/bearings)**: Essential lubricant.

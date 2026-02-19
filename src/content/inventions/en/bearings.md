@@ -70,6 +70,7 @@ Bearings work by separating moving surfaces.
 - **[Axle](/en/inventions/axle)**
 - **[Gears](/en/inventions/gears)**
 - **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Gear Pump](/en/inventions/gear-pump)**
 - **[Lathe](/en/inventions/lathe)**
 
 ### Related materials

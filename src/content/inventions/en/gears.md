@@ -19,6 +19,7 @@ Gears are toothed [wheels](/en/inventions/wheel) designed to mesh with one anoth
 - **Torque Multiplication:** Trading speed for force, essential for heavy lifting, watermills, or milling.
 - **Direction Change:** Transmitting power around corners or reversing rotation.
 - **Precision Timing:** Used in clocks and instruments to maintain exact ratios of movement.
+- **Fluid Pumping:** Used in **[Gear Pumps](/en/inventions/gear-pump)** to move viscous liquids.
 
 ## Operating principle
 
@@ -53,3 +54,16 @@ For example, a small gear driving a larger gear will result in slower rotation b
 - **Alignment:** Misaligned gears will cause noise, vibration, and premature failure.
 - **Breakage:** Excessive load can snap teeth, especially in wooden or cast iron gears.
 - **Safety:** Exposed moving gears are extremely dangerous and can cause severe injury if clothing or limbs get caught.
+
+### Related Inventions
+
+- **[Gear Pump](/en/inventions/gear-pump)**
+- **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Mill](/en/inventions/mill)**
+- **[Mechanical Watch](/en/inventions/mechanical-watch)**
+
+### Related Materials
+
+- **[Steel](/en/materials/steel)**
+- **[Iron](/en/materials/iron)**
+- **[Bronze](/en/materials/bronze)**

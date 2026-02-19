@@ -73,3 +73,9 @@ Purified animal fat is usually white or yellowish, odorless (if rendered well), 
 - **[Soap](/en/materials/soap)**: Made by reacting fat with lye.
 - **[Beeswax](/en/materials/beeswax)**: A cleaner alternative for candles.
 - **[Pine Resin Glue](/en/materials/pine-resin-glue)**: Fat is added to prevent brittleness.
+
+### Related inventions
+
+- **[Candle](/en/inventions/candle)**: Made by dipping wicks in fat.
+- **[Bearings](/en/inventions/bearings)**: Lubricated with animal fat.
+- **[Gear Pump](/en/inventions/gear-pump)**: Uses fat as initial lubricant.

@@ -46,7 +46,7 @@ Intermedio. Se requiere metalurgia básica y ajuste de válvulas para un buen se
 
 ## Variantes y mejoras
 
-- **Bomba de engranajes**: Caudal uniforme y buena succión con aceite tibio.
+- **Bomba de engranajes**: Caudal uniforme y buena succión con aceite tibio. Ver **[Bomba de Engranajes](/es/inventions/gear-pump)**.
 - **Bomba de tornillo**: Excelente para residuos muy viscosos.
 - **Pistón de doble efecto**: Aumenta el caudal sin aumentar el tamaño.
 - **Camisa calefactada**: Mantiene el flujo de fracciones pesadas.

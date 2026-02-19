@@ -70,6 +70,7 @@ Los cojinetes funcionan separando las superficies móviles.
 - **[Eje](/es/inventions/axle)**
 - **[Engranajes](/es/inventions/gears)**
 - **[Laminador](/es/inventions/rolling-mill)**
+- **[Bomba de Engranajes](/es/inventions/gear-pump)**
 - **[Torno](/es/inventions/lathe)**
 
 ### Materiales relacionados

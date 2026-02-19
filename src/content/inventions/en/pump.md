@@ -47,6 +47,7 @@ Pumps typically use energy to create a pressure difference (suction or positive 
 - **Archimedes' Screw:** A screw inside a pipe; excellent for lifting water short distances (e.g., irrigation) without complex valves. Can be driven by a windmill.
 - **Chain Pump:** A continuous chain with buckets or discs pulling water up a tube.
 - **Force Pump:** Uses a solid piston to push water out under pressure (good for firefighting).
+- **Gear Pump:** Uses two rotating gears to displace viscous fluids like oils. See **[Gear Pump](/en/inventions/gear-pump)**.
 - **Rope Pump:** Simple low-tech version using a rope and washers.
 
 ## Limits and risks

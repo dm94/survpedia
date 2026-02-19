@@ -37,7 +37,7 @@ El laminador funciona bajo el principio de **deformación plástica**. El metal 
 - **Rodillos:** Hierro fundido endurecido o acero aleado para dureza y resistencia al desgaste.
 - **Marco:** Hierro fundido o acero pesado para resistir la deformación.
 - **Cojinetes:** Bronce, latón o metal Babbitt.
-- **Lubricante:** **[Grasa Animal](/es/materials/animal-fat)** o **[Aceite Vegetal](/es/materials/vegetable-oil)** pesado para los cojinetes y cuellos de los rodillos.
+- **Lubricante:** **[Grasa Animal](/es/materials/animal-fat)** o **[Aceite Vegetal](/es/materials/vegetable-oil)** pesado para los cojinetes y cuellos de los rodillos. Una **[Bomba de Engranajes](/es/inventions/gear-pump)** puede asegurar un suministro constante.
 
 ## Variantes y mejoras
 
@@ -56,6 +56,7 @@ El laminador funciona bajo el principio de **deformación plástica**. El metal 
 ### Inventos relacionados
 
 - **[Engranajes](/es/inventions/gears)**
+- **[Bomba de Engranajes](/es/inventions/gear-pump)**
 - **[Cojinetes](/es/inventions/bearings)**
 - **[Volante de inercia](/es/inventions/flywheel)**
 - **[Máquina de Vapor](/es/inventions/steam-engine)**

@@ -19,6 +19,7 @@ Los engranajes son [ruedas](/es/inventions/wheel) dentadas diseñadas para encaj
 - **Multiplicación de par motor:** Intercambiar velocidad por fuerza, esencial para elevación pesada, molinos de agua o molienda.
 - **Cambio de dirección:** Transmitir potencia en ángulos o invertir el sentido de rotación.
 - **Sincronización de precisión:** Utilizados en relojes e instrumentos para mantener relaciones exactas de movimiento.
+- **Bombeo de fluidos:** Utilizados en **[Bombas de Engranajes](/es/inventions/gear-pump)** para mover líquidos viscosos.
 
 ## Principio de funcionamiento
 
@@ -53,3 +54,16 @@ Por ejemplo, un engranaje pequeño que mueve a uno más grande resultará en una
 - **Alineación:** Los engranajes mal alineados causarán ruido, vibraciones y fallos prematuros.
 - **Rotura:** Una carga excesiva puede romper los dientes, especialmente en engranajes de madera o hierro fundido.
 - **Seguridad:** Los engranajes en movimiento expuestos son extremadamente peligrosos y pueden causar lesiones graves si la ropa o las extremidades quedan atrapadas.
+
+### Inventos relacionados
+
+- **[Bomba de Engranajes](/es/inventions/gear-pump)**
+- **[Laminador](/es/inventions/rolling-mill)**
+- **[Molino](/es/inventions/mill)**
+- **[Reloj Mecánico](/es/inventions/mechanical-watch)**
+
+### Materiales relacionados
+
+- **[Acero](/es/materials/steel)**
+- **[Hierro](/es/materials/iron)**
+- **[Bronce](/es/materials/bronze)**

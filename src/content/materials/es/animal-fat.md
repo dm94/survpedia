@@ -73,3 +73,9 @@ La grasa animal purificada suele ser blanca o amarillenta, inodora (si está bie
 - **[Jabón](/es/materials/soap)**: Hecho reaccionando grasa con lejía.
 - **[Cera de Abejas](/es/materials/beeswax)**: Una alternativa más limpia para velas.
 - **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Se añade grasa para evitar la fragilidad.
+
+### Inventos relacionados
+
+- **[Vela](/es/inventions/candle)**: Hecha sumergiendo mechas en grasa.
+- **[Cojinetes](/es/inventions/bearings)**: Lubricados con grasa animal.
+- **[Bomba de Engranajes](/es/inventions/gear-pump)**: Utiliza grasa como lubricante inicial.
