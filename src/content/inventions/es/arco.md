@@ -3,8 +3,8 @@ title: Arco
 materialsUsed:
   - piedra
   - ladrillo
-  - concrete
-  - mortar
+  - hormigon
+  - mortero
   - wood
 image: ../../../assets/images/inventions/arco.jpg
 ---

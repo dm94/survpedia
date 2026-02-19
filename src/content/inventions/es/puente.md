@@ -3,12 +3,12 @@ title: Puente
 materialsUsed:
   - wood
   - piedra
-  - rope
+  - soga
   - iron
   - steel
-  - concrete
+  - hormigon
   - ladrillo
-  - mortar
+  - mortero
 image: ../../../assets/images/inventions/puente.jpg
 ---
 
