@@ -65,10 +65,12 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 - **[Horno](/es/inventions/horno):** Necesario para hacer ladrillos y cal.
 - **[Nivel](/es/inventions/level):** Herramienta esencial.
 - **[Moldeado](/es/inventions/moldeado):** Proceso para hacer ladrillos.
+- **[Techado](/es/inventions/roofing):** A menudo soportado por muros de albañilería.
 
 ### Materiales relacionados
 
 - **[Ladrillo](/es/materials/ladrillo)**
+- **[Teja](/es/materials/tile)**
 - **[Mortero](/es/materials/mortero)**
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento)**
 - **[Piedra](/es/materials/piedra)**

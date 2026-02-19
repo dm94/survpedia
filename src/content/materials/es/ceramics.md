@@ -50,7 +50,7 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 - **Loza:** Cocción baja, porosa, común en **[Alfarería](/es/inventions/pottery)**.
 - **Gres:** Más denso y resistente al agua.
 - **Porcelana:** Cocción alta, fina y translúcida.
-- **Cerámica esmaltada:** Contenedores y azulejos impermeables.
+- **Cerámica esmaltada:** Contenedores y **[Tejas/Baldosas](/es/materials/tile)** impermeables.
 
 ### Posibles sustitutos
 
@@ -76,4 +76,5 @@ Es dura y rígida, con superficie mate o lisa. Resiste el calor y muchos químic
 - **[Arcilla](/es/materials/arcilla):** Materia prima principal.
 - **[Vidrio](/es/materials/glass):** Esmaltes y tecnología de horno similar.
 - **[Ladrillo](/es/materials/ladrillo):** Producto de arcilla cocida con proceso similar.
+- **[Teja](/es/materials/tile):** Producto cerámico para cubrir superficies.
 - **[Piedra](/es/materials/piedra):** Alternativa estructural.

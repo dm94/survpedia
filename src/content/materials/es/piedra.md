@@ -45,6 +45,7 @@ La piedra es generalmente dura, fría al tacto y no maleable. Se presenta en var
 
 - Cruda: Como pesas o bloques de construcción simples.
 - Procesada: Tallada en herramientas, armas, artículos decorativos o piedras de molino.
+- **Pizarra:** Dividida en láminas finas para tejas de **[Techado](/es/inventions/roofing)**.
 - Combinada: Con mortero para mampostería.
 
 ### Posibles sustitutos
@@ -64,6 +65,12 @@ La piedra es generalmente dura, fría al tacto y no maleable. Se presenta en var
 - Peligros físicos: Las piedras pesadas pueden causar lesiones por aplastamiento.
 - Polvo: Inhalar polvo de piedra (sílice) durante el corte puede provocar enfermedades pulmonares (silicosis).
 - Bordes afilados: La piedra tallada (como el sílex) puede ser extremadamente afilada y causar cortes profundos.
+
+### Inventos relacionados
+
+- **[Albañilería](/es/inventions/albanileria)**
+- **[Techado](/es/inventions/roofing)**
+- **[Herramientas de piedra](/es/inventions/stone-tools)**
 
 ### Materiales relacionados
 

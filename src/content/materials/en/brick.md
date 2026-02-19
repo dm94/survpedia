@@ -98,6 +98,7 @@ Bricks have high thermal mass (they store heat) but are poor insulators (heat pa
 
 - **[Adobe](/en/materials/adobe):** Unfired brick, sun-dried.
 - **[Clay](/en/materials/clay):** The main raw material.
+- **[Tile](/en/materials/tile):** Similar ceramic building material.
 - **[Mortar](/en/materials/mortar):** Necessary to join bricks.
 - **[Cement Mortar](/en/materials/cement-mortar):** The standard mortar for modern fired bricks.
 - **[Ceramics](/en/materials/ceramics):** Material related by the firing process.

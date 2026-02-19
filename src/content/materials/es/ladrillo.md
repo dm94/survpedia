@@ -97,6 +97,7 @@ El ladrillo tiene una alta masa térmica (almacena calor) pero es un mal aislant
 
 - **[Adobe](/es/materials/adobe):** Ladrillo sin cocer, secado al sol.
 - **[Arcilla](/es/materials/arcilla):** La materia prima principal.
+- **[Teja](/es/materials/tile):** Material de construcción cerámico similar.
 - **[Mortero](/es/materials/mortero):** Necesario para unir los ladrillos.
 - **[Mortero de Cemento](/es/materials/mortero-de-cemento):** El mortero estándar para ladrillos cocidos modernos.
 - **[Cerámica](/es/materials/ceramics):** Material relacionado por proceso de cocción.

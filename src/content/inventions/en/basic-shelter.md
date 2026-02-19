@@ -43,3 +43,8 @@ It uses materials with low thermal conductivity for insulation and rigid materia
 - **Fire:** Materials are usually highly flammable.
 - **Collapse:** A poor structure can fall under the weight of snow or strong wind.
 - **Moisture:** Without good ventilation, mold or condensation can accumulate.
+
+### Related inventions
+
+- **[Roofing](/en/inventions/roofing)**
+- **[Masonry](/en/inventions/masonry)**

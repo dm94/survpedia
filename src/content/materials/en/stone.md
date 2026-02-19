@@ -45,6 +45,7 @@ Stone is generally hard, cold to the touch, and non-malleable. It comes in vario
 
 - Raw: As weights or simple building blocks.
 - Processed: Carved into tools, weapons, decorative items, or millstones.
+- **Slate:** Split into thin sheets for **[Roofing](/en/inventions/roofing)** tiles.
 - Combined: With mortar for masonry.
 
 ### Possible substitutes
@@ -64,6 +65,12 @@ Stone is generally hard, cold to the touch, and non-malleable. It comes in vario
 - Physical hazards: Heavy stones can cause crushing injuries.
 - Dust: Inhaling stone dust (silica) during cutting can lead to lung disease (silicosis).
 - Sharp edges: Knapped stone (like flint) can be extremely sharp and cause deep cuts.
+
+### Related inventions
+
+- **[Masonry](/en/inventions/masonry)**
+- **[Roofing](/en/inventions/roofing)**
+- **[Stone Tools](/en/inventions/stone-tools)**
 
 ### Related materials
 

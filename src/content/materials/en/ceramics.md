@@ -50,7 +50,7 @@ Ceramics are hard and rigid with a smooth or matte surface. They resist heat and
 - **Earthenware:** Low-fire, porous, common for **[Pottery](/en/inventions/pottery)**.
 - **Stoneware:** Denser and more water-resistant.
 - **Porcelain:** High-fire, fine and translucent.
-- **Glazed ceramics:** Waterproof containers and tiles.
+- **Glazed ceramics:** Waterproof containers and **[Tiles](/en/materials/tile)**.
 
 ### Possible substitutes
 
@@ -76,4 +76,5 @@ Ceramics are hard and rigid with a smooth or matte surface. They resist heat and
 - **[Clay](/en/materials/clay):** Primary raw material.
 - **[Glass](/en/materials/glass):** Glaze and related kiln technology.
 - **[Brick](/en/materials/brick):** Fired clay product with similar process.
+- **[Tile](/en/materials/tile):** Ceramic product for covering surfaces.
 - **[Stone](/en/materials/stone):** Structural alternative.

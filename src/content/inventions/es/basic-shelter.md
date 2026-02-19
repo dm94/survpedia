@@ -43,3 +43,8 @@ Utiliza materiales con baja conductividad térmica para el aislamiento y materia
 - **Incendio:** Los materiales suelen ser muy inflamables.
 - **Colapso:** Una mala estructura puede caer por peso de nieve o viento fuerte.
 - **Humedad:** Si no hay buena ventilación, puede acumularse moho o condensación.
+
+### Inventos relacionados
+
+- **[Techado](/es/inventions/roofing)**
+- **[Albañilería](/es/inventions/albanileria)**

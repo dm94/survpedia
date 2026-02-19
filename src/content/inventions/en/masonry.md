@@ -65,10 +65,12 @@ Masonry relies on **compression** and **gravity**. The individual units (bricks 
 - **[Kiln](/en/inventions/kiln):** Needed to make bricks and lime.
 - **[Level](/en/inventions/level):** Essential tool.
 - **[Molding](/en/inventions/molding):** Process to make bricks.
+- **[Roofing](/en/inventions/roofing):** Often supported by masonry walls.
 
 ### Related materials
 
 - **[Brick](/en/materials/brick)**
+- **[Tile](/en/materials/tile)**
 - **[Mortar](/en/materials/mortar)**
 - **[Cement Mortar](/en/materials/cement-mortar)**
 - **[Stone](/en/materials/stone)**
