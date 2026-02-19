@@ -41,7 +41,7 @@ A waterproof receptacle for holding liquids, usually water. Cisterns are often b
 ## Variants and improvements
 
 - **Ferrocement Tank:** Thin shell of mortar reinforced with chicken wire. Very strong and cheap.
-- **Rain Barrel:** Simple collection from a downspout into a barrel.
+- **Rain Barrel:** Simple collection from a downspout into a **[Barrel](/en/inventions/barrel)**.
 - **Impluvium:** Roman style pool in a courtyard to catch rain.
 
 ## Limits and risks

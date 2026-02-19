@@ -41,7 +41,7 @@ Un receptáculo impermeable para contener líquidos, generalmente agua. Las cist
 ## Variantes y mejoras
 
 - **Tanque de ferrocemento:** Cáscara delgada de mortero reforzada con malla de gallinero. Muy fuerte y barato.
-- **Barril de lluvia:** Recolección simple desde un bajante a un barril.
+- **Barril de Lluvia:** Recolección simple de una bajante en un **[Barril](/es/inventions/barrel)**.
 - **Impluvium:** Piscina de estilo romano en un patio para captar lluvia.
 
 ## Límites y riesgos
@@ -53,7 +53,7 @@ Un receptáculo impermeable para contener líquidos, generalmente agua. Las cist
 
 ## Inventos relacionados
 
-- **[Canalón](/es/inventions/cuneta):** Mecanismo de recolección.
+- **[Canalón](/es/inventions/gutter):** Mecanismo de recolección.
 - **[Filtro de Agua](/es/inventions/filtro-agua):** Tratamiento posterior esencial.
 - **[Abastecimiento de Agua](/es/inventions/abastecimiento-agua):** Alternativa al suministro centralizado.
 - **[Hormigón](/es/materials/hormigon):** Material común.

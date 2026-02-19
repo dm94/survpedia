@@ -31,7 +31,7 @@ Un sistema integral diseñado para captar, tratar, almacenar y distribuir agua a
 1.  **Identificación de la fuente:** Encontrar una fuente de agua confiable (superficial o subterránea) con cantidad suficiente.
 2.  **Estructura de toma:** Construir una estructura para extraer agua minimizando sedimentos y escombros (rejillas, tomas).
 3.  **Transporte:** Construir una línea por gravedad o bombeo hacia el asentamiento.
-4.  **Almacenamiento:** Construir una torre de agua o cisterna elevada. La altura proporciona presión hidrostática para la red de distribución.
+4.  **Almacenamiento:** Construir una torre de agua o **[Cisterna](/es/inventions/cistern)** elevada. La altura proporciona presión hidrostática para la red de distribución.
 5.  **Red de distribución:** Trazar una cuadrícula de tuberías. Usar un diseño en "bucle" o malla en lugar de "ramal" para evitar estancamiento y asegurar el suministro si una sección se rompe.
 
 ## Materiales necesarios
@@ -61,3 +61,4 @@ Un sistema integral diseñado para captar, tratar, almacenar y distribuir agua a
 - **[Filtro de Agua](/es/inventions/filtro-agua):** Componente de tratamiento.
 - **[Alcantarillado](/es/inventions/alcantarillado):** La contraparte de salida.
 - **[Lavamanos](/es/inventions/lavamanos):** Interfaz de higiene.
+- **[Cisterna](/es/inventions/cisterna):** Componente de almacenamiento.

@@ -31,7 +31,7 @@ A comprehensive system designed to collect, treat, store, and distribute water t
 1.  **Source Identification:** Find a reliable water source (surface or underground) with sufficient quantity.
 2.  **Intake Structure:** Build a structure to draw water while minimizing sediment and debris (screens, cribs).
 3.  **Transport:** Construct a gravity-fed or pumped line to the settlement.
-4.  **Storage:** Build a water tower or elevated cistern. The height provides hydrostatic pressure for the distribution network.
+4.  **Storage:** Build a water tower or elevated **[Cistern](/en/inventions/cistern)**. The height provides hydrostatic pressure for the distribution network.
 5.  **Distribution Network:** Lay a grid of pipes. Use a "loop" layout rather than a "branch" layout to prevent stagnation and ensure supply if one section breaks.
 
 ## Materials needed
@@ -61,3 +61,4 @@ A comprehensive system designed to collect, treat, store, and distribute water t
 - **[Water Filter](/en/inventions/water-filter):** Treatment component.
 - **[Sewage System](/en/inventions/sewage-system):** The output counterpart.
 - **[Hand Washing Basin](/en/inventions/hand-washing-basin):** Hygiene interface.
+- **[Cistern](/en/inventions/cistern):** Storage component.
