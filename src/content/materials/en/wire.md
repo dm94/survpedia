@@ -72,5 +72,6 @@ A long, thin, flexible metal cylinder. It can be bent easily without breaking (d
 ### Related materials
 
 - **[Steel](/en/materials/steel):** Common material for structural wire.
+- **[Reinforced Concrete](/en/materials/reinforced-concrete):** Wire is used to tie **[Rebar](/en/materials/rebar)**.
 - **[Copper](/en/materials/copper):** Common for electrical wire.
 - **[Rope](/en/materials/rope):** Non-metallic alternative.

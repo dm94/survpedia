@@ -69,6 +69,7 @@ Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unli
 ### Related materials
 
 - **[Iron](/en/materials/iron)**: Base metal for steelmaking.
+- **[Reinforced Concrete](/en/materials/reinforced-concrete)**: Steel is used as reinforcement (**[Rebar](/en/materials/rebar)**) in concrete.
 - **[Coal](/en/materials/coal)**: Carbon source for smelting and refining.
 - **[Bronze](/en/materials/bronze)**: Alternative tool alloy with different properties.
 

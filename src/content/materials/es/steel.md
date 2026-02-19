@@ -71,7 +71,7 @@ El acero es un metal duro, fuerte y grisáceo. Puede pulirse hasta obtener un gr
 ### Materiales relacionados
 
 - **[Hierro](/es/materials/iron)**: Metal base para la producción de acero.
-- **[Hormigón Armado](/es/materials/hormigon-armado)**: El acero se usa como refuerzo (varilla) en el hormigón.
+- **[Hormigón Armado](/es/materials/hormigon-armado)**: El acero se usa como refuerzo (**[Varilla](/es/materials/barra-de-refuerzo)**) en el hormigón.
 - **[Carbón](/es/materials/coal)**: Fuente de carbono para fundición y refinado.
 - **[Bronce](/es/materials/bronze)**: Aleación alternativa para herramientas.
 

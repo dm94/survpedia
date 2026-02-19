@@ -16,11 +16,11 @@ uses:
   - Búnkeres
   - Cimientos
 naturalAvailability: false
-manufacturingProcess: Colar hormigón alrededor de barras de refuerzo de acero (varilla).
+manufacturingProcess: Colar hormigón alrededor de barras de refuerzo de acero (**[Varilla](/es/materials/barra-de-refuerzo)**).
 category: synthetic
 ---
 
-Un material compuesto en el que la resistencia a la tracción y ductilidad relativamente bajas del **[Hormigón](/es/materials/hormigon)** se contrarrestan mediante la inclusión de un refuerzo que tiene mayor resistencia a la tracción o ductilidad, generalmente varillas de **[Acero](/es/materials/steel)**.
+Un material compuesto en el que la resistencia a la tracción y ductilidad relativamente bajas del **[Hormigón](/es/materials/hormigon)** se contrarrestan mediante la inclusión de un refuerzo que tiene mayor resistencia a la tracción o ductilidad, generalmente **[Varillas](/es/materials/barra-de-refuerzo)** de **[Acero](/es/materials/steel)**.
 
 ## Descripción de cómo es
 
@@ -35,7 +35,7 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 ### Procesamiento mínimo requerido
 
 1.  **Encofrado:** Construir moldes (generalmente de madera o acero) para definir la forma de la estructura.
-2.  **Armadura:** Cortar, doblar y atar barras de **[Acero](/es/materials/steel)** (varilla) en una jaula o malla. Colocarla dentro de los moldes, asegurando el espaciado adecuado desde los bordes (recubrimiento).
+2.  **Armadura:** Cortar, doblar y atar barras de **[Acero](/es/materials/steel)** (**[Varilla](/es/materials/barra-de-refuerzo)**) en una jaula o malla. Colocarla dentro de los moldes, asegurando el espaciado adecuado desde los bordes (recubrimiento).
 3.  **Mezclado:** Preparar **[Hormigón](/es/materials/hormigon)** (cemento, arena, agregado, agua).
 4.  **Vertido:** Verter el hormigón húmedo en los moldes, rodeando el acero completamente.
 5.  **Consolidación:** Vibrar la mezcla para eliminar bolsas de aire y asegurar que se adhiera al acero.
@@ -43,7 +43,7 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 
 ### Herramientas necesarias para trabajarlo
 
-- **Herramientas de Acero:** Corta pernos o amoladoras para cortar varilla; **[Alicates](/es/inventions/pliers)** para atar alambre.
+- **Herramientas de Acero:** Corta pernos o amoladoras para cortar **[Varilla](/es/materials/barra-de-refuerzo)**; **[Alicates](/es/inventions/pliers)** para atar alambre.
 - **Herramientas de Carpintería:** **[Sierras](/es/inventions/saw)** y **[Martillos](/es/inventions/hammer)** para construir encofrados.
 - **Herramientas de Hormigón:** **[Pala](/es/inventions/shovel)**, **[Hormigonera](/es/inventions/hormigonera)**, vibradores y llanas.
 
@@ -70,12 +70,13 @@ Aparece como una superficie de hormigón gris estándar, pero en su interior con
 ### Riesgos y seguridad
 
 - **Colapso:** La colocación incorrecta de la armadura puede llevar a fallos estructurales catastróficos.
-- **Empalamiento:** La varilla vertical expuesta es un peligro mayor en sitios de construcción (requiere tapas).
+- **Empalamiento:** La **[Varilla](/es/materials/barra-de-refuerzo)** vertical expuesta es un peligro mayor en sitios de construcción (requiere tapas).
 - **Polvo de Sílice:** Cortar hormigón curado libera polvo peligroso.
 
 ### Materiales relacionados
 
 - **[Hormigón](/es/materials/hormigon):** La matriz.
-- **[Acero](/es/materials/steel):** El refuerzo.
+- **[Barra de Refuerzo](/es/materials/barra-de-refuerzo):** El refuerzo.
+- **[Acero](/es/materials/steel):** El material del refuerzo.
 - **[Cemento](/es/materials/cemento):** El aglomerante.
-- **[Alambre](/es/materials/wire):** Usado para atar varilla.
+- **[Alambre](/es/materials/wire):** Usado para atar **[Varilla](/es/materials/barra-de-refuerzo)**.

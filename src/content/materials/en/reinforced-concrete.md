@@ -16,11 +16,11 @@ uses:
   - Bunkers
   - Foundations
 naturalAvailability: false
-manufacturingProcess: Casting concrete around steel reinforcement bars (rebar).
+manufacturingProcess: Casting concrete around steel reinforcement bars (**[Rebar](/en/materials/rebar)**).
 category: synthetic
 ---
 
-A composite material in which **[Concrete](/en/materials/concrete)**'s relatively low tensile strength and ductility are counteracted by the inclusion of reinforcement having higher tensile strength or ductility, usually **[Steel](/en/materials/steel)** rebar.
+A composite material in which **[Concrete](/en/materials/concrete)**'s relatively low tensile strength and ductility are counteracted by the inclusion of reinforcement having higher tensile strength or ductility, usually **[Steel](/en/materials/steel)** **[Rebar](/en/materials/rebar)**.
 
 ## Description of what it is like
 
@@ -35,7 +35,7 @@ It appears as a standard grey concrete surface, but inside it contains a skeleto
 ### Minimum processing required
 
 1.  **Formwork:** Build molds (usually wood or steel) to define the shape of the structure.
-2.  **Reinforcement:** Cut, bend, and tie **[Steel](/en/materials/steel)** bars (rebar) into a cage or mesh. Place it inside the forms, ensuring proper spacing from the edges (cover).
+2.  **Reinforcement:** Cut, bend, and tie **[Steel](/en/materials/steel)** bars (**[Rebar](/en/materials/rebar)**) into a cage or mesh. Place it inside the forms, ensuring proper spacing from the edges (cover).
 3.  **Mixing:** Prepare **[Concrete](/en/materials/concrete)** (cement, sand, aggregate, water).
 4.  **Pouring:** Pour the wet concrete into the forms, surrounding the steel completely.
 5.  **Consolidation:** Vibrate the mix to remove air pockets and ensure it bonds with the steel.
@@ -43,7 +43,7 @@ It appears as a standard grey concrete surface, but inside it contains a skeleto
 
 ### Tools needed to work on it
 
-- **Steel Tools:** Bolt cutters or grinders to cut rebar; pliers to tie wire.
+- **Steel Tools:** Bolt cutters or grinders to cut **[Rebar](/en/materials/rebar)**; pliers to tie wire.
 - **Carpentry Tools:** Saws and hammers to build formwork.
 - **Concrete Tools:** **[Shovel](/en/inventions/shovel)**, **[Mixer](/en/inventions/concrete-mixer)**, vibrators, and trowels.
 
@@ -69,13 +69,14 @@ It appears as a standard grey concrete surface, but inside it contains a skeleto
 
 ### Risks and safety
 
-- **Collapse:** Improper placement of rebar can lead to catastrophic structural failure.
-- **Impacement:** Exposed vertical rebar is a major hazard on construction sites (requires caps).
+- **Collapse:** Improper placement of **[Rebar](/en/materials/rebar)** can lead to catastrophic structural failure.
+- **Impacement:** Exposed vertical **[Rebar](/en/materials/rebar)** is a major hazard on construction sites (requires caps).
 - **Silica Dust:** Cutting cured concrete releases dangerous dust.
 
 ### Related materials
 
 - **[Concrete](/en/materials/concrete):** The matrix.
-- **[Steel](/en/materials/steel):** The reinforcement.
+- **[Rebar](/en/materials/rebar):** The reinforcement.
+- **[Steel](/en/materials/steel):** The material of the reinforcement.
 - **[Cement](/en/materials/cement):** The binder.
-- **[Wire](/en/materials/wire):** Used to tie rebar.
+- **[Wire](/en/materials/wire):** Used to tie **[Rebar](/en/materials/rebar)**.
