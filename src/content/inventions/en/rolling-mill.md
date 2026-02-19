@@ -29,8 +29,8 @@ The rolling mill operates on the principle of **plastic deformation**. The metal
 1.  **Frame Construction:** Build a heavy, rigid **[Frame](/en/inventions/frame)** (usually cast iron or steel) to withstand the immense separating forces generated during rolling.
 2.  **Roll Preparation:** Create two cylinders (rolls) from a hard material like **[Iron](/en/materials/iron)** or **[Steel](/en/materials/steel)**. They must be smooth and harder than the material being rolled.
 3.  **Mounting:** Mount the rolls in the frame using heavy-duty **[Bearings](/en/inventions/bearings)** (bronze or brass) to allow them to rotate freely under load.
-4.  **Drive Mechanism:** Connect the rolls to a power source (water wheel, steam engine) using **[Gears](/en/inventions/gears)**. The rolls must rotate at the same speed but in opposite directions.
-5.  **Adjustment Mechanism:** Install large screws on top of the frame to adjust the gap between the rolls (screw-down mechanism).
+4.  **Drive Mechanism:** Connect the rolls to a power source (water wheel, steam engine) using a **[Gear](/en/inventions/gears)** system known as a **Pinion Stand**. The rolls must rotate at the same speed but in opposite directions. The gears also provide the necessary torque multiplication to deform the metal.
+5.  **Adjustment Mechanism:** Install large screws on the top of the frame to adjust the gap between the rolls (screw-down mechanism).
 
 ## Materials needed
 

@@ -15,7 +15,7 @@ A flywheel is a mechanical device specifically designed to efficiently store rot
 
 - **Energy Storage:** Stores kinetic energy to be used when the energy source is intermittent.
 - **Smoothing Rotation:** Reduces fluctuations in rotational speed in systems like engines or [potter's wheels](/en/inventions/potters-wheel).
-- **Power Delivery:** Delivers high power pulses (e.g., in punch presses) that exceed the power of the driving motor.
+- **Power Delivery:** Delivers high power pulses (e.g., in punch presses or **[Rolling Mills](/en/inventions/rolling-mill)**) that momentarily exceed the power of the driving motor.
 
 ## Operating principle
 
@@ -44,3 +44,16 @@ When energy is added to the system, the flywheel speeds up, storing that energy.
 - **Bursting:** At very high speeds, the centrifugal force can exceed the tensile strength of the material, causing the flywheel to explode.
 - **Weight:** Heavy flywheels require strong supports and axles.
 - **Gyroscopic Effect:** A spinning flywheel resists changing its orientation, which can be useful (gyroscopes) or problematic (vehicle handling).
+
+### Related Inventions
+
+- **[Steam Engine](/en/inventions/steam-engine)**
+- **[Potter's Wheel](/en/inventions/potters-wheel)**
+- **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Gears](/en/inventions/gears)**
+
+### Related Materials
+
+- **[Iron](/en/materials/iron)**
+- **[Lead](/en/materials/lead)**
+- **[Stone](/en/materials/stone)**

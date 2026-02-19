@@ -48,3 +48,10 @@ The water wheel uses the kinetic energy (flow) or potential energy (height) of w
 - **Location:** Strictly dependent on a reliable water source with flow or head.
 - **Freezing:** Can freeze in winter, stopping production.
 - **Flooding:** High water levels can submerge or destroy the wheel.
+
+### Related Inventions
+
+- **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Gears](/en/inventions/gears)**
+- **[Pump](/en/inventions/pump)**
+- **[Mill](/en/inventions/mill)**

@@ -16,8 +16,8 @@ Gears are toothed [wheels](/en/inventions/wheel) designed to mesh with one anoth
 ## Use / Function
 
 - **Speed Conversion:** Increasing or decreasing the rotational speed of a mechanism.
-- **Torque Multiplication:** Trading speed for force, essential for heavy lifting, watermills, or milling.
-- **Direction Change:** Transmitting power around corners or reversing rotation.
+- **Torque Multiplication:** Trading speed for force, essential for heavy lifting, **[Rolling Mills](/en/inventions/rolling-mill)**, or grain milling.
+- **Direction Change:** Transmitting power around corners or reversing rotation (e.g., to make two rolls spin in opposite directions).
 - **Precision Timing:** Used in clocks and instruments to maintain exact ratios of movement.
 - **Fluid Pumping:** Used in **[Gear Pumps](/en/inventions/gear-pump)** to move viscous liquids.
 

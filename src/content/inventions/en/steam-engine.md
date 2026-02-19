@@ -54,3 +54,10 @@ The core principle involves heating water to create steam in a confined space (t
 - **Efficiency:** Much of the energy is lost as waste heat.
 - **Maintenance:** High pressure and heat cause significant wear on seals and moving parts.
 - **Water Quality:** Impurities in water can lead to corrosion and dangerous buildup in the boiler.
+
+### Related Inventions
+
+- **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Gears](/en/inventions/gears)**
+- **[Pump](/en/inventions/pump)**
+- **[Rail](/en/inventions/rail)**
