@@ -58,3 +58,16 @@ La armadura funciona a través de la **estabilidad geométrica del triángulo**.
 - **Falla de la Unión**: Los nudos son los puntos más débiles; si un perno se corta o una soldadura se agrieta, toda la estructura puede colapsar.
 - **Corrosión**: El óxido en las armaduras de metal o la podredumbre en las de madera pueden comprometer la integridad estructural.
 - **Carga Inadecuada**: Las armaduras están diseñadas para cargas en los nudos; colgar pesos pesados del centro de un elemento puede causar fallas.
+
+### Inventos relacionados
+
+- **[Armazón](/es/inventions/frame)**
+- **[Techado](/es/inventions/roofing)**
+- **[Puente](/es/inventions/bridge)**
+- **[Edificio](/es/inventions/building)**
+
+### Materiales relacionados
+
+- **[Madera](/es/materials/wood)**
+- **[Acero](/es/materials/steel)**
+- **[Hierro](/es/materials/iron)**

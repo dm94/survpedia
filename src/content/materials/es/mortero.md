@@ -1,86 +1,97 @@
 ---
 title: Mortero
 composition:
-  - arena
+  - sand
+  - lime
+  - cement
   - water
-  - cal
-  - arcilla
 properties:
   - Adhesión
   - Plasticidad
-  - Impermeabilidad (variable)
-  - Resistencia
+  - Resistencia a la compresión
+  - Durabilidad
 uses:
-  - Unión de ladrillos y piedras
-  - Revestimiento de paredes (enfoscado)
-  - Suelos
+  - Unión de albañilería
+  - Enlucido
+  - Asiento de tejas
+  - Revestimiento
 naturalAvailability: false
-manufacturingProcess: >-
-  Mezcla de un aglomerante (cal, arcilla, cemento) con árido fino (arena) y
-  agua.
+manufacturingProcess: Mezcla de arena, un aglutinante (cal, cemento o arcilla) y agua.
 category: synthetic
-image: ../../../assets/images/materials/mortero.jpg
 ---
 
-El mortero es una mezcla plástica que se endurece con el tiempo, utilizada en construcción para unir **[ladrillos](/es/materials/ladrillo)**, piedras o bloques de **[hormigón](/es/materials/hormigon)**, y para rellenar los espacios entre ellos. También se usa para revestir paredes.
+# Breve descripción
+
+El mortero es una pasta trabajable utilizada para unir bloques de construcción como **[Piedra](/es/materials/stone)**, **[Ladrillo](/es/materials/brick)** y unidades de mampostería de hormigón, llenar y sellar los huecos irregulares entre ellos y, a veces, agregar colores o patrones decorativos a las paredes de mampostería. A diferencia del hormigón, el mortero no está diseñado para ser un material estructural en sí mismo, sino más bien el "pegamento" que mantiene unida la estructura.
 
 ## Descripción de cómo es
 
-En estado fresco, es una pasta grisácea o arenosa, moldeable y pegajosa. Al endurecerse, se convierte en un material sólido y rígido, similar a la piedra artificial, aunque generalmente menos resistente que los materiales que une.
+- **Apariencia:** Una pasta espesa y arenosa cuando está mojada; dura y similar a la piedra cuando está seca. El color depende de la arena y el aglutinante (generalmente gris, blanco o beige).
+- **Textura:** Arenosa y plástica (moldeable) cuando está mojada; rugosa y sólida cuando está curada.
+- **Trabajabilidad:** Debe poder extenderse con una paleta pero ser lo suficientemente rígido para soportar el peso de la unidad de mampostería hasta que fragüe.
 
 ## Origen y dónde encontrarlo
 
-Es un material compuesto fabricado in situ.
+- **Origen:** Material compuesto artificial.
+- **Historia:** Los antiguos egipcios usaban mortero de yeso; griegos y romanos usaban mortero de cal (agregando ceniza volcánica para el fraguado bajo el agua, creando mortero puzolánico).
+- **Disponibilidad:** Hecho de materias primas ampliamente disponibles (**[Arena](/es/materials/sand)**, **[Cal](/es/materials/lime)**, **[Agua](/es/materials/water)**).
 
-- **[Arena](/es/materials/arena):** Debe estar limpia y libre de materia orgánica o sal.
-- **Aglomerante:** Puede ser **[cal](/es/materials/cal)**, **[arcilla](/es/materials/arcilla)** (barro), **[yeso](/es/materials/gypsum)** o **[cemento](/es/materials/cemento)**.
-- **[Agua](/es/materials/water):** Limpia.
+### Procesamiento mínimo requerido
 
-### Procesamiento mínimo necesario
+1.  **Abastecimiento:** Recolectar arena limpia (arena de río, no de mar debido a la sal) y un aglutinante.
+2.  **Preparación:**
+    - _Mortero de Cal:_ Quemar piedra caliza para crear cal viva, apagarla con agua para obtener pasta de cal, luego mezclar con arena.
+    - _Mortero de Barro:_ Mezclar tierra rica en arcilla con arena y agua (y a veces paja picada).
+    - _Mortero de Cemento:_ Mezclar cemento Portland, cal (para plasticidad), arena y agua.
+3.  **Mezcla:** Combinar los ingredientes a fondo hasta lograr una consistencia uniforme y mantecosa. Usar inmediatamente.
 
-1.  **Tamizado:** La arena debe tamizarse para eliminar piedras grandes.
-2.  **Apagado (si se usa cal):** La cal viva debe hidratarse cuidadosamente antes de su uso.
-3.  **Mezclado:** Mezclar el aglomerante y la arena en seco hasta que el color sea uniforme.
-4.  **Hidratación:** Añadir agua gradualmente y mezclar hasta obtener una consistencia trabajable (ni muy líquida ni muy seca).
+### Herramientas necesarias para trabajar en él
 
-### Herramientas necesarias para trabajarlo
-
-- **Artesa o carretilla:** Para realizar la mezcla.
-- **Azada o pala:** Para mezclar.
-- **Llana y paleta:** Para aplicar y extender el mortero sobre los ladrillos o paredes.
+- **Paleta:** Para aplicar y dar forma al mortero.
+- **Gavilán:** Una tabla plana para sostener un suministro de mortero mientras se trabaja.
+- **Mezcladora/Azada:** Para mezclar los ingredientes.
+- **Llaguero:** Para terminar las juntas de mortero entre ladrillos/piedras.
 
 ### Formas comunes de uso
 
-- **Mortero de barro:** **[Arcilla](/es/materials/arcilla)** + **[Arena](/es/materials/arena)** + **[Paja](/es/materials/paja)**. El más antiguo y fácil de hacer, pero vulnerable al agua.
-- **Mortero de cal:** **[Cal](/es/materials/cal)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Resistente, transpirable y flexible. Se "autocura" con el tiempo.
-- **[Mortero de cemento](/es/materials/mortero-de-cemento):** **[Cemento](/es/materials/cemento)** + **[Arena](/es/materials/arena)** + **[Agua](/es/materials/water)**. Muy duro y resistente, impermeable, pero rígido (puede agrietarse si el edificio se mueve).
-- **Mortero bastardo:** Mezcla de cal y cemento para combinar propiedades.
+- **Asiento:** La capa de mortero debajo de un ladrillo o piedra.
+- **Rejuntado (Pointing):** El borde exterior visible de la junta de mortero, con forma para repeler el agua.
+- **Lechada:** Llenar huecos o vacíos estrechos.
+- **Revestimiento/Estuco:** Recubrir toda la superficie de una pared para protección y estética.
+- **Asiento para Techado:** Asegurar tejas de cumbrera o sellar huecos en **[Techado](/es/inventions/roofing)**.
 
 ### Posibles sustitutos
 
-- **Barro simple:** Para construcciones temporales o en climas muy secos.
-- **[Yeso](/es/materials/gypsum):** Para interiores (no resiste la humedad).
-- **[Betún](/es/materials/bitumen)/[Asfalto](/es/materials/asphalt):** Usado antiguamente en Mesopotamia para impermeabilizar y unir ladrillos.
+- **Barro/Arcilla:** El aglutinante más antiguo, todavía usado en construcción de adobe (susceptible al agua).
+- **Betún/Alquitrán:** Históricamente usado en Babilonia para impermeabilización.
+- **Pila Seca:** Construir sin mortero (requiere dar forma experta a las piedras).
+- **Pegamento/Adhesivos:** Adhesivos de construcción modernos para bloques específicos (ej. hormigón celular).
 
-### Limitaciones y fallos comunes
+### Limitaciones y fallas comunes
 
-- **Secado rápido:** Si se seca demasiado rápido (al sol directo), se agrieta y pierde fuerza. Debe mantenerse húmedo durante el curado.
-- **Proporción incorrecta:** Demasiada arena hace que se desmorone; demasiado aglomerante lo hace encogerse y agrietarse.
-- **Incompatibilidad:** Usar mortero de cemento (muy duro) en edificios antiguos de ladrillo blando o piedra puede dañar los ladrillos (el mortero debe ser siempre más blando que el ladrillo).
+- **Agrietamiento:** La contracción durante el secado o el movimiento del edificio puede causar grietas.
+- **Daño por Agua:** Los ciclos de congelación y descongelación pueden destruir el mortero si el agua entra.
+- **Desajuste de Resistencia:** El mortero generalmente debe ser _más débil_ que las unidades de mampostería para que, si el edificio se mueve, el mortero se agriete (fácil de reparar) en lugar de los ladrillos/piedras (difícil de reemplazar).
+- **Tiempo de Fraguado:** Debe usarse antes de que comience a endurecerse.
 
 ### Riesgos y seguridad
 
-- **Quemaduras químicas:** La cal y el cemento son alcalinos y pueden quemar la piel y los ojos. Usar guantes.
-- **Polvo:** Inhalar polvo de cal o sílice (arena) es peligroso.
+- **Quemaduras Químicas:** La cal y el cemento son altamente alcalinos (cáusticos) y pueden causar quemaduras graves en la piel y daños en los ojos. Usar guantes y gafas.
+- **Polvo:** Mezclar ingredientes secos crea polvo que es dañino para inhalar.
 
 ### Inventos relacionados
 
-- **[Albañilería](/es/inventions/albanileria):** El oficio de usar mortero.
-- **[Cocción](/es/inventions/coccion):** Proceso para crear los aglomerantes.
+- **[Albañilería](/es/inventions/albanileria)**
+- **[Cimientos](/es/inventions/cimientos)**
+- **[Muro](/es/inventions/wall)**
+- **[Techado](/es/inventions/roofing)**
+- **[Horno](/es/inventions/kiln)** (para producir cal/cemento)
 
 ### Materiales relacionados
 
-- **[Cemento](/es/materials/cemento):** Aglomerante moderno común.
-- **[Cal](/es/materials/cal):** Aglomerante tradicional.
-- **[Ladrillo](/es/materials/ladrillo):** Material que suele unir.
-- **[Hormigón](/es/materials/hormigon):** Similar pero con grava.
+- **[Arena](/es/materials/sand)**
+- **[Cal](/es/materials/lime)**
+- **[Cemento](/es/materials/cement)**
+- **[Agua](/es/materials/water)**
+- **[Ladrillo](/es/materials/brick)**
+- **[Piedra](/es/materials/stone)**

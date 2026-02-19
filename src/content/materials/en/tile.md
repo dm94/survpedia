@@ -83,6 +83,7 @@ Tiles are manufactured products.
 ### Related inventions
 
 - **[Roofing](/en/inventions/roofing):** The primary system where tiles are used.
+- **[Frame](/en/inventions/frame):** Structure required to support heavy tiles.
 - **[Kiln](/en/inventions/kiln):** Required for firing clay tiles.
 - **[Pottery](/en/inventions/pottery):** Similar manufacturing process.
 - **[Mosaic](/en/inventions/mosaic):** Art form using small tiles.

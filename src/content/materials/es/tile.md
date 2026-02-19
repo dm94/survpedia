@@ -83,6 +83,7 @@ Son productos manufacturados.
 ### Inventos relacionados
 
 - **[Techado](/es/inventions/roofing):** El sistema principal donde se usan tejas.
+- **[Armazón](/es/inventions/frame):** Estructura necesaria para soportar tejas pesadas.
 - **[Horno](/es/inventions/kiln):** Necesario para cocer tejas de arcilla.
 - **[Alfarería](/es/inventions/pottery):** Proceso de fabricación similar.
 - **[Mosaico](/es/inventions/mosaic):** Forma de arte usando pequeñas baldosas.

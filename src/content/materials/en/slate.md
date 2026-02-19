@@ -80,6 +80,7 @@ Slate is a fine-grained, foliated metamorphic rock that is created by the altera
 ### Related inventions
 
 -   **[Roofing](/en/inventions/roofing):** The primary application.
+-   **[Frame](/en/inventions/frame):** Essential structural support for heavy slate roofs.
 -   **[Masonry](/en/inventions/masonry):** Slate is often used in dry stone walls.
 -   **[Stone Tools](/en/inventions/stone-tools)**
 

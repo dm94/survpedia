@@ -2,84 +2,96 @@
 title: Mortar
 composition:
   - sand
-  - water
   - lime
-  - clay
+  - cement
+  - water
 properties:
   - Adhesion
   - Plasticity
-  - Impermeability (variable)
-  - Resistance
+  - Compressive strength
+  - Durability
 uses:
-  - Joining bricks and stones
-  - Wall coating (rendering)
-  - Floors
+  - Masonry bonding
+  - Plastering
+  - Bedding tiles
+  - Rendering
 naturalAvailability: false
-manufacturingProcess: 'Mixture of a binder (lime, clay, cement) with fine aggregate (sand) and water.'
+manufacturingProcess: Mixing sand, a binder (lime, cement, or clay), and water.
 category: synthetic
-image: ../../../assets/images/materials/mortar.jpg
 ---
 
-Mortar is a plastic mixture that hardens over time, used in construction to join bricks, stones, or concrete blocks, and to fill the spaces between them. It is also used to coat walls.
+# Brief description
+
+Mortar is a workable paste used to bind building blocks such as **[Stone](/en/materials/stone)**, **[Brick](/en/materials/brick)**, and concrete masonry units together, fill and seal the irregular gaps between them, and sometimes add decorative colors or patterns to masonry walls. Unlike concrete, mortar is not designed to be a structural material itself but rather the "glue" that holds the structure together.
 
 ## Description of what it is like
 
-In its fresh state, it is a grayish or sandy paste, moldable and sticky. Upon hardening, it becomes a solid and rigid material, similar to artificial stone, although generally less resistant than the materials it joins.
+- **Appearance:** A thick, gritty paste when wet; hard and stone-like when dry. Color depends on the sand and binder (usually gray, white, or beige).
+- **Texture:** Sandy and plastic (moldable) when wet; rough and solid when cured.
+- **Workability:** Must be spreadable with a trowel but stiff enough to support the weight of the masonry unit until it sets.
 
 ## Origin and where to find it
 
-It is a composite material manufactured in situ.
-
-- **Sand:** Must be clean and free of organic matter or salt.
-- **Binder:** Can be lime, clay (mud), gypsum, or cement.
-- **Water:** Clean.
+- **Origin:** Artificial composite material.
+- **History:** Ancient Egyptians used gypsum mortar; Greeks and Romans used lime mortar (adding volcanic ash for underwater setting, creating pozzolanic mortar).
+- **Availability:** Made from widely available raw materials (**[Sand](/en/materials/sand)**, **[Lime](/en/materials/lime)**, **[Water](/en/materials/water)**).
 
 ### Minimum processing required
 
-1.  **Sieving:** Sand must be sieved to remove large stones.
-2.  **Slaking (if using lime):** Quicklime must be carefully hydrated before use.
-3.  **Mixing:** Mix the binder and sand dry until the color is uniform.
-4.  **Hydration:** Add water gradually and mix until a workable consistency is obtained (neither too liquid nor too dry).
+1.  **Sourcing:** Gather clean sand (river sand, not sea sand due to salt) and a binder.
+2.  **Preparation:**
+    - _Lime Mortar:_ Burn limestone to create quicklime, slake it with water to get lime putty, then mix with sand.
+    - _Mud Mortar:_ Mix clay-rich soil with sand and water (and sometimes chopped straw).
+    - _Cement Mortar:_ Mix Portland cement, lime (for plasticity), sand, and water.
+3.  **Mixing:** Combine ingredients thoroughly until a uniform, buttery consistency is achieved. Use immediately.
 
 ### Tools needed to work on it
 
-- **Trough or wheelbarrow:** To perform the mixing.
-- **Hoe or shovel:** To mix.
-- **Trowel:** To apply and spread the mortar on bricks or walls.
+- **Trowel:** For applying and shaping the mortar.
+- **Hawk:** A flat board to hold a supply of mortar while working.
+- **Mixer/Hoe:** For mixing the ingredients.
+- **Jointer:** To finish the mortar joints between bricks/stones.
 
 ### Common forms of use
 
-- **Mud mortar:** Clay + Sand + Straw. The oldest and easiest to make, but vulnerable to water.
-- **Lime mortar:** Lime + Sand + Water. Resistant, breathable, and flexible. It "self-heals" over time.
-- **[Cement mortar](/en/materials/cement-mortar):** Cement + Sand + Water. Very hard and resistant, waterproof, but rigid (can crack if the building moves).
-- **Bastard mortar:** Mixture of lime and cement to combine properties.
+- **Bedding:** The layer of mortar underneath a brick or stone.
+- **Pointing:** The visible outer edge of the mortar joint, shaped to shed water.
+- **Grouting:** Filling narrow gaps or voids.
+- **Rendering/Stucco:** Coating the entire surface of a wall for protection and aesthetics.
+- **Bedding for Roofing:** Securing ridge tiles or sealing gaps in **[Roofing](/en/inventions/roofing)**.
 
 ### Possible substitutes
 
-- **Simple mud:** For temporary constructions or in very dry climates.
-- **Gypsum:** For interiors (does not withstand moisture).
-- **Bitumen/Asphalt:** Used anciently in Mesopotamia to waterproof and join bricks.
+- **Mud/Clay:** The oldest binder, still used in adobe construction (susceptible to water).
+- **Bitumen/Tar:** Historically used in Babylon for waterproofing.
+- **Dry Stacking:** Building without mortar (requires skilled shaping of stones).
+- **Glue/Adhesives:** Modern construction adhesives for specific blocks (e.g., aerated concrete).
 
 ### Limitations and common failures
 
-- **Rapid drying:** If it dries too fast (in direct sun), it cracks and loses strength. It must be kept moist during curing.
-- **Incorrect proportion:** Too much sand makes it crumble; too much binder makes it shrink and crack.
-- **Incompatibility:** Using cement mortar (very hard) in old soft brick or stone buildings can damage the bricks (the mortar should always be softer than the brick).
+- **Cracking:** Shrinkage during drying or movement of the building can cause cracks.
+- **Water Damage:** Freeze-thaw cycles can destroy mortar if water gets inside.
+- **Strength Mismatch:** Mortar should generally be _weaker_ than the masonry units so that if the building moves, the mortar cracks (easy to repair) rather than the bricks/stones (hard to replace).
+- **Setting Time:** Must be used before it begins to harden.
 
 ### Risks and safety
 
-- **Chemical burns:** Lime and cement are alkaline and can burn skin and eyes. Use gloves.
-- **Dust:** Inhaling lime or silica (sand) dust is dangerous.
+- **Chemical Burns:** Lime and cement are highly alkaline (caustic) and can cause severe skin burns and eye damage. Wear gloves and goggles.
+- **Dust:** Mixing dry ingredients creates dust that is harmful to inhale.
 
 ### Related inventions
 
-- **[Masonry](/en/inventions/masonry):** The craft of using mortar.
-- **[Firing](/en/inventions/firing):** Process to create the binders (lime, cement).
+- **[Masonry](/en/inventions/masonry)**
+- **[Foundation](/en/inventions/foundation)**
+- **[Wall](/en/inventions/wall)**
+- **[Roofing](/en/inventions/roofing)**
+- **[Kiln](/en/inventions/kiln)** (for producing lime/cement)
 
 ### Related materials
 
-- **[Lime](/en/materials/lime):** Common binder.
-- **[Cement](/en/materials/cement):** Modern binder.
-- **[Sand](/en/materials/sand):** Aggregate.
-- **[Water](/en/materials/water):** Solvent.
-- **[Brick](/en/materials/brick):** Material joined by mortar.
+- **[Sand](/en/materials/sand)**
+- **[Lime](/en/materials/lime)**
+- **[Cement](/en/materials/cement)**
+- **[Water](/en/materials/water)**
+- **[Brick](/en/materials/brick)**
+- **[Stone](/en/materials/stone)**

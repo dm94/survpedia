@@ -57,4 +57,17 @@ The truss works through the **geometric stability of the triangle**.
 - **Buckling**: Long members in compression can bend or snap if they are too thin.
 - **Joint Failure**: The joints are the weakest points; if a bolt shears or a weld cracks, the whole structure can collapse.
 - **Corrosion**: Rust in metal trusses or rot in wooden ones can compromise structural integrity.
-- **Improper Loading**: Trusses are designed for loads at the joints; hanging heavy weights from the middle of a member can cause failure.
+- Improper Loading: Trusses are designed for loads at the joints; hanging heavy weights from the middle of a member can cause failure.
+
+### Related inventions
+
+- **[Frame](/en/inventions/frame)**
+- **[Roofing](/en/inventions/roofing)**
+- **[Bridge](/en/inventions/bridge)**
+- **[Building](/en/inventions/building)**
+
+### Related materials
+
+- **[Wood](/en/materials/wood)**
+- **[Steel](/en/materials/steel)**
+- **[Iron](/en/materials/iron)**

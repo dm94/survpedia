@@ -79,9 +79,10 @@ La pizarra es una roca metamórfica foliada de grano fino que se crea por la alt
 
 ### Inventos relacionados
 
--   **[Techado](/es/inventions/roofing):** La aplicación principal.
--   **[Albañilería](/es/inventions/masonry):** La pizarra se usa a menudo en muros de piedra seca.
--   **[Herramientas de piedra](/es/inventions/stone-tools)**
+- **[Techado](/es/inventions/roofing):** La aplicación principal.
+- **[Armazón](/es/inventions/frame):** Soporte estructural esencial para techos de pizarra pesados.
+- **[Albañilería](/es/inventions/albanileria):** La pizarra se usa a menudo en muros de piedra seca.
+- **[Herramientas de piedra](/es/inventions/stone-tools)**
 
 ### Materiales relacionados
 

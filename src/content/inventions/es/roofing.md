@@ -27,7 +27,7 @@ La mayoría de los sistemas de techado dependen de la **gravedad** y las **capas
 
 ## Cómo crearlo
 
-1.  **Estructura (Armazón):** Construir un marco de vigas o cerchas (generalmente **[Madera](/es/materials/wood)**) para soportar la carga del techo.
+1.  **Estructura (**[Armazón](/es/inventions/frame)**):** Construir un marco de vigas o **[Cerchas](/es/inventions/armadura)** (generalmente **[Madera](/es/materials/wood)**) para soportar la carga del techo.
 2.  **Cubierta base (Entablado):** (Opcional) Colocar una base sólida de tablas o madera contrachapada sobre las vigas.
 3.  **Capa inferior:** Aplicar una membrana impermeable (fieltro, papel alquitranado) para proteger contra la lluvia impulsada por el viento.
 4.  **Listones:** (Para tejas/pizarras) Fijar tiras horizontales de madera a las vigas para enganchar las tejas.
@@ -67,9 +67,12 @@ La mayoría de los sistemas de techado dependen de la **gravedad** y las **capas
 ### Inventos relacionados
 
 - **[Techado de Paja (Thatching)](/es/inventions/thatching)**
+- **[Armazón](/es/inventions/frame)**
+- **[Armadura](/es/inventions/armadura)**
 - **[Refugio básico](/es/inventions/basic-shelter):** Techado primitivo.
 - **[Chimenea](/es/inventions/chimney):** Penetra el techo, requiriendo tapajuntas.
 - **[Canalón](/es/inventions/gutter):** Recoge el agua del techo.
+- **[Aislamiento](/es/inventions/aislamiento):** A menudo se instala debajo del techo.
 - **[Albañilería](/es/inventions/masonry):** A menudo soporta el techo.
 
 ### Materiales relacionados

@@ -27,7 +27,7 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 
 ## How to create it
 
-1.  **Structure (Framing):** Build a framework of rafters or trusses (usually **[Wood](/en/materials/wood)**) to support the roof load.
+1.  **Structure (**[Frame](/en/inventions/frame)**):** Build a framework of rafters or **[Trusses](/en/inventions/truss)** (usually **[Wood](/en/materials/wood)**) to support the roof load.
 2.  **Decking (Sheathing):** (Optional) Lay a solid base of boards or plywood over the rafters.
 3.  **Underlayment:** Apply a waterproof membrane (felt, tar paper) to protect against wind-driven rain.
 4.  **Battens/Lathing:** (For tiles/slates) Fix horizontal strips of wood to the rafters to hook the tiles onto.
@@ -39,11 +39,11 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 
 - **Structural:** **[Wood](/en/materials/wood)** beams, bamboo, or steel.
 - **Covering:**
-    - **[Tile](/en/materials/tile):** Clay or concrete.
-    - **[Slate](/en/materials/slate):** Natural stone slabs.
-    - **[Wood](/en/materials/wood):** Shingles or shakes.
-    - **[Metal](/en/materials/metal):** Sheets of copper, lead, zinc, or steel.
-    - **[Straw](/en/materials/straw):** Used in **[Thatching](/en/inventions/thatching)**.
+  - **[Tile](/en/materials/tile):** Clay or concrete.
+  - **[Slate](/en/materials/slate):** Natural stone slabs.
+  - **[Wood](/en/materials/wood):** Shingles or shakes.
+  - **[Metal](/en/materials/metal):** Sheets of copper, lead, zinc, or steel.
+  - **[Straw](/en/materials/straw):** Used in **[Thatching](/en/inventions/thatching)**.
 - **Fasteners:** Nails, pegs, or wire.
 - **Waterproofing:** Bitumen, tar, or plant resins.
 
@@ -67,9 +67,12 @@ Most roofing systems rely on **gravity** and **overlapping layers** to shed wate
 ### Related inventions
 
 - **[Thatching](/en/inventions/thatching)**
+- **[Frame](/en/inventions/frame)**
+- **[Truss](/en/inventions/truss)**
 - **[Basic Shelter](/en/inventions/basic-shelter):** Primitive roofing.
 - **[Chimney](/en/inventions/chimney):** Penetrates the roof, requiring flashing.
 - **[Gutter](/en/inventions/gutter):** Collects water from the roof.
+- **[Insulation](/en/inventions/insulation):** Often installed under the roof.
 - **[Masonry](/en/inventions/masonry):** Often supports the roof.
 
 ### Related materials
