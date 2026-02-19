@@ -39,7 +39,7 @@ The method depends on the required precision and available technology.
 
 - **Shadow Clocks:** **[Sundial](/en/inventions/sundial)**.
 - **Flow Clocks:** **[Water Clock](/en/inventions/water-clock)**, **[Hourglass](/en/inventions/hourglass)**, Candle Clock.
-- **Mechanical Clocks:** **[Pendulum Clock](/en/inventions/pendulum-clock)**, **[Mechanical Watch](/en/inventions/mechanical-watch)**, **[Chronometer](/en/inventions/chronometer)**.
+- **[Mechanical Clocks](/en/inventions/mechanical-clocks):** **[Pendulum Clock](/en/inventions/pendulum-clock)**, **[Mechanical Watch](/en/inventions/mechanical-watch)**, **[Chronometer](/en/inventions/chronometer)**.
 - **Modern:** Quartz, Atomic (Cesium).
 
 ## Limits and risks

@@ -16,14 +16,15 @@ Un reloj de péndulo es un dispositivo mecánico que utiliza un peso oscilante (
 ## Principio de funcionamiento
 
 Se basa en el **isocronismo del péndulo**: el período de oscilación de un péndulo depende de su longitud, no de la amplitud (para ángulos pequeños).
+
 1.  **Fuente de Energía:** Un peso que cae o un resorte enrollado proporciona energía.
 2.  **Tren de Engranajes:** Transmite la energía y cuenta las oscilaciones.
-3.  **Escape:** El mecanismo clave (como el escape de ancla) que da un pequeño empujón al péndulo para mantenerlo oscilando y permite que los engranajes avancen una cantidad fija en cada oscilación.
+3.  **[Escape](/es/inventions/escape):** El mecanismo clave (como el escape de ancla) que da un pequeño empujón al péndulo para mantenerlo oscilando y permite que los engranajes avancen una cantidad fija en cada oscilación.
 
 ## Cómo crearlo
 
 1.  **Péndulo:** Una varilla larga con un peso ajustable en el extremo.
-2.  **Mecanismo de Escape:** Construir una [rueda](/es/inventions/wheel) de escape (con dientes de sierra) y un ancla que bloquee y libere la rueda al ritmo del péndulo.
+2.  **[Mecanismo de Escape](/es/inventions/escape):** Construir una [rueda](/es/inventions/wheel) de escape (con dientes de sierra) y un ancla que bloquee y libere la rueda al ritmo del péndulo.
 3.  **Pesas:** Un sistema de pesas y [poleas](/es/inventions/pulley) para impulsar el tren de engranajes.
 4.  **Esfera:** Un sistema de reducción de engranajes para mover las manecillas de horas y minutos.
 
@@ -48,5 +49,7 @@ Se basa en el **isocronismo del péndulo**: el período de oscilación de un pé
 ### Inventos relacionados
 
 - **[Relojes](/es/inventions/timepieces)**
+- **[Relojes Mecánicos](/es/inventions/relojes-mecanicos)**
 - **[Reloj Mecánico](/es/inventions/mechanical-watch)**
 - **[Engranajes](/es/inventions/gears)**
+- **[Escape](/es/inventions/escape)**

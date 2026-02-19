@@ -39,7 +39,7 @@ El método depende de la precisión requerida y la tecnología disponible.
 
 - **Relojes de Sombra:** **[Reloj de Sol](/es/inventions/sundial)**.
 - **Relojes de Flujo:** **[Reloj de Agua](/es/inventions/water-clock)**, **[Reloj de Arena](/es/inventions/hourglass)**, Reloj de Vela.
-- **Relojes Mecánicos:** **[Reloj de Péndulo](/es/inventions/pendulum-clock)**, **[Reloj Mecánico](/es/inventions/mechanical-watch)**, **[Cronómetro](/es/inventions/chronometer)**.
+- **[Relojes Mecánicos](/es/inventions/relojes-mecanicos):** **[Reloj de Péndulo](/es/inventions/pendulum-clock)**, **[Reloj Mecánico](/es/inventions/mechanical-watch)**, **[Cronómetro](/es/inventions/chronometer)**.
 - **Modernos:** Cuarzo, Atómico (Cesio).
 
 ## Límites y riesgos

@@ -19,12 +19,12 @@ Based on the **isochronism of the pendulum**: the period of oscillation depends 
 
 1. **Energy Source:** A falling weight or coiled spring provides energy.
 2. **Gear Train:** Transmits energy and counts oscillations.
-3. **Escapement:** The key mechanism (like the anchor escapement) that gives a small push to the pendulum to keep it swinging and allows the gears to advance a fixed amount with each swing.
+3. **[Escapement](/en/inventions/escapement):** The key mechanism (like the anchor escapement) that gives a small push to the pendulum to keep it swinging and allows the gears to advance a fixed amount with each swing.
 
 ## How to create it
 
 1. **Pendulum:** A long rod with an adjustable weight at the end.
-2. **Escapement Mechanism:** Build an escape [wheel](/en/inventions/wheel) (saw-toothed) and an anchor that locks and releases the wheel to the rhythm of the pendulum.
+2. **[Escapement](/en/inventions/escapement) Mechanism:** Build an escape [wheel](/en/inventions/wheel) (saw-toothed) and an anchor that locks and releases the wheel to the rhythm of the pendulum.
 3. **Weights:** A system of weights and [pulleys](/en/inventions/pulley) to drive the gear train.
 4. **Dial:** A gear reduction system to move hour and minute hands.
 
@@ -49,5 +49,7 @@ Based on the **isochronism of the pendulum**: the period of oscillation depends 
 ### Related Inventions
 
 - **[Timepieces](/en/inventions/timepieces)**
+- **[Mechanical Clocks](/en/inventions/mechanical-clocks)**
 - **[Mechanical Watch](/en/inventions/mechanical-watch)**
 - **[Gears](/en/inventions/gears)**
+- **[Escapement](/en/inventions/escapement)**

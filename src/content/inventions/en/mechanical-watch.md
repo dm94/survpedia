@@ -5,7 +5,7 @@ materialsUsed: ["brass", "steel", "glass", "spring-steel", "ruby"]
 
 # Brief description
 
-A portable timekeeping device driven by a mainspring and regulated by a balance [wheel](/en/inventions/wheel). It allows for personal time management and coordination on the go.
+A portable timekeeping device driven by a mainspring and regulated by a **[Balance Wheel](/en/inventions/balance-wheel)**. It allows for personal time management and coordination on the go.
 
 ## Use / Function
 
@@ -15,7 +15,7 @@ A portable timekeeping device driven by a mainspring and regulated by a balance 
 
 ## Operating principle
 
-Stores energy in a wound spring (mainspring) which is released through a gear train. The speed of release is controlled by an escapement mechanism and a balance wheel that oscillates back and forth at a constant rate.
+Stores energy in a wound spring (mainspring) which is released through a gear train. The speed of release is controlled by an **[Escapement](/en/inventions/escapement)** mechanism and a balance wheel that oscillates back and forth at a constant rate.
 
 1. **Energy Source:** Mainspring.
 2. **Transmission:** Gear train (wheels and pinions).
@@ -55,6 +55,9 @@ Requires high precision micro-mechanics.
 ### Related Inventions
 
 - **[Timepieces](/en/inventions/timepieces)**
+- **[Mechanical Clocks](/en/inventions/mechanical-clocks)**
 - **[Pendulum Clock](/en/inventions/pendulum-clock)**
 - **[Chronometer](/en/inventions/chronometer)**
-
+- **[Escapement](/en/inventions/escapement)**
+- **[Balance Wheel](/en/inventions/balance-wheel)**
+- **[Gears](/en/inventions/gears)**

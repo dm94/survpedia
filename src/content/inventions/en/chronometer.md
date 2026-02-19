@@ -16,7 +16,7 @@ An ultra-high precision mechanical clock designed specifically to work at sea. I
 
 Works like a refined mechanical watch but solves critical sea problems:
 
-1. **Balance Wheel:** Replaces the pendulum (which doesn't work on a moving ship).
+1. **[Balance Wheel](/en/inventions/balance-wheel):** Replaces the pendulum (which doesn't work on a moving ship).
 2. **Gimbal Suspension:** Keeps the clock level regardless of the ship's roll.
 3. **Thermal Compensation:** Uses bimetallic strips in the balance wheel to adjust its shape and maintain a constant period under temperature changes.
 4. **Constant Force:** A mechanism (fusee) equalizes the mainspring's force as it unwinds.
@@ -46,5 +46,8 @@ Works like a refined mechanical watch but solves critical sea problems:
 ### Related Inventions
 
 - **[Timepieces](/en/inventions/timepieces)**
+- **[Mechanical Clocks](/en/inventions/mechanical-clocks)**
 - **[Mechanical Watch](/en/inventions/mechanical-watch)**
 - **[Sextant](/en/inventions/sextant)**
+- **[Escapement](/en/inventions/escapement)**
+- **[Balance Wheel](/en/inventions/balance-wheel)**

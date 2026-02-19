@@ -15,7 +15,8 @@ Un reloj mecánico de ultra-alta precisión diseñado específicamente para func
 ## Principio de funcionamiento
 
 Funciona como un reloj mecánico refinado, pero resuelve problemas críticos del mar:
-1.  **Volante de inercia:** Sustituye al péndulo (que no funciona en un barco en movimiento).
+
+1.  **[Volante de Inercia](/es/inventions/volante-de-inercia):** Sustituye al péndulo (que no funciona en un barco en movimiento).
 2.  **Suspensión Cardán:** Mantiene el reloj nivelado independientemente del balanceo del barco.
 3.  **Compensación Térmica:** Usa tiras bimetálicas en el volante para ajustar su forma y mantener el período constante ante cambios de temperatura.
 4.  **Fuerza Constante:** Un mecanismo (fusee) iguala la fuerza del muelle real a medida que se desenrolla.
@@ -45,5 +46,8 @@ Funciona como un reloj mecánico refinado, pero resuelve problemas críticos del
 ### Inventos relacionados
 
 - **[Relojes](/es/inventions/timepieces)**
+- **[Relojes Mecánicos](/es/inventions/relojes-mecanicos)**
 - **[Reloj Mecánico](/es/inventions/mechanical-watch)**
 - **[Sextante](/es/inventions/sextant)**
+- **[Escape](/es/inventions/escape)**
+- **[Volante de Inercia](/es/inventions/volante-de-inercia)**
