@@ -61,7 +61,7 @@ La Fresadora, el **[Torno](/es/inventions/lathe)** y el **[Taladro de Columna](/
 
 ## Límites y riesgos
 
+- **Seguridad:** La fresa giratoria es peligrosa. Las virutas están calientes y afiladas. La protección ocular es obligatoria. Ropa suelta o cabello pueden quedar atrapados.
+- **Holgura (Backlash):** Los tornillos guía tienen juego; el fresado en concordancia puede ser peligroso en máquinas manuales sin eliminadores de holgura.
 - **Vibración:** La falta de rigidez causa "chatter" (traqueteo), arruinando el acabado superficial y rompiendo herramientas.
-- **Holgura (Backlash):** El juego en los tornillos guía puede causar imprecisiones; el fresado en concordancia es peligroso en máquinas manuales con holgura.
-- **Seguridad:** Las fresas giratorias pueden atrapar ropa suelta o cabello. Las virutas voladoras están calientes y afiladas.
-- **Complejidad:** Requiere una alineación precisa de todos los ejes para cortar a escuadra.
+- **Complejidad:** La configuración a menudo toma más tiempo que el mecanizado real. Requiere una alineación precisa de todos los ejes para cortar a escuadra.

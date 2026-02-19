@@ -60,6 +60,7 @@ El Taladro de Columna, el **[Torno](/es/inventions/lathe)** y la **[Fresadora](/
 
 ## Límites y riesgos
 
-- **Sujeción de la pieza:** Si la broca agarra la pieza, puede girar peligrosamente ("efecto helicóptero"). Siempre sujete la pieza.
+- **Sujeción de la pieza:** Si la broca agarra la pieza, puede girar peligrosamente ("efecto helicóptero"). Siempre sujete la pieza. Nunca sostenga el trabajo con la mano.
 - **Velocidad:** La velocidad incorrecta quema las brocas (demasiado rápido en acero) o desgarra la madera (demasiado lento).
 - **Cabello/Ropa:** El husillo giratorio es un peligro mayor de enredo.
+- **Rotura de broca:** Las brocas desafiladas o demasiada presión pueden romper la broca.

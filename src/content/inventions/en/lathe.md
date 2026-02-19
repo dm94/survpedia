@@ -48,16 +48,15 @@ The workpiece is held in a chuck or collet (on the headstock) and rotated at hig
 
 ## Relationship with Mills and Drills
 
-The Lathe, the **[Milling Machine](/en/inventions/milling-machine)**, and the **[Drill Press](/en/inventions/drill-press)** form the fundamental triad of machine tools.
+The Lathe, the **[Milling Machine](/en/inventions/milling-machine)**, and the **[Drill Press](/en/inventions/drill-press)** form the "Holy Trinity" or fundamental triad of machine tools.
 
-- The **Lathe** creates cylindrical parts and threads.
-- The **Milling Machine** creates flat surfaces, slots, and complex shapes.
-- The **Drill Press** creates precise holes.
+- **Lathe:** Rotates the **workpiece**. Best for cylinders, screws, and round shapes.
+- **Mill/Drill:** Rotates the **tool**. Best for flat surfaces, slots, and holes.
 
-Together, they allow for the creation of almost any other machine, including the replication of themselves.
+Together, they allow for the creation of almost any other machine, including the replication of themselves. You often need a lathe to make parts for a mill (like spindles), and a mill to make parts for a lathe (like the bed or carriage slots).
 
 ## Limits and risks
 
-- **Safety:** Rotating chucks are extremely dangerous. Never wear gloves or loose clothing. Long hair must be tied back. Chuck keys must never be left in the chuck.
-- **Chatter:** Vibration caused by lack of rigidity or incorrect tool height.
-- **Accuracy:** Depends entirely on the straightness of the bed and the quality of the spindle bearings.
+- **Safety:** The rotating chuck is extremely dangerous. It can catch loose clothing or hair, causing severe injury or death. NEVER wear gloves or long sleeves while operating. Chuck keys must never be left in the chuck.
+- **Precision:** Requires a rigid setup; vibrations (chatter) ruin the finish. Accuracy depends on the straightness of the bed and spindle bearings.
+- **Maintenance:** Ways must be kept clean and oiled to prevent wear.

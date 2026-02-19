@@ -61,7 +61,7 @@ The Milling Machine, the **[Lathe](/en/inventions/lathe)**, and the **[Drill Pre
 
 ## Limits and risks
 
+- **Safety:** The rotating cutter is dangerous. Chips are hot and sharp. Eye protection is mandatory. Loose clothing or hair can be caught.
+- **Backlash:** Lead screws have play; climb milling can be dangerous on manual machines without backlash eliminators.
 - **Vibration:** Lack of rigidity causes "chatter," ruining the surface finish and breaking tools.
-- **Backlash:** Play in the lead screws can cause inaccuracies; climb milling is dangerous on manual machines with backlash.
-- **Safety:** Rotating cutters can catch loose clothing or hair. Flying chips are hot and sharp.
-- **Complexity:** Requires precise alignment of all axes (tramming) to cut square.
+- **Complexity:** Setup often takes longer than the actual machining. Requires precise alignment of all axes (tramming) to cut square.

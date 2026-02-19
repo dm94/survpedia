@@ -48,16 +48,15 @@ La pieza de trabajo se sujeta en un mandril o pinza (en el cabezal fijo) y se ha
 
 ## Relación con Fresadoras y Taladros
 
-El Torno, la **[Fresadora](/es/inventions/milling-machine)** y el **[Taladro de Columna](/es/inventions/drill-press)** forman la tríada fundamental de las máquinas herramienta.
+El Torno, la **[Fresadora](/es/inventions/milling-machine)** y el **[Taladro de columna](/es/inventions/drill-press)** forman la "Santísima Trinidad" o tríada fundamental de las máquinas herramienta.
 
-- El **Torno** crea piezas cilíndricas y roscas.
-- La **Fresadora** crea superficies planas, ranuras y formas complejas.
-- El **Taladro** crea orificios precisos.
+- **Torno:** Hace girar la **pieza de trabajo**. Ideal para cilindros, tornillos y formas redondas.
+- **Fresadora/Taladro:** Hace girar la **herramienta**. Ideal para superficies planas, ranuras y agujeros.
 
-Juntos, permiten la creación de casi cualquier otra máquina, incluida la replicación de sí mismos.
+Juntos, permiten la creación de casi cualquier otra máquina, incluida la replicación de sí mismos. A menudo necesitas un torno para fabricar piezas para una fresadora (como husillos), y una fresadora para fabricar piezas para un torno (como la bancada o las ranuras del carro).
 
 ## Límites y riesgos
 
-- **Seguridad:** Los mandriles giratorios son extremadamente peligrosos. Nunca use guantes ni ropa suelta. El cabello largo debe estar atado. Las llaves del mandril nunca deben dejarse puestas.
-- **Vibración (Chatter):** Vibración causada por falta de rigidez o altura incorrecta de la herramienta.
-- **Precisión:** Depende completamente de la rectitud de la bancada y la calidad de los cojinetes del husillo.
+- **Seguridad:** El mandril giratorio es extremadamente peligroso. Puede atrapar ropa suelta o cabello, causando lesiones graves o la muerte. NUNCA uses guantes ni mangas largas mientras operas. Las llaves del mandril nunca deben dejarse puestas.
+- **Precisión:** Requiere una configuración rígida; las vibraciones (chatter) arruinan el acabado. La precisión depende de la rectitud de la bancada y los cojinetes del husillo.
+- **Mantenimiento:** Las guías deben mantenerse limpias y aceitadas para evitar el desgaste.

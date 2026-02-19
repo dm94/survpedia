@@ -53,6 +53,13 @@ Yarn appears as a thin, continuous strand of twisted fibers. It can be smooth or
 - **Strips of fabric/leather**: For rough weaving or tying.
 - **Unspun roving**: Weak, breaks easily, but can be used for bulky wefts.
 
+### Relationship with Loom and Sewing Machine
+
+**[Yarn](/en/materials/yarn)** is the fundamental raw material for both the **[Loom](/en/inventions/loom)** and the **[Sewing Machine](/en/inventions/sewing-machine)**.
+
+- **Loom**: Interweaves yarn (warp and weft) to create **[Fabric](/en/materials/fabric)**.
+- **Sewing Machine**: Uses yarn (thread) to stitch pieces of fabric together.
+
 ### Limitations and common failures
 
 - **Untwisting**: If not properly set, it can unravel.

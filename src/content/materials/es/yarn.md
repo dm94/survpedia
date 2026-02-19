@@ -53,6 +53,13 @@ El hilo aparece como una hebra delgada y continua de fibras retorcidas. Puede se
 - **Tiras de tela/cuero**: Para tejidos toscos o ataduras.
 - **Mecha sin hilar**: Débil, se rompe fácilmente, pero puede usarse para tramas voluminosas.
 
+### Relación con el Telar y la Máquina de Coser
+
+El **[Hilo](/es/materials/yarn)** es la materia prima fundamental tanto para el **[Telar](/es/inventions/loom)** como para la **[Máquina de Coser](/es/inventions/sewing-machine)**.
+
+- **Telar**: Entreteje el hilo (urdimbre y trama) para crear **[Tela](/es/materials/fabric)**.
+- **Máquina de Coser**: Utiliza el hilo para coser piezas de tela juntas.
+
 ### Limitaciones y fallos comunes
 
 - **Destorcido**: Si no se fija correctamente, puede deshacerse.

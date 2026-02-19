@@ -13,7 +13,7 @@ uses:
   - Bandages
 naturalAvailability: false
 category: synthetic
-manufacturingProcess: 'Interlacing fibers (weaving, knitting, felting) to create a cohesive sheet.'
+manufacturingProcess: "Interlacing fibers (weaving, knitting, felting) to create a cohesive sheet."
 image: ../../../assets/images/materials/fabric.jpg
 ---
 
@@ -37,9 +37,10 @@ Fabric appears as a continuous sheet of interlaced threads. Its texture, weight,
 
 ### Tools Needed for Working It
 
-- **Spindle/Spinning Wheel:** For making thread.
-- **Loom:** For weaving fabric.
-- **Needles/Scissors:** For cutting and sewing.
+- **[Spindle](/en/inventions/spindle)**/**[Spinning Wheel](/en/inventions/spinning-wheel):** For making thread.
+- **[Loom](/en/inventions/loom):** For weaving fabric.
+- **Needles/Scissors:** For manual cutting and sewing.
+- **[Sewing Machine](/en/inventions/sewing-machine):** For rapid and precise stitching.
 
 ### Common Forms of Use
 
@@ -49,25 +50,26 @@ Fabric appears as a continuous sheet of interlaced threads. Its texture, weight,
 
 ### Possible Substitutes
 
-- **Leather/Furs:** For clothing and protection (warmer but less breathable).
-- **Bark cloth:** Beaten bark (primitive).
-- **Plastic sheets:** Modern substitute for waterproofing.
+- **[Leather](/en/materials/leather)**: Animal skins (durable, waterproof, but harder to sew).
+- **Bark Cloth (Tapa)**: Beaten inner bark of certain trees.
+- **Furs/Pelts**: For warmth.
+- **Woven Mats**: Grass or reed mats for shelter or sleeping.
+- **Plastic Sheets**: Modern substitute for waterproofing.
 
-### Limits and Common Failures
+### Limits and Risks
 
-- **Tearing:** Can rip under stress.
-- **Rot:** Natural fibers decay in damp conditions.
-- **Flammability:** Most natural fabrics burn easily.
-
-### Risks and Safety
-
-- **Entanglement:** Loose fabric can catch in machinery.
-- **Flammability:** Keep away from open flames unless treated.
+- **Flammability**: Most natural fabrics burn easily. Keep away from open flames.
+- **Rot/Mold**: Organic fibers decay if kept damp.
+- **Pests**: Moths and insects can eat wool or cotton.
+- **Wear**: Tears and fraying require constant repair (darning).
+- **Entanglement**: Loose fabric can catch in machinery.
 
 ### Related Materials
 
-- **Plant Fibers:** Raw material (cotton, flax, hemp).
-- **[Linen](/en/materials/linen)**: Common flax-based fabric.
-- **Wool:** Animal fiber raw material.
+- **[Cotton](/en/materials/cotton)**: Plant fiber source.
+- **[Wool](/en/materials/wool)**: Animal fiber source.
+- **[Linen](/en/materials/linen)**: Flax fiber source.
 - **[Silk](/en/materials/silk)**: Animal fiber with fine filaments.
+- **[Yarn](/en/materials/yarn)**: The raw material for fabric.
 - **[Textile Dye](/en/materials/textile-dye)**: For coloring.
+- **[Loom](/en/inventions/loom)**: The tool to make it.

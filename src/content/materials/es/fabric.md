@@ -13,7 +13,7 @@ uses:
   - Vendajes
 naturalAvailability: false
 category: synthetic
-manufacturingProcess: 'Entrelazado de fibras (tejido, punto, fieltro) para crear una lámina cohesiva.'
+manufacturingProcess: "Entrelazado de fibras (tejido, punto, fieltro) para crear una lámina cohesiva."
 image: ../../../assets/images/materials/fabric.jpg
 ---
 
@@ -35,11 +35,12 @@ La tela aparece como una lámina continua de hilos entrelazados. Su textura, pes
 2.  **Tejido:** Entrelazar el hilo en un telar o con agujas para formar la tela.
 3.  **Acabado:** Lavado, blanqueo o teñido.
 
-### Herramientas necesarias para trabajarla
+### Herramientas necesarias para trabajarlo
 
-- **Huso/Rueca:** Para hacer hilo.
-- **Telar:** Para tejer la tela.
-- **Agujas/Tijeras:** Para cortar y coser.
+- **[Huso](/es/inventions/spindle)**/**[Rueca](/es/inventions/spinning-wheel):** Para hacer hilo.
+- **[Telar](/es/inventions/loom):** Para tejer tela.
+- **Agujas/Tijeras:** Para cortar y coser manualmente.
+- **[Máquina de Coser](/es/inventions/sewing-machine):** Para costura rápida y precisa.
 
 ### Formas comunes de uso
 
@@ -49,25 +50,26 @@ La tela aparece como una lámina continua de hilos entrelazados. Su textura, pes
 
 ### Posibles sustitutos
 
-- **Cuero/Pieles:** Para ropa y protección (más cálido pero menos transpirable).
-- **Tela de corteza:** Corteza golpeada (primitivo).
-- **Láminas de plástico:** Sustituto moderno para impermeabilización.
+- **[Cuero](/es/materials/leather)**: Pieles de animales (duraderas, impermeables, pero más difíciles de coser).
+- **Tela de corteza (Tapa)**: Corteza interior golpeada de ciertos árboles.
+- **Pieles**: Para abrigarse.
+- **Esteras tejidas**: Esteras de hierba o caña para refugio o dormir.
+- **Láminas de plástico**: Sustituto moderno para impermeabilización.
 
-### Limitaciones y fallos comunes
+### Límites y riesgos
 
-- **Rasgado:** Puede romperse bajo tensión.
-- **Podredumbre:** Las fibras naturales se descomponen en condiciones húmedas.
-- **Inflamabilidad:** La mayoría de las telas naturales arden fácilmente.
-
-### Riesgos y seguridad
-
-- **Enredo:** La tela suelta puede atraparse en maquinaria.
-- **Inflamabilidad:** Mantener alejada de llamas abiertas a menos que esté tratada.
+- **Inflamabilidad**: La mayoría de las telas naturales arden fácilmente. Mantener alejada de llamas abiertas.
+- **Podredumbre/Moho**: Las fibras orgánicas se descomponen si se mantienen húmedas.
+- **Plagas**: Polillas e insectos pueden comer lana o algodón.
+- **Desgaste**: Las rasgaduras y el deshilachado requieren reparación constante (zurcido).
+- **Enredo**: La tela suelta puede atraparse en maquinaria.
 
 ### Materiales relacionados
 
-- **Fibras vegetales:** Materia prima (algodón, lino, cáñamo).
-- **[Lino](/es/materials/linen)**: Tela habitual de lino.
-- **Lana:** Materia prima animal.
+- **[Algodón](/es/materials/cotton)**: Fuente de fibra vegetal.
+- **[Lana](/es/materials/wool)**: Fuente de fibra animal.
+- **[Lino](/es/materials/linen)**: Fuente de fibra de lino.
 - **[Seda](/es/materials/silk)**: Fibra animal de filamentos finos.
+- **[Hilo](/es/materials/yarn)**: La materia prima para la tela.
 - **[Tinte textil](/es/materials/textile-dye)**: Para colorear.
+- **[Telar](/es/inventions/loom)**: La herramienta para hacerla.

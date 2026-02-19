@@ -37,9 +37,16 @@ The needle acts as a penetration guide. The sharp point separates the material's
 
 ## Materials needed
 
-- **Primitive:** Bone (shinbone), antler, hardwood, fish spines, ivory.
-- **Metals:** Copper, bronze, iron, steel (best point retention).
-- **Abrasives:** Sandstone for shaping and sharpening.
+- **Primitive**: Bone (shinbone), antler, hardwood, fish spines, ivory.
+- **Metals**: **[Copper](/en/materials/copper)**, **[Bronze](/en/materials/bronze)**, **[Iron](/en/materials/iron)**, **[Steel](/en/materials/steel)** (best point retention).
+- **Abrasives**: Sandstone for shaping and sharpening.
+
+## Relationship with Sewing Machine
+
+The **[Sewing Machine](/en/inventions/sewing-machine)** uses a specialized version of the needle.
+
+- **Hand Needle**: Eye is at the top (opposite the point).
+- **Machine Needle**: Eye is at the bottom (near the point) to carry the thread through the fabric and form a loop for the shuttle hook.
 
 ## Variants and improvements
 

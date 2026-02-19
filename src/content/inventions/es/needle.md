@@ -37,9 +37,16 @@ La aguja actúa como una guía de penetración. La punta afilada separa las fibr
 
 ## Materiales necesarios
 
-- **Primitivos:** Hueso (tibia), asta, madera dura, espinas de pescado, marfil.
-- **Metales:** Cobre, bronce, hierro, acero (mejor retención de punta).
-- **Abrasivos:** Arenisca para dar forma y afilar.
+- **Primitivos**: Hueso (tibia), asta, madera dura, espinas de pescado, marfil.
+- **Metales**: **[Cobre](/es/materials/copper)**, **[Bronce](/es/materials/bronze)**, **[Hierro](/es/materials/iron)**, **[Acero](/es/materials/steel)** (mejor retención de punta).
+- **Abrasivos**: Arenisca para dar forma y afilar.
+
+## Relación con la Máquina de Coser
+
+La **[Máquina de Coser](/es/inventions/sewing-machine)** utiliza una versión especializada de la aguja.
+
+-   **Aguja de mano**: El ojo está en la parte superior (opuesta a la punta).
+-   **Aguja de máquina**: El ojo está en la parte inferior (cerca de la punta) para llevar el hilo a través de la tela y formar un bucle para el gancho de la lanzadera.
 
 ## Variantes y mejoras
 

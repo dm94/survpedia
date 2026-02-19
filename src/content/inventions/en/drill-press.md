@@ -48,9 +48,8 @@ A motor drives a spindle via a belt and pulley system (to change speeds). The sp
 - **Bench Drill:** Smaller, mounts on a workbench.
 - **Floor Drill:** Taller column, stands on the floor for larger work.
 - **Radial Arm Drill:** The head can move along an arm to drill large plates without moving the workpiece.
-- **Magnetic Drill:** Portable drill press that clamps to steel structures with an electromagnet.
 
-## Relationship with Lathes and Mills
+## Relationship with Lathe and Mill
 
 The Drill Press, the **[Lathe](/en/inventions/lathe)**, and the **[Milling Machine](/en/inventions/milling-machine)** are essential in any workshop.
 
