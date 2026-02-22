@@ -6,74 +6,72 @@ materialsUsed:
   - wood
   - animal-fat
   - vegetable-oil
-  - iron
-  - steel
 ---
 
 # Brief description
 
-Slide bearings, also known as plain bearings or journal bearings, are the simplest type of bearing used to support rotating shafts. They consist of a smooth surface (often a soft metal or wood) against which a shaft rotates, separated by a thin film of lubricant. They are crucial for heavy machinery like [Flywheels](/en/inventions/flywheel) and [Steam Engines](/en/inventions/steam-engine).
+A slide bearing (or plain bearing) is the simplest type of bearing, comprising just a bearing surface and no rolling elements. Therefore, the journal (the part of the shaft in contact with the bearing) slides over the bearing surface.
 
 ## Use / Function
 
-- **Load Support:** They support heavy radial loads (perpendicular to the shaft) better than many rolling-element bearings at low speeds.
-- **Friction Reduction:** They minimize friction between a moving shaft and a stationary housing.
-- **Shock Absorption:** The oil film dampens vibrations and shocks, making them ideal for engines and crushers.
-- **Scale:** From small clock mechanisms to massive industrial [Rolling Mills](/en/inventions/rolling-mill).
+- **Primary Use:** To support a rotating shaft and reduce friction between moving parts.
+- **Secondary Uses:** Linear motion guides (like on a lathe bed).
+- **Scale:** Used in everything from small clocks to massive steam engines and ship propeller shafts.
 
 ## Operating principle
 
-Slide bearings operate on the principle of **sliding friction** converted to **fluid friction**.
+The bearing supports the load while allowing the shaft to rotate. The key is to separate the metal surfaces with a film of lubricant (oil, grease, or even water/air).
 
-1.  **Surface Contact:** The shaft (journal) rests on the bearing surface.
-2.  **Lubrication:** A lubricant (oil, grease, or fat) is introduced between the surfaces.
-3.  **Hydrodynamic Wedge:** As the shaft rotates, it drags the lubricant into the load zone, creating a high-pressure wedge of fluid that lifts the shaft off the bearing surface. This prevents metal-to-metal contact and significantly reduces wear.
+- **Hydrodynamic Lubrication:** As the shaft spins, it drags a wedge of oil under itself, lifting it off the bearing surface. This "fluid film" prevents metal-to-metal contact and wear.
 
 ## How to create it
 
-1.  **Material Selection:** Choose a material that is softer than the shaft. If the lubrication fails, the bearing should wear out, not the expensive shaft. Common choices include [Bronze](/en/materials/bronze), [Brass](/en/materials/brass), or dense, oily [Wood](/en/materials/wood).
-2.  **Fabrication:**
-    - **Bushing:** Create a cylindrical sleeve that fits tightly into the housing and has a smooth internal bore for the shaft.
-    - **Split Bearing:** For easier assembly on long shafts (like crankshafts), make the bearing in two halves (top and bottom) that bolt together.
-3.  **Fitting:** The internal diameter must be slightly larger than the shaft to allow space for the lubricant (clearance).
-4.  **Grooving:** Cut small channels (oil grooves) into the inner surface to distribute the lubricant evenly.
-5.  **Lubrication:** Ensure a continuous supply of [Animal Fat](/en/materials/animal-fat) or [Vegetable Oil](/en/materials/vegetable-oil).
+### Basic Bronze Bushing
+
+1.  **Housing:** A hole in a rigid support (like a cast iron pillow block) to hold the bearing.
+2.  **Bushing (Liner):** A sleeve made of a material softer than the shaft, such as **[Bronze](/en/materials/bronze)**, **[Brass](/en/materials/brass)**, or Babbitt metal (a soft alloy of tin, antimony, and copper).
+    - If the bearing seizes, the cheap bushing is sacrificed to save the expensive shaft.
+3.  **Grooves:** Cut small channels (oil grooves) into the inner surface of the bushing to distribute the lubricant.
+4.  **Lubrication:** A hole or cup (oil cup/grease fitting) to feed **[Oil](/en/materials/vegetable-oil)** or **[Grease](/en/materials/animal-fat)** into the bearing.
+
+### Lignum Vitae Bearing (for water)
+
+1.  **Material:** Use **[Lignum Vitae](/en/materials/lignum-vitae)** (an extremely dense, oily wood) or similar hard woods.
+2.  **Application:** Excellent for underwater applications (like water wheels or ship propeller shafts) because the wood's natural oils and the water itself act as lubricants.
 
 ## Materials needed
 
-- **Essential:**
-  - **Bearing Material:** [Bronze](/en/materials/bronze), [Brass](/en/materials/brass), [Lead](/en/materials/lead) alloys (Babbitt), or hard [Wood](/en/materials/wood) (like Lignum Vitae).
-  - **Lubricant:** [Animal Fat](/en/materials/animal-fat), [Vegetable Oil](/en/materials/vegetable-oil), or mineral oil.
-- **Housing:** [Iron](/en/materials/iron) or [Steel](/en/materials/steel) to hold the bearing.
-- **Tools:** Lathe (for precision), files, scrapers (for hand-fitting).
+- **Bushing:** **[Bronze](/en/materials/bronze)**, **[Brass](/en/materials/brass)**, Babbitt metal, **[Lignum Vitae](/en/materials/lignum-vitae)**, or even oil-soaked **[Leather](/en/materials/leather)** (for light loads).
+- **Shaft:** Hardened **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)**.
+- **Housing:** **[Cast Iron](/en/materials/cast-iron)** or **[Wood](/en/materials/wood)**.
+- **Lubricant:** **[Animal Fat](/en/materials/animal-fat)**, **[Vegetable Oil](/en/materials/vegetable-oil)**, Mineral Oil.
 
 ## Variants and improvements
 
-- **Solid Bushing:** A simple one-piece tube.
-- **Split Bearing (Plummer Block):** Two-piece housing allowing removal without disassembling the whole shaft.
-- **Self-Lubricating:** Sintered bronze impregnated with oil (modern).
-- **Thrust Bearing:** A flat surface to support axial loads (preventing the shaft from moving lengthwise).
-- **Babbitt Bearing:** A cast iron shell lined with a soft lead-tin alloy (Babbitt) which has excellent anti-friction properties.
+- **Bushing:** A simple one-piece sleeve.
+- **Split Bearing:** The housing and bearing are split into two halves (top and bottom), allowing for installation around a shaft without removing the ends, and for adjustment as the bearing wears (by removing shims).
+- **Self-Aligning:** The bearing can tilt slightly to accommodate shaft misalignment.
+- **Porous Bronze (Oilite):** Sintered bronze impregnated with oil; self-lubricating for light loads.
 
 ## Limits and risks
 
-- **Friction at Start-up:** High friction occurs when starting and stopping because the fluid wedge hasn't formed yet.
-- **Lubrication Dependence:** If the oil supply fails, the bearing will overheat and seize rapidly.
-- **Heat Generation:** Fluid friction generates heat, which must be dissipated.
-- **Maintenance:** Requires regular checking of oil levels and clearance.
+- **Friction:** Higher starting friction than ball bearings (stiction).
+- **Lubrication:** Critical. If the oil film fails, rapid wear and heat generation (seizure) occur.
+- **Speed:** High speeds generate significant heat; requires pressure lubrication and cooling.
 
 ### Related Inventions
 
-- **[Flywheel](/en/inventions/flywheel)**
 - **[Axle](/en/inventions/axle)**
-- **[Steam Engine](/en/inventions/steam-engine)**
+- **[Flywheel](/en/inventions/flywheel)**
+- **[Ball and Roller Bearing](/en/inventions/ball-and-roller-bearing)**
+- **[Lathe](/en/inventions/lathe)**
 - **[Water Wheel](/en/inventions/water-wheel)**
-- **[Rolling Mill](/en/inventions/rolling-mill)**
+- **[Steam Engine](/en/inventions/steam-engine)**
 
 ### Related Materials
 
 - **[Bronze](/en/materials/bronze)**
 - **[Brass](/en/materials/brass)**
-- **[Lead](/en/materials/lead)**
+- **[Iron](/en/materials/iron)**
+- **[Steel](/en/materials/steel)**
 - **[Wood](/en/materials/wood)**
-- **[Animal Fat](/en/materials/animal-fat)**

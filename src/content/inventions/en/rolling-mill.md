@@ -3,67 +3,67 @@ title: Rolling Mill
 materialsUsed:
   - iron
   - steel
-  - bronze
-  - wood
-  - animal-fat
-  - vegetable-oil
 ---
 
 # Brief description
 
-A **Rolling Mill** is a machine used to reduce the thickness of metal and make it uniform. It passes the metal stock through one or more pairs of rolls to reduce the thickness and make the thickness uniform. The process is similar to rolling out dough.
+A machine used to reduce the thickness of metal sheets or bars and to make them uniform. The metal stock is passed through one or more pairs of rolls to reduce the thickness and to make the thickness uniform. The concept is similar to the rolling of dough.
 
 ## Use / Function
 
-- **Thickness Reduction:** Reducing the cross-sectional area of a metal piece (ingot, billet, slab).
-- **Shape Forming:** Creating structural shapes like [Rails](/en/inventions/rail), I-beams, channels, and angles.
-- **Surface Finish:** Improving the surface finish of the metal.
-- **Material Properties:** Cold rolling can increase the strength of the metal via strain hardening.
+- **Primary Use:** To flatten metal ingots into sheets, plates, or foil.
+- **Secondary Uses:** To shape metal into bars, rods, rails (I-beams), or wire.
+- **Scale:** Industrial (large mills driven by water wheels or steam engines) to small jeweler's mills.
 
 ## Operating principle
 
-The rolling mill operates on the principle of **plastic deformation**. The metal is passed between two rolls that are rotating in opposite directions. The gap between the rolls is smaller than the thickness of the metal entering them. As the metal passes through, it is compressed, reducing its thickness and increasing its length. Friction between the rolls and the metal pulls the metal through.
+The metal is passed between two rotating rolls. The gap between the rolls is slightly smaller than the thickness of the incoming metal. As the metal is pulled through by friction, it is compressed and elongated.
+- **Hot Rolling:** Metal is heated above its recrystallization temperature. Easier to shape, but surface finish is rougher.
+- **Cold Rolling:** Metal is rolled at room temperature. Harder to shape (requires more force), but produces better surface finish and strength (work hardening).
 
 ## How to create it
 
-1.  **Frame Construction:** Build a heavy, rigid **[Frame](/en/inventions/frame)** (usually cast iron or steel) to withstand the immense separating forces generated during rolling.
-2.  **Roll Preparation:** Create two cylinders (rolls) from a hard material like **[Iron](/en/materials/iron)** or **[Steel](/en/materials/steel)**. They must be smooth and harder than the material being rolled.
-3.  **Mounting:** Mount the rolls in the frame using heavy-duty **[Bearings](/en/inventions/bearings)** (bronze or brass) to allow them to rotate freely under load.
-4.  **Drive Mechanism:** Connect the rolls to a power source (water wheel, steam engine) using a **[Gear](/en/inventions/gears)** system known as a **Pinion Stand**. The rolls must rotate at the same speed but in opposite directions. The gears also provide the necessary torque multiplication to deform the metal.
-5.  **Adjustment Mechanism:** Install large screws on the top of the frame to adjust the gap between the rolls (screw-down mechanism).
+### Basic Two-High Mill
+
+1.  **Rolls:** Two heavy, smooth cylinders of **[Cast Iron](/en/materials/cast-iron)** or hardened **[Steel](/en/materials/steel)**.
+2.  **Housing (Frame):** A massive, rigid frame to hold the rolls in place against the enormous separating forces.
+3.  **Bearings:** Heavy-duty **[Slide Bearings](/en/inventions/slide-bearings)** (often bronze or brass) or **[Ball and Roller Bearings](/en/inventions/ball-and-roller-bearing)** to support the roll necks.
+4.  **Screw-down Mechanism:** Large screws on top of the housing to adjust the gap between the rolls (the "nip").
+5.  **Drive:** A powerful source of torque (Water Wheel, **[Steam Engine](/en/inventions/steam-engine)**, or Electric Motor) connected to the rolls via **[Gears](/en/inventions/gears)**.
+6.  **Flywheel:** A massive **[Flywheel](/en/inventions/flywheel)** is often used to store energy and smooth out the power delivery, especially for "bite" when the metal first enters the rolls.
 
 ## Materials needed
 
-- **Rolls:** Chilled Cast Iron or Alloy Steel for hardness and wear resistance.
-- **Frame:** Cast Iron or heavy Steel to resist deformation.
-- **Bearings:** Bronze, Brass, or Babbitt metal.
-- **Lubricant:** **[Animal Fat](/en/materials/animal-fat)** or heavy **[Vegetable Oil](/en/materials/vegetable-oil)** for the bearings and neck of the rolls. A **[Gear Pump](/en/inventions/gear-pump)** can ensure a constant supply.
+- **Rolls:** Hardened **[Steel](/en/materials/steel)** or chilled **[Cast Iron](/en/materials/cast-iron)**.
+- **Frame:** **[Cast Iron](/en/materials/cast-iron)** or thick **[Steel](/en/materials/steel)** plate.
+- **Bearings:** **[Bronze](/en/materials/bronze)**, **[Brass](/en/materials/brass)**, or Babbitt metal.
+- **Lubricant:** Heavy grease or tallow.
 
 ## Variants and improvements
 
-- **Two-High Mill:** The simplest form with two rolls.
-- **Three-High Mill:** Three rolls arranged vertically. The metal passes forward between the bottom and middle rolls, and backward between the middle and top rolls.
-- **Four-High Mill:** Two small work rolls backed up by two larger backup rolls to prevent bending of the work rolls.
-- **Slitting Mill:** Uses disk-shaped cutters to slit sheet metal into narrow strips (essential for making nails or coins).
+- **Two-High:** Two rolls, rotates one way (reversing mills can go back and forth).
+- **Three-High:** Three rolls stacked vertically. Metal goes one way through bottom gap, returns through top gap.
+- **Four-High:** Two small work rolls (contact the metal) backed up by two large backup rolls (prevent bending).
+- **Cluster Mill:** Many backup rolls for very hard materials/thin foils.
 
 ## Limits and risks
 
-- **Roll Deflection:** Under high pressure, rolls can bend, resulting in a product that is thicker in the middle (crowned).
-- **Heat:** Hot rolling requires handling red-hot metal, posing severe burn risks.
-- **Crushing Hazard:** The nip point between the rolls is extremely dangerous and can pull in tools, clothing, or limbs.
-- **Power Requirement:** Requires significant torque and power, often needing a **[Flywheel](/en/inventions/flywheel)** to smooth out the load.
+- **Force:** Requires immense force; frames can crack if not strong enough.
+- **Pinching:** Extremely dangerous for operators; fingers/limbs can be pulled in.
+- **Chatter:** Vibration can mark the metal surface.
+- **Camber:** Rolls can bend in the middle under load, producing sheet that is thicker in the center (crowned).
 
-### Related inventions
+### Related Inventions
 
-- **[Gears](/en/inventions/gears)**
-- **[Gear Pump](/en/inventions/gear-pump)**
-- **[Bearings](/en/inventions/bearings)**
 - **[Flywheel](/en/inventions/flywheel)**
+- **[Gears](/en/inventions/gears)**
 - **[Steam Engine](/en/inventions/steam-engine)**
 - **[Water Wheel](/en/inventions/water-wheel)**
+- **[Slide Bearings](/en/inventions/slide-bearings)**
 
-### Related materials
+### Related Materials
 
 - **[Steel](/en/materials/steel)**
 - **[Iron](/en/materials/iron)**
-- **[Sheet Metal](/en/materials/sheet-metal)**
+- **[Brass](/en/materials/brass)**
+- **[Bronze](/en/materials/bronze)**

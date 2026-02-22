@@ -1,63 +1,78 @@
 ---
-title: "Steam Engine"
-image: ../../../assets/inventions/steam-engine.jpg
-materialsUsed: ["iron", "steel", "water", "wood", "charcoal", "coal"]
+title: Steam Engine
+materialsUsed:
+  - iron
+  - steel
+  - brass
+  - coal
+  - wood
+  - water
 ---
 
 # Brief description
 
-A steam engine is a heat engine that performs mechanical work using steam as its working fluid. It converts thermal energy from a fuel source into reciprocating linear motion, which can then be transformed into rotation.
+A heat engine that performs mechanical work using steam as its working fluid. The steam engine uses the force produced by steam pressure to push a piston back and forth inside a cylinder. This reciprocating motion is typically converted into rotational motion for work.
 
 ## Use / Function
 
-- **Industrial Power:** Driving machinery in factories and mills.
-- **Transportation:** Powering locomotives and steamships.
-- **Mining:** Pumping water out of deep mines.
-- **Electricity Generation:** Traditional power plants use steam turbines (a modern variant) to drive generators.
+- **Primary Use:** To power machinery (pumps, mills, factories) and transportation (trains, ships).
+- **Secondary Uses:** Generating electricity (steam turbines are modern descendants).
+- **Scale:** From small models to massive stationary engines and locomotives.
 
 ## Operating principle
 
-The core principle involves heating water to create steam in a confined space (the boiler).
-
-1. **Steam Generation:** A fuel (coal, wood, charcoal) is burned to boil water.
-2. **Expansion:** The high-pressure steam is directed into a cylinder.
-3. **Work:** The steam expands and pushes a piston.
-4. **Exhaust:** The spent steam is released or condensed, and the piston returns to its starting position, often aided by a flywheel (a heavy [wheel](/en/inventions/wheel)).
-5. **Transmission:** The reciprocating motion of the piston is converted to rotational motion via a connecting rod and crankshaft.
+1.  **Boiling:** Water is heated in a **[Boiler](/en/inventions/boiler)** to create high-pressure steam.
+2.  **Expansion:** The steam enters a cylinder through a valve and expands, pushing a piston.
+3.  **Work:** The moving piston pushes a connecting rod, which turns a crankshaft (converting linear to rotary motion).
+4.  **Exhaust:** The spent steam is exhausted (vented to the atmosphere or condensed).
+5.  **Cycle:** The process repeats. A **[Flywheel](/en/inventions/flywheel)** carries the momentum through the "dead spots" of the cycle.
 
 ## How to create it
 
-1.  **Boiler Construction:** Build a pressure vessel capable of holding boiling water and high-pressure steam safely. This requires high-quality metal and strong joints.
-2.  **Cylinder and Piston:** Machine a precise cylinder and a fitting piston that can move with minimal friction but maintain a tight seal.
-3.  **Valve Mechanism:** Design a system to time the entry and exit of steam into the cylinder (e.g., slide valve).
-4.  **Linkage:** Connect the piston to a beam or directly to a crankshaft.
-5.  **Assembly:** Mount all components on a sturdy frame and ensure proper alignment to prevent binding.
+### Basic Double-Acting Engine
+
+1.  **Cylinder:** A smooth, bored tube of **[Cast Iron](/en/materials/cast-iron)**.
+2.  **Piston:** A disk that fits tightly inside the cylinder, often with rings to seal the steam.
+3.  **Valves:** A mechanism (slide valve or piston valve) to admit steam to one side of the piston while exhausting it from the other, then switching at the end of the stroke.
+4.  **Crankshaft & Flywheel:** Converts the back-and-forth motion to rotation. The heavy **[Flywheel](/en/inventions/flywheel)** is crucial for smooth operation.
+5.  **Governor:** A device (often a centrifugal governor) to regulate the speed by controlling the steam flow.
 
 ## Materials needed
 
-- **Structural Metal:** Iron or Steel for the boiler, cylinder, and frame.
-- **Seals:** Leather or specialized packing to prevent steam leaks.
-- **Working Fluid:** Water (preferably purified to prevent scale buildup).
-- **Fuel:** Wood, Charcoal, or Coal to provide heat.
-- **Lubricant:** Oil to keep the piston and valves moving smoothly.
+- **Boiler/Cylinder:** **[Iron](/en/materials/iron)** or **[Steel](/en/materials/steel)** (must withstand high pressure).
+- **Piston/Valves:** **[Cast Iron](/en/materials/cast-iron)**, **[Brass](/en/materials/brass)**, or **[Bronze](/en/materials/bronze)**.
+- **Bearings:** **[Slide Bearings](/en/inventions/slide-bearings)** (Bronze/Babbitt).
+- **Seals:** **[Leather](/en/materials/leather)**, **[Rope](/en/materials/rope)** (packing), or metal rings.
+- **Fuel:** **[Coal](/en/materials/coal)**, **[Wood](/en/materials/wood)**, or **[Oil](/en/materials/crude-oil)**.
+- **Working Fluid:** **[Water](/en/materials/water)** (clean, soft water to prevent scale).
 
 ## Variants and improvements
 
-- **Newcomen Engine:** The first practical atmospheric engine, mainly for pumping water.
-- **Watt Engine:** Introduced the separate condenser, greatly increasing efficiency.
-- **High-Pressure Engines:** Smaller and more powerful, suitable for transport.
-- **Steam Turbine:** Replaces reciprocating pistons with a high-speed rotating wheel for maximum efficiency in power plants.
+- **Atmospheric Engine (Newcomen):** Used steam to create a vacuum; atmospheric pressure did the work. Very inefficient.
+- **High-Pressure Engine (Watt/Trevithick):** Uses steam pressure above atmospheric. Much smaller and more powerful.
+- **Compound Engine:** Steam is used in one cylinder, then exhausted into a larger cylinder to extract more energy.
+- **Steam Turbine:** Steam spins blades directly (no piston). Used in power plants today.
 
 ## Limits and risks
 
-- **Explosion Risk:** Boilers can explode if pressure exceeds the strength of the vessel or if safety valves fail.
-- **Efficiency:** Much of the energy is lost as waste heat.
-- **Maintenance:** High pressure and heat cause significant wear on seals and moving parts.
-- **Water Quality:** Impurities in water can lead to corrosion and dangerous buildup in the boiler.
+- **Explosion:** Boiler explosions are catastrophic. Safety valves and regular inspection are mandatory.
+- **Efficiency:** Early engines were very inefficient (1-5%). Modern turbines are much better but still limited by thermodynamics.
+- **Maintenance:** Requires constant lubrication, cleaning (boiler scale), and seal replacement.
 
 ### Related Inventions
 
-- **[Rolling Mill](/en/inventions/rolling-mill)**
-- **[Gears](/en/inventions/gears)**
+- **[Flywheel](/en/inventions/flywheel)**
+- **[Boiler](/en/inventions/boiler)**
+- **[Piston](/en/inventions/piston)**
+- **[Valve](/en/inventions/valve)**
+- **[Governor](/en/inventions/governor)**
 - **[Pump](/en/inventions/pump)**
-- **[Rail](/en/inventions/rail)**
+- **[Slide Bearings](/en/inventions/slide-bearings)**
+
+### Related Materials
+
+- **[Iron](/en/materials/iron)**
+- **[Steel](/en/materials/steel)**
+- **[Brass](/en/materials/brass)**
+- **[Coal](/en/materials/coal)**
+- **[Water](/en/materials/water)**
