@@ -53,6 +53,7 @@ Cuando se agrega energ√≠a al sistema, el volante acelera, almacenando esa energ√
 - **[Engranajes](/es/inventions/gears)**
 - **[Cojinetes de Deslizamiento](/es/inventions/slide-bearings)**
 - **[Cojinetes de Bolas y Rodillos](/es/inventions/ball-and-roller-bearing)**
+- **[Monociclo](/es/inventions/monowheel)**
 
 ### Materiales relacionados
 

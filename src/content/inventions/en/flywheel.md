@@ -53,6 +53,7 @@ When energy is added to the system, the flywheel speeds up, storing that energy.
 - **[Gears](/en/inventions/gears)**
 - **[Slide Bearings](/en/inventions/slide-bearings)**
 - **[Ball and Roller Bearing](/en/inventions/ball-and-roller-bearing)**
+- **[Monowheel](/en/inventions/monowheel)**
 
 ### Related Materials
 
