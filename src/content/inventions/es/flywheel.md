@@ -1,7 +1,7 @@
 ---
 title: Volante de inercia
 materialsUsed:
-  - piedra
+  - stone
   - iron
   - lead
   - wood
@@ -15,7 +15,7 @@ Un volante de inercia es un dispositivo mecánico diseñado específicamente par
 
 - **Almacenamiento de Energía:** Almacena energía cinética para usarla cuando la fuente de energía es intermitente.
 - **Suavizado de Rotación:** Reduce las fluctuaciones en la velocidad de rotación en sistemas como motores o [tornos de alfarero](/es/inventions/potters-wheel).
-- **Entrega de Potencia:** Entrega pulsos de alta potencia (por ejemplo, en prensas mecánicas) que exceden la potencia del motor impulsor.
+- **Entrega de Potencia:** Entrega pulsos de alta potencia (por ejemplo, en prensas mecánicas o **[Laminadores](/es/inventions/rolling-mill)**) que exceden la potencia del motor impulsor.
 
 ## Principio de funcionamiento
 
@@ -24,14 +24,14 @@ Cuando se agrega energía al sistema, el volante acelera, almacenando esa energ�
 
 ## Cómo crearlo
 
-1.  **Selección de Material:** Elegir un material pesado. [Piedra](/es/materials/piedra), [Hierro](/es/materials/iron) o [Plomo](/es/materials/lead) son ideales.
+1.  **Selección de Material:** Elegir un material pesado. [Piedra](/es/materials/stone), [Hierro](/es/materials/iron) o [Plomo](/es/materials/lead) son ideales.
 2.  **Equilibrado:** El paso más crítico. La masa debe estar perfectamente distribuida alrededor del centro. Un volante desequilibrado vibrará destructivamente a altas velocidades.
 3.  **Montaje:** Fijar firmemente el volante a un [eje](/es/inventions/axle).
 4.  **Reducción de Fricción:** Usar buenos cojinetes para minimizar la pérdida de energía.
 
 ## Materiales necesarios
 
-- **Masa Pesada:** [Piedra](/es/materials/piedra), [Hierro](/es/materials/iron), [Plomo](/es/materials/lead) o [Madera](/es/materials/wood) densa.
+- **Masa Pesada:** [Piedra](/es/materials/stone), [Hierro](/es/materials/iron), [Plomo](/es/materials/lead) o [Madera](/es/materials/wood) densa.
 - **[Eje](/es/inventions/axle):** Lo suficientemente fuerte para soportar el peso.
 
 ## Variantes y mejoras
@@ -44,3 +44,16 @@ Cuando se agrega energía al sistema, el volante acelera, almacenando esa energ�
 - **Estallido:** A velocidades muy altas, la fuerza centrífuga puede exceder la resistencia a la tracción del material, haciendo que el volante explote.
 - **Peso:** Los volantes pesados requieren soportes y ejes fuertes.
 - **Efecto Giroscópico:** Un volante giratorio se resiste a cambiar su orientación, lo que puede ser útil (giroscopios) o problemático (manejo de vehículos).
+
+### Inventos relacionados
+
+- **[Máquina de Vapor](/es/inventions/steam-engine)**
+- **[Torno de Alfarero](/es/inventions/potters-wheel)**
+- **[Laminador](/es/inventions/rolling-mill)**
+- **[Engranajes](/es/inventions/gears)**
+
+### Materiales relacionados
+
+- **[Hierro](/es/materials/iron)**
+- **[Plomo](/es/materials/lead)**
+- **[Piedra](/es/materials/stone)**
