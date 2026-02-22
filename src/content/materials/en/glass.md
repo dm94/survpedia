@@ -80,7 +80,7 @@ Glass requires advanced pyrotechnic technology (kilns).
   - **Glazed Ceramics:** Waterproof and opaque.
   - **Metal:** Durable but reactive with acids.
 - **Lenses:**
-  - **Rock Crystal (Quartz):** Hard to carve but optically superior.
+  - **[Quartz](/en/materials/quartz) (Rock Crystal):** Hard to carve but optically superior.
   - **Water Droplet:** Ephemeral and primitive lens.
 
 ### Limitations and common failures

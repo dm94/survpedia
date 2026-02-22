@@ -80,7 +80,7 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
   - **Cerámica esmaltada:** Impermeable y opaca.
   - **Metal:** Duradero pero reactivo con ácidos.
 - **Lentes:**
-  - **Cristal de roca (Cuarzo):** Difícil de tallar pero ópticamente superior.
+  - **[Cuarzo](/es/materials/quartz) (Cristal de roca):** Difícil de tallar pero ópticamente superior.
   - **Gota de agua:** Lente efímera y primitiva.
 
 ### Limitaciones y fallos comunes
