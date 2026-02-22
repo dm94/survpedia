@@ -27,7 +27,7 @@ Cuando se agrega energía al sistema, el volante acelera, almacenando esa energ�
 1.  **Selección de Material:** Elegir un material pesado. [Piedra](/es/materials/stone), [Hierro](/es/materials/iron) o [Plomo](/es/materials/lead) son ideales.
 2.  **Equilibrado:** El paso más crítico. La masa debe estar perfectamente distribuida alrededor del centro. Un volante desequilibrado vibrará destructivamente a altas velocidades.
 3.  **Montaje:** Fijar firmemente el volante a un [eje](/es/inventions/axle).
-4.  **Reducción de Fricción:** Usar buenos cojinetes, como [Cojinetes de Deslizamiento](/es/inventions/slide-bearings), para minimizar la pérdida de energía.
+4.  **Reducción de Fricción:** Usar buenos cojinetes, como [Cojinetes de Deslizamiento](/es/inventions/slide-bearings) o **[Cojinetes de Bolas y Rodillos](/es/inventions/ball-and-roller-bearing)**, para minimizar la pérdida de energía.
 
 ## Materiales necesarios
 
@@ -52,6 +52,7 @@ Cuando se agrega energía al sistema, el volante acelera, almacenando esa energ�
 - **[Laminador](/es/inventions/rolling-mill)**
 - **[Engranajes](/es/inventions/gears)**
 - **[Cojinetes de Deslizamiento](/es/inventions/slide-bearings)**
+- **[Cojinetes de Bolas y Rodillos](/es/inventions/ball-and-roller-bearing)**
 
 ### Materiales relacionados
 

@@ -27,7 +27,7 @@ When energy is added to the system, the flywheel speeds up, storing that energy.
 1.  **Material Selection:** Choose a heavy material. [Stone](/en/materials/stone), [Iron](/en/materials/iron), or [Lead](/en/materials/lead) are ideal.
 2.  **Balancing:** The most critical step. The mass must be perfectly distributed around the center. An unbalanced flywheel will vibrate destructively at high speeds.
 3.  **Mounting:** Securely attach the flywheel to an [axle](/en/inventions/axle).
-4.  **Reduction of Friction:** Use good bearings, such as [Slide Bearings](/en/inventions/slide-bearings), to minimize energy loss.
+4.  **Reduction of Friction:** Use good bearings, such as [Slide Bearings](/en/inventions/slide-bearings) or **[Ball and Roller Bearings](/en/inventions/ball-and-roller-bearing)**, to minimize energy loss.
 
 ## Materials needed
 
@@ -52,6 +52,7 @@ When energy is added to the system, the flywheel speeds up, storing that energy.
 - **[Rolling Mill](/en/inventions/rolling-mill)**
 - **[Gears](/en/inventions/gears)**
 - **[Slide Bearings](/en/inventions/slide-bearings)**
+- **[Ball and Roller Bearing](/en/inventions/ball-and-roller-bearing)**
 
 ### Related Materials
 
