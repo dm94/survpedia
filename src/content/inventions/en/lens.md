@@ -30,11 +30,11 @@ The core principle is **Refraction**.
 
 ## How to create it
 
-Creating a functional lens requires patience and precision.
+Creating a functional lens requires patience and precision. For a detailed guide on the process, see **[Lens Grinding](/en/inventions/lens-grinding)**.
 
 1.  **Rough Grinding:** Take a piece of clear **[Glass](/en/materials/glass)** or **[Quartz](/en/materials/quartz)**. Rub it against a hard, concave mold (like an iron dish) using coarse abrasive sand and water. This shapes the glass into a curve.
 2.  **Fine Grinding:** Switch to finer abrasives (like fine sand or ground sandstone) to smooth out the deep scratches.
-3.  **Polishing:** Use a very fine polishing powder (like rouge/iron oxide or tripoli) on a piece of leather or pitch attached to the mold. Rub until the glass is perfectly transparent and scratch-free.
+3.  **Polishing:** Use a very fine polishing powder (like **[rouge](/en/materials/iron-oxide)** or tripoli) on a piece of leather or pitch attached to the mold. Rub until the glass is perfectly transparent and scratch-free.
 4.  **Casting (Alternative):** Molten glass can be poured into a heated mold, but this often results in imperfections and bubbles, making it inferior to ground lenses.
 
 **Technical Level:** Advanced. Requires consistent motion and increasingly fine abrasives.
