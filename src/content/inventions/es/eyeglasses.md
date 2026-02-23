@@ -36,7 +36,7 @@ Añaden una lente externa al sistema óptico del ojo para ajustar dónde se enfo
 ## Materiales necesarios
 
 - **Lentes:** **[Vidrio](/es/materials/glass)** o **[Cuarzo](/es/materials/quartz)** tallado.
-- **Marcos:** **[Alambre](/es/materials/wire)** de cobre o hierro, correas de cuero, cuerno, hueso, madera.
+- **Marcos:** **[Alambre](/es/materials/wire)** de **[Cobre](/es/materials/copper)** o **[Hierro](/es/materials/iron)**, correas de **[Cuero](/es/materials/leather)**, **[Cuerno](/es/materials/horn)**, **[Hueso](/es/materials/bone)**, **[Madera](/es/materials/wood)**.
 
 ## Variantes y mejoras
 

@@ -36,7 +36,7 @@ They add an external lens to the eye's optical system to adjust where the image 
 ## Materials needed
 
 - **Lenses:** Ground **[Glass](/en/materials/glass)** or **[Quartz](/en/materials/quartz)**.
-- **Frames:** Copper or iron **[Wire](/en/materials/wire)**, leather straps, horn, bone, wood.
+- **Frames:** **[Copper](/en/materials/copper)** or **[Iron](/en/materials/iron)** **[Wire](/en/materials/wire)**, **[Leather](/en/materials/leather)** straps, **[Horn](/en/materials/horn)**, **[Bone](/en/materials/bone)**, **[Wood](/en/materials/wood)**.
 
 ## Variants and improvements
 
