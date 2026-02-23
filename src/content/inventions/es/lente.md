@@ -15,7 +15,7 @@ Una lente es un objeto transparente (generalmente de vidrio, plástico o cristal
 
 - **Magnificación:** Ampliar imágenes de objetos pequeños para su estudio detallado (base del **[Microscopio](/es/inventions/microscope)** y la lupa).
 - **Visión Lejana:** Acercar objetos distantes al ojo (base del **[Telescopio](/es/inventions/telescope)**).
-- **Corrección Visual:** Corregir errores refractivos en el ojo humano como la miopía o la hipermetropía usando **[Gafas](/es/inventions/eyeglasses)**.
+- **Corrección Visual:** Corregir **[Problemas de Visión](/es/knowledge/vision-problems)** (errores refractivos) como la miopía o la hipermetropía usando **[Gafas](/es/inventions/eyeglasses)**.
 - **Hacer Fuego:** Concentrar la luz solar en un punto específico (punto focal) para generar calor intenso y encender yesca.
 
 ## Principio de funcionamiento

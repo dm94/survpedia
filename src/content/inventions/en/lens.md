@@ -15,7 +15,7 @@ A lens is a transparent object (usually glass, plastic, or crystal) with at leas
 
 - **Magnification:** Enlarging images of small objects for detailed study (basis of the **[Microscope](/en/inventions/microscope)** and magnifying glass).
 - **Far Vision:** Bringing distant objects closer to the eye (basis of the **[Telescope](/en/inventions/telescope)**).
-- **Vision Correction:** Correcting refractive errors in the human eye such as myopia (nearsightedness) or hyperopia (farsightedness) using **[Eyeglasses](/en/inventions/eyeglasses)**.
+- **Vision Correction:** Correcting **[Vision Problems](/en/knowledge/vision-problems)** (refractive errors) such as myopia or hyperopia using **[Eyeglasses](/en/inventions/eyeglasses)**.
 - **Fire Starting:** Concentrating sunlight onto a specific point (focal point) to generate intense heat and ignite tinder.
 
 ## Operating principle

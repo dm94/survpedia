@@ -12,7 +12,7 @@ Las gafas (o anteojos) son marcos que sostienen lentes que se usan frente a los 
 
 ## Uso / Función
 
-- **Corrección Visual:** Restaurar la visión nítida a personas con errores refractivos.
+- **Corrección Visual:** Restaurar la visión nítida a personas con **[Problemas de Visión](/es/knowledge/vision-problems)** (errores refractivos).
   - **Miopía:** Problemas para ver de lejos.
   - **Hipermetropía/Presbicia:** Problemas para ver de cerca (lectura).
 - **Protección:** Proteger los ojos del polvo, chispas o luz intensa (gafas de sol).

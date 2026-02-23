@@ -12,7 +12,7 @@ Eyeglasses (or spectacles) are frames bearing lenses that are worn in front of t
 
 ## Use / Function
 
-- **Vision Correction:** Restoring sharp vision to people with refractive errors.
+- **Vision Correction:** Restoring sharp vision to people with **[Vision Problems](/en/knowledge/vision-problems)** (refractive errors).
   - **Myopia:** Trouble seeing far away.
   - **Hyperopia/Presbyopia:** Trouble seeing close up (reading).
 - **Protection:** Shielding eyes from dust, sparks, or intense light (sunglasses).
