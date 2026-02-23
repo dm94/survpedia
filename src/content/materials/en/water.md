@@ -56,6 +56,29 @@ In its liquid state, water flows and takes the shape of its container. It can al
 - Purified: For drinking and cooking.
 - Steam: For power generation and sterilization.
 
+### Quality and Potability
+
+- **Clarity and Odor:** Turbid or smelly water requires full treatment.
+- **Sedimentation:** Let it sit so solid particles settle.
+- **Multiple Filtration:** Cloth, sand, and charcoal to improve cleanliness.
+- **Disinfection:** Boiling, solar exposure in clear containers (SODIS), or chemical treatment when available.
+- **Separation:** Keep potable water isolated from non-potable.
+
+### Storage and Conservation
+
+- **Clean Containers:** With lids to prevent re-contamination.
+- **Materials:** Prioritize glazed ceramics, glass, or inert materials.
+- **Reactivity:** Avoid contact with reactive metals or corroded containers.
+- **Location:** Cool and shaded to reduce algae growth and evaporation.
+- **Rotation:** Consume the oldest stored water first.
+
+### Critical Uses for Reconstruction
+
+- **Public Health:** Basic hygiene, wound cleaning, and disease control.
+- **Industrial Processes:** Cooling, fiber washing, lime and mortar manufacturing.
+- **Energy and Mechanics:** Steam, water mills, river transport.
+- **Food:** Cooking, fermentation, and preservation.
+
 ### Possible substitutes
 
 - None for biological consumption.

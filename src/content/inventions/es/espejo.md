@@ -5,6 +5,11 @@ materialsUsed:
   - silver
   - tin
   - copper
+  - aluminum
+  - mercury
+  - obsidian
+  - bronze
+  - water
 image: ../../../assets/images/inventions/espejo.jpg
 ---
 

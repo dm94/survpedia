@@ -42,9 +42,9 @@ Glass is a solid inorganic, non-crystalline (amorphous) material that is typical
 Although **[Obsidian](/en/materials/obsidian)** is a natural volcanic glass used since prehistory, common glass is a synthetic material.
 
 - **Components:**
-  1.  **Silica Sand (SiO2):** The main body (approx. 70-75%). Found in beaches and dunes.
-  2.  **Soda (Sodium Carbonate):** Flux to lower the melting temperature. Obtained from marine plant ashes or mineral deposits.
-  3.  **Lime (Calcium Carbonate):** Stabilizer so the glass is not water-soluble. Obtained from limestone.
+  1.  **[Sand](/en/materials/sand) (Silica/SiO2):** The main body (approx. 70-75%). Found in beaches and dunes.
+  2.  **[Soda](/en/materials/soda) (Sodium Carbonate):** Flux to lower the melting temperature. Obtained from marine plant ashes or mineral deposits.
+  3.  **[Lime](/en/materials/lime) (Calcium Carbonate):** Stabilizer so the glass is not water-soluble. Obtained from [limestone](/en/materials/limestone).
 
 ### Minimum processing required
 

@@ -42,9 +42,9 @@ El vidrio es un material sólido inorgánico, no cristalino (amorfo), que suele 
 Aunque la **[Obsidiana](/es/materials/obsidian)** es un vidrio natural volcánico usado desde la prehistoria, el vidrio común es un material sintético.
 
 - **Componentes:**
-  1.  **Arena de Sílice (SiO2):** El cuerpo principal (aprox. 70-75%). Se encuentra en playas y dunas.
-  2.  **Sosa (Carbonato de Sodio):** Fundente para bajar la temperatura de fusión. Se obtiene de cenizas de plantas marinas o depósitos minerales.
-  3.  **Cal (Carbonato de Calcio):** Estabilizador para que el vidrio no sea soluble en agua. Se obtiene de la piedra caliza.
+  1.  **[Arena](/es/materials/sand) (Sílice/SiO2):** El cuerpo principal (aprox. 70-75%). Se encuentra en playas y dunas.
+  2.  **[Sosa](/es/materials/soda) (Carbonato de Sodio):** Fundente para bajar la temperatura de fusión. Se obtiene de cenizas de plantas marinas o depósitos minerales.
+  3.  **[Cal](/es/materials/lime) (Carbonato de Calcio):** Estabilizador para que el vidrio no sea soluble en agua. Se obtiene de la [piedra caliza](/es/materials/limestone).
 
 ### Procesamiento mínimo requerido
 
