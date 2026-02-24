@@ -28,6 +28,10 @@ Paint is a colored substance that is spread over a surface and dries to leave a 
 
 Paint is typically a viscous liquid or paste. Its color and opacity depend on the pigment used. Upon drying, it forms a solid film that adheres to the substrate. The texture can range from matte to high gloss depending on the binder-to-pigment ratio.
 
+- **Protection:** Protecting metals from rust or the reflective layer in a **[Silver Mirror](/en/inventions/silver-mirror)** from oxidation.
+- **Signaling:** High-visibility colors for safety.
+- **Camouflage:** Blending into the environment.
+
 ## Origin and where to find it
 
 - **Pigment**: Sourced from minerals, plants, or soot (see [Pigments](/en/materials/pigments)).
@@ -88,3 +92,4 @@ Paint is typically a viscous liquid or paste. Its color and opacity depend on th
 - **Egg**: Common binder.
 - **[Canvas](/en/materials/canvas)** / **[Wood](/en/materials/wood)**: Common substrates.
 - **Primer/Gesso**: Base coat to prepare the surface.
+- **[Silver Mirror](/en/inventions/silver-mirror)**: Protective application.

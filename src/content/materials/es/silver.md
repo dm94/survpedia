@@ -51,7 +51,7 @@ La plata es un metal de transición blando, blanco y brillante. Exhibe la mayor 
 
 - **Monedas:** Históricamente el estándar para el comercio diario.
 - **Platería:** Utensilios y recipientes (beneficiándose de las propiedades antibacterianas).
-- **Espejos:** La plata pulida refleja el 95% de la luz. Se utiliza en la fabricación de **[espejos](/es/inventions/espejo)** modernos.
+- **Espejos:** La plata pulida refleja el 95% de la luz. Es esencial para la fabricación del **[Espejo de Plata](/es/inventions/espejo-de-plata)**, donde se deposita químicamente sobre el vidrio.
 - **Soldaduras:** La soldadura de plata es fuerte y se usa para unir metales.
 - **Electrónica:** Debido a su alta conductividad.
 
@@ -78,3 +78,4 @@ La plata es un metal de transición blando, blanco y brillante. Exhibe la mayor 
 - **Oro:** A menudo se encuentran juntos.
 - **Electro:** Aleación natural de Oro-Plata.
 - **[Espejo](/es/inventions/espejo):** Aplicación de alta reflectividad.
+- **[Espejo de Plata](/es/inventions/espejo-de-plata):** Aplicación química moderna.

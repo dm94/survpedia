@@ -59,7 +59,7 @@ It relies on the physical phenomenon of **specular reflection**:
 
 - **Ancient Mirrors:** Made of solid polished bronze or obsidian. They required constant maintenance as they tarnished quickly.
 - **Mercury-Tin Mirrors:** (16th-19th century) A tin foil was coated with mercury to create an amalgam on glass. Very clear but highly toxic to make.
-- **Silvered Mirrors:** Modern standard using chemical precipitation of silver. More reflective and durable.
+- **Silvered Mirrors:** Modern standard using chemical precipitation of silver. See **[Silver Mirror](/en/inventions/silver-mirror)** for the detailed chemical process. More reflective and durable.
 - **Aluminized Mirrors:** Uses vacuum deposition of aluminum. Common in telescopes and industrial applications due to high durability and cost-effectiveness.
 
 ## Limits and risks

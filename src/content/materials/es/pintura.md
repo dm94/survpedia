@@ -28,6 +28,10 @@ La pintura es una sustancia coloreada que se extiende sobre una superficie y se 
 
 La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad dependen del pigmento utilizado. Al secarse, forma una película sólida que se adhiere al sustrato. La textura puede variar de mate a alto brillo dependiendo de la relación aglutinante-pigmento.
 
+- **Protección:** Proteger metales de la oxidación o la capa reflectante en un **[Espejo de Plata](/es/inventions/espejo-de-plata)**.
+- **Señalización:** Colores de alta visibilidad para seguridad.
+- **Camuflaje:** Mezclarse con el entorno.
+
 ## Origen y dónde encontrarlo
 
 - **Pigmento**: Obtenido de minerales, plantas u hollín (ver [Pigmentos](/es/materials/pigmentos)).
@@ -88,3 +92,4 @@ La pintura suele ser un líquido viscoso o una pasta. Su color y opacidad depend
 - **Huevo**: Aglutinante común.
 - **[Lienzo](/es/materials/lienzo)** / **[Madera](/es/materials/wood)**: Sustratos comunes.
 - **Imprimación/Gesso**: Capa base para preparar la superficie.
+- **[Espejo de Plata](/es/inventions/espejo-de-plata)**: Aplicación protectora.

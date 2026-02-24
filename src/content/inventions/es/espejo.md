@@ -59,7 +59,7 @@ Se basa en el fenómeno físico de la **reflexión especular**:
 
 - **Espejos Antiguos:** Hechos de bronce pulido sólido u obsidiana. Requerían mantenimiento constante ya que se empañaban rápidamente.
 - **Espejos de Mercurio y Estaño:** (Siglos XVI-XIX) Se recubría una hoja de estaño con mercurio para crear una amalgama sobre el vidrio. Muy claros pero altamente tóxicos de fabricar.
-- **Espejos Plateados:** Estándar moderno que utiliza la precipitación química de la plata. Más reflectantes y duraderos.
+- **Espejos Plateados:** Estándar moderno que utiliza la precipitación química de la plata. Consulta el **[Espejo de Plata](/es/inventions/espejo-de-plata)** para ver el proceso químico detallado. Más reflectantes y duraderos.
 - **Espejos Aluminizados:** Utiliza la deposición al vacío de aluminio. Común en telescopios y aplicaciones industriales debido a su alta durabilidad y rentabilidad.
 
 ## Límites y riesgos
