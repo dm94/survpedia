@@ -66,7 +66,7 @@ Glass requires advanced pyrotechnic technology (kilns).
 ### Common forms of use
 
 - **Blown:** For bottles, cups, and complex shapes.
-- **Flat/Float:** For windows and mirrors.
+- **Flat/Float:** For windows and **[mirrors](/en/inventions/mirror)**.
 - **Pressed:** For thick and uniform objects.
 - **Fibers:** Stretched into fine threads for insulation (glass wool) or reinforcement (fiberglass).
 
@@ -98,5 +98,6 @@ Glass requires advanced pyrotechnic technology (kilns).
 ### Related materials
 
 - **[Sand](/en/materials/sand):** Main ingredient.
+- **[Mirror](/en/inventions/mirror)**: Primary application of flat glass.
 - **[Obsidian](/en/materials/obsidian):** Natural glass.
 - **[Ceramics](/en/materials/ceramics):** Similar kiln technology, sibling material.

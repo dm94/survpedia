@@ -47,6 +47,7 @@ El estaño es un metal brillante y lustroso. Es lo suficientemente blando como p
 - Bronce: Aleado con cobre (típicamente 10% de estaño).
 - Peltre: Aleado con plomo u otros metales para artículos decorativos.
 - Hojalata: Recubrimiento de hierro o acero para prevenir la oxidación.
+- **Espejos:** Históricamente se usó una amalgama de estaño y mercurio para fabricar **[espejos](/es/inventions/espejo)** venecianos.
 
 ### Posibles sustitutos
 
@@ -69,3 +70,4 @@ El estaño es un metal brillante y lustroso. Es lo suficientemente blando como p
 - Cobre: Combinado con estaño para crear bronce.
 - Plomo: A menudo aleado con estaño para soldadura.
 - Antimonio: Usado en aleaciones como el peltre y el metal de imprenta.
+- **[Espejo](/es/inventions/espejo):** Aplicación histórica importante.

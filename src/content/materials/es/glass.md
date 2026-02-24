@@ -66,7 +66,7 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
 ### Formas comunes de uso
 
 - **Soplado:** Para botellas, vasos y formas complejas.
-- **Plano/Flotado:** Para ventanas y espejos.
+- **Plano/Flotado:** Para ventanas y **[espejos](/es/inventions/espejo)**.
 - **Prensado:** Para objetos gruesos y uniformes.
 - **Fibras:** Estirado en hilos finos para aislamiento (lana de vidrio) o refuerzo (fibra de vidrio).
 
@@ -98,5 +98,6 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
 ### Materiales relacionados
 
 - **[Arena](/es/materials/arena):** Ingrediente principal.
+- **[Espejo](/es/inventions/espejo):** Aplicación principal del vidrio plano.
 - **[Obsidiana](/es/materials/obsidian):** Vidrio natural.
 - **[Cerámica](/es/materials/ceramics):** Tecnología de horno similar, material hermano.

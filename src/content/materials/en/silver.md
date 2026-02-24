@@ -51,8 +51,9 @@ Silver is a soft, white, lustrous transition metal. It exhibits the highest elec
 
 - **Coins:** Historically the standard for daily trade.
 - **Silverware:** Utensils and vessels (benefiting from antibacterial properties).
-- **Mirrors:** Polished silver reflects 95% of light.
+- **Mirrors:** Polished silver reflects 95% of light. It is used in modern **[mirror](/en/inventions/mirror)** manufacturing.
 - **Solders:** Silver solder is strong and used for joining metals.
+- **Electronics:** Due to its superior electrical conductivity.
 
 ### Possible substitutes
 
@@ -76,3 +77,4 @@ Silver is a soft, white, lustrous transition metal. It exhibits the highest elec
 - **Lead:** The most common "parent" metal for silver mining.
 - **Gold:** Often found together.
 - **Electrum:** Natural Gold-Silver alloy.
+- **[Mirror](/en/inventions/mirror):** High-reflectivity application.

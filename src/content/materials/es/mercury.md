@@ -50,7 +50,7 @@ El mercurio, también conocido como azogue, es el único elemento metálico que 
 ### Formas comunes de uso
 
 - **Metal Líquido:** En termómetros, barómetros e interruptores de inclinación.
-- **Amalgamas:** Aleaciones con plata, estaño u oro. Usado en empastes dentales y plateado de espejos antiguos.
+- **Amalgamas:** Aleaciones con plata, estaño u oro. Usado en empastes dentales y para fabricar **[espejos](/es/inventions/espejo)** antiguos (amalgama de estaño-mercurio).
 - **Vapor:** En lámparas fluorescentes y farolas de vapor de mercurio.
 
 ### Posibles sustitutos
@@ -77,3 +77,4 @@ El mercurio, también conocido como azogue, es el único elemento metálico que 
 - **[Oro](/es/materials/gold):** Se disuelve fácilmente en mercurio.
 - **[Plata](/es/materials/silver):** Forma amalgamas con mercurio.
 - **[Estaño](/es/materials/tin):** Usado con mercurio para el respaldo de espejos.
+- **[Espejo](/es/inventions/espejo):** Aplicación histórica clave.

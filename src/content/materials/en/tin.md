@@ -47,6 +47,7 @@ Tin is a bright, lustrous metal. It is soft enough to be cut with a knife and pr
 - Bronze: Alloyed with copper (typically 10% tin).
 - Pewter: Alloyed with lead or other metals for decorative items.
 - Tinplate: Coating iron or steel to prevent rust.
+- **Mirrors:** Historically, a tin-mercury amalgam was used to create Venetian **[mirrors](/en/inventions/mirror)**.
 
 ### Possible substitutes
 
@@ -69,3 +70,4 @@ Tin is a bright, lustrous metal. It is soft enough to be cut with a knife and pr
 - Copper: Combined with tin to create bronze.
 - Lead: Often alloyed with tin for solder.
 - Antimony: Used in alloys like pewter and type metal.
+- **[Mirror](/en/inventions/mirror):** Important historical application.

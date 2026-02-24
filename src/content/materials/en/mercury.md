@@ -50,7 +50,7 @@ Mercury, also known as quicksilver, is the only metallic element that is liquid 
 ### Common forms of use
 
 - **Liquid Metal:** In thermometers, barometers, and tilt switches.
-- **Amalgams:** Alloys with silver, tin, or gold. Used in dental fillings and antique mirror silvering.
+- **Amalgams:** Alloys with silver, tin, or gold. Used in dental fillings and for making antique **[mirrors](/en/inventions/mirror)** (tin-mercury amalgam).
 - **Vapor:** In fluorescent lamps and mercury-vapor streetlights.
 
 ### Possible substitutes
@@ -77,3 +77,4 @@ Mercury, also known as quicksilver, is the only metallic element that is liquid 
 - **[Gold](/en/materials/gold):** Readily dissolves in mercury.
 - **[Silver](/en/materials/silver):** Forms amalgams with mercury.
 - **[Tin](/en/materials/tin):** Used with mercury for mirror backing.
+- **[Mirror](/en/inventions/mirror):** Key historical application.
