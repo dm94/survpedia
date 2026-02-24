@@ -28,6 +28,21 @@ Su propósito práctico es proporcionar un reflejo visual de objetos y luz:
 - **Decoración:** Aumentar la sensación de espacio y mejorar la iluminación interior.
 - **Escala:** Doméstica (espejos personales), Industrial (telescopios, plantas solares).
 
+### Inventos relacionados
+
+- **[Espejo de Plata](/es/inventions/espejo-de-plata)**
+- **[Telescopio](/es/inventions/telescope)**
+- **[Microscopio](/es/inventions/microscope)**
+- **[Lente](/es/inventions/lente)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Plata](/es/materials/silver)**
+- **[Estaño](/es/materials/tin)**
+- **[Obsidiana](/es/materials/obsidian)**
+- **[Bronce](/es/materials/bronze)**
+
 ## Principio de funcionamiento
 
 Se basa en el fenómeno físico de la **reflexión especular**:

@@ -16,6 +16,8 @@ uses:
   - Engranajes
   - Decoración
   - Plomadas
+  - Microscopios
+  - Telescopios
 naturalAvailability: false
 category: synthetic
 manufacturingProcess: 'Aleación de cobre y zinc, típicamente con un 30-40% de zinc.'

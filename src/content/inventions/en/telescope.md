@@ -17,6 +17,20 @@ A telescope is an optical instrument that makes distant objects appear magnified
 - **Navigation:** Spotting land or ships at sea from a great distance.
 - **Surveillance:** Observing distant locations or activities.
 
+### Related Inventions
+
+- **[Lens](/en/inventions/lens)**
+- **[Lens Grinding](/en/inventions/lens-grinding)**
+- **[Microscope](/en/inventions/microscope)**
+- **[Mirror](/en/inventions/mirror)**
+- **[Eyeglasses](/en/inventions/eyeglasses)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Wood](/en/materials/wood)**
+- **[Brass](/en/materials/brass)**
+
 ## Operating principle
 
 It collects light from a distant object and focuses it to a point.

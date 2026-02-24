@@ -16,6 +16,8 @@ uses:
   - Joyería
   - Fabricación de vidrio
   - Abrasivos
+  - Microscopios
+  - Telescopios
 naturalAvailability: true
 manufacturingProcess: Minería y corte/pulido.
 category: mineral

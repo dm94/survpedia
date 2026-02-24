@@ -69,3 +69,19 @@ El método descrito es para una lente esférica estándar.
 - **Astigmatismo:** La presión o trazos irregulares crean una curva no esférica (forma de balón de fútbol), distorsionando la imagen.
 - **Silicosis:** El tallado crea polvo fino de vidrio/sílice. **Siempre tallar en húmedo** para evitar inhalar el polvo.
 - **Choque Térmico:** La fricción genera calor; el vidrio puede agrietarse si se calienta demasiado o se enfría demasiado rápido.
+
+### Inventos relacionados
+
+- **[Lente](/es/inventions/lente)**
+- **[Microscopio](/es/inventions/microscope)**
+- **[Telescopio](/es/inventions/telescope)**
+- **[Gafas](/es/inventions/eyeglasses)**
+- **[Espejo](/es/inventions/espejo)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Cuarzo](/es/materials/quartz)**
+- **[Arena](/es/materials/arena)**
+- **[Brea](/es/materials/pitch)**
+- **[Hierro](/es/materials/iron)**

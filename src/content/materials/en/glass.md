@@ -20,6 +20,8 @@ uses:
   - Mirrors
   - Thermal insulation
   - Lab equipment
+  - Microscopes
+  - Telescopes
 naturalAvailability: false
 manufacturingProcess: >-
   Melting silica sand with soda and lime at high temperatures, followed by rapid

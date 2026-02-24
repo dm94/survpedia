@@ -18,6 +18,21 @@ Una lente es un objeto transparente (generalmente de vidrio, plástico o cristal
 - **Corrección Visual:** Corregir **[Problemas de Visión](/es/knowledge/vision-problems)** (errores refractivos) como la miopía o la hipermetropía usando **[Gafas](/es/inventions/eyeglasses)**.
 - **Hacer Fuego:** Concentrar la luz solar en un punto específico (punto focal) para generar calor intenso y encender yesca.
 
+### Inventos relacionados
+
+- **[Microscopio](/es/inventions/microscope)**
+- **[Telescopio](/es/inventions/telescope)**
+- **[Tallado de Lentes](/es/inventions/tallado-lentes)**
+- **[Gafas](/es/inventions/eyeglasses)**
+- **[Espejo](/es/inventions/espejo)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Cuarzo](/es/materials/quartz)**
+- **[Agua](/es/materials/water)**
+- **[Óxido de Hierro](/es/materials/oxido-hierro)**
+
 ## Principio de funcionamiento
 
 El principio fundamental es la **Refracción**.

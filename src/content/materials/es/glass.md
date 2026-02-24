@@ -20,6 +20,8 @@ uses:
   - Espejos
   - Aislamiento térmico
   - Instrumental de laboratorio
+  - Microscopios
+  - Telescopios
 naturalAvailability: false
 manufacturingProcess: >-
   Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un

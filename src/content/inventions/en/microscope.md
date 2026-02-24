@@ -41,6 +41,21 @@ It uses **refraction** through a system of lenses:
 - **Tools:** Lathe, glass grinding tools, drills.
 - **Substitutes:** A single tiny glass bead (van Leeuwenhoek style) can act as a powerful single-lens microscope if mounted in a small metal plate.
 
+### Related Inventions
+
+- **[Lens](/en/inventions/lens)**
+- **[Lens Grinding](/en/inventions/lens-grinding)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Mirror](/en/inventions/mirror)**
+- **[Eyeglasses](/en/inventions/eyeglasses)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Brass](/en/materials/brass)**
+- **[Quartz](/en/materials/quartz)**
+- **[Wood](/en/materials/wood)**
+
 ## Variants and improvements
 
 - **Simple Microscope:** A single high-power lens (like van Leeuwenhoek's). Hard to use but effective.

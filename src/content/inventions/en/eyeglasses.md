@@ -50,3 +50,19 @@ They add an external lens to the eye's optical system to adjust where the image 
 - **Fragility:** Lenses break easily if dropped.
 - **Fit:** Poorly fitting frames can be uncomfortable or slide off.
 - **Prescription Changes:** Eyes change over time, requiring new lenses.
+
+### Related Inventions
+
+- **[Lens](/en/inventions/lens)**
+- **[Lens Grinding](/en/inventions/lens-grinding)**
+- **[Microscope](/en/inventions/microscope)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Mirror](/en/inventions/mirror)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Quartz](/en/materials/quartz)**
+- **[Wire](/en/materials/wire)**
+- **[Copper](/en/materials/copper)**
+- **[Iron](/en/materials/iron)**

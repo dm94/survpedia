@@ -28,6 +28,21 @@ Its practical purpose is to provide a visual reflection of objects and light:
 - **Decoration:** Increasing the sense of space and improving interior lighting.
 - **Scale:** Domestic (personal mirrors), Industrial (telescopes, solar plants).
 
+### Related Inventions
+
+- **[Silver Mirror](/en/inventions/silver-mirror)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Microscope](/en/inventions/microscope)**
+- **[Lens](/en/inventions/lens)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Silver](/en/materials/silver)**
+- **[Tin](/en/materials/tin)**
+- **[Obsidian](/en/materials/obsidian)**
+- **[Bronze](/en/materials/bronze)**
+
 ## Operating principle
 
 It relies on the physical phenomenon of **specular reflection**:

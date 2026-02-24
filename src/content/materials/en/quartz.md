@@ -16,6 +16,8 @@ uses:
   - Jewelry
   - Glassmaking
   - Abrasives
+  - Microscopes
+  - Telescopes
 naturalAvailability: true
 manufacturingProcess: Mining and cutting/polishing.
 category: mineral

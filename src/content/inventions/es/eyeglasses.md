@@ -50,3 +50,19 @@ Añaden una lente externa al sistema óptico del ojo para ajustar dónde se enfo
 - **Fragilidad:** Las lentes se rompen fácilmente si se caen.
 - **Ajuste:** Los marcos mal ajustados pueden ser incómodos o resbalarse.
 - **Cambios de Graduación:** Los ojos cambian con el tiempo, requiriendo nuevas lentes.
+
+### Inventos relacionados
+
+- **[Lente](/es/inventions/lente)**
+- **[Tallado de Lentes](/es/inventions/tallado-lentes)**
+- **[Microscopio](/es/inventions/microscope)**
+- **[Telescopio](/es/inventions/telescope)**
+- **[Espejo](/es/inventions/espejo)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Cuarzo](/es/materials/quartz)**
+- **[Alambre](/es/materials/wire)**
+- **[Cobre](/es/materials/copper)**
+- **[Hierro](/es/materials/iron)**

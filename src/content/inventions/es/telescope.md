@@ -17,6 +17,20 @@ Un telescopio es un instrumento óptico que hace que los objetos distantes parez
 - **Navegación:** Avistar tierra o barcos en el mar desde una gran distancia.
 - **Vigilancia:** Observar ubicaciones o actividades lejanas.
 
+### Inventos relacionados
+
+- **[Lente](/es/inventions/lente)**
+- **[Tallado de Lentes](/es/inventions/tallado-lentes)**
+- **[Microscopio](/es/inventions/microscope)**
+- **[Espejo](/es/inventions/espejo)**
+- **[Gafas](/es/inventions/eyeglasses)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Madera](/es/materials/wood)**
+- **[Latón](/es/materials/laton)**
+
 ## Principio de funcionamiento
 
 Recoge la luz de un objeto distante y la enfoca en un punto.

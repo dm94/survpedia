@@ -18,6 +18,21 @@ A lens is a transparent object (usually glass, plastic, or crystal) with at leas
 - **Vision Correction:** Correcting **[Vision Problems](/en/knowledge/vision-problems)** (refractive errors) such as myopia or hyperopia using **[Eyeglasses](/en/inventions/eyeglasses)**.
 - **Fire Starting:** Concentrating sunlight onto a specific point (focal point) to generate intense heat and ignite tinder.
 
+### Related Inventions
+
+- **[Microscope](/en/inventions/microscope)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Lens Grinding](/en/inventions/lens-grinding)**
+- **[Eyeglasses](/en/inventions/eyeglasses)**
+- **[Mirror](/en/inventions/mirror)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Quartz](/en/materials/quartz)**
+- **[Water](/en/materials/water)**
+- **[Iron Oxide](/en/materials/iron-oxide)**
+
 ## Operating principle
 
 The core principle is **Refraction**.

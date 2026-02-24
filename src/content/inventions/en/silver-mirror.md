@@ -20,6 +20,19 @@ Its primary purpose is to provide a high-quality reflection for various applicat
 - **Architectural:** Cladding and decorative panels in buildings.
 - **Scale:** Mass-produced, domestic and commercial use.
 
+### Related Inventions
+
+- **[Mirror](/en/inventions/mirror)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Microscope](/en/inventions/microscope)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Silver](/en/materials/silver)**
+- **[Silver Nitrate](/en/materials/silver-nitrate)**
+- **[Tin](/en/materials/tin)**
+
 ## Operating principle
 
 The silver mirror operates on the principle of **chemical silvering** (the Tollens' reaction):

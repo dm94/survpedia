@@ -16,6 +16,8 @@ uses:
   - Gears
   - Decoration
   - Plumb bobs
+  - Microscopes
+  - Telescopes
 naturalAvailability: false
 category: synthetic
 manufacturingProcess: 'Alloying copper and zinc, typically with 30-40% zinc.'

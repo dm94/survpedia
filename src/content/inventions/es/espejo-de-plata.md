@@ -20,6 +20,19 @@ Su propósito principal es proporcionar un reflejo de alta calidad para diversas
 - **Arquitectónico:** Revestimientos y paneles decorativos en edificios.
 - **Escala:** Producción en masa, uso doméstico y comercial.
 
+### Inventos relacionados
+
+- **[Espejo](/es/inventions/espejo)**
+- **[Telescopio](/es/inventions/telescope)**
+- **[Microscopio](/es/inventions/microscope)**
+
+### Materiales relacionados
+
+- **[Vidrio](/es/materials/glass)**
+- **[Plata](/es/materials/silver)**
+- **[Nitrato de Plata](/es/materials/nitrato-plata)**
+- **[Estaño](/es/materials/tin)**
+
 ## Principio de funcionamiento
 
 El espejo de plata funciona bajo el principio del **plateado químico** (reacción de Tollens):

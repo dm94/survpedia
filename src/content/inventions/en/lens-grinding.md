@@ -69,3 +69,19 @@ The method described is for a standard spherical lens.
 - **Astigmatism:** Irregular pressure or strokes create a non-spherical (football-shaped) curve, distorting the image.
 - **Silicosis:** Grinding creates fine glass/silica dust. **Always grind wet** to prevent inhaling the dust.
 - **Thermal Shock:** Friction generates heat; the glass can crack if it gets too hot or cools too fast.
+
+### Related Inventions
+
+- **[Lens](/en/inventions/lens)**
+- **[Microscope](/en/inventions/microscope)**
+- **[Telescope](/en/inventions/telescope)**
+- **[Eyeglasses](/en/inventions/eyeglasses)**
+- **[Mirror](/en/inventions/mirror)**
+
+### Related Materials
+
+- **[Glass](/en/materials/glass)**
+- **[Quartz](/en/materials/quartz)**
+- **[Sand](/en/materials/sand)**
+- **[Pitch](/en/materials/pitch)**
+- **[Iron](/en/materials/iron)**
