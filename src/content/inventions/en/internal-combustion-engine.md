@@ -30,7 +30,7 @@ Building a functional ICE requires high precision and advanced metallurgy:
 - **Cylinder Block**: Cast from **[Iron](/en/materials/iron)** or **[Aluminum](/en/materials/aluminum)**, then bored and honed to a very smooth finish.
 - **Pistons and Rings**: Must fit tightly to maintain compression but move freely.
 - **Valves and Camshaft**: Precisely timed to open and close at the right moments.
-- **Ignition System**: Requires a way to timing a spark (magneto or battery/coil system).
+- **Ignition System**: Requires a way to time a spark (magneto or battery/coil system).
 - **Fuel System**: A carburetor to mix fuel with air in the correct ratio.
 
 ## Materials needed
