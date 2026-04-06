@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Collected from animals by shearing or grooming, then cleaned, sorted, and
   bundled or spun depending on use.
 category: animal
+image: ../../../assets/images/materials/animal-hair.jpg
 ---
 
 Animal hair is a fibrous material grown by mammals. It varies widely in thickness, stiffness, and length, making it useful for insulation, textiles, and tools like brushes.

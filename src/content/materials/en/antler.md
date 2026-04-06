@@ -15,6 +15,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Harvested after being shed naturally by deer.
 category: animal
+image: ../../../assets/images/materials/antler.jpg
 ---
 
 Antler is the bony outgrowth found on the heads of deer, elk, moose, and caribou. Unlike **[Horn](/en/materials/horn)**, which is permanent keratin, antler is solid bone that is grown and shed annually.

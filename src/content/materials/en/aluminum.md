@@ -15,8 +15,9 @@ uses:
   - Construction panels and frames
   - Heat sinks
 naturalAvailability: true
-manufacturingProcess: Refined from bauxite into alumina, then reduced by Hall-Héroult electrolysis.
+manufacturingProcess: 'Refined from bauxite into alumina, then reduced by Hall-Héroult electrolysis.'
 category: mineral
+image: ../../../assets/images/materials/aluminum.jpg
 ---
 
 Aluminum is a light, silvery metal valued for its strength-to-weight ratio, corrosion resistance, and excellent conductivity. It is widely used where low mass and durability are critical.
