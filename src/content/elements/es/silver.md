@@ -24,7 +24,7 @@ La plata es muy conductora, maleable y dúctil, y se empaña cuando se expone a 
 - Contactos eléctricos, cableado y conductores de alto rendimiento
 - Joyería, monedas y recubrimientos decorativos
 - Espejos y recubrimientos reflectantes
-- Fotografía y química de imagen
+- **[Fotografía](/es/inventions/photography)** y química de imagen
 - Superficies antimicrobianas y aplicaciones médicas
 - Aleaciones de soldadura y brasado
 

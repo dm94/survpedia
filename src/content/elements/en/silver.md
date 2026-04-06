@@ -24,7 +24,7 @@ Silver is highly conductive, malleable, and ductile, and it tarnishes when expos
 - Electrical contacts, wiring, and high-performance conductors
 - Jewelry, coinage, and decorative plating
 - Mirrors and reflective coatings
-- Photography and imaging chemistry
+- **[Photography](/en/inventions/photography)** and imaging chemistry
 - Antimicrobial surfaces and medical applications
 - Soldering and brazing alloys
 
