@@ -17,8 +17,11 @@ uses:
   - Ovens
   - Benches
 naturalAvailability: false
-manufacturingProcess: Mixing earth (clay/sand/silt) with water and organic fibers (straw/dung), molding into bricks, and sun-drying.
+manufacturingProcess: >-
+  Mixing earth (clay/sand/silt) with water and organic fibers (straw/dung),
+  molding into bricks, and sun-drying.
 category: synthetic
+image: ../../../assets/images/materials/adobe.jpg
 ---
 
 Adobe is a building material made from earth and organic materials. It is one of the earliest building materials and is still used worldwide.
