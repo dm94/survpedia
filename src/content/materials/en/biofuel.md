@@ -21,6 +21,7 @@ manufacturingProcess: >-
   extraction and transesterification (biodiesel). Solid biofuels are dried and
   densified plant matter.
 category: synthetic
+image: ../../../assets/images/materials/biofuel.jpg
 ---
 
 Biofuel is energy-rich fuel derived from recent biomass rather than fossil sources. It includes liquids like ethanol and biodiesel, as well as solid and gaseous fuels made from plant or animal material.

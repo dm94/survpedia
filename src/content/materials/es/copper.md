@@ -12,6 +12,7 @@ uses:
   - Fontanería
   - Utensilios de cocina
   - Aleaciones (Bronce/Latón)
+  - "**[Electroimán](/es/inventions/electromagnet)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Extraído de minerales (ej. calcopirita) mediante fundición o encontrado como

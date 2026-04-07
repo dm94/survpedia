@@ -15,6 +15,7 @@ uses:
   - Binding
   - Rope
   - Springs
+  - "**[Electromagnet](/en/inventions/electromagnet)**"
 naturalAvailability: false
 manufacturingProcess: Drawing metal through a series of dies with decreasing diameters.
 category: synthetic

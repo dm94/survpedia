@@ -14,7 +14,7 @@ uses:
   - Vajilla
   - Espejos
   - Electrónica
-  - Fotografía
+  - "**[Fotografía](/es/inventions/photography)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Minada a menudo de argentita o galena (mineral de plomo); extraída mediante

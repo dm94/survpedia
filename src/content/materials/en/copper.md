@@ -12,6 +12,7 @@ uses:
   - Plumbing
   - Cookware
   - Alloys (Bronze/Brass)
+  - "**[Electromagnet](/en/inventions/electromagnet)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Mined as ore (e.g., chalcopyrite) and extracted via smelting or found as

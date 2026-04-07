@@ -13,6 +13,7 @@ uses:
   - Weapons
   - Machinery
   - Axles and bearings
+  - "**[Electromagnet](/en/inventions/electromagnet)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Extracted from iron ores (like hematite or magnetite) in a blast furnace using
