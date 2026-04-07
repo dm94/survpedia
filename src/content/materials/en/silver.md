@@ -14,7 +14,7 @@ uses:
   - Tableware
   - Mirrors
   - Electronics
-  - Photography
+  - "**[Photography](/en/inventions/photography)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Mined often from argentite or galena (lead ore); extracted via smelting and

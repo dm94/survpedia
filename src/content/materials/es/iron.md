@@ -13,6 +13,7 @@ uses:
   - Armas
   - Maquinaria
   - Ejes y cojinetes
+  - "**[Electroimán](/es/inventions/electromagnet)**"
 naturalAvailability: true
 manufacturingProcess: >-
   Extraído de minerales de hierro (como la hematita o la magnetita) en un alto

@@ -11,7 +11,7 @@ Un dispositivo que convierte la energía química almacenada en energía eléctr
 ## Uso / Función
 
 - **Uso primario**: Proporcionar corriente eléctrica a dispositivos portátiles (linternas, radios).
-- **Usos secundarios**: Arranque de motores, electrólisis, galvanoplastia.
+- **Usos secundarios**: Arranque de motores, electrólisis, galvanoplastia, **[Electroimán](/es/inventions/electromagnet)**.
 - **Escala**: Doméstica a Industrial.
 
 ## Principio de funcionamiento

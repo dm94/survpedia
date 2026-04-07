@@ -13,8 +13,11 @@ uses:
   - Trade good
   - Preservation
 naturalAvailability: false
-manufacturingProcess: Inoculating salted curd with blue mold, piercing for airflow, and aging in cool, humid conditions.
+manufacturingProcess: >-
+  Inoculating salted curd with blue mold, piercing for airflow, and aging in
+  cool, humid conditions.
 category: animal
+image: ../../../assets/images/materials/blue-cheese.jpg
 ---
 
 Blue cheese is an aged dairy product in which selected molds create blue-green veins and strong aromas. It concentrates milk into a high-flavor, long-lasting food that stores well when kept cool and humid.

@@ -22,6 +22,7 @@ uses:
   - Lab equipment
   - Microscopes
   - Telescopes
+  - Photography
 naturalAvailability: false
 manufacturingProcess: >-
   Melting silica sand with soda and lime at high temperatures, followed by rapid
@@ -102,5 +103,6 @@ Glass requires advanced pyrotechnic technology (kilns).
 - **[Sand](/en/materials/sand):** Main ingredient.
 - **[Mirror](/en/inventions/mirror)**: Primary application of flat glass.
 - **[Silver Mirror](/en/inventions/silver-mirror)**: Modern chemical application.
+- **[Photography](/en/inventions/photography)**: Uses glass for lenses and early plates.
 - **[Obsidian](/en/materials/obsidian):** Natural glass.
 - **[Ceramics](/en/materials/ceramics):** Similar kiln technology, sibling material.

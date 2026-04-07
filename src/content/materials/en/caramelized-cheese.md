@@ -12,8 +12,11 @@ uses:
   - Topping
   - Snack
 naturalAvailability: false
-manufacturingProcess: Browning pressed curd or cheese slices over dry heat until the surface caramelizes and sets.
+manufacturingProcess: >-
+  Browning pressed curd or cheese slices over dry heat until the surface
+  caramelizes and sets.
 category: animal
+image: ../../../assets/images/materials/caramelized-cheese.jpg
 ---
 
 Caramelized cheese is cheese or pressed curd cooked on a dry hot surface until the surface browns and turns nutty. It is a quick way to turn fresh curd into a crisp, aromatic food that keeps its shape.

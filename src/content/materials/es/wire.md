@@ -15,6 +15,7 @@ uses:
   - Atar
   - Cuerda
   - Resortes
+  - "**[Electroimán](/es/inventions/electromagnet)**"
 naturalAvailability: false
 manufacturingProcess: Trefilado de metal a través de una serie de hileras con diámetros decrecientes.
 category: synthetic

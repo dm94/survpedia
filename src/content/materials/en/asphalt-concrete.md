@@ -1,11 +1,27 @@
 ---
-title: "Asphalt Concrete"
-composition: ["bitumen", "stone", "sand", "gravel"]
-properties: ["Water-resistant", "Viscoelastic", "Durable", "Smooth surface", "Recyclable"]
-uses: ["Road construction", "Airport runways", "Parking lots", "Embankment dams"]
+title: Asphalt Concrete
+composition:
+  - bitumen
+  - stone
+  - sand
+  - gravel
+properties:
+  - Water-resistant
+  - Viscoelastic
+  - Durable
+  - Smooth surface
+  - Recyclable
+uses:
+  - Road construction
+  - Airport runways
+  - Parking lots
+  - Embankment dams
 naturalAvailability: false
-manufacturingProcess: "Produced by mixing heated asphalt binder (bitumen) with aggregate (stone, sand, gravel) at high temperatures."
+manufacturingProcess: >-
+  Produced by mixing heated asphalt binder (bitumen) with aggregate (stone,
+  sand, gravel) at high temperatures.
 category: synthetic
+image: ../../../assets/images/materials/asphalt-concrete.jpg
 ---
 
 A composite material commonly used to surface roads, parking lots, airports, and the core of embankment dams. It consists of mineral aggregate bound together with asphalt, laid in layers, and compacted.

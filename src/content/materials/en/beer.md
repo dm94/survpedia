@@ -13,8 +13,11 @@ uses:
   - Short-term nutrition
   - Trade good
 naturalAvailability: false
-manufacturingProcess: Malting and mashing grain to extract sugars, boiling the wort, then fermenting with yeast.
+manufacturingProcess: >-
+  Malting and mashing grain to extract sugars, boiling the wort, then fermenting
+  with yeast.
 category: other
+image: ../../../assets/images/materials/beer.jpg
 ---
 
 Beer is a fermented drink made from grain sugars and **[Yeast](/en/materials/yeast)**. It is an accessible, low-strength alcohol that can be produced with basic tools and clean water.

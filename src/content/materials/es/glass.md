@@ -22,6 +22,7 @@ uses:
   - Instrumental de laboratorio
   - Microscopios
   - Telescopios
+  - Fotografía
 naturalAvailability: false
 manufacturingProcess: >-
   Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un
@@ -102,5 +103,6 @@ El vidrio requiere una tecnología pirotécnica avanzada (hornos).
 - **[Arena](/es/materials/arena):** Ingrediente principal.
 - **[Espejo](/es/inventions/espejo):** Aplicación principal del vidrio plano.
 - **[Espejo de Plata](/es/inventions/espejo-de-plata):** Aplicación química moderna.
+- **[Fotografía](/es/inventions/photography)**: Utiliza vidrio para lentes y placas antiguas.
 - **[Obsidiana](/es/materials/obsidian):** Vidrio natural.
 - **[Cerámica](/es/materials/ceramics):** Tecnología de horno similar, material hermano.

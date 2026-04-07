@@ -17,8 +17,9 @@ uses:
   - Machine frames
   - Flywheels
 naturalAvailability: false
-manufacturingProcess: Iron alloy with >2% carbon, melted and poured into molds.
+manufacturingProcess: 'Iron alloy with >2% carbon, melted and poured into molds.'
 category: synthetic
+image: ../../../assets/images/materials/cast-iron.jpg
 ---
 
 # Brief description

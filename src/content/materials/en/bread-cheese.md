@@ -12,8 +12,11 @@ uses:
   - Travel ration
   - Trade good
 naturalAvailability: false
-manufacturingProcess: Pressing fresh curd into a flat wheel, salting, then baking or pan-roasting until a browned crust forms.
+manufacturingProcess: >-
+  Pressing fresh curd into a flat wheel, salting, then baking or pan-roasting
+  until a browned crust forms.
 category: animal
+image: ../../../assets/images/materials/bread-cheese.jpg
 ---
 
 Bread cheese is a firm, fresh cheese cooked until the surface browns and the interior stays springy. It is often eaten warm, retaining a squeaky bite and a toasted aroma.
