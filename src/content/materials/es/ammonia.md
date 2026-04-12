@@ -1,5 +1,5 @@
 ---
-title: "Amoniaco"
+title: "Amoníaco"
 formula: "NH3"
 composition: ["nitrogen", "hydrogen"]
 properties: ["Olor punzante", "Gas incoloro", "Altamente soluble en agua", "Alcalino", "Corrosivo"]
