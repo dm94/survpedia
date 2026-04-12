@@ -36,7 +36,7 @@ Ammonia production via the Haber-Bosch process is the industrial method for synt
 ## Materials needed
 
 - **Essential:** **[Nitrogen](/en/elements/nitrogen)** (from air), **[Hydrogen](/en/elements/hydrogen)** (from water or hydrocarbons), **[Iron](/en/materials/iron)** (catalyst).
-- **Equipment:** **[Steel](/en/materials/steel)** for pressure vessels, **[Pipes](/en/inventions/pipes)**, **[Valves](/en/inventions/valve)**, **[Pump](/en/inventions/pump)** (compressors).
+- **Equipment:** **[Steel](/en/materials/steel)** for pressure vessels, **[Pipes](/en/inventions/pipes)**, **[Valves](/en/inventions/valve)**, **[Pumps](/en/inventions/pump)** (for compression).
 - **Fuel:** **[Coal](/en/materials/coal)** or natural gas to provide heat and hydrogen.
 
 ## Variants and improvements
