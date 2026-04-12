@@ -20,5 +20,5 @@ El hidrógeno es un elemento químico con símbolo H y número atómico 1. Con u
 - **Combustible**: Arde produciendo solo agua y calor, un combustible muy limpio.
 - **Soldadura Oxhídrica**: Usado con oxígeno para soldar metales (como platino) o fundir cuarzo, ya que produce una llama sin carbono.
 - **Procesamiento de Petróleo**: Hidrocraqueo para producir gasolina y diésel.
-- **Producción de Fertilizantes**: Esencial para producir amoníaco (proceso Haber).
+- **Producción de Fertilizantes**: Esencial para producir **[Amoníaco](/es/materials/ammonia)** a través de la **[Producción de amoníaco](/es/inventions/ammonia-production)** (proceso Haber).
 - **Metalurgia**: Agente reductor para extraer metales de sus óxidos.

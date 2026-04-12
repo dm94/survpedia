@@ -20,4 +20,7 @@ Nitrogen is a chemical element with symbol N and atomic number 7. It is the ligh
 - Boiling Point: 77.355 K
 
 ## Uses
-<!-- Add uses here -->
+- **[Ammonia Production](/en/inventions/ammonia-production)**: The primary industrial use, creating **[Ammonia](/en/materials/ammonia)** for **[Synthetic Fertilizer](/en/materials/synthetic-fertilizer)**.
+- **Inert Atmosphere**: Used to prevent oxidation or fire in industrial processes.
+- **Cryogenics**: Liquid nitrogen is used for rapid cooling and preservation.
+- **Chemical Synthesis**: Precursor to nitric acid, explosives (TNT, nitroglycerin), and various organic compounds.

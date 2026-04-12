@@ -44,7 +44,7 @@ La forma más básica de agricultura (horticultura) requiere:
 - **Cultivo itinerante:** Limpiar un parche de bosque, cultivarlo por unos años y luego mudarse (tala y quema).
 - **Campos permanentes:** Uso continuo de la misma tierra, a menudo requiriendo fertilización.
 - **Arado:** Uso de animales para tirar de una hoja pesada a través del suelo (avanzado).
-- **Agricultura industrial:** Uso de maquinaria, fertilizantes sintéticos e ingeniería genética.
+- **Agricultura industrial:** Uso de maquinaria, **[Fertilizante sintético](/es/materials/synthetic-fertilizer)** e ingeniería genética.
 
 ## Límites y riesgos
 

@@ -19,5 +19,8 @@ Nitrogen is a chemical element with symbol N and atomic number 7. It is the ligh
 - Melting Point: 63.15 K
 - Boiling Point: 77.355 K
 
-## Uses
-<!-- Add uses here -->
+## Usos
+- **[Producción de amoníaco](/es/inventions/ammonia-production)**: El uso industrial principal, creando **[Amoníaco](/es/materials/ammonia)** para **[Fertilizante sintético](/es/materials/synthetic-fertilizer)**.
+- **Atmósfera Inerte**: Utilizado para prevenir la oxidación o incendios en procesos industriales.
+- **Criogenia**: El nitrógeno líquido se utiliza para el enfriamiento y la preservación rápida.
+- **Síntesis Química**: Precursor del ácido nítrico, explosivos (TNT, nitroglicerina) y varios compuestos orgánicos.
