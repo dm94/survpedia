@@ -5,7 +5,7 @@ composition: ["nitrogen", "hydrogen"]
 properties: ["Olor punzante", "Gas incoloro", "Altamente soluble en agua", "Alcalino", "Corrosivo"]
 uses: ["Producción de fertilizantes", "Refrigerante", "Agente de limpieza", "Precursor de explosivos", "Producción de ácido nítrico"]
 naturalAvailability: true
-manufacturingProcess: "Sintetizado a través del proceso Haber-Bosch al hacer reaccionar nitrógeno del aire con gas hidrógeno bajo alta presión y temperatura utilizando un catalizador de hierro."
+manufacturingProcess: "Sintetizado a través del proceso Haber-Bosch al hacer reaccionar nitrógeno del aire con gas de hidrógeno bajo alta presión y temperatura utilizando un catalizador de hierro."
 category: synthetic
 ---
 
