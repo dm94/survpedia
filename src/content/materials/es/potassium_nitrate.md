@@ -57,7 +57,7 @@ Se presenta como cristales blancos o ligeramente grises, o como polvo granular. 
 ### Posibles sustitutos
 
 - **Nitrato de sodio (salitre de Chile)**: Oxidante similar pero más higroscópico.
-- **Nitrato de amonio**: Buen fertilizante y oxidante, pero más inestable y sensible a la humedad.
+- **Nitrato de amonio**: Buen **[Fertilizante sintético](/es/materials/synthetic-fertilizer)** y oxidante, pero más inestable y sensible a la humedad.
 - **Estiércol compostado/sales de orina**: Sustituto de bajo grado para fertilización.
 
 ### Limitaciones y fallos comunes

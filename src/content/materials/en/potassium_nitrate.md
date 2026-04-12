@@ -57,7 +57,7 @@ It appears as white to slightly gray crystals or granular powder. It feels gritt
 ### Possible substitutes
 
 - **Sodium nitrate (Chile saltpeter)**: Similar oxidizer but more hygroscopic.
-- **Ammonium nitrate**: Effective fertilizer and oxidizer but more unstable and moisture prone.
+- **Ammonium nitrate**: Effective **[Synthetic Fertilizer](/en/materials/synthetic-fertilizer)** and oxidizer but more unstable and moisture prone.
 - **Composted manure/urine salts**: Low-grade fertilizer substitute.
 
 ### Limitations and common failures
