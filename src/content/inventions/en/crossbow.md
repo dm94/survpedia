@@ -5,7 +5,7 @@ materialsUsed: ["wood", "steel", "iron", "rope", "string", "glue", "leather"]
 
 # Brief description
 
-A crossbow is a range weapon that consists of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller. It uses a trigger mechanism to hold the drawn string and release it to fire a bolt or quarrel. It allows for greater power and precision than a standard bow with less training.
+A crossbow is a ranged weapon that consists of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller. It uses a trigger mechanism to hold the drawn string and release it to fire a bolt or quarrel. It allows for greater power and precision than a standard bow with less training.
 
 ## Use / Function
 
