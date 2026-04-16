@@ -67,7 +67,7 @@ Añada una horquilla para sujetar la rueda delantera, conectada al manillar medi
 - **[Cadena](/es/inventions/cadena)**
 - **[Engranajes](/es/inventions/gears)**
 - **[Rodamientos de bolas y rodillos](/es/inventions/ball-and-roller-bearing)**
-- **[Spoke Lacing](/es/inventions/spoke-lacing)**
+- **[Radiado](/es/inventions/spoke-lacing)**
 
 ### Materiales relacionados
 
