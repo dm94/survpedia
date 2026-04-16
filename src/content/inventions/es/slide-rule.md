@@ -20,7 +20,7 @@ Una computadora analógica mecánica utilizada principalmente para la multiplica
 ## Principio de funcionamiento
 
 La regla de cálculo funciona según el principio de los **Logaritmos**:
-1.  **Escalas Logarítmicas:** Las escalas en una regla de cálculo no son lineales sino logarítmicas.
+1.  **Escalas logarítmicas:** Las escalas en una regla de cálculo no son lineales sino logarítmicas.
 2.  **Suma para la Multiplicación:** Debido a que $\log(A \times B) = \log(A) + \log(B)$, la suma física de dos longitudes en escalas logarítmicas corresponde a la multiplicación de los números que representan.
 3.  **Resta para la División:** De manera similar, restar longitudes corresponde a la división.
 4.  **Naturaleza Analógica:** Proporciona una representación visual y analógica de las relaciones numéricas.
