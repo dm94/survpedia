@@ -44,7 +44,7 @@ Basic food storage can be achieved through:
 - **Salting/Curing:** Using salt to dehydrate and preserve meat and fish.
 - **Fermentation:** Using beneficial bacteria to preserve food (e.g., sauerkraut, cheese).
 - **Cold storage:** Using ice houses or underground cellars.
-- **Modern versions:** Refrigeration, freezing, canning, and vacuum sealing.
+- **Modern versions:** Refrigeration, freezing, **[Canning](/en/inventions/canning)**, **[Pasteurization](/en/knowledge/pasteurization)**, and vacuum sealing.
 
 ## Limits and risks
 

@@ -36,13 +36,13 @@ Aluminum has a bright, silvery appearance when freshly cut. It quickly forms a t
 
 1. **Mining**: Extract bauxite ore.
 2. **Refining**: Convert bauxite to alumina (Bayer process).
-3. **Smelting**: Reduce alumina to metal by electrolysis (Hall-Héroult).
+3. **Smelting**: Reduce alumina to metal by **[Electrolysis](/en/inventions/electrolysis)** (Hall-Héroult).
 4. **Casting**: Form ingots, billets, or sheet.
 
 ### Tools needed to work on it
 
 - High-temperature furnaces and crucibles
-- Large electrical power source for electrolysis
+- Large electrical power source for **[Electrolysis](/en/inventions/electrolysis)**
 - Molds or rolling equipment for shaping
 
 ### Common forms of use

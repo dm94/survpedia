@@ -55,7 +55,7 @@ La mayoría de la producción tradicional de álcalis se basa en la extracción 
 
 - **Proceso Leblanc**: El primer método industrial para producir ceniza de sosa a partir de **[Sal](/es/materials/salt)**, ácido sulfúrico, carbón y piedra caliza.
 - **Proceso Solvay**: Un método moderno más eficiente que utiliza salmuera, amoníaco y piedra caliza.
-- **Electrólisis**: Uso de electricidad para producir sosa cáustica y cloro de alta pureza.
+- **[Electrólisis](/es/inventions/electrolysis)**: Uso de electricidad para producir sosa cáustica y cloro de alta pureza.
 
 ## Límites y riesgos
 

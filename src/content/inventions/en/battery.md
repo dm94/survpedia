@@ -11,7 +11,7 @@ A device that converts stored chemical energy into electrical energy. It allows 
 ## Use / Function
 
 - **Primary use**: Providing electrical current to portable devices (flashlights, radios).
-- **Secondary uses**: Starting motors, electrolysis, electroplating, **[Electromagnet](/en/inventions/electromagnet)**.
+- **Secondary uses**: Starting motors, **[Electrolysis](/en/inventions/electrolysis)**, electroplating, **[Electromagnet](/en/inventions/electromagnet)**.
 - **Scale**: Domestic to Industrial.
 
 ## Operating principle
