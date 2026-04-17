@@ -55,7 +55,7 @@ Most traditional alkali production relies on extracting soluble salts from the a
 
 - **Leblanc Process**: The first industrial method to produce soda ash from **[Salt](/en/materials/salt)**, sulfuric acid, coal, and limestone.
 - **Solvay Process**: A more efficient, modern method using salt brine, ammonia, and limestone.
-- **Electrolysis**: Using electricity to produce high-purity caustic soda and chlorine.
+- **[Electrolysis](/en/inventions/electrolysis)**: Using electricity to produce high-purity caustic soda and chlorine.
 
 ## Limits and risks
 

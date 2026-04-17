@@ -44,7 +44,7 @@ El almacenamiento básico de alimentos se puede lograr mediante:
 - **Salazón:** Uso de sal para deshidratar y preservar carne y pescado.
 - **Fermentación:** Uso de bacterias benéficas para preservar alimentos (ej. chucrut, queso).
 - **Almacenamiento en frío:** Uso de pozos de nieve o bodegas subterráneas.
-- **Versiones modernas:** Refrigeración, congelación, enlatado y envasado al vacío.
+- **Versiones modernas:** Refrigeración, congelación, **[Enlatado](/es/inventions/canning)**, **[Pasteurización](/es/knowledge/pasteurization)** y envasado al vacío.
 
 ## Límites y riesgos
 

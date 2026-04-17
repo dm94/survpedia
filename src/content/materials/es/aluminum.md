@@ -35,13 +35,13 @@ El aluminio tiene un brillo plateado cuando se corta y forma rápidamente una ca
 
 1. **Minería**: Extraer bauxita.
 2. **Refinado**: Convertir bauxita en alúmina (proceso Bayer).
-3. **Reducción**: Obtener metal por electrólisis (Hall-Héroult).
+3. **Reducción**: Obtener metal por **[Electrólisis](/es/inventions/electrolysis)** (Hall-Héroult).
 4. **Colada**: Formar lingotes o láminas.
 
 ### Herramientas necesarias para trabajarla
 
 - Hornos y crisoles de alta temperatura
-- Fuente eléctrica potente para la electrólisis
+- Fuente eléctrica potente para la **[Electrólisis](/es/inventions/electrolysis)**
 - Moldes o laminadoras para conformado
 
 ### Formas comunes de uso
