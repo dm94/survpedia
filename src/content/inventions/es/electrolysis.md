@@ -45,6 +45,6 @@ Nivel técnico: Intermedio. Requiere una fuente estable de electricidad y conoci
 ## Límites y riesgos
 
 - **Riesgo eléctrico:** Peligro de descarga por fuentes de energía de alta corriente.
-- **Gases explosivos:** El hidrógeno y el oxígeno producidos juntos pueden ser altamente explosivos si se ignoran.
+- **Gases explosivos:** El hidrógeno y el oxígeno producidos juntos pueden ser altamente explosivos si se inflaman.
 - **Subproductos tóxicos:** La electrólisis del agua salada produce gas cloro, que es altamente tóxico y corrosivo.
 - **Corrosión:** Los electrodos pueden degradarse rápidamente dependiendo de los materiales y químicos utilizados.
