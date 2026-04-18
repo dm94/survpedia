@@ -1,0 +1,18 @@
+npm warn exec The following package was not found and will be installed: serve@14.2.6
+ INFO  Accepting connections at http://localhost:4321
+ HTTP  4/18/2026 1:07:38 PM ::1 GET /en/inventions/bicycle
+ HTTP  4/18/2026 1:07:38 PM ::1 Returned 200 in 21 ms
+ HTTP  4/18/2026 1:07:38 PM ::1 GET /_astro/_slug_.1TS2giZ-.css
+ HTTP  4/18/2026 1:07:38 PM ::1 GET /pagefind/pagefind-ui.css
+ HTTP  4/18/2026 1:07:38 PM ::1 GET /pagefind/pagefind-ui.js
+ HTTP  4/18/2026 1:07:38 PM ::1 Returned 200 in 5 ms
+ HTTP  4/18/2026 1:07:38 PM ::1 Returned 200 in 5 ms
+ HTTP  4/18/2026 1:07:38 PM ::1 Returned 200 in 6 ms
+ HTTP  4/18/2026 1:07:40 PM ::1 GET /es/knowledge/pasteurization
+ HTTP  4/18/2026 1:07:40 PM ::1 Returned 200 in 3 ms
+ HTTP  4/18/2026 1:07:40 PM ::1 GET /_astro/_slug_.1TS2giZ-.css
+ HTTP  4/18/2026 1:07:40 PM ::1 GET /pagefind/pagefind-ui.css
+ HTTP  4/18/2026 1:07:40 PM ::1 GET /pagefind/pagefind-ui.js
+ HTTP  4/18/2026 1:07:40 PM ::1 Returned 304 in 3 ms
+ HTTP  4/18/2026 1:07:40 PM ::1 Returned 304 in 2 ms
+ HTTP  4/18/2026 1:07:40 PM ::1 Returned 304 in 2 ms
