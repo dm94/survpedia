@@ -6,7 +6,7 @@ relatedInventions: ["apiary", "simple-housing"]
 
 # Brief description
 
-Selective breeding is the process by which humans use animal breeding and plant breeding to selectively develop particular phenotypic traits (characteristics) by choosing which typically animal or plant males and females will sexually reproduce and have offspring together.
+Selective breeding is the process by which humans typically use animal and plant breeding to develop particular phenotypic traits (characteristics) by choosing which males and females (animals or plants) will sexually reproduce and have offspring together.
 
 ## Use / Function
 
