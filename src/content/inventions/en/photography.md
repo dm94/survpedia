@@ -3,7 +3,7 @@ title: Photography
 materialsUsed:
   - silver
   - glass
-  - simple-acids
+  - nitric-acid
   - salt
   - water
 ---
@@ -47,7 +47,7 @@ Place the plate in the camera and expose it to a bright scene for several minute
 ## Materials needed
 
 - **[Silver](/en/materials/silver)**: Used to create light-sensitive silver salts.
-- **[Simple Acids](/en/materials/simple-acids)**: Nitric acid is used to dissolve silver to create silver nitrate.
+- **[Nitric Acid](/en/materials/nitric-acid)**: Used to dissolve silver to create silver nitrate.
 - **[Glass](/en/materials/glass)**: Used as a substrate for negatives (wet-plate) or for lenses.
 - **[Salt](/en/materials/salt)**: Can be used as a primitive fixing agent.
 - **[Water](/en/materials/water)**: For washing and mixing chemical solutions.
