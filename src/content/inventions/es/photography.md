@@ -3,7 +3,7 @@ title: Fotografía
 materialsUsed:
   - silver
   - glass
-  - simple-acids
+  - nitric-acid
   - salt
   - water
 ---
@@ -47,7 +47,7 @@ Coloca la placa en la cámara y exponla a una escena brillante durante varios mi
 ## Materiales necesarios
 
 - **[Plata](/es/materials/silver)**: Se utiliza para crear sales de plata fotosensibles.
-- **[Ácidos Simples](/es/materials/simple-acids)**: El ácido nítrico se usa para disolver la plata y crear nitrato de plata.
+- **[Ácido Nítrico](/es/materials/nitric-acid)**: Se usa para disolver la plata y crear nitrato de plata.
 - **[Vidrio](/es/materials/glass)**: Utilizado como sustrato para negativos (placa húmeda) o para lentes.
 - **[Sal](/es/materials/salt)**: Se puede utilizar como agente fijador primitivo.
 - **[Agua](/es/materials/water)**: Para lavar y mezclar soluciones químicas.

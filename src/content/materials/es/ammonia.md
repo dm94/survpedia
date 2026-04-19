@@ -3,7 +3,7 @@ title: "Amoníaco"
 formula: "NH3"
 composition: ["nitrogen", "hydrogen"]
 properties: ["Olor punzante", "Gas incoloro", "Altamente soluble en agua", "Alcalino", "Corrosivo"]
-uses: ["Producción de fertilizantes", "Refrigerante", "Agente de limpieza", "Precursor de explosivos", "Producción de ácido nítrico"]
+uses: ["Producción de fertilizantes", "Refrigerante", "Agente de limpieza", "Precursor de explosivos", "Producción de **[Ácido Nítrico](/es/materials/nitric-acid)**"]
 naturalAvailability: true
 manufacturingProcess: "Sintetizado a través del proceso Haber-Bosch al hacer reaccionar nitrógeno del aire con gas de hidrógeno bajo alta presión y temperatura utilizando un catalizador de hierro."
 category: synthetic
@@ -61,5 +61,6 @@ En su forma pura a temperatura y presión estándar, es un gas. Es más ligero q
 
 - **[Nitrógeno](/es/elements/nitrogen)**: La materia prima principal.
 - **[Hidrógeno](/es/elements/hydrogen)**: Utilizado para reaccionar con el nitrógeno.
+- **[Ácido Nítrico](/es/materials/nitric-acid)**: Producido a partir de la oxidación del amoníaco.
 - **[Fertilizante sintético](/es/materials/synthetic-fertilizer)**: El producto final principal.
 - **[Nitrato de potasio](/es/materials/potassium_nitrate)**: Otra sal importante que transporta nitrógeno.

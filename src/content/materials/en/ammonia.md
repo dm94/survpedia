@@ -3,7 +3,7 @@ title: "Ammonia"
 formula: "NH3"
 composition: ["nitrogen", "hydrogen"]
 properties: ["Pungent odor", "Colorless gas", "Highly soluble in water", "Alkaline", "Corrosive"]
-uses: ["Fertilizer production", "Refrigerant", "Cleaning agent", "Precursor to explosives", "Nitric acid production"]
+uses: ["Fertilizer production", "Refrigerant", "Cleaning agent", "Precursor to explosives", "**[Nitric Acid](/en/materials/nitric-acid)** production"]
 naturalAvailability: true
 manufacturingProcess: "Synthesized through the Haber-Bosch process by reacting nitrogen from the air with hydrogen gas under high pressure and temperature using an iron catalyst."
 category: synthetic
@@ -61,5 +61,6 @@ In its pure form at standard temperature and pressure, it is a gas. It is lighte
 
 - **[Nitrogen](/en/elements/nitrogen)**: The primary raw material.
 - **[Hydrogen](/en/elements/hydrogen)**: Used to react with nitrogen.
+- **[Nitric Acid](/en/materials/nitric-acid)**: Produced from ammonia oxidation.
 - **[Synthetic Fertilizer](/en/materials/synthetic-fertilizer)**: The primary end product.
 - **[Potassium Nitrate](/en/materials/potassium_nitrate)**: Another important nitrogen-carrying salt.
