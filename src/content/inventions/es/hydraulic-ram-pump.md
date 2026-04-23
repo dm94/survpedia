@@ -5,7 +5,7 @@ materialsUsed: ["iron", "copper", "water", "steel", "brass", "natural-rubber", "
 
 # Descripción breve
 
-La bomba de ariete hidráulico es una bomba de agua cíclica que utiliza la energía de un gran volumen de agua que cae desde una altura pequeña para elevar una pequeña porción de esa agua a una altura mucho mayor. Es un dispositivo autoalimentado que no requiere otra fuente de energía externa que la energía cinética del agua que fluye.
+La bomba de ariete hidráulico es una bomba de agua cíclica que utiliza la energía de un gran volumen de agua que cae desde una altura pequeña para elevar una pequeña porción de esa agua a una altura mucho mayor. Es un dispositivo autoalimentado que no requiere ninguna fuente de energía externa, salvo la energía cinética del agua que fluye.
 
 ## Uso / Función
 
