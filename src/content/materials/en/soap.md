@@ -72,6 +72,7 @@ Solid soap usually comes in bars or cakes. It is slippery when wet and produces 
 
 - **[Animal Fat](/en/materials/animal-fat)**: Common base ingredient.
 - **[Ash](/en/materials/ash)**: Source of alkali (lye).
+- **[Potash](/en/materials/potash)**: Specific alkaline salt used for soft soaps.
 - **[Water](/en/materials/water)**: Required solvent for the process.
 - **[Salt](/en/materials/salt)**: Used to harden soap or separate it from glycerin.
 

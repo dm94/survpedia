@@ -1,11 +1,21 @@
 ---
-title: "Varilla de Aporte"
-composition: ["steel", "bronze", "aluminum", "flux"]
-properties: ["Fusible", "Compatible con metal base"]
-uses: ["Soldadura a gas", "Soldadura TIG", "Soldadura fuerte"]
+title: Varilla de Aporte
+composition:
+  - steel
+  - bronze
+  - aluminum
+  - flux
+properties:
+  - Fusible
+  - Compatible con metal base
+uses:
+  - Soldadura a gas
+  - Soldadura TIG
+  - Soldadura fuerte
 naturalAvailability: false
-manufacturingProcess: "Trefilado de metal a diámetros específicos."
+manufacturingProcess: Trefilado de metal a diámetros específicos.
 category: synthetic
+image: ../../../assets/images/materials/filler-rod.jpg
 ---
 
 Una varilla de aporte es un alambre o barra de metal que se añade al charco de soldadura para proporcionar material extra y rellenar la unión. A diferencia de los electrodos de soldadura por arco, estas varillas generalmente no conducen electricidad para el proceso (en soldadura a gas) y no siempre tienen recubrimiento de fundente.

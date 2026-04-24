@@ -69,5 +69,6 @@ Es un polvo gris o blanco, suave al tacto y muy ligero. Es alcalina (básica) y 
 
 - **Madera**: La fuente más común.
 - **Carbón vegetal**: A menudo se encuentra mezclado con ceniza.
+- **[Potasa](/es/materials/potash)**: Producto derivado de la ceniza de madera.
 - **[Jabón](/es/materials/soap)**: Hecho usando lejía derivada de la ceniza.
 - **Vidrio**: Algunos tipos de vidrio usan ceniza como fundente.

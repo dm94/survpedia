@@ -51,6 +51,7 @@ Cuando se agrega energ√≠a al sistema, el volante acelera, almacenando esa energ√
 - **[Torno de Alfarero](/es/inventions/potters-wheel)**
 - **[Laminador](/es/inventions/rolling-mill)**
 - **[Engranajes](/es/inventions/gears)**
+- **[Manivela](/es/inventions/crank)**
 - **[Cojinetes de Deslizamiento](/es/inventions/slide-bearings)**
 - **[Cojinetes de Bolas y Rodillos](/es/inventions/ball-and-roller-bearing)**
 - **[Monociclo](/es/inventions/monowheel)**

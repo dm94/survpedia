@@ -51,6 +51,7 @@ When energy is added to the system, the flywheel speeds up, storing that energy.
 - **[Potter's Wheel](/en/inventions/potters-wheel)**
 - **[Rolling Mill](/en/inventions/rolling-mill)**
 - **[Gears](/en/inventions/gears)**
+- **[Crank](/en/inventions/crank)**
 - **[Slide Bearings](/en/inventions/slide-bearings)**
 - **[Ball and Roller Bearing](/en/inventions/ball-and-roller-bearing)**
 - **[Monowheel](/en/inventions/monowheel)**
