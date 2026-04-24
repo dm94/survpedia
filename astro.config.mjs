@@ -26,4 +26,7 @@ export default defineConfig({
       },
     },
   },
+  legacy: {
+    collectionsBackwardsCompat: true,
+  },
 });

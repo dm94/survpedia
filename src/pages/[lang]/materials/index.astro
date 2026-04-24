@@ -1,35 +1,35 @@
 ---
-import Layout from '@layouts/Layout.astro';
-import { getCollection } from 'astro:content';
-import { useTranslations } from '@i18n/utils';
-import Card from '@components/Card.astro';
+import Layout from "@layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import { useTranslations } from "@i18n/utils";
+import Card from "@components/Card.astro";
 
 export function getStaticPaths() {
-  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
+  return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
 }
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
 
-const materials = await getCollection('materials', ({ id }) => {
+const materials = await getCollection("materials", ({ id }) => {
   return id.startsWith(`${lang}/`);
 });
 ---
 
-<Layout title={t('materials.title')} description={t('materials.desc')}>
+<Layout title={t("materials.title")} description={t("materials.desc")}>
   <div class="mb-8">
     <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
-      {t('materials.title')}
+      {t("materials.title")}
     </h1>
     <p class="text-slate-600 dark:text-slate-400">
-      {t('materials.desc')}
+      {t("materials.desc")}
     </p>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {
       materials.map(material => {
-        const slugPart = material.slug.split('/')[1];
+        const slugPart = material.id.split("/")?.[1];
         return (
           <Card
             title={material.data.title}
@@ -37,8 +37,8 @@ const materials = await getCollection('materials', ({ id }) => {
             href={`/${lang}/materials/${slugPart}`}
             tag={
               material.data.naturalAvailability
-                ? t('materials.natural')
-                : t('materials.synthetic')
+                ? t("materials.natural")
+                : t("materials.synthetic")
             }
             image={material.data.image}
           />

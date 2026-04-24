@@ -29,7 +29,7 @@ const inventions = await getCollection("inventions", ({ id }) => {
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {
       inventions.map(invention => {
-        const slugPart = invention.slug.split("/")[1];
+        const slugPart = invention.id.split("/")?.[1];
         return (
           <Card
             title={invention.data.title}

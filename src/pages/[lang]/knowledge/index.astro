@@ -29,7 +29,7 @@ const knowledge = await getCollection("knowledge", ({ id }) => {
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {
       knowledge.map(entry => {
-        const slugPart = entry.slug.split("/")[1];
+        const slugPart = entry.id.split("/")?.[1];
         return (
           <Card
             title={entry.data.title}
