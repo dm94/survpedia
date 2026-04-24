@@ -1,8 +1,9 @@
 import { z } from 'astro/zod';
 import { defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const elements = defineCollection({
-  type: 'content',
+  loader: glob({ base: './src/content/elements', pattern: '**/*.{md,mdx}' }),
   schema: ({ image }) => z.object({
     title: z.string(), // Name of the element (e.g., Hydrogen)
     symbol: z.string(),
@@ -17,7 +18,7 @@ const elements = defineCollection({
 });
 
 const materials = defineCollection({
-  type: 'content',
+  loader: glob({ base: './src/content/materials', pattern: '**/*.{md,mdx}' }),
   schema: ({ image }) => z.object({
     title: z.string(), // Name of the material (e.g., Water)
     formula: z.string().optional(),
@@ -33,7 +34,7 @@ const materials = defineCollection({
 });
 
 const inventions = defineCollection({
-  type: 'content',
+  loader: glob({ base: './src/content/inventions', pattern: '**/*.{md,mdx}' }),
   schema: ({ image }) => z.object({
     title: z.string(), // Name of the invention (e.g., Steam Engine)
     materialsUsed: z.array(z.string()), // List of material IDs
@@ -43,7 +44,7 @@ const inventions = defineCollection({
 });
 
 const knowledge = defineCollection({
-  type: 'content',
+  loader: glob({ base: './src/content/knowledge', pattern: '**/*.{md,mdx}' }),
   schema: ({ image }) => z.object({
     title: z.string(),
     relatedMaterials: z.array(z.string()).optional(),
