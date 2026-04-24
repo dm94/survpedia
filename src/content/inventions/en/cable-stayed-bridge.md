@@ -5,6 +5,7 @@ materialsUsed:
   - concrete
   - steel
   - stone
+image: ../../../assets/images/inventions/cable-stayed-bridge.jpg
 ---
 
 # Brief description

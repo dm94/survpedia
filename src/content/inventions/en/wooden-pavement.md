@@ -9,6 +9,7 @@ materialsUsed:
   - sand
   - saw
   - hammer
+image: ../../../assets/images/inventions/wooden-pavement.jpg
 ---
 
 # Brief description

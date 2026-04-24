@@ -7,6 +7,7 @@ materialsUsed:
   - tierra
   - shovel
   - pico
+image: ../../../assets/images/inventions/cuneta.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,14 @@
 ---
-title: "Ballesta"
-materialsUsed: ["wood", "steel", "iron", "rope", "string", "glue", "leather"]
+title: Ballesta
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - rope
+  - string
+  - glue
+  - leather
+image: ../../../assets/images/inventions/crossbow.jpg
 ---
 
 # Breve descripción

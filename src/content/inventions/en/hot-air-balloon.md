@@ -6,6 +6,7 @@ materialsUsed:
   - rope
   - vegetable-oil
   - wood
+image: ../../../assets/images/inventions/hot-air-balloon.jpg
 ---
 
 # Brief description

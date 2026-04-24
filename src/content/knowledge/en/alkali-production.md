@@ -1,7 +1,17 @@
 ---
-title: "Alkali Production"
-relatedMaterials: ["ash", "soda", "lime", "water", "salt", "potassium_nitrate"]
-relatedInventions: ["kiln", "furnace", "containers"]
+title: Alkali Production
+relatedMaterials:
+  - ash
+  - soda
+  - lime
+  - water
+  - salt
+  - potassium_nitrate
+relatedInventions:
+  - kiln
+  - furnace
+  - containers
+image: ../../../assets/images/knowledge/alkali-production.jpg
 ---
 
 # Brief description

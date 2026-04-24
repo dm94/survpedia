@@ -4,6 +4,7 @@ materialsUsed:
   - lens
   - glass
   - wire
+image: ../../../assets/images/inventions/eyeglasses.jpg
 ---
 
 # Breve descripción

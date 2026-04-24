@@ -1,6 +1,12 @@
 ---
 title: Cocción
-materialsUsed: ["wood", "charcoal", "coal", "clay", "limestone"]
+materialsUsed:
+  - wood
+  - charcoal
+  - coal
+  - clay
+  - limestone
+image: ../../../assets/images/inventions/coccion.jpg
 ---
 
 # Breve descripción

@@ -6,6 +6,7 @@ materialsUsed:
   - bronze
   - wood
   - leather
+image: ../../../assets/images/inventions/sword.jpg
 ---
 
 # Brief description

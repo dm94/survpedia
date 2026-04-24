@@ -13,8 +13,11 @@ uses:
   - Bien de intercambio
   - Conservación
 naturalAvailability: false
-manufacturingProcess: Mezcla de queso o cuajada con humedad y sal, calentamiento para emulsionar, moldeado y enfriado.
+manufacturingProcess: >-
+  Mezcla de queso o cuajada con humedad y sal, calentamiento para emulsionar,
+  moldeado y enfriado.
 category: animal
+image: ../../../assets/images/materials/processed-cheese.jpg
 ---
 
 El queso procesado es un producto lácteo re-fundido que se obtiene al mezclar queso o cuajada con humedad y sal, y luego calentar hasta lograr una emulsión uniforme. Mejora la forma de fundirse, la consistencia y la estabilidad a corto plazo.

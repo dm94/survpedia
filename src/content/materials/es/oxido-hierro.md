@@ -17,6 +17,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Minería natural (Hematita) u oxidación de hierro y calcinación del polvo.
 category: mineral
+image: ../../../assets/images/materials/oxido-hierro.jpg
 ---
 
 El óxido de hierro es un compuesto químico formado por hierro y oxígeno. Existe en la naturaleza como óxido y minerales como la hematita. En su forma refinada, se conoce como "Rojo de Joyero" o "Rojo Inglés", un abrasivo fundamental para lograr acabados de calidad óptica en vidrio y metales.

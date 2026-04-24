@@ -1,6 +1,10 @@
 ---
-title: "Máquinas Simples"
-materialsUsed: ["wood", "stone", "iron"]
+title: Máquinas Simples
+materialsUsed:
+  - wood
+  - stone
+  - iron
+image: ../../../assets/images/inventions/simple-machines.jpg
 ---
 
 # Breve descripción

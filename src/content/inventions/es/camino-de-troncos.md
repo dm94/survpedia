@@ -3,6 +3,7 @@ title: Camino de Troncos
 materialsUsed:
   - wood
   - arena
+image: ../../../assets/images/inventions/camino-de-troncos.jpg
 ---
 
 # Breve descripción

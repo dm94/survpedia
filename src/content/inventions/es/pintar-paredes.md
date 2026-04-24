@@ -10,6 +10,7 @@ materialsUsed:
   - ladrillo
   - wood
   - arena
+image: ../../../assets/images/inventions/pintar-paredes.jpg
 ---
 
 # Breve descripción

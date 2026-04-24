@@ -5,6 +5,7 @@ materialsUsed:
   - wood
   - plastic
   - stone
+image: ../../../assets/images/inventions/gutter.jpg
 ---
 
 # Breve descripción

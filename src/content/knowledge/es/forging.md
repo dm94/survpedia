@@ -12,6 +12,7 @@ relatedInventions:
   - anvil
   - tongs
   - bellows
+image: ../../../assets/images/knowledge/forging.jpg
 ---
 
 # Forja

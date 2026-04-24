@@ -1,6 +1,11 @@
 ---
-title: "Pulley"
-materialsUsed: ["wood", "iron", "bronze", "plant-fibers"]
+title: Pulley
+materialsUsed:
+  - wood
+  - iron
+  - bronze
+  - plant-fibers
+image: ../../../assets/images/inventions/pulley.jpg
 ---
 
 # Brief description

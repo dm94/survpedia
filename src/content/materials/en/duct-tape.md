@@ -20,6 +20,7 @@ manufacturingProcess: >-
   Coating a cloth mesh (scrim) with polyethylene, then applying a rubber-based
   pressure-sensitive adhesive.
 category: synthetic
+image: ../../../assets/images/materials/duct-tape.jpg
 ---
 
 Duct tape is a durable, pressure-sensitive adhesive tape with a cloth backing and a polyethylene coating. It is known for its versatility, strength, and water resistance.

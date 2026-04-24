@@ -6,6 +6,7 @@ materialsUsed:
   - water
   - alum
   - wood
+image: ../../../assets/images/inventions/fabric-dyeing.jpg
 ---
 
 # Brief description

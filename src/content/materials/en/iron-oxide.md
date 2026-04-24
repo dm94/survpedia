@@ -17,6 +17,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Natural mining (Hematite) or rusting iron and calcining the powder.
 category: mineral
+image: ../../../assets/images/materials/iron-oxide.jpg
 ---
 
 Iron oxide is a chemical compound composed of iron and oxygen. It exists in nature as rust and ores like hematite. In a refined form, it is known as "Jeweler's Rouge" or "Red Rouge," a critical abrasive for achieving optical-quality finishes on glass and metals.

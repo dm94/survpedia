@@ -1,6 +1,10 @@
 ---
-title: "Calibre"
-materialsUsed: ["metal", "madera", "tornillo"]
+title: Calibre
+materialsUsed:
+  - metal
+  - madera
+  - tornillo
+image: ../../../assets/images/inventions/calipers.jpg
 ---
 
 # Descripción breve

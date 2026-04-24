@@ -6,6 +6,7 @@ materialsUsed:
   - sand
   - metal
   - stone
+image: ../../../assets/images/inventions/molding.jpg
 ---
 
 Molding is a manufacturing process used to shape liquid or pliable raw material using a rigid frame called a mold or matrix. This may have been done using patterns of the final object.

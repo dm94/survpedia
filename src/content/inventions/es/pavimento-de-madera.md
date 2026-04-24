@@ -9,6 +9,7 @@ materialsUsed:
   - arena
   - saw
   - hammer
+image: ../../../assets/images/inventions/pavimento-de-madera.jpg
 ---
 
 # Breve descripción

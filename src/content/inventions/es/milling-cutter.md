@@ -3,6 +3,7 @@ title: Fresa (Herramienta)
 materialsUsed:
   - steel
   - tungsten
+image: ../../../assets/images/inventions/milling-cutter.jpg
 ---
 
 # Breve descripción

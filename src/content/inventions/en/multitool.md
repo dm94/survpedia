@@ -1,6 +1,9 @@
 ---
-title: "Multitool"
-materialsUsed: ["steel", "wood"]
+title: Multitool
+materialsUsed:
+  - steel
+  - wood
+image: ../../../assets/images/inventions/multitool.jpg
 ---
 
 # Brief description

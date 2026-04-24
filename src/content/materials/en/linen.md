@@ -15,6 +15,7 @@ category: plant
 manufacturingProcess: >-
   Made from flax stalks through retting, breaking, scutching, and hackling, then
   spun into yarn and woven.
+image: ../../../assets/images/materials/linen.jpg
 ---
 
 Linen is a textile fiber made from the flax plant, valued for its strength, cool feel, and durability.

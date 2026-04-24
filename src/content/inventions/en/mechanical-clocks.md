@@ -1,6 +1,11 @@
 ---
-title: "Mechanical Clocks"
-materialsUsed: ["metal", "wood", "stone", "glass"]
+title: Mechanical Clocks
+materialsUsed:
+  - metal
+  - wood
+  - stone
+  - glass
+image: ../../../assets/images/inventions/mechanical-clocks.jpg
 ---
 
 # Brief description

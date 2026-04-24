@@ -1,5 +1,5 @@
 ---
-title: "Salt & Preservation"
+title: Salt & Preservation
 relatedMaterials:
   - salt
   - water
@@ -11,6 +11,7 @@ relatedInventions:
   - containers
   - fermentation
   - fire
+image: ../../../assets/images/knowledge/salt-and-preservation.jpg
 ---
 
 # Brief description

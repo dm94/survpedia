@@ -3,6 +3,7 @@ title: Corduroy Road
 materialsUsed:
   - wood
   - sand
+image: ../../../assets/images/inventions/corduroy-road.jpg
 ---
 
 # Brief description

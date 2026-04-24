@@ -14,8 +14,9 @@ uses:
   - Buttons
   - Glue
 naturalAvailability: true
-manufacturingProcess: Harvested from bovids, boiled to remove the core, and shaped with heat.
+manufacturingProcess: 'Harvested from bovids, boiled to remove the core, and shaped with heat.'
 category: animal
+image: ../../../assets/images/materials/horn.jpg
 ---
 
 Horn is a hard, permanent outgrowth found on the heads of cattle, sheep, goats, and buffalo. It consists of a sheath of keratin (the same protein as hair and fingernails) covering a living bone core. It was one of humanity's first thermoplastics.

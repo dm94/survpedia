@@ -13,8 +13,11 @@ uses:
   - Anclajes al Terreno
   - Malla Electrosoldada
 naturalAvailability: false
-manufacturingProcess: Laminado en caliente de tochos de acero, creando crestas para mejor adherencia.
+manufacturingProcess: >-
+  Laminado en caliente de tochos de acero, creando crestas para mejor
+  adherencia.
 category: synthetic
+image: ../../../assets/images/materials/barra-de-refuerzo.jpg
 ---
 
 Conocida comúnmente como **varilla**, **cabilla** o **rebar**. Es una barra de acero o malla de alambres de acero utilizada como dispositivo de tensión en estructuras de **[Hormigón Armado](/es/materials/hormigon-armado)** y mampostería reforzada para fortalecer y ayudar al hormigón bajo tensión.

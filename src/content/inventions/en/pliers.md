@@ -1,6 +1,8 @@
 ---
-title: "Pliers"
-materialsUsed: ["steel"]
+title: Pliers
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/pliers.jpg
 ---
 
 # Brief description

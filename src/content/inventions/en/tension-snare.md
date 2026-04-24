@@ -5,6 +5,7 @@ materialsUsed:
   - plant-fibers
   - leather
   - iron
+image: ../../../assets/images/inventions/tension-snare.jpg
 ---
 
 # Brief description

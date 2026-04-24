@@ -7,6 +7,7 @@ materialsUsed:
   - wood
   - animal-fat
   - vegetable-oil
+image: ../../../assets/images/inventions/rolling-mill.jpg
 ---
 
 # Breve descripción

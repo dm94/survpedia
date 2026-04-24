@@ -11,8 +11,11 @@ uses:
   - Loose-fill insulation
   - Plaster aggregate
 naturalAvailability: true
-manufacturingProcess: Heating volcanic glass to 870°C, causing it to pop like popcorn (expanding 4-20 times).
+manufacturingProcess: >-
+  Heating volcanic glass to 870°C, causing it to pop like popcorn (expanding
+  4-20 times).
 category: mineral
+image: ../../../assets/images/materials/perlite.jpg
 ---
 
 Perlite is an amorphous volcanic glass that has a relatively high water content. It is a naturally occurring mineral that exists as a type of obsidian. When heated, it expands greatly.

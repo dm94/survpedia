@@ -1,10 +1,11 @@
 ---
-title: "Válvula"
+title: Válvula
 materialsUsed:
   - brass
   - iron
   - plastic
   - natural-rubber
+image: ../../../assets/images/inventions/valve.jpg
 ---
 
 # Breve descripción

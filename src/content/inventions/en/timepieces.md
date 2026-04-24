@@ -1,6 +1,13 @@
 ---
-title: "Timepieces"
-materialsUsed: ["wood", "stone", "metal", "glass", "water", "sand"]
+title: Timepieces
+materialsUsed:
+  - wood
+  - stone
+  - metal
+  - glass
+  - water
+  - sand
+image: ../../../assets/images/inventions/timepieces.jpg
 ---
 
 # Brief description

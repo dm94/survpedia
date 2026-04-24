@@ -1,9 +1,10 @@
 ---
-title: "Tornillo de Banco"
+title: Tornillo de Banco
 materialsUsed:
   - iron
   - steel
   - wood
+image: ../../../assets/images/inventions/vise.jpg
 ---
 
 # Breve descripción

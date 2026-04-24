@@ -1,6 +1,12 @@
 ---
 title: Firing
-materialsUsed: ["wood", "charcoal", "coal", "clay", "limestone"]
+materialsUsed:
+  - wood
+  - charcoal
+  - coal
+  - clay
+  - limestone
+image: ../../../assets/images/inventions/firing.jpg
 ---
 
 # Brief description

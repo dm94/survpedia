@@ -5,6 +5,7 @@ materialsUsed:
   - wood
   - stone
   - cork
+image: ../../../assets/images/inventions/fishing-net.jpg
 ---
 
 # Brief description

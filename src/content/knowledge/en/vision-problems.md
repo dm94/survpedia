@@ -8,6 +8,7 @@ relatedInventions:
   - lens
   - microscope
   - telescope
+image: ../../../assets/images/knowledge/vision-problems.jpg
 ---
 
 # Brief description

@@ -5,6 +5,7 @@ materialsUsed:
   - glass
   - wood
   - brass
+image: ../../../assets/images/inventions/telescope.jpg
 ---
 
 # Brief description

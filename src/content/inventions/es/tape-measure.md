@@ -1,6 +1,10 @@
 ---
-title: "Cinta métrica"
-materialsUsed: ["metal", "plastic", "fabric"]
+title: Cinta métrica
+materialsUsed:
+  - metal
+  - plastic
+  - fabric
+image: ../../../assets/images/inventions/tape-measure.jpg
 ---
 
 # Descripción breve

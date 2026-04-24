@@ -16,6 +16,7 @@ relatedInventions:
   - hand-drill
   - potters-wheel
   - knife
+image: ../../../assets/images/knowledge/shaping.jpg
 ---
 
 # Shaping

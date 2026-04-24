@@ -1,6 +1,9 @@
 ---
-title: "Micrómetro"
-materialsUsed: ["steel", "iron"]
+title: Micrómetro
+materialsUsed:
+  - steel
+  - iron
+image: ../../../assets/images/inventions/micrometer.jpg
 ---
 
 # Breve descripción

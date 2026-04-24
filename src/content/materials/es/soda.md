@@ -14,8 +14,11 @@ uses:
   - Agente de limpieza
   - Teñido
 naturalAvailability: true
-manufacturingProcess: Extraído de cenizas de plantas (barrilla/algas) o depósitos minerales (natrón).
+manufacturingProcess: >-
+  Extraído de cenizas de plantas (barrilla/algas) o depósitos minerales
+  (natrón).
 category: mineral
+image: ../../../assets/images/materials/soda.jpg
 ---
 
 La sosa (carbonato de sodio, Na2CO3) es una sal blanca, inodora y soluble en agua. Es un químico industrial crítico, históricamente obtenido de las cenizas de plantas ricas en sodio.

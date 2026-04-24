@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - iron
   - plant-fibers
+image: ../../../assets/images/inventions/mouse-trap.jpg
 ---
 
 # Breve descripción

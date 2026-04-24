@@ -14,6 +14,7 @@ relatedInventions:
   - pipes
   - oil-pump
   - passive-ventilation
+image: ../../../assets/images/knowledge/oil-refining.jpg
 ---
 
 # Brief description

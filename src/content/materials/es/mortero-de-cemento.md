@@ -17,8 +17,11 @@ uses:
   - Soleras de suelos
   - Reparaciones estructurales
 naturalAvailability: false
-manufacturingProcess: Mezcla de cemento y arena en proporciones específicas (generalmente 1:3 a 1:5) con agua hasta formar una pasta plástica.
+manufacturingProcess: >-
+  Mezcla de cemento y arena en proporciones específicas (generalmente 1:3 a 1:5)
+  con agua hasta formar una pasta plástica.
 category: synthetic
+image: ../../../assets/images/materials/mortero-de-cemento.jpg
 ---
 
 El mortero de cemento es una mezcla de **[Cemento](/es/materials/cemento)**, **[Arena](/es/materials/arena)** y **[Agua](/es/materials/water)**. Es el aglomerante estándar para la albañilería moderna, proporcionando alta resistencia y resistencia al agua. A diferencia del mortero de cal, fragua rápidamente y se vuelve muy duro y rígido.

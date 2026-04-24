@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - plastic
   - natural-rubber
+image: ../../../assets/images/inventions/valvula.jpg
 ---
 
 # Breve descripción

@@ -15,10 +15,13 @@ uses:
   - Atar
   - Cuerda
   - Resortes
-  - "**[Electroimán](/es/inventions/electromagnet)**"
+  - '**[Electroimán](/es/inventions/electromagnet)**'
 naturalAvailability: false
-manufacturingProcess: Trefilado de metal a través de una serie de hileras con diámetros decrecientes.
+manufacturingProcess: >-
+  Trefilado de metal a través de una serie de hileras con diámetros
+  decrecientes.
 category: synthetic
+image: ../../../assets/images/materials/wire.jpg
 ---
 
 Una sola hebra o varilla flexible de metal. El alambre se utiliza para soportar cargas mecánicas o señales de electricidad y telecomunicaciones.

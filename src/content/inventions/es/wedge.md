@@ -1,6 +1,10 @@
 ---
-title: "Cuña"
-materialsUsed: ["wood", "stone", "iron"]
+title: Cuña
+materialsUsed:
+  - wood
+  - stone
+  - iron
+image: ../../../assets/images/inventions/wedge.jpg
 ---
 
 # Brief description

@@ -1,12 +1,24 @@
 ---
-title: "Acero para Resortes"
-formula: "Fe + C + Mn/Si"
-composition: ["iron", "carbon", "manganese", "silicon"]
-properties: ["Alto límite elástico", "Elasticidad", "Resiliencia"]
-uses: ["Resortes", "Cuchillas", "Ganzúas", "Antenas"]
+title: Acero para Resortes
+formula: Fe + C + Mn/Si
+composition:
+  - iron
+  - carbon
+  - manganese
+  - silicon
+properties:
+  - Alto límite elástico
+  - Elasticidad
+  - Resiliencia
+uses:
+  - Resortes
+  - Cuchillas
+  - Ganzúas
+  - Antenas
 naturalAvailability: false
-manufacturingProcess: "Aleación de acero con carbono medio-alto y endurecimiento/revenido."
+manufacturingProcess: Aleación de acero con carbono medio-alto y endurecimiento/revenido.
 category: synthetic
+image: ../../../assets/images/materials/spring-steel.jpg
 ---
 
 # Descripción

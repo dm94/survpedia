@@ -1,6 +1,11 @@
 ---
-title: "Theodolite"
-materialsUsed: ["brass", "glass", "aluminum", "iron"]
+title: Theodolite
+materialsUsed:
+  - brass
+  - glass
+  - aluminum
+  - iron
+image: ../../../assets/images/inventions/theodolite.jpg
 ---
 
 # Brief description

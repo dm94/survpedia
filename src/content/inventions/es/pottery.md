@@ -1,6 +1,10 @@
 ---
-title: "Alfarería"
-materialsUsed: ["arcilla", "water", "wood"]
+title: Alfarería
+materialsUsed:
+  - arcilla
+  - water
+  - wood
+image: ../../../assets/images/inventions/pottery.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,12 @@
 ---
-title: "Pluma (Brazo de elevación)"
-materialsUsed: ["wood", "iron", "steel", "rope", "steel-cable"]
+title: Pluma (Brazo de elevación)
+materialsUsed:
+  - wood
+  - iron
+  - steel
+  - rope
+  - steel-cable
+image: ../../../assets/images/inventions/pluma.jpg
 ---
 
 # Breve descripción

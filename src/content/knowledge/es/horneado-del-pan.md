@@ -1,5 +1,5 @@
 ---
-title: "Horneado del pan"
+title: Horneado del pan
 relatedMaterials:
   - wheat
   - water
@@ -17,6 +17,7 @@ relatedInventions:
   - kiln
   - fire
   - containers
+image: ../../../assets/images/knowledge/horneado-del-pan.jpg
 ---
 
 # Breve descripción

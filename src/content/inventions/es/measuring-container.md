@@ -1,6 +1,11 @@
 ---
-title: "Recipiente de Medición"
-materialsUsed: ["glass", "arcilla", "metal", "plastic"]
+title: Recipiente de Medición
+materialsUsed:
+  - glass
+  - arcilla
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/measuring-container.jpg
 ---
 
 # Breve descripción

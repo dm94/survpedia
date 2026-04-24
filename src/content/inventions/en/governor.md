@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - brass
   - steel
+image: ../../../assets/images/inventions/governor.jpg
 ---
 
 # Brief description

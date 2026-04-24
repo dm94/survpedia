@@ -5,6 +5,7 @@ materialsUsed:
   - piedra
   - plant-fibers
   - iron
+image: ../../../assets/images/inventions/wolf-pen-trap.jpg
 ---
 
 # Breve descripción

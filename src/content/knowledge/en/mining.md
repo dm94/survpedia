@@ -22,6 +22,7 @@ relatedInventions:
   - safety-lamp
   - wheel
   - axle
+image: ../../../assets/images/knowledge/mining.jpg
 ---
 
 # Brief description

@@ -13,8 +13,11 @@ uses:
   - Trade good
   - Concentrated nutrition
 naturalAvailability: false
-manufacturingProcess: Coagulation of milk with acid or rennet, draining whey, salting, pressing, and optional aging.
+manufacturingProcess: >-
+  Coagulation of milk with acid or rennet, draining whey, salting, pressing, and
+  optional aging.
 category: animal
+image: ../../../assets/images/materials/curd-cheese.jpg
 ---
 
 Curd and cheese are concentrated dairy foods made by coagulating milk, draining whey, and stabilizing the curd with salt and aging. They compress fresh milk into a transportable, shelf-stable food with high nutritional density.

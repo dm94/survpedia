@@ -17,6 +17,7 @@ manufacturingProcess: >-
   irritante. Las perlas cultivadas se producen al insertar un núcleo y criar el
   molusco en agua limpia.
 category: animal
+image: ../../../assets/images/materials/pearl.jpg
 ---
 
 La perla es un material duro y brillante producido por ciertos moluscos al recubrir un irritante con capas de nácar.

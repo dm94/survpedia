@@ -1,11 +1,27 @@
 ---
-title: "Hormigón Asfáltico"
-composition: ["bitumen", "stone", "sand", "gravel"]
-properties: ["Impermeable", "Viscoelástico", "Duradero", "Superficie lisa", "Reciclable"]
-uses: ["Construcción de carreteras", "Pistas de aeropuertos", "Aparcamientos", "Presas de terraplén"]
+title: Hormigón Asfáltico
+composition:
+  - bitumen
+  - stone
+  - sand
+  - gravel
+properties:
+  - Impermeable
+  - Viscoelástico
+  - Duradero
+  - Superficie lisa
+  - Reciclable
+uses:
+  - Construcción de carreteras
+  - Pistas de aeropuertos
+  - Aparcamientos
+  - Presas de terraplén
 naturalAvailability: false
-manufacturingProcess: "Producido mezclando aglutinante asfáltico caliente (betún) con áridos (piedra, arena, grava) a altas temperaturas."
+manufacturingProcess: >-
+  Producido mezclando aglutinante asfáltico caliente (betún) con áridos (piedra,
+  arena, grava) a altas temperaturas.
 category: synthetic
+image: ../../../assets/images/materials/asphalt-concrete.jpg
 ---
 
 Un material compuesto comúnmente utilizado para pavimentar carreteras, aparcamientos, aeropuertos y núcleos de presas. Consiste en áridos minerales unidos con asfalto, colocados en capas y compactados.

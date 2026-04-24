@@ -7,6 +7,7 @@ materialsUsed:
   - adobe
   - concrete
   - mortar
+image: ../../../assets/images/inventions/wall.jpg
 ---
 
 # Breve descripción

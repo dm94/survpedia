@@ -16,8 +16,11 @@ uses:
   - Chimeneas
   - Pavimentación
 naturalAvailability: false
-manufacturingProcess: Moldeado de arcilla y posterior secado al sol o [cocción](/es/inventions/coccion) en horno.
+manufacturingProcess: >-
+  Moldeado de arcilla y posterior secado al sol o
+  [cocción](/es/inventions/coccion) en horno.
 category: synthetic
+image: ../../../assets/images/materials/ladrillo.jpg
 ---
 
 El ladrillo es un bloque de material cerámico u hormigón, utilizado principalmente en albañilería para construir muros, **[cimientos](/es/inventions/cimientos)**, arcos y otras estructuras. Es uno de los materiales de construcción más antiguos y versátiles.

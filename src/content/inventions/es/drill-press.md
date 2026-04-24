@@ -1,9 +1,10 @@
 ---
-title: "Taladro de Columna"
+title: Taladro de Columna
 materialsUsed:
   - iron
   - steel
   - wood
+image: ../../../assets/images/inventions/drill-press.jpg
 ---
 
 # Breve descripción

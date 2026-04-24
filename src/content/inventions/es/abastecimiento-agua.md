@@ -6,6 +6,7 @@ materialsUsed:
   - ladrillo
   - plastic
   - metal
+image: ../../../assets/images/inventions/abastecimiento-agua.jpg
 ---
 
 # Breve descripción

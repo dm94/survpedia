@@ -1,5 +1,5 @@
 ---
-title: "Cordel"
+title: Cordel
 properties:
   - Resistencia a la tracción
   - Flexible
@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Retorcer fibras vegetales, pelo o tendones en cordones y plegar hebras para
   obtener resistencia y durabilidad.
 category: other
+image: ../../../assets/images/materials/string.jpg
 ---
 
 El cordel es un cordón fino fabricado retorciendo fibras en una hebra continua. Se utiliza para atar, sujetar y unir materiales cuando se necesita un conector flexible.

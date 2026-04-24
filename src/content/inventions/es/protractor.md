@@ -1,6 +1,11 @@
 ---
-title: "Transportador"
-materialsUsed: ["madera", "metal", "papel", "plastico"]
+title: Transportador
+materialsUsed:
+  - madera
+  - metal
+  - papel
+  - plastico
+image: ../../../assets/images/inventions/protractor.jpg
 ---
 
 # Descripción breve

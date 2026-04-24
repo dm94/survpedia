@@ -16,6 +16,7 @@ relatedInventions:
   - tongs
   - protective-equipment
   - gas-welder
+image: ../../../assets/images/knowledge/welding.jpg
 ---
 
 # Soldadura

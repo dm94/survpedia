@@ -14,8 +14,9 @@ uses:
   - Revestimientos de horno
   - Tuberías
 naturalAvailability: false
-manufacturingProcess: Modelado de arcilla, secado y cocción en horno, con esmaltado opcional.
+manufacturingProcess: 'Modelado de arcilla, secado y cocción en horno, con esmaltado opcional.'
 category: synthetic
+image: ../../../assets/images/materials/ceramics.jpg
 ---
 
 La cerámica es un material inorgánico no metálico que se obtiene al modelar arcillas o polvos minerales y cocerlos a alta temperatura. Abarca desde la loza porosa hasta la porcelana densa.

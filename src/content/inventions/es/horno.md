@@ -1,6 +1,11 @@
 ---
-title: "Horno"
-materialsUsed: ["arcilla", "piedra", "wood", "charcoal"]
+title: Horno
+materialsUsed:
+  - arcilla
+  - piedra
+  - wood
+  - charcoal
+image: ../../../assets/images/inventions/horno.jpg
 ---
 
 # Breve descripción

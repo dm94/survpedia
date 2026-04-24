@@ -1,6 +1,11 @@
 ---
-title: "Producción de amoníaco"
-materialsUsed: ["iron", "water", "coal", "ammonia"]
+title: Producción de amoníaco
+materialsUsed:
+  - iron
+  - water
+  - coal
+  - ammonia
+image: ../../../assets/images/inventions/ammonia-production.jpg
 ---
 
 # Breve descripción

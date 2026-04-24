@@ -1,6 +1,11 @@
 ---
-title: "Mecanismo de Escape"
-materialsUsed: ["metal", "steel", "brass", "ruby"]
+title: Mecanismo de Escape
+materialsUsed:
+  - metal
+  - steel
+  - brass
+  - ruby
+image: ../../../assets/images/inventions/escapement.jpg
 ---
 
 # Breve descripción

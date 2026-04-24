@@ -9,6 +9,7 @@ materialsUsed:
   - pico
   - shovel
   - level
+image: ../../../assets/images/inventions/acueducto.jpg
 ---
 
 # Breve descripción

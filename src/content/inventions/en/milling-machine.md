@@ -1,10 +1,11 @@
 ---
-title: "Milling Machine"
+title: Milling Machine
 materialsUsed:
   - iron
   - steel
   - bronze
   - oil
+image: ../../../assets/images/inventions/milling-machine.jpg
 ---
 
 # Brief description

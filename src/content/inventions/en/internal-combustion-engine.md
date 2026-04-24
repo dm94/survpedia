@@ -1,6 +1,12 @@
 ---
-title: "Internal Combustion Engine"
-materialsUsed: ["iron", "steel", "aluminum", "crude-oil", "copper"]
+title: Internal Combustion Engine
+materialsUsed:
+  - iron
+  - steel
+  - aluminum
+  - crude-oil
+  - copper
+image: ../../../assets/images/inventions/internal-combustion-engine.jpg
 ---
 
 # Brief description

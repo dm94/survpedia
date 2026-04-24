@@ -3,6 +3,7 @@ title: Milling Cutter
 materialsUsed:
   - steel
   - tungsten
+image: ../../../assets/images/inventions/milling-cutter.jpg
 ---
 
 # Brief description

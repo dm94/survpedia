@@ -14,8 +14,8 @@ uses:
   - Embroidery
 naturalAvailability: true
 category: animal
-manufacturingProcess: >-
-  Harvested from silkworm cocoons, then degummed and reeled or spun into thread.
+manufacturingProcess: 'Harvested from silkworm cocoons, then degummed and reeled or spun into thread.'
+image: ../../../assets/images/materials/silk.jpg
 ---
 
 Silk is a protein fiber produced by silkworm larvae, especially the domesticated Bombyx mori. It is valued for its smooth feel, natural sheen, and high strength for its weight.

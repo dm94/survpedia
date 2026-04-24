@@ -1,6 +1,12 @@
 ---
-title: "Molino de agua"
-materialsUsed: ["wood", "piedra", "iron", "water", "animal-fat"]
+title: Molino de agua
+materialsUsed:
+  - wood
+  - piedra
+  - iron
+  - water
+  - animal-fat
+image: ../../../assets/images/inventions/watermill.jpg
 ---
 
 # Breve descripción

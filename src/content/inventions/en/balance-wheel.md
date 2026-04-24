@@ -1,6 +1,11 @@
 ---
-title: "Balance Wheel"
-materialsUsed: ["metal", "steel", "brass", "spring-steel"]
+title: Balance Wheel
+materialsUsed:
+  - metal
+  - steel
+  - brass
+  - spring-steel
+image: ../../../assets/images/inventions/balance-wheel.jpg
 ---
 
 # Brief description

@@ -13,8 +13,11 @@ uses:
   - Concrete forms (ICF)
   - Floatation devices
 naturalAvailability: false
-manufacturingProcess: Polymerization of styrene monomer, then expanded (EPS) with steam or extruded (XPS).
+manufacturingProcess: >-
+  Polymerization of styrene monomer, then expanded (EPS) with steam or extruded
+  (XPS).
 category: synthetic
+image: ../../../assets/images/materials/polystyrene.jpg
 ---
 
 Polystyrene is a synthetic aromatic hydrocarbon polymer made from the monomer styrene. In construction, it is used in two main forms: Expanded Polystyrene (EPS) and Extruded Polystyrene (XPS). It is a white, rigid foam.

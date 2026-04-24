@@ -1,6 +1,10 @@
 ---
-title: "Knife"
-materialsUsed: ["steel", "wood", "pine-resin-glue"]
+title: Knife
+materialsUsed:
+  - steel
+  - wood
+  - pine-resin-glue
+image: ../../../assets/images/inventions/knife.jpg
 ---
 
 # Brief description

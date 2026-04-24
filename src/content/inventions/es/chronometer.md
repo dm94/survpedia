@@ -1,6 +1,11 @@
 ---
-title: "Cronómetro Marino"
-materialsUsed: ["brass", "steel", "glass", "wood"]
+title: Cronómetro Marino
+materialsUsed:
+  - brass
+  - steel
+  - glass
+  - wood
+image: ../../../assets/images/inventions/chronometer.jpg
 ---
 
 # Breve descripción

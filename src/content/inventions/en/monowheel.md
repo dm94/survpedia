@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - rubber
   - leather
+image: ../../../assets/images/inventions/monowheel.jpg
 ---
 
 # Brief description

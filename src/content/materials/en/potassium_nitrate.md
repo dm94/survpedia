@@ -17,8 +17,12 @@ uses:
   - Pyrotechnics
   - Food curing
 naturalAvailability: true
-manufacturingProcess: Extracted from nitrate-rich soils or mineral deposits, leached with water, filtered, and crystallized by evaporation; can also be produced from manure beds and purified by recrystallization.
+manufacturingProcess: >-
+  Extracted from nitrate-rich soils or mineral deposits, leached with water,
+  filtered, and crystallized by evaporation; can also be produced from manure
+  beds and purified by recrystallization.
 category: mineral
+image: ../../../assets/images/materials/potassium-nitrate.jpg
 ---
 
 Potassium nitrate, also called saltpeter, is a white crystalline salt used as an oxidizer and fertilizer. It stores oxygen within its structure, which makes it valuable for rapid combustion mixtures like black powder.

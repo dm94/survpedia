@@ -1,6 +1,15 @@
 ---
-title: "Bomba de Ariete Hidráulico"
-materialsUsed: ["iron", "copper", "water", "steel", "brass", "natural-rubber", "leather", "plastic"]
+title: Bomba de Ariete Hidráulico
+materialsUsed:
+  - iron
+  - copper
+  - water
+  - steel
+  - brass
+  - natural-rubber
+  - leather
+  - plastic
+image: ../../../assets/images/inventions/hydraulic-ram-pump.jpg
 ---
 
 # Descripción breve

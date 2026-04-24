@@ -1,6 +1,11 @@
 ---
-title: "Sembradora"
-materialsUsed: ["wood", "iron", "leather", "rope"]
+title: Sembradora
+materialsUsed:
+  - wood
+  - iron
+  - leather
+  - rope
+image: ../../../assets/images/inventions/seed-drill.jpg
 ---
 
 # Breve descripción

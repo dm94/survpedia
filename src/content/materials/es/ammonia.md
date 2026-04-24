@@ -1,12 +1,28 @@
 ---
-title: "Amoníaco"
-formula: "NH3"
-composition: ["nitrogen", "hydrogen"]
-properties: ["Olor punzante", "Gas incoloro", "Altamente soluble en agua", "Alcalino", "Corrosivo"]
-uses: ["Producción de fertilizantes", "Refrigerante", "Agente de limpieza", "Precursor de explosivos", "Producción de **[Ácido Nítrico](/es/materials/nitric-acid)**"]
+title: Amoníaco
+formula: NH3
+composition:
+  - nitrogen
+  - hydrogen
+properties:
+  - Olor punzante
+  - Gas incoloro
+  - Altamente soluble en agua
+  - Alcalino
+  - Corrosivo
+uses:
+  - Producción de fertilizantes
+  - Refrigerante
+  - Agente de limpieza
+  - Precursor de explosivos
+  - 'Producción de **[Ácido Nítrico](/es/materials/nitric-acid)**'
 naturalAvailability: true
-manufacturingProcess: "Sintetizado a través del proceso Haber-Bosch al hacer reaccionar nitrógeno del aire con gas de hidrógeno bajo alta presión y temperatura utilizando un catalizador de hierro."
+manufacturingProcess: >-
+  Sintetizado a través del proceso Haber-Bosch al hacer reaccionar nitrógeno del
+  aire con gas de hidrógeno bajo alta presión y temperatura utilizando un
+  catalizador de hierro.
 category: synthetic
+image: ../../../assets/images/materials/ammonia.jpg
 ---
 
 El amoníaco es un gas incoloro con un olor punzante característico. Es un componente fundamental para la producción de muchos productos que sostienen la vida moderna, sobre todo los fertilizantes nitrogenados.

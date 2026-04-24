@@ -1,6 +1,9 @@
 ---
-title: "Cámara Oscura"
-materialsUsed: ["wood", "glass"]
+title: Cámara Oscura
+materialsUsed:
+  - wood
+  - glass
+image: ../../../assets/images/inventions/camera-obscura.jpg
 ---
 
 # Descripción breve

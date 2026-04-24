@@ -10,6 +10,7 @@ materialsUsed:
   - glass
   - wood
   - plant-fibers
+image: ../../../assets/images/inventions/fly-catcher.jpg
 ---
 
 # Brief description

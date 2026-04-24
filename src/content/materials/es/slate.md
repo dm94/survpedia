@@ -17,8 +17,9 @@ uses:
   - Mesas de billar
   - Aislamiento eléctrico
 naturalAvailability: true
-manufacturingProcess: Extracción, división a lo largo de planos de clivaje y recorte a la forma.
+manufacturingProcess: 'Extracción, división a lo largo de planos de clivaje y recorte a la forma.'
 category: mineral
+image: ../../../assets/images/materials/slate.jpg
 ---
 
 La pizarra es una roca metamórfica foliada de grano fino que se crea por la alteración de la lutita o fangolita mediante metamorfismo regional de bajo grado. Es famosa por su capacidad de dividirse en láminas finas y planas (fisilidad).

@@ -10,8 +10,11 @@ uses:
   - Quick energy source
   - Flavor and color carrier
 naturalAvailability: false
-manufacturingProcess: Granulated sugar is melted and spun into thin threads by centrifugal force, then gathered into a fluffy mass.
+manufacturingProcess: >-
+  Granulated sugar is melted and spun into thin threads by centrifugal force,
+  then gathered into a fluffy mass.
 category: other
+image: ../../../assets/images/materials/cotton-candy.jpg
 ---
 
 Cotton candy is spun sugar formed into delicate, airy fibers.

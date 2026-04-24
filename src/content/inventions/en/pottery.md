@@ -1,6 +1,10 @@
 ---
-title: "Pottery"
-materialsUsed: ["clay", "water", "wood"]
+title: Pottery
+materialsUsed:
+  - clay
+  - water
+  - wood
+image: ../../../assets/images/inventions/pottery.jpg
 ---
 
 # Brief description

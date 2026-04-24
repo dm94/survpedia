@@ -1,6 +1,15 @@
 ---
-title: "Oil Refinery"
-materialsUsed: ["steel", "iron", "brick", "concrete", "stone", "copper", "glass", "water"]
+title: Oil Refinery
+materialsUsed:
+  - steel
+  - iron
+  - brick
+  - concrete
+  - stone
+  - copper
+  - glass
+  - water
+image: ../../../assets/images/inventions/oil-refinery.jpg
 ---
 
 # Brief description

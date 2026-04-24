@@ -14,6 +14,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Recolectada de panales y colada para retirar cera y residuos.
 category: animal
+image: ../../../assets/images/materials/honey.jpg
 ---
 
 La miel es un jarabe concentrado de azúcares que las abejas elaboran a partir del néctar. Es estable si se mantiene seca y sellada, por eso es valiosa como alimento, intercambio y conservante.

@@ -19,9 +19,10 @@ uses:
   - Adhesivo
 naturalAvailability: false
 manufacturingProcess: >-
-  Destilación destructiva de materia orgánica (raíces de pino, corteza de abedul,
-  carbón) en un entorno bajo en oxígeno.
+  Destilación destructiva de materia orgánica (raíces de pino, corteza de
+  abedul, carbón) en un entorno bajo en oxígeno.
 category: synthetic
+image: ../../../assets/images/materials/tar.jpg
 ---
 
 El alquitrán es un líquido oscuro, espeso y aceitoso producido por la destilación destructiva de materia orgánica, como madera o carbón. El alquitrán de pino, específicamente, se ha utilizado durante siglos para preservar la madera y las cuerdas.

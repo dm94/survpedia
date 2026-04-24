@@ -1,6 +1,11 @@
 ---
-title: "Bread"
-materialsUsed: ["wheat", "water", "salt", "yeast"]
+title: Bread
+materialsUsed:
+  - wheat
+  - water
+  - salt
+  - yeast
+image: ../../../assets/images/inventions/bread.jpg
 ---
 
 # Brief description

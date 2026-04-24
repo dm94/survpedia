@@ -1,6 +1,6 @@
 ---
 title: Vermiculita
-formula: (Mg,Fe2+,Fe3+)3[(Al,Si)4O10](OH)2·4H2O
+formula: '(Mg,Fe2+,Fe3+)3[(Al,Si)4O10](OH)2·4H2O'
 properties:
   - Aislamiento térmico
   - Resistencia al fuego
@@ -14,8 +14,11 @@ uses:
   - Horticultura
   - Embalaje
 naturalAvailability: true
-manufacturingProcess: Calentar el mineral de vermiculita cruda a ~900°C provoca su exfoliación (expansión) hasta 30 veces su volumen original.
+manufacturingProcess: >-
+  Calentar el mineral de vermiculita cruda a ~900°C provoca su exfoliación
+  (expansión) hasta 30 veces su volumen original.
 category: mineral
+image: ../../../assets/images/materials/vermiculita.jpg
 ---
 
 La vermiculita es un mineral filosilicato hidratado que sufre una expansión significativa cuando se calienta. Es muy similar a la **[Perlita](/es/materials/perlita)** pero retiene más agua y es químicamente distinta.

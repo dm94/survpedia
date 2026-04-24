@@ -13,8 +13,11 @@ uses:
   - Quick protein source
   - Trade good
 naturalAvailability: false
-manufacturingProcess: Coagulation of milk with acid or rennet, draining whey, and light salting without aging.
+manufacturingProcess: >-
+  Coagulation of milk with acid or rennet, draining whey, and light salting
+  without aging.
 category: animal
+image: ../../../assets/images/materials/unripened-cheese.jpg
 ---
 
 Unripened cheese is fresh curd drained and lightly salted without aging. It preserves milk for short periods while keeping a soft texture and mild flavor.

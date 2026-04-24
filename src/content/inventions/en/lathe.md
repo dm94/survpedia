@@ -1,10 +1,11 @@
 ---
-title: "Lathe"
+title: Lathe
 materialsUsed:
   - iron
   - steel
   - bronze
   - oil
+image: ../../../assets/images/inventions/lathe.jpg
 ---
 
 # Brief description

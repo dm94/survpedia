@@ -14,6 +14,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Roca volcánica natural formada durante erupciones explosivas.
 category: mineral
+image: ../../../assets/images/materials/pumice.jpg
 ---
 
 La piedra pómez (o pumita) es una roca volcánica ligera y porosa que consiste en vidrio volcánico de textura rugosa altamente vesicular. Se crea cuando la roca sobrecalentada y altamente presurizada es expulsada violentamente de un volcán.

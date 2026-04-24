@@ -1,8 +1,18 @@
 ---
-title: "Construcción de la Rueda"
-relatedMaterials: ["wood", "iron", "leather", "animal-fat"]
+title: Construcción de la Rueda
+relatedMaterials:
+  - wood
+  - iron
+  - leather
+  - animal-fat
 relatedInventions:
-  ["wheel", "cart", "wagon", "chariot", "manual-lathe", "spoke-lacing"]
+  - wheel
+  - cart
+  - wagon
+  - chariot
+  - manual-lathe
+  - spoke-lacing
+image: ../../../assets/images/knowledge/construccion-de-la-rueda.jpg
 ---
 
 # Breve descripción

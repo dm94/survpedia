@@ -1,12 +1,24 @@
 ---
-title: "Acero de Resorte"
-formula: "Fe + C + Mn/Si"
-composition: ["iron", "carbon", "manganese", "silicon"]
-properties: ["Alto límite elástico", "Elasticidad", "Resiliencia"]
-uses: ["Muelles", "Cuchillas", "Ganzúas", "Antenas"]
+title: Acero de Resorte
+formula: Fe + C + Mn/Si
+composition:
+  - iron
+  - carbon
+  - manganese
+  - silicon
+properties:
+  - Alto límite elástico
+  - Elasticidad
+  - Resiliencia
+uses:
+  - Muelles
+  - Cuchillas
+  - Ganzúas
+  - Antenas
 naturalAvailability: false
-manufacturingProcess: "Aleación de acero con carbono medio-alto y templado/revenido."
+manufacturingProcess: Aleación de acero con carbono medio-alto y templado/revenido.
 category: synthetic
+image: ../../../assets/images/materials/acero-resorte.jpg
 ---
 
 # Descripción

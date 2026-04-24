@@ -1,6 +1,11 @@
 ---
-title: "Marine Chronometer"
-materialsUsed: ["brass", "steel", "glass", "wood"]
+title: Marine Chronometer
+materialsUsed:
+  - brass
+  - steel
+  - glass
+  - wood
+image: ../../../assets/images/inventions/chronometer.jpg
 ---
 
 # Brief description

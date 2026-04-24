@@ -1,6 +1,11 @@
 ---
-title: "Seed Drill"
-materialsUsed: ["wood", "iron", "leather", "rope"]
+title: Seed Drill
+materialsUsed:
+  - wood
+  - iron
+  - leather
+  - rope
+image: ../../../assets/images/inventions/seed-drill.jpg
 ---
 
 # Brief description

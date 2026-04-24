@@ -1,6 +1,10 @@
 ---
-title: "Wedge"
-materialsUsed: ["wood", "stone", "iron"]
+title: Wedge
+materialsUsed:
+  - wood
+  - stone
+  - iron
+image: ../../../assets/images/inventions/wedge.jpg
 ---
 
 # Brief description

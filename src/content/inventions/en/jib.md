@@ -1,6 +1,12 @@
 ---
-title: "Jib (Lifting Arm)"
-materialsUsed: ["wood", "iron", "steel", "rope", "steel-cable"]
+title: Jib (Lifting Arm)
+materialsUsed:
+  - wood
+  - iron
+  - steel
+  - rope
+  - steel-cable
+image: ../../../assets/images/inventions/jib.jpg
 ---
 
 # Brief description

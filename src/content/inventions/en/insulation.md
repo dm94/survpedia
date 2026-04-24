@@ -6,6 +6,7 @@ materialsUsed:
   - cork
   - plant-fibers
   - air
+image: ../../../assets/images/inventions/insulation.jpg
 ---
 
 # Brief description

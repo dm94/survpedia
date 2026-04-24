@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - plastic
   - metal
+image: ../../../assets/images/inventions/barrel.jpg
 ---
 
 # Breve descripción

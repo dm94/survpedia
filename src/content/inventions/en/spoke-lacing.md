@@ -1,6 +1,10 @@
 ---
-title: "Spoke Lacing"
-materialsUsed: ["wire", "metal", "wood"]
+title: Spoke Lacing
+materialsUsed:
+  - wire
+  - metal
+  - wood
+image: ../../../assets/images/inventions/spoke-lacing.jpg
 ---
 
 # Brief description

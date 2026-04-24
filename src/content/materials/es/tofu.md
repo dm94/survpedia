@@ -13,8 +13,11 @@ uses:
   - Conservación
   - Bien de intercambio
 naturalAvailability: false
-manufacturingProcess: Coagulación de la leche de soja con sales o ácidos, seguida de prensado y escurrido.
+manufacturingProcess: >-
+  Coagulación de la leche de soja con sales o ácidos, seguida de prensado y
+  escurrido.
 category: plant
+image: ../../../assets/images/materials/tofu.jpg
 ---
 
 El tofu es una cuajada vegetal hecha al coagular leche de soja y prensarla en bloques. Concentra la soja en una proteína suave y versátil con distintas firmezas.

@@ -20,6 +20,7 @@ manufacturingProcess: >-
   Recubrimiento de una malla de tela (gasa) con polietileno, luego aplicación de
   un adhesivo sensible a la presión a base de caucho.
 category: synthetic
+image: ../../../assets/images/materials/duct-tape.jpg
 ---
 
 La cinta americana (o cinta de plata) es una cinta adhesiva duradera y sensible a la presión con un respaldo de tela y un revestimiento de polietileno. Es conocida por su versatilidad, resistencia y resistencia al agua.

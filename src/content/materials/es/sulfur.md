@@ -16,6 +16,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Extraído de depósitos volcánicos o de gas amargo.
 category: mineral
+image: ../../../assets/images/materials/sulfur.jpg
 ---
 
 El azufre (piedra de azufre) es un sólido cristalino de color amarillo brillante a temperatura ambiente. Es esencial para la vida y la industria, particularmente para fabricar ácido sulfúrico y pólvora.

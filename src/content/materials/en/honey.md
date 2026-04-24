@@ -14,6 +14,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Collected from combs and strained to remove wax and debris.
 category: animal
+image: ../../../assets/images/materials/honey.jpg
 ---
 
 Honey is a concentrated sugar syrup made by honey bees from flower nectar. It is shelf-stable when kept dry and sealed, making it valuable for food, trade, and preservation.

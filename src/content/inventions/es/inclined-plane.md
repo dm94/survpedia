@@ -1,6 +1,10 @@
 ---
-title: "Plano Inclinado"
-materialsUsed: ["wood", "stone", "earth"]
+title: Plano Inclinado
+materialsUsed:
+  - wood
+  - stone
+  - earth
+image: ../../../assets/images/inventions/inclined-plane.jpg
 ---
 
 # Breve descripción

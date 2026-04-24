@@ -3,6 +3,7 @@ title: Lathe Tool
 materialsUsed:
   - steel
   - tungsten
+image: ../../../assets/images/inventions/lathe-tool.jpg
 ---
 
 # Brief description

@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - copper
   - wire
+image: ../../../assets/images/inventions/electromagnet.jpg
 ---
 
 # Brief description

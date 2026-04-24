@@ -19,8 +19,11 @@ uses:
   - Biochemical extraction
   - Cleaning aid
 naturalAvailability: true
-manufacturingProcess: Extracted from animal stomachs, cultured microbes, or plant sources, then filtered and dried or stabilized.
+manufacturingProcess: >-
+  Extracted from animal stomachs, cultured microbes, or plant sources, then
+  filtered and dried or stabilized.
 category: other
+image: ../../../assets/images/materials/enzymes.jpg
 ---
 
 Enzymes are biological catalysts, usually proteins, that accelerate chemical reactions without being consumed. They enable processes like milk coagulation, fermentation, and controlled breakdown of foods.

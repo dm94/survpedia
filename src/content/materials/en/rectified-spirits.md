@@ -18,8 +18,11 @@ uses:
   - Extraction medium
   - Preservation
 naturalAvailability: false
-manufacturingProcess: "Fractional distillation and rectification of fermented alcohol to about 95–96% ethanol."
+manufacturingProcess: >-
+  Fractional distillation and rectification of fermented alcohol to about 95–96%
+  ethanol.
 category: other
+image: ../../../assets/images/materials/rectified-spirits.jpg
 ---
 
 Rectified spirits are high-purity ethanol produced by repeated or fractional distillation, typically around 95–96% alcohol by volume with the rest being water.

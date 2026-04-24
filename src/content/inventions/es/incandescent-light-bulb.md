@@ -1,6 +1,11 @@
 ---
-title: "Bombilla Incandescente"
-materialsUsed: ["glass", "tungsten", "copper", "iron"]
+title: Bombilla Incandescente
+materialsUsed:
+  - glass
+  - tungsten
+  - copper
+  - iron
+image: ../../../assets/images/inventions/incandescent-light-bulb.jpg
 ---
 
 # Breve descripción

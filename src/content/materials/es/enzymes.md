@@ -19,8 +19,11 @@ uses:
   - Extracción bioquímica
   - Ayuda de limpieza
 naturalAvailability: true
-manufacturingProcess: Extraídas de estómagos animales, microbios cultivados o fuentes vegetales, luego filtradas y secadas o estabilizadas.
+manufacturingProcess: >-
+  Extraídas de estómagos animales, microbios cultivados o fuentes vegetales,
+  luego filtradas y secadas o estabilizadas.
 category: other
+image: ../../../assets/images/materials/enzymes.jpg
 ---
 
 Las enzimas son catalizadores biológicos, normalmente proteínas, que aceleran reacciones químicas sin consumirse. Permiten procesos como la coagulación de la leche, la fermentación y la descomposición controlada de alimentos.

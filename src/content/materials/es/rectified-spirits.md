@@ -18,8 +18,11 @@ uses:
   - Medio de extracción
   - Conservación
 naturalAvailability: false
-manufacturingProcess: "Destilación fraccionada y rectificación de alcohol fermentado hasta alrededor de 95–96% de etanol."
+manufacturingProcess: >-
+  Destilación fraccionada y rectificación de alcohol fermentado hasta alrededor
+  de 95–96% de etanol.
 category: other
+image: ../../../assets/images/materials/rectified-spirits.jpg
 ---
 
 El alcohol rectificado es etanol de alta pureza producido por destilaciones repetidas o fraccionadas, típicamente alrededor de 95–96% de alcohol por volumen y el resto agua.

@@ -15,6 +15,7 @@ category: plant
 manufacturingProcess: >-
   Producido a partir de tallos de lino mediante enriado, quebrado, agramado y
   peinado, luego hilado y tejido.
+image: ../../../assets/images/materials/linen.jpg
 ---
 
 El lino es una fibra textil obtenida de la planta del lino, apreciada por su resistencia, frescura y durabilidad.

@@ -14,8 +14,9 @@ uses:
   - Kiln linings
   - Pipes
 naturalAvailability: false
-manufacturingProcess: Shaping clay, drying, and firing in a kiln, with optional glazing.
+manufacturingProcess: 'Shaping clay, drying, and firing in a kiln, with optional glazing.'
 category: synthetic
+image: ../../../assets/images/materials/ceramics.jpg
 ---
 
 Ceramics are inorganic, non-metallic materials made by shaping clay or mineral powders and firing them at high temperature. They range from porous earthenware to dense porcelain.

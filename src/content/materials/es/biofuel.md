@@ -21,6 +21,7 @@ manufacturingProcess: >-
   extracción de aceites y transesterificación (biodiésel). Los biocombustibles
   sólidos se elaboran secando y densificando materia vegetal.
 category: synthetic
+image: ../../../assets/images/materials/biofuel.jpg
 ---
 
 El biocombustible es un combustible energético derivado de biomasa reciente y no de fuentes fósiles. Incluye líquidos como el etanol y el biodiésel, además de combustibles sólidos y gaseosos hechos de materia vegetal o animal.

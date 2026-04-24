@@ -1,6 +1,11 @@
 ---
-title: "Ammonia Production"
-materialsUsed: ["iron", "water", "coal", "ammonia"]
+title: Ammonia Production
+materialsUsed:
+  - iron
+  - water
+  - coal
+  - ammonia
+image: ../../../assets/images/inventions/ammonia-production.jpg
 ---
 
 # Brief description

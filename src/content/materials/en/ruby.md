@@ -1,12 +1,23 @@
 ---
-title: "Ruby"
-formula: "Al2O3:Cr"
-composition: ["aluminum", "oxygen", "chromium"]
-properties: ["Hardness (9 Mohs)", "Durability", "Low friction"]
-uses: ["Jewelry", "Watch bearings", "Lasers", "Abrasives"]
+title: Ruby
+formula: 'Al2O3:Cr'
+composition:
+  - aluminum
+  - oxygen
+  - chromium
+properties:
+  - Hardness (9 Mohs)
+  - Durability
+  - Low friction
+uses:
+  - Jewelry
+  - Watch bearings
+  - Lasers
+  - Abrasives
 naturalAvailability: true
-manufacturingProcess: "Mining or synthetic growth (Verneuil process)."
+manufacturingProcess: Mining or synthetic growth (Verneuil process).
 category: mineral
+image: ../../../assets/images/materials/ruby.jpg
 ---
 
 # Description

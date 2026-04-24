@@ -1,7 +1,14 @@
 ---
-title: "Cría Selectiva"
-relatedMaterials: ["wheat", "maize", "potato", "livestock"]
-relatedInventions: ["apiary", "simple-housing"]
+title: Cría Selectiva
+relatedMaterials:
+  - wheat
+  - maize
+  - potato
+  - livestock
+relatedInventions:
+  - apiary
+  - simple-housing
+image: ../../../assets/images/knowledge/selective-breeding.jpg
 ---
 
 # Breve descripción

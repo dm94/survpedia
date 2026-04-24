@@ -1,6 +1,12 @@
 ---
-title: "Mechanical Watch"
-materialsUsed: ["brass", "steel", "glass", "spring-steel", "ruby"]
+title: Mechanical Watch
+materialsUsed:
+  - brass
+  - steel
+  - glass
+  - spring-steel
+  - ruby
+image: ../../../assets/images/inventions/mechanical-watch.jpg
 ---
 
 # Brief description

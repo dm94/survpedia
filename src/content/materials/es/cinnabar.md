@@ -11,10 +11,11 @@ properties:
 uses:
   - Mena de mercurio
   - Pigmento (Bermellón)
-  - Joyería (raramente, tóxico)
+  - 'Joyería (raramente, tóxico)'
 naturalAvailability: true
 manufacturingProcess: Mineral natural.
 category: mineral
+image: ../../../assets/images/materials/cinnabar.jpg
 ---
 
 El cinabrio (sulfuro de mercurio, HgS) es la mena de mercurio de color escarlata brillante a rojo ladrillo. Es la fuente más común de mercurio en la naturaleza.

@@ -15,6 +15,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Cosechado después de ser mudado naturalmente por los ciervos.
 category: animal
+image: ../../../assets/images/materials/antler.jpg
 ---
 
 El asta (o cuerna) es la excrecencia ósea que se encuentra en la cabeza de ciervos, alces y caribúes. A diferencia del **[Cuerno](/es/materials/horn)**, que es queratina permanente, el asta es hueso sólido que crece y se muda anualmente.

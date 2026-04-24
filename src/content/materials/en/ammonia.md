@@ -1,12 +1,27 @@
 ---
-title: "Ammonia"
-formula: "NH3"
-composition: ["nitrogen", "hydrogen"]
-properties: ["Pungent odor", "Colorless gas", "Highly soluble in water", "Alkaline", "Corrosive"]
-uses: ["Fertilizer production", "Refrigerant", "Cleaning agent", "Precursor to explosives", "**[Nitric Acid](/en/materials/nitric-acid)** production"]
+title: Ammonia
+formula: NH3
+composition:
+  - nitrogen
+  - hydrogen
+properties:
+  - Pungent odor
+  - Colorless gas
+  - Highly soluble in water
+  - Alkaline
+  - Corrosive
+uses:
+  - Fertilizer production
+  - Refrigerant
+  - Cleaning agent
+  - Precursor to explosives
+  - '**[Nitric Acid](/en/materials/nitric-acid)** production'
 naturalAvailability: true
-manufacturingProcess: "Synthesized through the Haber-Bosch process by reacting nitrogen from the air with hydrogen gas under high pressure and temperature using an iron catalyst."
+manufacturingProcess: >-
+  Synthesized through the Haber-Bosch process by reacting nitrogen from the air
+  with hydrogen gas under high pressure and temperature using an iron catalyst.
 category: synthetic
+image: ../../../assets/images/materials/ammonia.jpg
 ---
 
 Ammonia is a colorless gas with a characteristic pungent smell. It is a fundamental building block for the production of many products that sustain modern life, most notably nitrogen-based fertilizers.

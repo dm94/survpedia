@@ -8,6 +8,7 @@ materialsUsed:
   - leather
   - animal-fat
   - vegetable-oil
+image: ../../../assets/images/inventions/bearings.jpg
 ---
 
 # Brief description

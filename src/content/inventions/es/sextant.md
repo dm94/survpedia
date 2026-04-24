@@ -1,6 +1,11 @@
 ---
-title: "Sextante"
-materialsUsed: ["brass", "glass", "silver", "wood"]
+title: Sextante
+materialsUsed:
+  - brass
+  - glass
+  - silver
+  - wood
+image: ../../../assets/images/inventions/sextant.jpg
 ---
 
 # Breve descripción

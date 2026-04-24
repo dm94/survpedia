@@ -15,6 +15,7 @@ relatedInventions:
   - needle
   - scissors
   - scraper
+image: ../../../assets/images/knowledge/leathercraft.jpg
 ---
 
 # Brief description

@@ -1,6 +1,11 @@
 ---
-title: "Fosa Séptica"
-materialsUsed: ["concrete", "plastic", "fiberglass", "brick"]
+title: Fosa Séptica
+materialsUsed:
+  - concrete
+  - plastic
+  - fiberglass
+  - brick
+image: ../../../assets/images/inventions/septic-tank.jpg
 ---
 
 # Breve descripción

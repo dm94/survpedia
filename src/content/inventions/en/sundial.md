@@ -1,6 +1,10 @@
 ---
-title: "Sundial"
-materialsUsed: ["stone", "metal", "wood"]
+title: Sundial
+materialsUsed:
+  - stone
+  - metal
+  - wood
+image: ../../../assets/images/inventions/sundial.jpg
 ---
 
 # Brief description

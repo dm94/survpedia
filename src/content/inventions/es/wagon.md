@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - iron
   - leather
+image: ../../../assets/images/inventions/wagon.jpg
 ---
 
 # Breve descripción

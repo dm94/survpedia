@@ -1,6 +1,14 @@
 ---
-title: "Blast Furnace"
-materialsUsed: ["iron", "charcoal", "limestone", "clay", "brick", "stone", "water"]
+title: Blast Furnace
+materialsUsed:
+  - iron
+  - charcoal
+  - limestone
+  - clay
+  - brick
+  - stone
+  - water
+image: ../../../assets/images/inventions/blast-furnace.jpg
 ---
 
 # Brief description

@@ -16,8 +16,10 @@ uses:
   - Interruptores eléctricos
 naturalAvailability: true
 manufacturingProcess: >-
-  Extraído del cinabrio (sulfuro de mercurio) tostando el mineral en una corriente de aire y condensando el vapor.
+  Extraído del cinabrio (sulfuro de mercurio) tostando el mineral en una
+  corriente de aire y condensando el vapor.
 category: mineral
+image: ../../../assets/images/materials/mercury.jpg
 ---
 
 El mercurio, también conocido como azogue, es el único elemento metálico que es líquido en condiciones estándar de temperatura y presión. Es un metal pesado, de color blanco plateado, con una historia fascinante pero peligrosa.

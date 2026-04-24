@@ -16,6 +16,7 @@ relatedInventions:
   - pincel
   - pintar-paredes
   - tenido-de-tela
+image: ../../../assets/images/knowledge/pinturas-y-pinceles.jpg
 ---
 
 # Breve descripción

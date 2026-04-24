@@ -1,6 +1,6 @@
 ---
 title: Vermiculite
-formula: (Mg,Fe2+,Fe3+)3[(Al,Si)4O10](OH)2·4H2O
+formula: '(Mg,Fe2+,Fe3+)3[(Al,Si)4O10](OH)2·4H2O'
 properties:
   - Thermal insulation
   - Fire resistance
@@ -14,8 +14,11 @@ uses:
   - Horticulture
   - Packaging
 naturalAvailability: true
-manufacturingProcess: Heating raw vermiculite ore to ~900°C causes it to exfoliate (expand) up to 30 times its original volume.
+manufacturingProcess: >-
+  Heating raw vermiculite ore to ~900°C causes it to exfoliate (expand) up to 30
+  times its original volume.
 category: mineral
+image: ../../../assets/images/materials/vermiculite.jpg
 ---
 
 Vermiculite is a hydrous phyllosilicate mineral that undergoes significant expansion when heated. It is very similar to **[Perlite](/en/materials/perlite)** but holds more water and is chemically distinct.

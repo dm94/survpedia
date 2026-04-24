@@ -4,6 +4,7 @@ materialsUsed:
   - steel
   - iron
   - stone
+image: ../../../assets/images/inventions/ball-mill.jpg
 ---
 
 # Brief description

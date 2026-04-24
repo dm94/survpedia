@@ -21,6 +21,7 @@ manufacturingProcess: >-
   Melting pine resin and mixing it with crushed charcoal (for strength) and a
   plasticizer like beeswax or animal fat (for flexibility).
 category: synthetic
+image: ../../../assets/images/materials/pine-resin-glue.jpg
 ---
 
 Pine resin glue, often called "pitch glue" or "cutler's resin," is a versatile, waterproof adhesive made from natural materials. It has been used for thousands of years to attach stone tools to handles (hafting), seal seams in boats and containers, and repair broken items.

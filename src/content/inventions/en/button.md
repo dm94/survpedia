@@ -5,6 +5,7 @@ materialsUsed:
   - wood
   - metal
   - pearl
+image: ../../../assets/images/inventions/button.jpg
 ---
 
 # Brief description

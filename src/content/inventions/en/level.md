@@ -1,6 +1,12 @@
 ---
-title: "Level"
-materialsUsed: ["water", "plastic", "glass", "alcohol", "wood"]
+title: Level
+materialsUsed:
+  - water
+  - plastic
+  - glass
+  - alcohol
+  - wood
+image: ../../../assets/images/inventions/level.jpg
 ---
 
 # Brief description

@@ -1,6 +1,11 @@
 ---
-title: "Enlatado"
-materialsUsed: ["glass", "tin", "steel", "water"]
+title: Enlatado
+materialsUsed:
+  - glass
+  - tin
+  - steel
+  - water
+image: ../../../assets/images/inventions/canning.jpg
 ---
 
 # Descripción breve

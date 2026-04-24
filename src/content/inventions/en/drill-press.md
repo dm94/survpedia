@@ -1,9 +1,10 @@
 ---
-title: "Drill Press"
+title: Drill Press
 materialsUsed:
   - iron
   - steel
   - wood
+image: ../../../assets/images/inventions/drill-press.jpg
 ---
 
 # Brief description

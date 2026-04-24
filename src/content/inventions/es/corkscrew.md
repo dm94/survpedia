@@ -1,6 +1,8 @@
 ---
-title: "Sacacorchos"
-materialsUsed: ["steel"]
+title: Sacacorchos
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/corkscrew.jpg
 ---
 
 # Breve descripción

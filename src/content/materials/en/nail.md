@@ -19,6 +19,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Forging (traditional) or cutting from wire (modern).
 category: synthetic
+image: ../../../assets/images/materials/nail.jpg
 ---
 
 A nail is a small metal spike with a broad flat head, driven into wood to join things together. It is one of the most fundamental fasteners in construction.

@@ -16,6 +16,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Extracted from plant ashes (barilla/kelp) or mineral deposits (natron).
 category: mineral
+image: ../../../assets/images/materials/soda.jpg
 ---
 
 Soda ash (sodium carbonate, Na2CO3) is a white, odorless, water-soluble salt. It is a critical industrial chemical, historically obtained from the ashes of sodium-rich plants.

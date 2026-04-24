@@ -1,6 +1,11 @@
 ---
-title: "Ábaco"
-materialsUsed: ["wood", "stone", "string", "clay"]
+title: Ábaco
+materialsUsed:
+  - wood
+  - stone
+  - string
+  - clay
+image: ../../../assets/images/inventions/abacus.jpg
 ---
 
 # Descripción breve

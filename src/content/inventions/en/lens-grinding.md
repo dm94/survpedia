@@ -7,6 +7,7 @@ materialsUsed:
   - water
   - pitch
   - iron
+image: ../../../assets/images/inventions/lens-grinding.jpg
 ---
 
 # Brief description

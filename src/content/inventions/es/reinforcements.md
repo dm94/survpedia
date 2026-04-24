@@ -1,6 +1,13 @@
 ---
 title: Refuerzos estructurales
-materialsUsed: ["wood", "piedra", "iron", "steel", "arcilla", "plant-fibers"]
+materialsUsed:
+  - wood
+  - piedra
+  - iron
+  - steel
+  - arcilla
+  - plant-fibers
+image: ../../../assets/images/inventions/reinforcements.jpg
 ---
 
 # Breve descripción

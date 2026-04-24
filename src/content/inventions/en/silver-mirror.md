@@ -5,6 +5,7 @@ materialsUsed:
   - silver
   - tin
   - paint
+image: ../../../assets/images/inventions/silver-mirror.jpg
 ---
 
 # Brief description

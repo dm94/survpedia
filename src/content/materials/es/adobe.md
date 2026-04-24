@@ -17,8 +17,11 @@ uses:
   - Hornos
   - Bancos
 naturalAvailability: false
-manufacturingProcess: Mezclar tierra (arcilla/arena/limo) con agua y fibras orgánicas (paja/estiércol), moldear en ladrillos y secar al sol.
+manufacturingProcess: >-
+  Mezclar tierra (arcilla/arena/limo) con agua y fibras orgánicas
+  (paja/estiércol), moldear en ladrillos y secar al sol.
 category: synthetic
+image: ../../../assets/images/materials/adobe.jpg
 ---
 
 El adobe es un material de construcción hecho de tierra y materiales orgánicos. Es uno de los primeros materiales de construcción y todavía se utiliza en todo el mundo.

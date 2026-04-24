@@ -1,6 +1,11 @@
 ---
-title: "Sifón"
-materialsUsed: ["plastic", "natural-rubber", "glass", "metal"]
+title: Sifón
+materialsUsed:
+  - plastic
+  - natural-rubber
+  - glass
+  - metal
+image: ../../../assets/images/inventions/siphon.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,10 @@
 ---
-title: "Hourglass"
-materialsUsed: ["glass", "sand", "wood"]
+title: Hourglass
+materialsUsed:
+  - glass
+  - sand
+  - wood
+image: ../../../assets/images/inventions/hourglass.jpg
 ---
 
 # Brief description

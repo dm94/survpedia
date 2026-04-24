@@ -6,6 +6,7 @@ materialsUsed:
   - linen
   - wool
   - silk
+image: ../../../assets/images/inventions/spinning.jpg
 ---
 
 # Breve descripción

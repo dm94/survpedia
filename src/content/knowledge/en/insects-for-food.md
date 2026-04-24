@@ -1,5 +1,5 @@
 ---
-title: "Insects for Food"
+title: Insects for Food
 relatedMaterials:
   - salt
   - water
@@ -11,6 +11,7 @@ relatedInventions:
   - fly-catcher
   - containers
   - fire
+image: ../../../assets/images/knowledge/insects-for-food.jpg
 ---
 
 # Brief description

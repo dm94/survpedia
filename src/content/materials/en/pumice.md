@@ -14,6 +14,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Natural volcanic rock formed during explosive eruptions.
 category: mineral
+image: ../../../assets/images/materials/pumice.jpg
 ---
 
 Pumice is a light, porous volcanic rock that consists of highly vesicular rough textured volcanic glass. It is created when super-heated, highly pressurized rock is violently ejected from a volcano.

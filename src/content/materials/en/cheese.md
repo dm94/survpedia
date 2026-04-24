@@ -15,6 +15,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Pressing and aging salted curd to reduce moisture and develop flavor.
 category: animal
+image: ../../../assets/images/materials/cheese.jpg
 ---
 
 Cheese is curd transformed by salting, pressing, and aging to concentrate nutrients and extend storage. It converts fresh milk into a durable, portable food with diverse textures and flavors.

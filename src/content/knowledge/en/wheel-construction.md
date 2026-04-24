@@ -1,7 +1,17 @@
 ---
-title: "Wheel Construction"
-relatedMaterials: ["wood", "iron", "leather", "animal-fat"]
-relatedInventions: ["wheel", "cart", "wagon", "chariot", "manual-lathe"]
+title: Wheel Construction
+relatedMaterials:
+  - wood
+  - iron
+  - leather
+  - animal-fat
+relatedInventions:
+  - wheel
+  - cart
+  - wagon
+  - chariot
+  - manual-lathe
+image: ../../../assets/images/knowledge/wheel-construction.jpg
 ---
 
 # Brief description

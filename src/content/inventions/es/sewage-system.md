@@ -1,10 +1,11 @@
 ---
-title: "Sistema de Alcantarillado"
+title: Sistema de Alcantarillado
 materialsUsed:
   - concrete
   - brick
   - plastic
   - ceramic
+image: ../../../assets/images/inventions/sewage-system.jpg
 ---
 
 # Breve descripción

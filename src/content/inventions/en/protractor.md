@@ -1,6 +1,11 @@
 ---
-title: "Protractor"
-materialsUsed: ["wood", "metal", "paper", "plastic"]
+title: Protractor
+materialsUsed:
+  - wood
+  - metal
+  - paper
+  - plastic
+image: ../../../assets/images/inventions/protractor.jpg
 ---
 
 # Brief description

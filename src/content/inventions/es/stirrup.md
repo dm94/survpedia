@@ -1,6 +1,12 @@
 ---
-title: "Estribo"
-materialsUsed: ["iron", "steel", "leather", "wood", "bronze"]
+title: Estribo
+materialsUsed:
+  - iron
+  - steel
+  - leather
+  - wood
+  - bronze
+image: ../../../assets/images/inventions/stirrup.jpg
 ---
 
 # Breve descripción

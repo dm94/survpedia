@@ -3,6 +3,7 @@ title: Macadam
 materialsUsed:
   - piedra
   - gravel
+image: ../../../assets/images/inventions/macadam.jpg
 ---
 
 # Breve descripción

@@ -21,6 +21,7 @@ manufacturingProcess: >-
   Derretir resina de pino y mezclarla con carbón triturado (para resistencia) y
   un plastificante como cera de abejas o grasa animal (para flexibilidad).
 category: synthetic
+image: ../../../assets/images/materials/pine-resin-glue.jpg
 ---
 
 El pegamento de resina de pino, a menudo llamado "brea" o "resina de cuchillero", es un adhesivo versátil e impermeable hecho de materiales naturales. Se ha utilizado durante miles de años para unir herramientas de piedra a mangos (enmangado), sellar costuras en barcos y contenedores, y reparar objetos rotos.

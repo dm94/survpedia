@@ -13,8 +13,11 @@ uses:
   - Fuente rápida de proteína
   - Bien de intercambio
 naturalAvailability: false
-manufacturingProcess: Coagulación de la leche con ácido o cuajo, escurrido del suero y salado ligero sin maduración.
+manufacturingProcess: >-
+  Coagulación de la leche con ácido o cuajo, escurrido del suero y salado ligero
+  sin maduración.
 category: animal
+image: ../../../assets/images/materials/unripened-cheese.jpg
 ---
 
 El queso fresco es cuajada drenada y salada de forma ligera, sin maduración. Conserva la leche por poco tiempo y mantiene una textura blanda y sabor suave.

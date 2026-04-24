@@ -13,8 +13,11 @@ uses:
   - Bien de intercambio
   - Conservación
 naturalAvailability: false
-manufacturingProcess: Inoculación de cuajada salada con moho azul, perforado para aireación y maduración en ambiente fresco y húmedo.
+manufacturingProcess: >-
+  Inoculación de cuajada salada con moho azul, perforado para aireación y
+  maduración en ambiente fresco y húmedo.
 category: animal
+image: ../../../assets/images/materials/blue-cheese.jpg
 ---
 
 El queso azul es un producto lácteo madurado en el que mohos seleccionados crean vetas azul-verdosas y aromas intensos. Concentra la leche en un alimento de sabor potente y buena conservación cuando se mantiene fresco y húmedo.

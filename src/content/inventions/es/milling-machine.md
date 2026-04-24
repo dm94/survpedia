@@ -1,10 +1,11 @@
 ---
-title: "Fresadora"
+title: Fresadora
 materialsUsed:
   - iron
   - steel
   - bronze
   - oil
+image: ../../../assets/images/inventions/milling-machine.jpg
 ---
 
 # Breve descripción

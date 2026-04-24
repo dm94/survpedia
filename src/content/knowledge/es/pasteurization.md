@@ -1,7 +1,11 @@
 ---
-title: "Pasteurización"
-relatedMaterials: ["water"]
-relatedInventions: ["containers", "thermometer"]
+title: Pasteurización
+relatedMaterials:
+  - water
+relatedInventions:
+  - containers
+  - thermometer
+image: ../../../assets/images/knowledge/pasteurization.jpg
 ---
 
 # Descripción breve

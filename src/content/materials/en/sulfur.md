@@ -16,6 +16,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Mined from volcanic deposits or extracted from sour gas.
 category: mineral
+image: ../../../assets/images/materials/sulfur.jpg
 ---
 
 Sulfur (brimstone) is a bright yellow crystalline solid at room temperature. It is essential for life and industry, particularly for making sulfuric acid and gunpowder.

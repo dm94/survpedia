@@ -14,9 +14,10 @@ uses:
   - Fermentación y curado
 naturalAvailability: true
 manufacturingProcess: >-
-  Se concentra a partir de ingredientes ricos en glutamatos y nucleótidos mediante
-  secado, reducción o **[Fermentación](/es/inventions/fermentation)**.
+  Se concentra a partir de ingredientes ricos en glutamatos y nucleótidos
+  mediante secado, reducción o **[Fermentación](/es/inventions/fermentation)**.
 category: other
+image: ../../../assets/images/materials/umami.jpg
 ---
 
 El umami es el sabor profundo y sabroso que aporta plenitud a caldos, guisos y salsas. Proviene de glutamatos y nucleótidos presentes en ciertos alimentos y se intensifica con procesos como el secado o la fermentación.

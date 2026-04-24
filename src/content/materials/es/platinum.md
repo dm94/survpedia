@@ -16,8 +16,12 @@ uses:
   - Termopares
   - Celdas de combustible
 naturalAvailability: true
-manufacturingProcess: Se recupera como subproducto de minerales de níquel y cobre o de placeres aluviales; se concentra, se funde y se refina químicamente para separar los metales del grupo del platino.
+manufacturingProcess: >-
+  Se recupera como subproducto de minerales de níquel y cobre o de placeres
+  aluviales; se concentra, se funde y se refina químicamente para separar los
+  metales del grupo del platino.
 category: mineral
+image: ../../../assets/images/materials/platinum.jpg
 ---
 
 # Descripción de cómo es

@@ -1,6 +1,11 @@
 ---
-title: "Soldadora de Arco"
-materialsUsed: ["battery", "copper", "steel", "welding-electrode"]
+title: Soldadora de Arco
+materialsUsed:
+  - battery
+  - copper
+  - steel
+  - welding-electrode
+image: ../../../assets/images/inventions/arc-welder.jpg
 ---
 
 # Soldadora de Arco (Improvisada)

@@ -1,6 +1,12 @@
 ---
-title: "Pendulum Clock"
-materialsUsed: ["wood", "iron", "brass", "rope", "stone"]
+title: Pendulum Clock
+materialsUsed:
+  - wood
+  - iron
+  - brass
+  - rope
+  - stone
+image: ../../../assets/images/inventions/pendulum-clock.jpg
 ---
 
 # Brief description

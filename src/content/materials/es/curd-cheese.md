@@ -13,8 +13,11 @@ uses:
   - Bien de intercambio
   - Nutrición concentrada
 naturalAvailability: false
-manufacturingProcess: Coagulación de la leche con ácido o cuajo, escurrido del suero, salado, prensado y maduración opcional.
+manufacturingProcess: >-
+  Coagulación de la leche con ácido o cuajo, escurrido del suero, salado,
+  prensado y maduración opcional.
 category: animal
+image: ../../../assets/images/materials/curd-cheese.jpg
 ---
 
 La cuajada y el queso son alimentos lácteos concentrados hechos al coagular leche, escurrir suero y estabilizar la cuajada con sal y maduración. Concentran la leche en un alimento transportable y más estable.

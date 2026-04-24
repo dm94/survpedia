@@ -1,6 +1,12 @@
 ---
-title: "Lavamanos"
-materialsUsed: ["ceramics", "stone", "metal", "plastic", "wood"]
+title: Lavamanos
+materialsUsed:
+  - ceramics
+  - stone
+  - metal
+  - plastic
+  - wood
+image: ../../../assets/images/inventions/lavamanos.jpg
 ---
 
 # Breve descripción

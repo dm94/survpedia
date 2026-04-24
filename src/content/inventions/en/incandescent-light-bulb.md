@@ -1,6 +1,11 @@
 ---
-title: "Incandescent Light Bulb"
-materialsUsed: ["glass", "tungsten", "copper", "iron"]
+title: Incandescent Light Bulb
+materialsUsed:
+  - glass
+  - tungsten
+  - copper
+  - iron
+image: ../../../assets/images/inventions/incandescent-light-bulb.jpg
 ---
 
 # Brief description

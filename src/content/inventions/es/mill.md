@@ -1,6 +1,11 @@
 ---
-title: "Molino"
-materialsUsed: ["piedra", "wood", "iron", "animal-fat"]
+title: Molino
+materialsUsed:
+  - piedra
+  - wood
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/mill.jpg
 ---
 
 # Breve descripción

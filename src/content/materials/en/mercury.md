@@ -16,8 +16,10 @@ uses:
   - Electrical switches
 naturalAvailability: true
 manufacturingProcess: >-
-  Extracted from cinnabar (mercury sulfide) by roasting the ore in a current of air and condensing the vapor.
+  Extracted from cinnabar (mercury sulfide) by roasting the ore in a current of
+  air and condensing the vapor.
 category: mineral
+image: ../../../assets/images/materials/mercury.jpg
 ---
 
 Mercury, also known as quicksilver, is the only metallic element that is liquid at standard conditions for temperature and pressure. It is a heavy, silvery-white metal with a fascinating but dangerous history.

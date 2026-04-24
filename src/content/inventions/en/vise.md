@@ -1,9 +1,10 @@
 ---
-title: "Vise"
+title: Vise
 materialsUsed:
   - iron
   - steel
   - wood
+image: ../../../assets/images/inventions/vise.jpg
 ---
 
 # Brief description

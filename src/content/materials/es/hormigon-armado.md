@@ -16,8 +16,11 @@ uses:
   - Búnkeres
   - Cimientos
 naturalAvailability: false
-manufacturingProcess: Colar hormigón alrededor de barras de refuerzo de acero (**[Varilla](/es/materials/barra-de-refuerzo)**).
+manufacturingProcess: >-
+  Colar hormigón alrededor de barras de refuerzo de acero
+  (**[Varilla](/es/materials/barra-de-refuerzo)**).
 category: synthetic
+image: ../../../assets/images/materials/hormigon-armado.jpg
 ---
 
 Un material compuesto en el que la resistencia a la tracción y ductilidad relativamente bajas del **[Hormigón](/es/materials/hormigon)** se contrarrestan mediante la inclusión de un refuerzo que tiene mayor resistencia a la tracción o ductilidad, generalmente **[Varillas](/es/materials/barra-de-refuerzo)** de **[Acero](/es/materials/steel)**.

@@ -1,10 +1,11 @@
 ---
-title: "Grinding Wheel"
+title: Grinding Wheel
 materialsUsed:
   - sand
   - clay
   - stone
   - resin
+image: ../../../assets/images/inventions/grinding-wheel.jpg
 ---
 
 # Brief description

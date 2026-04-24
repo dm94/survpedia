@@ -1,10 +1,11 @@
 ---
-title: "Muela Abrasiva"
+title: Muela Abrasiva
 materialsUsed:
   - arena
   - arcilla
   - piedra
   - resin
+image: ../../../assets/images/inventions/grinding-wheel.jpg
 ---
 
 # Breve descripción

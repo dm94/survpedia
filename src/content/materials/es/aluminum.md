@@ -17,6 +17,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Refinado desde bauxita a alúmina y reducción por electrólisis Hall-Héroult.
 category: mineral
+image: ../../../assets/images/materials/aluminum.jpg
 ---
 
 El aluminio es un metal ligero y brillante, apreciado por su relación resistencia-peso, su resistencia a la corrosión y su excelente conductividad. Se usa donde el peso bajo y la durabilidad son clave.

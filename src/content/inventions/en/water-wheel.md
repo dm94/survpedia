@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - stone
   - iron
+image: ../../../assets/images/inventions/water-wheel.jpg
 ---
 
 # Brief description

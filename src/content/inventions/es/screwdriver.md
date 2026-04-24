@@ -1,6 +1,9 @@
 ---
-title: "Destornillador"
-materialsUsed: ["steel", "wood"]
+title: Destornillador
+materialsUsed:
+  - steel
+  - wood
+image: ../../../assets/images/inventions/screwdriver.jpg
 ---
 
 # Breve descripción

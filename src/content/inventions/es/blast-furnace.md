@@ -1,6 +1,14 @@
 ---
-title: "Alto Horno"
-materialsUsed: ["iron", "charcoal", "limestone", "clay", "brick", "stone", "water"]
+title: Alto Horno
+materialsUsed:
+  - iron
+  - charcoal
+  - limestone
+  - clay
+  - brick
+  - stone
+  - water
+image: ../../../assets/images/inventions/blast-furnace.jpg
 ---
 
 # Breve descripción

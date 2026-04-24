@@ -1,11 +1,18 @@
 ---
-title: "Electrodo de Soldadura"
-composition: ["steel", "flux"]
-properties: ["Conductive", "Consumable", "Flux-coated"]
-uses: ["Arc Welding"]
+title: Electrodo de Soldadura
+composition:
+  - steel
+  - flux
+properties:
+  - Conductive
+  - Consumable
+  - Flux-coated
+uses:
+  - Arc Welding
 naturalAvailability: false
-manufacturingProcess: "A metal wire is coated with a flux paste and dried."
+manufacturingProcess: A metal wire is coated with a flux paste and dried.
 category: synthetic
+image: ../../../assets/images/materials/welding-electrode.jpg
 ---
 
 Un electrodo de soldadura es un alambre o varilla de metal, a menudo recubierto con fundente, utilizado para conducir corriente a través de una pieza de trabajo para fusionar dos piezas. En la Soldadura por Arco de Metal Blindado (SMAW), el electrodo es consumible, lo que significa que se funde para convertirse en el metal de aporte para la soldadura.

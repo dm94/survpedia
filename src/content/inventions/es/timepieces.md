@@ -1,6 +1,13 @@
 ---
-title: "Relojes (Instrumentos de tiempo)"
-materialsUsed: ["wood", "piedra", "metal", "glass", "water", "arena"]
+title: Relojes (Instrumentos de tiempo)
+materialsUsed:
+  - wood
+  - piedra
+  - metal
+  - glass
+  - water
+  - arena
+image: ../../../assets/images/inventions/timepieces.jpg
 ---
 
 # Breve descripción

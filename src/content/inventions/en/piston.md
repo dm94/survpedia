@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - aluminum
   - brass
+image: ../../../assets/images/inventions/piston.jpg
 ---
 
 # Brief description

@@ -20,6 +20,7 @@ relatedInventions:
   - simple-boat
   - oar
   - rope
+image: ../../../assets/images/knowledge/fishing.jpg
 ---
 
 # Brief description

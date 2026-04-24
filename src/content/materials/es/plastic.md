@@ -1,12 +1,23 @@
 ---
-title: "Plástico"
-formula: "(C2H4)n"
-composition: ["carbon", "hydrogen"]
-properties: ["ligero", "impermeable", "moldeable", "duradero"]
-uses: ["contenedores", "aislamiento", "herramientas", "embalaje"]
+title: Plástico
+formula: (C2H4)n
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - ligero
+  - impermeable
+  - moldeable
+  - duradero
+uses:
+  - contenedores
+  - aislamiento
+  - herramientas
+  - embalaje
 naturalAvailability: false
-manufacturingProcess: "Refinado de petróleo o gas natural en monómeros, luego polimerización."
+manufacturingProcess: 'Refinado de petróleo o gas natural en monómeros, luego polimerización.'
 category: synthetic
+image: ../../../assets/images/materials/plastic.jpg
 ---
 
 # Descripción de cómo es

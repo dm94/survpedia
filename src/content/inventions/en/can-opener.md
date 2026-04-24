@@ -1,6 +1,8 @@
 ---
-title: "Can Opener"
-materialsUsed: ["steel"]
+title: Can Opener
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/can-opener.jpg
 ---
 
 # Brief description

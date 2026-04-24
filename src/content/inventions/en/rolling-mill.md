@@ -3,6 +3,7 @@ title: Rolling Mill
 materialsUsed:
   - iron
   - steel
+image: ../../../assets/images/inventions/rolling-mill.jpg
 ---
 
 # Brief description

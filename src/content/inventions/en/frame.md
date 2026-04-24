@@ -6,6 +6,7 @@ materialsUsed:
   - iron
   - concrete
   - stone
+image: ../../../assets/images/inventions/frame.jpg
 ---
 
 # Brief description

@@ -8,6 +8,7 @@ materialsUsed:
   - straw
   - tile
   - slate
+image: ../../../assets/images/inventions/roofing.jpg
 ---
 
 # Breve descripción

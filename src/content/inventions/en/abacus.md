@@ -1,6 +1,11 @@
 ---
-title: "Abacus"
-materialsUsed: ["wood", "stone", "string", "clay"]
+title: Abacus
+materialsUsed:
+  - wood
+  - stone
+  - string
+  - clay
+image: ../../../assets/images/inventions/abacus.jpg
 ---
 
 # Brief description

@@ -7,6 +7,7 @@ materialsUsed:
   - concrete
   - glass
   - steel
+image: ../../../assets/images/inventions/building.jpg
 ---
 
 # Breve descripción

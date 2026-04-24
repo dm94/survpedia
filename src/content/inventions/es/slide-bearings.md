@@ -8,6 +8,7 @@ materialsUsed:
   - vegetable-oil
   - iron
   - steel
+image: ../../../assets/images/inventions/slide-bearings.jpg
 ---
 
 # Breve descripción

@@ -5,6 +5,7 @@ materialsUsed:
   - ladrillo
   - plastic
   - mortero
+image: ../../../assets/images/inventions/cisterna.jpg
 ---
 
 # Breve descripción

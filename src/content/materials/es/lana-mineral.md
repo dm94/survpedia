@@ -13,8 +13,11 @@ uses:
   - Insonorización de tabiques
   - Cortafuegos
 naturalAvailability: false
-manufacturingProcess: Fusión de roca (basalto) o escoria a altas temperaturas (~1500°C) e hilado en fibras.
+manufacturingProcess: >-
+  Fusión de roca (basalto) o escoria a altas temperaturas (~1500°C) e hilado en
+  fibras.
 category: synthetic
+image: ../../../assets/images/materials/lana-mineral.jpg
 ---
 
 La lana mineral (también conocida como lana de roca) es un material fibroso formado por el hilado o estirado de materiales minerales o rocosos fundidos. Es superior a la fibra de vidrio en resistencia al fuego y densidad.

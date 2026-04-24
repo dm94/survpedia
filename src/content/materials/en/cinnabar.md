@@ -11,10 +11,11 @@ properties:
 uses:
   - Mercury ore
   - Pigment (Vermilion)
-  - Jewelry (rarely, toxic)
+  - 'Jewelry (rarely, toxic)'
 naturalAvailability: true
 manufacturingProcess: Natural mineral.
 category: mineral
+image: ../../../assets/images/materials/cinnabar.jpg
 ---
 
 Cinnabar (mercury sulfide, HgS) is the bright scarlet to brick-red ore of mercury. It is the most common source of mercury in nature.

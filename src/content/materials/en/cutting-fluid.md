@@ -1,5 +1,5 @@
 ---
-title: "Cutting Fluid"
+title: Cutting Fluid
 properties:
   - Cooling
   - Lubricating
@@ -11,8 +11,9 @@ uses:
   - Tapping
   - Sawing
 naturalAvailability: false
-manufacturingProcess: "Mixing oil, water, and emulsifiers."
+manufacturingProcess: 'Mixing oil, water, and emulsifiers.'
 category: synthetic
+image: ../../../assets/images/materials/cutting-fluid.jpg
 ---
 
 Cutting fluid is a type of coolant and lubricant designed specifically for metalworking processes, such as machining and stamping. It is essential for high-speed machining to prevent tool failure and improve surface finish.

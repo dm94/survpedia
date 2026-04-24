@@ -14,8 +14,9 @@ uses:
   - Botones
   - Pegamento
 naturalAvailability: true
-manufacturingProcess: Cosechado de bóvidos, hervido para quitar el núcleo y moldeado con calor.
+manufacturingProcess: 'Cosechado de bóvidos, hervido para quitar el núcleo y moldeado con calor.'
 category: animal
+image: ../../../assets/images/materials/horn.jpg
 ---
 
 El cuerno es una excrecencia dura y permanente que se encuentra en la cabeza del ganado vacuno, ovejas, cabras y búfalos. Consiste en una vaina de queratina (la misma proteína que el pelo y las uñas) que cubre un núcleo óseo vivo. Fue uno de los primeros termoplásticos de la humanidad.
