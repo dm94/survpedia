@@ -1,6 +1,9 @@
 ---
-title: "Screwdriver"
-materialsUsed: ["steel", "wood"]
+title: Screwdriver
+materialsUsed:
+  - steel
+  - wood
+image: ../../../assets/images/inventions/screwdriver.jpg
 ---
 
 # Brief description

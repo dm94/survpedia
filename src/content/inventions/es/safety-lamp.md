@@ -8,6 +8,7 @@ materialsUsed:
   - cotton
   - vegetable-oil
   - animal-fat
+image: ../../../assets/images/inventions/safety-lamp.jpg
 ---
 
 # Breve descripción

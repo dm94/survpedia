@@ -18,8 +18,11 @@ uses:
   - armor
   - cookware
 naturalAvailability: false
-manufacturingProcess: Produced by passing metal ingots through a [Rolling Mill](/en/inventions/rolling-mill).
+manufacturingProcess: >-
+  Produced by passing metal ingots through a [Rolling
+  Mill](/en/inventions/rolling-mill).
 category: synthetic
+image: ../../../assets/images/materials/sheet-metal.jpg
 ---
 
 # Brief description

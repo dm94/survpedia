@@ -5,6 +5,7 @@ materialsUsed:
   - leather
   - bone
   - wood
+image: ../../../assets/images/inventions/thimble.jpg
 ---
 
 # Breve descripción

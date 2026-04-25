@@ -17,8 +17,11 @@ uses:
   - Revestimiento de paredes
   - Decoración
 naturalAvailability: false
-manufacturingProcess: Moldeado de arcilla u hormigón seguido de secado y cocción (para arcilla) o curado (para hormigón).
+manufacturingProcess: >-
+  Moldeado de arcilla u hormigón seguido de secado y cocción (para arcilla) o
+  curado (para hormigón).
 category: synthetic
+image: ../../../assets/images/materials/tile.jpg
 ---
 
 Una teja (para techos) o baldosa (para suelos/paredes) es una pieza manufacturada de material resistente como cerámica, piedra, metal, arcilla cocida o incluso vidrio. Se utiliza generalmente para cubrir techos, suelos, paredes u otros objetos como mesas.

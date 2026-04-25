@@ -5,6 +5,7 @@ materialsUsed:
   - piedra
   - hormigon
   - wood
+image: ../../../assets/images/inventions/presa.jpg
 ---
 
 # Breve descripción

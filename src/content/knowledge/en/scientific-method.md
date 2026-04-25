@@ -1,7 +1,18 @@
 ---
-title: "Scientific Method"
-relatedMaterials: ["paper", "ink", "charcoal"]
-relatedInventions: ["microscope", "telescope", "barometer", "thermometer", "balance-scale", "ruler", "chronometer"]
+title: Scientific Method
+relatedMaterials:
+  - paper
+  - ink
+  - charcoal
+relatedInventions:
+  - microscope
+  - telescope
+  - barometer
+  - thermometer
+  - balance-scale
+  - ruler
+  - chronometer
+image: ../../../assets/images/knowledge/scientific-method.jpg
 ---
 
 # Brief description

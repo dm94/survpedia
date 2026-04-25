@@ -1,6 +1,12 @@
 ---
-title: "Reloj Mecánico"
-materialsUsed: ["brass", "steel", "glass", "spring-steel", "ruby"]
+title: Reloj Mecánico
+materialsUsed:
+  - brass
+  - steel
+  - glass
+  - spring-steel
+  - ruby
+image: ../../../assets/images/inventions/mechanical-watch.jpg
 ---
 
 # Breve descripción

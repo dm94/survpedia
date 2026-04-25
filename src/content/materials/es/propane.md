@@ -1,12 +1,23 @@
 ---
-title: "Propano"
-formula: "C3H8"
-composition: ["carbon", "hydrogen"]
-properties: ["Gas incoloro", "Inodoro (se añade olor)", "Licuable a baja presión", "Alto poder calorífico"]
-uses: ["Calefacción", "Cocina", "Soldadura fuerte (Brazing)", "Corte de metales (con oxígeno)"]
+title: Propano
+formula: C3H8
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - Gas incoloro
+  - Inodoro (se añade olor)
+  - Licuable a baja presión
+  - Alto poder calorífico
+uses:
+  - Calefacción
+  - Cocina
+  - Soldadura fuerte (Brazing)
+  - Corte de metales (con oxígeno)
 naturalAvailability: false
-manufacturingProcess: "Subproducto del procesamiento de gas natural y refinado de petróleo."
+manufacturingProcess: Subproducto del procesamiento de gas natural y refinado de petróleo.
 category: synthetic
+image: ../../../assets/images/materials/propane.jpg
 ---
 
 El propano es un gas hidrocarburo inflamable que se licúa fácilmente bajo presión, lo que lo hace muy conveniente para el almacenamiento y transporte en cilindros. Es un combustible común para aplicaciones portátiles.

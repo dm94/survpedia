@@ -1,5 +1,5 @@
 ---
-title: "Fluido de Corte"
+title: Fluido de Corte
 properties:
   - Refrigerante
   - Lubricante
@@ -11,8 +11,9 @@ uses:
   - Roscado
   - Serrado
 naturalAvailability: false
-manufacturingProcess: "Mezcla de aceite, agua y emulsionantes."
+manufacturingProcess: 'Mezcla de aceite, agua y emulsionantes.'
 category: synthetic
+image: ../../../assets/images/materials/cutting-fluid.jpg
 ---
 
 El fluido de corte (o taladrina) es un tipo de refrigerante y lubricante diseñado específicamente para procesos de trabajo de metales, como mecanizado y estampado. Es esencial para el mecanizado a alta velocidad para evitar el fallo de la herramienta y mejorar el acabado superficial.

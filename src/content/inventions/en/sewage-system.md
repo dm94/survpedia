@@ -5,6 +5,7 @@ materialsUsed:
   - brick
   - plastic
   - ceramic
+image: ../../../assets/images/inventions/sewage-system.jpg
 ---
 
 # Brief description

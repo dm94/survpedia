@@ -6,6 +6,7 @@ materialsUsed:
   - rope
   - shovel
   - pickaxe
+image: ../../../assets/images/inventions/well.jpg
 ---
 
 # Brief description

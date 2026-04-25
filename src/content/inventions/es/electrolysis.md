@@ -1,6 +1,12 @@
 ---
-title: "Electrólisis"
-materialsUsed: ["water", "copper", "iron", "salt", "simple-acids"]
+title: Electrólisis
+materialsUsed:
+  - water
+  - copper
+  - iron
+  - salt
+  - simple-acids
+image: ../../../assets/images/inventions/electrolysis.jpg
 ---
 
 # Descripción breve

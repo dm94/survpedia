@@ -7,6 +7,7 @@ materialsUsed:
   - mortero
   - wood
   - steel
+image: ../../../assets/images/inventions/puente-de-arco.jpg
 ---
 
 # Breve descripción

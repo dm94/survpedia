@@ -13,8 +13,11 @@ uses:
   - Bien de intercambio
   - Ración de viaje
 naturalAvailability: false
-manufacturingProcess: Prensado y maduración de cuajada salada para reducir humedad y desarrollar sabor.
+manufacturingProcess: >-
+  Prensado y maduración de cuajada salada para reducir humedad y desarrollar
+  sabor.
 category: animal
+image: ../../../assets/images/materials/cheese.jpg
 ---
 
 El queso es cuajada transformada mediante salado, prensado y maduración para concentrar nutrientes y alargar su conservación. Convierte la leche fresca en un alimento durable y transportable con texturas y sabores variados.

@@ -1,6 +1,14 @@
 ---
 title: Cimientos (Foundation)
-materialsUsed: ["stone", "brick", "concrete", "wood", "steel", "cement", "mortar"]
+materialsUsed:
+  - stone
+  - brick
+  - concrete
+  - wood
+  - steel
+  - cement
+  - mortar
+image: ../../../assets/images/inventions/cimientos.jpg
 ---
 
 # Breve descripción

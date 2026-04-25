@@ -4,6 +4,7 @@ materialsUsed:
   - lens
   - glass
   - brass
+image: ../../../assets/images/inventions/microscope.jpg
 ---
 
 # Breve descripción

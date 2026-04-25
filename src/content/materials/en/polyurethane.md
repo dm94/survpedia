@@ -1,6 +1,6 @@
 ---
 title: Polyurethane
-formula: -NH-(C=O)-O- (Carbamate linkage)
+formula: '-NH-(C=O)-O- (Carbamate linkage)'
 properties:
   - Thermal insulation (excellent)
   - Rigidity (foam)
@@ -9,13 +9,16 @@ properties:
   - Chemical resistance
 uses:
   - Insulation (PIR/PUR boards)
-  - Foams (spray, rigid, flexible)
+  - 'Foams (spray, rigid, flexible)'
   - Coatings
   - Adhesives
-  - Elastomers (wheels, soles)
+  - 'Elastomers (wheels, soles)'
 naturalAvailability: false
-manufacturingProcess: Reaction of a polyol with a diisocyanate or polymeric isocyanate in the presence of suitable catalysts and additives.
+manufacturingProcess: >-
+  Reaction of a polyol with a diisocyanate or polymeric isocyanate in the
+  presence of suitable catalysts and additives.
 category: synthetic
+image: ../../../assets/images/materials/polyurethane.jpg
 ---
 
 Polyurethane (PUR or PU) is a versatile polymer composed of organic units joined by carbamate (urethane) links. In construction, it is most commonly encountered as rigid foam insulation boards (PIR) or spray foam.

@@ -7,6 +7,7 @@ materialsUsed:
   - mortar
   - wood
   - steel
+image: ../../../assets/images/inventions/arch-bridge.jpg
 ---
 
 # Brief description

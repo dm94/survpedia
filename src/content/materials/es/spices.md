@@ -15,9 +15,10 @@ uses:
   - Intercambio y ritual
 naturalAvailability: true
 manufacturingProcess: >-
-  Se cosechan de cortezas, semillas, raíces o frutos y luego se limpian, secan
-  y muelen o mezclan para su almacenamiento y uso.
+  Se cosechan de cortezas, semillas, raíces o frutos y luego se limpian, secan y
+  muelen o mezclan para su almacenamiento y uso.
 category: plant
+image: ../../../assets/images/materials/spices.jpg
 ---
 
 Las especias son partes aromáticas de plantas, secas, usadas para dar sabor, conservar y a veces medicar alimentos. Se valoran por sus aceites y resinas concentrados que permanecen activos tras el secado.

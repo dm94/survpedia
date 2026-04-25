@@ -16,8 +16,11 @@ uses:
   - Bunkers
   - Foundations
 naturalAvailability: false
-manufacturingProcess: Casting concrete around steel reinforcement bars (**[Rebar](/en/materials/rebar)**).
+manufacturingProcess: >-
+  Casting concrete around steel reinforcement bars
+  (**[Rebar](/en/materials/rebar)**).
 category: synthetic
+image: ../../../assets/images/materials/reinforced-concrete.jpg
 ---
 
 A composite material in which **[Concrete](/en/materials/concrete)**'s relatively low tensile strength and ductility are counteracted by the inclusion of reinforcement having higher tensile strength or ductility, usually **[Steel](/en/materials/steel)** **[Rebar](/en/materials/rebar)**.

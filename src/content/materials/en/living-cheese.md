@@ -13,8 +13,11 @@ uses:
   - Flavor enhancer
   - Trade good
 naturalAvailability: false
-manufacturingProcess: Inoculating curd with live cultures, managing humidity, washing or blooming the rind, and aging until texture ripens.
+manufacturingProcess: >-
+  Inoculating curd with live cultures, managing humidity, washing or blooming
+  the rind, and aging until texture ripens.
 category: animal
+image: ../../../assets/images/materials/living-cheese.jpg
 ---
 
 Living cheese is curd ripened by active cultures on or within the rind. The surface stays biologically active, producing complex aromas and a softening texture that evolves over time.

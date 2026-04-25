@@ -1,12 +1,28 @@
 ---
-title: "Nitric Acid"
-formula: "HNO3"
-composition: ["hydrogen", "nitrogen", "oxygen"]
-properties: ["Corrosive", "Strong oxidizer", "Liquid", "Pungent odor", "Highly reactive"]
-uses: ["Fertilizer production", "Explosives manufacturing", "Photography", "Metal etching", "Chemical synthesis"]
+title: Nitric Acid
+formula: HNO3
+composition:
+  - hydrogen
+  - nitrogen
+  - oxygen
+properties:
+  - Corrosive
+  - Strong oxidizer
+  - Liquid
+  - Pungent odor
+  - Highly reactive
+uses:
+  - Fertilizer production
+  - Explosives manufacturing
+  - Photography
+  - Metal etching
+  - Chemical synthesis
 naturalAvailability: false
-manufacturingProcess: "Historically produced by distilling potassium nitrate (saltpeter) with sulfuric acid."
+manufacturingProcess: >-
+  Historically produced by distilling potassium nitrate (saltpeter) with
+  sulfuric acid.
 category: synthetic
+image: ../../../assets/images/materials/nitric-acid.jpg
 ---
 
 Nitric acid, also known as *aqua fortis* (strong water), is a highly corrosive mineral acid. It is a primary reagent in industrial chemistry, essential for nitrogen fixation in fertilizers and the production of explosives.

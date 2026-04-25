@@ -1,6 +1,11 @@
 ---
-title: "Septic Tank"
-materialsUsed: ["concrete", "plastic", "fiberglass", "brick"]
+title: Septic Tank
+materialsUsed:
+  - concrete
+  - plastic
+  - fiberglass
+  - brick
+image: ../../../assets/images/inventions/septic-tank.jpg
 ---
 
 # Brief description

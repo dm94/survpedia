@@ -1,6 +1,11 @@
 ---
-title: "Pan"
-materialsUsed: ["wheat", "water", "salt", "yeast"]
+title: Pan
+materialsUsed:
+  - wheat
+  - water
+  - salt
+  - yeast
+image: ../../../assets/images/inventions/bread.jpg
 ---
 
 # Breve descripción

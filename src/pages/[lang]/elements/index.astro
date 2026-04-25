@@ -1,30 +1,30 @@
 ---
-import Layout from '@layouts/Layout.astro';
-import { getCollection } from 'astro:content';
-import { useTranslations } from '@i18n/utils';
-import PeriodicElement from '@components/PeriodicElement.astro';
+import Layout from "@layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import { useTranslations } from "@i18n/utils";
+import PeriodicElement from "@components/PeriodicElement.astro";
 
 export function getStaticPaths() {
-  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
+  return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
 }
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
 
-const elements = await getCollection('elements', ({ id }) => {
+const elements = await getCollection("elements", ({ id }) => {
   return id.startsWith(`${lang}/`);
 });
 
 elements.sort((a, b) => a.data.atomicNumber - b.data.atomicNumber);
 ---
 
-<Layout title={t('elements.title')} description={t('elements.desc')}>
+<Layout title={t("elements.title")} description={t("elements.desc")}>
   <div class="mb-8">
     <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
-      {t('elements.title')}
+      {t("elements.title")}
     </h1>
     <p class="text-slate-600 dark:text-slate-400">
-      {t('elements.desc')}
+      {t("elements.desc")}
     </p>
   </div>
 
@@ -33,7 +33,7 @@ elements.sort((a, b) => a.data.atomicNumber - b.data.atomicNumber);
   >
     {
       elements.map(element => {
-        const slugPart = element.slug.split('/')[1];
+        const slugPart = element.id.split("/")?.[1];
         return (
           <PeriodicElement
             symbol={element.data.symbol}

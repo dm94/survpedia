@@ -6,6 +6,7 @@ materialsUsed:
   - brick
   - plastic
   - metal
+image: ../../../assets/images/inventions/water-supply.jpg
 ---
 
 # Brief description

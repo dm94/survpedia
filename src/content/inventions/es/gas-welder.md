@@ -1,6 +1,12 @@
 ---
-title: "Soldador a Gas"
-materialsUsed: ["acetylene", "oxygen", "filler-rod", "hose", "brass"]
+title: Soldador a Gas
+materialsUsed:
+  - acetylene
+  - oxygen
+  - filler-rod
+  - hose
+  - brass
+image: ../../../assets/images/inventions/gas-welder.jpg
 ---
 
 # Soldador a Gas (Oxiacetileno)

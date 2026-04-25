@@ -14,6 +14,7 @@ relatedInventions:
   - tuberias
   - oil-pump
   - passive-ventilation
+image: ../../../assets/images/knowledge/refinado-de-petroleo.jpg
 ---
 
 # Breve descripción

@@ -1,12 +1,25 @@
 ---
-title: "Fundente (Flux)"
-formula: "Depende del tipo (ej., SiO2, Na2B4O7·10H2O)"
-composition: ["silicon", "oxygen", "boron", "sodium"] 
-properties: ["Agente de Limpieza", "Promotor de Flujo", "Inhibidor de Oxidación"]
-uses: ["Soldadura", "Fundición", "Metalurgia"]
+title: Fundente (Flux)
+formula: 'Depende del tipo (ej., SiO2, Na2B4O7·10H2O)'
+composition:
+  - silicon
+  - oxygen
+  - boron
+  - sodium
+properties:
+  - Agente de Limpieza
+  - Promotor de Flujo
+  - Inhibidor de Oxidación
+uses:
+  - Soldadura
+  - Fundición
+  - Metalurgia
 naturalAvailability: true
-manufacturingProcess: "Varía. La arena es natural. El bórax se extrae. La colofonia proviene de la savia del pino."
+manufacturingProcess: >-
+  Varía. La arena es natural. El bórax se extrae. La colofonia proviene de la
+  savia del pino.
 category: mineral
+image: ../../../assets/images/materials/flux.jpg
 ---
 
 El fundente (o flux) es un agente químico de limpieza, fluidez o purificación. Los fundentes pueden tener más de una función a la vez. Se utilizan tanto en la metalurgia extractiva como en la unión de metales.

@@ -1,6 +1,12 @@
 ---
-title: "Hand Washing Basin"
-materialsUsed: ["ceramics", "stone", "metal", "plastic", "wood"]
+title: Hand Washing Basin
+materialsUsed:
+  - ceramics
+  - stone
+  - metal
+  - plastic
+  - wood
+image: ../../../assets/images/inventions/hand-washing-basin.jpg
 ---
 
 # Brief description

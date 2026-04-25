@@ -7,6 +7,7 @@ materialsUsed:
   - water
   - pitch
   - iron
+image: ../../../assets/images/inventions/tallado-lentes.jpg
 ---
 
 # Breve descripción

@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - iron
   - wood
+image: ../../../assets/images/inventions/gyroscope.jpg
 ---
 
 # Brief description

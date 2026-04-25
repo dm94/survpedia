@@ -1,6 +1,10 @@
 ---
-title: "Water Clock"
-materialsUsed: ["stone", "ceramics", "water"]
+title: Water Clock
+materialsUsed:
+  - stone
+  - ceramics
+  - water
+image: ../../../assets/images/inventions/water-clock.jpg
 ---
 
 # Brief description

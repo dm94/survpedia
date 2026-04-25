@@ -1,6 +1,10 @@
 ---
-title: "Inclined Plane"
-materialsUsed: ["wood", "stone", "earth"]
+title: Inclined Plane
+materialsUsed:
+  - wood
+  - stone
+  - earth
+image: ../../../assets/images/inventions/inclined-plane.jpg
 ---
 
 # Brief description

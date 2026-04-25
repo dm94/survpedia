@@ -4,6 +4,7 @@ materialsUsed:
   - steel
   - iron
   - piedra
+image: ../../../assets/images/inventions/molino-de-bolas.jpg
 ---
 
 # Breve descripción

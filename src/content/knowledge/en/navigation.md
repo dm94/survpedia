@@ -1,7 +1,17 @@
 ---
-title: "Navigation"
-relatedMaterials: ["paper", "ink", "magnetite"]
-relatedInventions: ["compass", "sextant", "chronometer", "telescope", "map", "drawing-compass"]
+title: Navigation
+relatedMaterials:
+  - paper
+  - ink
+  - magnetite
+relatedInventions:
+  - compass
+  - sextant
+  - chronometer
+  - telescope
+  - map
+  - drawing-compass
+image: ../../../assets/images/knowledge/navigation.jpg
 ---
 
 # Brief description

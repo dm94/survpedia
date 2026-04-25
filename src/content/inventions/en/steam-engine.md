@@ -7,6 +7,7 @@ materialsUsed:
   - coal
   - wood
   - water
+image: ../../../assets/images/inventions/steam-engine.jpg
 ---
 
 # Brief description

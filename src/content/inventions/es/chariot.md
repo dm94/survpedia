@@ -5,6 +5,7 @@ materialsUsed:
   - leather
   - bronze
   - iron
+image: ../../../assets/images/inventions/chariot.jpg
 ---
 
 # Breve descripción

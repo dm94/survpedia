@@ -6,6 +6,7 @@ materialsUsed:
   - nail
   - plastic
   - aluminum
+image: ../../../assets/images/inventions/encofrado.jpg
 ---
 
 El encofrado es el sistema de moldes, temporales o permanentes, en los que se vierte el hormigón u otros materiales similares. En el contexto de la construcción, soporta el hormigón fresco hasta que este fragua y se endurece.

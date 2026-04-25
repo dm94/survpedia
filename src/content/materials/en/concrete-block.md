@@ -18,6 +18,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Casting stiff concrete into molds and vibrating to compact.
 category: synthetic
+image: ../../../assets/images/materials/concrete-block.jpg
 ---
 
 A concrete block (CMU - Concrete Masonry Unit) is a standard-size rectangular block used in building construction. They are usually hollow to reduce weight and allow for steel reinforcement (rebar) and insulation.

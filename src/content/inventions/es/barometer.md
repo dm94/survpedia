@@ -1,6 +1,10 @@
 ---
-title: "Barómetro"
-materialsUsed: ["vidrio", "mercurio", "agua"]
+title: Barómetro
+materialsUsed:
+  - vidrio
+  - mercurio
+  - agua
+image: ../../../assets/images/inventions/barometer.jpg
 ---
 
 # Descripción breve

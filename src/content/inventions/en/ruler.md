@@ -1,6 +1,10 @@
 ---
-title: "Ruler"
-materialsUsed: ["wood", "metal", "plastic"]
+title: Ruler
+materialsUsed:
+  - wood
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/ruler.jpg
 ---
 
 # Brief description

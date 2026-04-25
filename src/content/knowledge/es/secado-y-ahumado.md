@@ -1,5 +1,5 @@
 ---
-title: "Secado y ahumado"
+title: Secado y ahumado
 relatedMaterials:
   - wood
   - charcoal
@@ -11,6 +11,7 @@ relatedMaterials:
 relatedInventions:
   - fire
   - containers
+image: ../../../assets/images/knowledge/secado-y-ahumado.jpg
 ---
 
 # Breve descripción

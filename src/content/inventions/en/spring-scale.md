@@ -1,6 +1,9 @@
 ---
-title: "Spring Scale"
-materialsUsed: ["metal", "plastic"]
+title: Spring Scale
+materialsUsed:
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/spring-scale.jpg
 ---
 
 # Brief description

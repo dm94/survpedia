@@ -1,6 +1,10 @@
 ---
-title: "Calipers"
-materialsUsed: ["metal", "wood", "screw"]
+title: Calipers
+materialsUsed:
+  - metal
+  - wood
+  - screw
+image: ../../../assets/images/inventions/calipers.jpg
 ---
 
 # Brief description

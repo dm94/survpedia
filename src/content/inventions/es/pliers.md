@@ -1,6 +1,8 @@
 ---
-title: "Alicates"
-materialsUsed: ["steel"]
+title: Alicates
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/pliers.jpg
 ---
 
 # Breve descripción

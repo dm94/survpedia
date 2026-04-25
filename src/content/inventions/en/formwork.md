@@ -6,6 +6,7 @@ materialsUsed:
   - nail
   - plastic
   - aluminum
+image: ../../../assets/images/inventions/formwork.jpg
 ---
 
 Formwork is the term given to either temporary or permanent molds into which concrete or similar materials are poured. In the context of concrete construction, the falsework supports the shuttering molds.

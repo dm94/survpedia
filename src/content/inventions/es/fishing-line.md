@@ -5,6 +5,7 @@ materialsUsed:
   - leather
   - cotton
   - beeswax
+image: ../../../assets/images/inventions/fishing-line.jpg
 ---
 
 # Breve descripción

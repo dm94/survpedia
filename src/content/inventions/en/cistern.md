@@ -5,6 +5,7 @@ materialsUsed:
   - brick
   - plastic
   - mortar
+image: ../../../assets/images/inventions/cistern.jpg
 ---
 
 # Brief description

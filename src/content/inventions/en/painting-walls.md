@@ -10,6 +10,7 @@ materialsUsed:
   - brick
   - wood
   - sand
+image: ../../../assets/images/inventions/painting-walls.jpg
 ---
 
 # Brief description

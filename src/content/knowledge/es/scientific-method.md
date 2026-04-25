@@ -1,7 +1,18 @@
 ---
-title: "Método Científico"
-relatedMaterials: ["paper", "ink", "charcoal"]
-relatedInventions: ["microscope", "telescope", "barometer", "thermometer", "balance-scale", "ruler", "chronometer"]
+title: Método Científico
+relatedMaterials:
+  - paper
+  - ink
+  - charcoal
+relatedInventions:
+  - microscope
+  - telescope
+  - barometer
+  - thermometer
+  - balance-scale
+  - ruler
+  - chronometer
+image: ../../../assets/images/knowledge/scientific-method.jpg
 ---
 
 # Breve descripción

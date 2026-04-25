@@ -1,6 +1,12 @@
 ---
-title: "Watermill"
-materialsUsed: ["wood", "stone", "iron", "water", "animal-fat"]
+title: Watermill
+materialsUsed:
+  - wood
+  - stone
+  - iron
+  - water
+  - animal-fat
+image: ../../../assets/images/inventions/watermill.jpg
 ---
 
 # Brief description

@@ -6,6 +6,7 @@ import { defineConfig } from 'astro/config';
 
 import autoImages from './src/integrations/auto-images';
 
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://survpedia.deeme.dev',

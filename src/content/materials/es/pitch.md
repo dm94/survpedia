@@ -18,8 +18,10 @@ uses:
   - Pulido óptico
 naturalAvailability: false
 manufacturingProcess: >-
-  Hervir alquitrán hasta que los componentes volátiles se evaporen, dejando un residuo sólido.
+  Hervir alquitrán hasta que los componentes volátiles se evaporen, dejando un
+  residuo sólido.
 category: synthetic
+image: ../../../assets/images/materials/pitch.jpg
 ---
 
 # Descripción de cómo es

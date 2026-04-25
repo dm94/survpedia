@@ -8,6 +8,7 @@ relatedInventions:
   - hammer
   - hand-axe
   - sword
+image: ../../../assets/images/knowledge/balancing.jpg
 ---
 
 # Equilibrado

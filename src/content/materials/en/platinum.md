@@ -16,8 +16,12 @@ uses:
   - Thermocouples
   - Fuel cells
 naturalAvailability: true
-manufacturingProcess: Recovered as a byproduct of nickel and copper ores or placer deposits; concentrated, smelted, and chemically refined to separate platinum-group metals.
+manufacturingProcess: >-
+  Recovered as a byproduct of nickel and copper ores or placer deposits;
+  concentrated, smelted, and chemically refined to separate platinum-group
+  metals.
 category: mineral
+image: ../../../assets/images/materials/platinum.jpg
 ---
 
 # Description of what it is like

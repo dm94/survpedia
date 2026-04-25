@@ -17,8 +17,12 @@ uses:
   - Pirotecnia
   - Curado de alimentos
 naturalAvailability: true
-manufacturingProcess: Se extrae de suelos ricos en nitratos o depósitos minerales, se lixivia con agua, se filtra y se cristaliza por evaporación; también puede obtenerse de lechos de estiércol y purificarse por recristalización.
+manufacturingProcess: >-
+  Se extrae de suelos ricos en nitratos o depósitos minerales, se lixivia con
+  agua, se filtra y se cristaliza por evaporación; también puede obtenerse de
+  lechos de estiércol y purificarse por recristalización.
 category: mineral
+image: ../../../assets/images/materials/potassium-nitrate.jpg
 ---
 
 El nitrato de potasio, también llamado salitre, es una sal cristalina blanca usada como oxidante y fertilizante. Almacena oxígeno en su estructura, por eso es clave en mezclas de combustión rápida como la pólvora negra.

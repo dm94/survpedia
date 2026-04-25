@@ -1,12 +1,23 @@
 ---
-title: "Plastic"
-formula: "(C2H4)n"
-composition: ["carbon", "hydrogen"]
-properties: ["lightweight", "waterproof", "moldable", "durable"]
-uses: ["containers", "insulation", "tools", "packaging"]
+title: Plastic
+formula: (C2H4)n
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - lightweight
+  - waterproof
+  - moldable
+  - durable
+uses:
+  - containers
+  - insulation
+  - tools
+  - packaging
 naturalAvailability: false
-manufacturingProcess: "Refining petroleum or natural gas into monomers, then polymerization."
+manufacturingProcess: 'Refining petroleum or natural gas into monomers, then polymerization.'
 category: synthetic
+image: ../../../assets/images/materials/plastic.jpg
 ---
 
 # Description of what it is like

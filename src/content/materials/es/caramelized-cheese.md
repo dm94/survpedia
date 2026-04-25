@@ -12,8 +12,11 @@ uses:
   - Cobertura
   - Snack
 naturalAvailability: false
-manufacturingProcess: Dorado de cuajada prensada o rebanadas de queso en calor seco hasta caramelizar la superficie.
+manufacturingProcess: >-
+  Dorado de cuajada prensada o rebanadas de queso en calor seco hasta
+  caramelizar la superficie.
 category: animal
+image: ../../../assets/images/materials/caramelized-cheese.jpg
 ---
 
 El queso caramelizado es cuajada o queso cocinado sobre una superficie caliente y seca hasta que la superficie se dora y desarrolla notas tostadas. Es una forma rápida de transformar la cuajada fresca en un alimento aromático que mantiene su forma.

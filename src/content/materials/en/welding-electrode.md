@@ -1,11 +1,18 @@
 ---
-title: "Welding Electrode"
-composition: ["steel", "flux"]
-properties: ["Conductive", "Consumable", "Flux-coated"]
-uses: ["Arc Welding"]
+title: Welding Electrode
+composition:
+  - steel
+  - flux
+properties:
+  - Conductive
+  - Consumable
+  - Flux-coated
+uses:
+  - Arc Welding
 naturalAvailability: false
-manufacturingProcess: "A metal wire is coated with a flux paste and dried."
+manufacturingProcess: A metal wire is coated with a flux paste and dried.
 category: synthetic
+image: ../../../assets/images/materials/welding-electrode.jpg
 ---
 
 A welding electrode is a metal wire or rod, often coated with flux, used to conduct current through a workpiece to fuse two pieces together. In Shielded Metal Arc Welding (SMAW), the electrode is consumable, meaning it melts to become the filler metal for the weld.

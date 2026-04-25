@@ -7,6 +7,7 @@ materialsUsed:
   - brass
   - animal-fat
   - vegetable-oil
+image: ../../../assets/images/inventions/ball-and-roller-bearing.jpg
 ---
 
 # Brief description

@@ -1,6 +1,10 @@
 ---
-title: "Cuchillo"
-materialsUsed: ["steel", "wood", "pine-resin-glue"]
+title: Cuchillo
+materialsUsed:
+  - steel
+  - wood
+  - pine-resin-glue
+image: ../../../assets/images/inventions/knife.jpg
 ---
 
 # Breve descripción

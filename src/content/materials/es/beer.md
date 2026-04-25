@@ -13,8 +13,11 @@ uses:
   - Nutrición de corto plazo
   - Bien de intercambio
 naturalAvailability: false
-manufacturingProcess: Malteado y macerado de granos para extraer azúcares, hervido del mosto y fermentación con levadura.
+manufacturingProcess: >-
+  Malteado y macerado de granos para extraer azúcares, hervido del mosto y
+  fermentación con levadura.
 category: other
+image: ../../../assets/images/materials/beer.jpg
 ---
 
 La cerveza es una bebida fermentada hecha a partir de azúcares de granos y **[Levadura](/es/materials/yeast)**. Es un alcohol de baja graduación que puede producirse con herramientas simples y agua limpia.

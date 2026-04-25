@@ -5,6 +5,7 @@ materialsUsed:
   - pitch
   - iron
   - bronze
+image: ../../../assets/images/inventions/archimedes-screw.jpg
 ---
 
 # Breve descripción

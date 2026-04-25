@@ -1,5 +1,5 @@
 ---
-title: "Drying & Smoking"
+title: Drying & Smoking
 relatedMaterials:
   - wood
   - charcoal
@@ -11,6 +11,7 @@ relatedMaterials:
 relatedInventions:
   - fire
   - containers
+image: ../../../assets/images/knowledge/drying-and-smoking.jpg
 ---
 
 # Brief description

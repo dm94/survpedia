@@ -15,8 +15,11 @@ uses:
   - Base de lubricantes tras procesamiento
   - Impermeabilización en fracciones pesadas
 naturalAvailability: true
-manufacturingProcess: Se recoge de filtraciones o pozos y se separa de agua y gases por decantación y filtrado básico.
+manufacturingProcess: >-
+  Se recoge de filtraciones o pozos y se separa de agua y gases por decantación
+  y filtrado básico.
 category: mineral
+image: ../../../assets/images/materials/crude-oil.jpg
 ---
 
 El petróleo crudo es una mezcla líquida de hidrocarburos formada por materia orgánica antigua bajo calor y presión.

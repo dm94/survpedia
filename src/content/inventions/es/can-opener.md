@@ -1,6 +1,8 @@
 ---
-title: "Abrelatas"
-materialsUsed: ["steel"]
+title: Abrelatas
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/can-opener.jpg
 ---
 
 # Breve descripción

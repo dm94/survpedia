@@ -1,6 +1,8 @@
 ---
-title: "Corkscrew"
-materialsUsed: ["steel"]
+title: Corkscrew
+materialsUsed:
+  - steel
+image: ../../../assets/images/inventions/corkscrew.jpg
 ---
 
 # Brief description

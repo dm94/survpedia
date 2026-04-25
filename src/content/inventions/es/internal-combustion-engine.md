@@ -1,6 +1,12 @@
 ---
-title: "Motor de Combustión Interna"
-materialsUsed: ["iron", "steel", "aluminum", "crude-oil", "copper"]
+title: Motor de Combustión Interna
+materialsUsed:
+  - iron
+  - steel
+  - aluminum
+  - crude-oil
+  - copper
+image: ../../../assets/images/inventions/internal-combustion-engine.jpg
 ---
 
 # Breve descripción

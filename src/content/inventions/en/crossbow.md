@@ -1,6 +1,14 @@
 ---
-title: "Crossbow"
-materialsUsed: ["wood", "steel", "iron", "rope", "string", "glue", "leather"]
+title: Crossbow
+materialsUsed:
+  - wood
+  - steel
+  - iron
+  - rope
+  - string
+  - glue
+  - leather
+image: ../../../assets/images/inventions/crossbow.jpg
 ---
 
 # Brief description

@@ -1,6 +1,10 @@
 ---
-title: "Barometer"
-materialsUsed: ["glass", "mercury", "water"]
+title: Barometer
+materialsUsed:
+  - glass
+  - mercury
+  - water
+image: ../../../assets/images/inventions/barometer.jpg
 ---
 
 # Brief description

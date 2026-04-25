@@ -1,6 +1,12 @@
 ---
 title: Horno Industrial
-materialsUsed: ["clay", "brick", "stone", "charcoal", "iron"]
+materialsUsed:
+  - clay
+  - brick
+  - stone
+  - charcoal
+  - iron
+image: ../../../assets/images/inventions/horno-industrial.jpg
 ---
 
 # Breve descripción

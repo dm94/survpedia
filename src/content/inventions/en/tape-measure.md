@@ -1,6 +1,10 @@
 ---
-title: "Tape Measure"
-materialsUsed: ["metal", "plastic", "fabric"]
+title: Tape Measure
+materialsUsed:
+  - metal
+  - plastic
+  - fabric
+image: ../../../assets/images/inventions/tape-measure.jpg
 ---
 
 # Brief description

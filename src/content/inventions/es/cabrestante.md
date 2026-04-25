@@ -1,6 +1,10 @@
 ---
-title: "Cabrestante"
-materialsUsed: ["wood", "iron", "rope"]
+title: Cabrestante
+materialsUsed:
+  - wood
+  - iron
+  - rope
+image: ../../../assets/images/inventions/cabrestante.jpg
 ---
 
 # Breve descripción

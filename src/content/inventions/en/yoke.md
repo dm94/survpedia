@@ -3,6 +3,7 @@ title: Yoke
 materialsUsed:
   - wood
   - leather
+image: ../../../assets/images/inventions/yoke.jpg
 ---
 
 # Brief description

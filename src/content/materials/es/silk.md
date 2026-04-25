@@ -14,8 +14,8 @@ uses:
   - Bordado
 naturalAvailability: true
 category: animal
-manufacturingProcess: >-
-  Cosechada de capullos de gusano de seda, luego desgomada y devanada o hilada.
+manufacturingProcess: 'Cosechada de capullos de gusano de seda, luego desgomada y devanada o hilada.'
+image: ../../../assets/images/materials/silk.jpg
 ---
 
 La seda es una fibra proteica producida por larvas del gusano de seda, especialmente la especie domesticada Bombyx mori. Se valora por su tacto suave, su brillo natural y su alta resistencia para su peso.

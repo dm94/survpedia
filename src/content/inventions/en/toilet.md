@@ -1,6 +1,10 @@
 ---
-title: "Toilet"
-materialsUsed: ["ceramic", "plastic", "metal"]
+title: Toilet
+materialsUsed:
+  - ceramic
+  - plastic
+  - metal
+image: ../../../assets/images/inventions/toilet.jpg
 ---
 
 # Brief description

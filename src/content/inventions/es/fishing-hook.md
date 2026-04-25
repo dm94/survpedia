@@ -5,6 +5,7 @@ materialsUsed:
   - wood
   - iron
   - resin
+image: ../../../assets/images/inventions/fishing-hook.jpg
 ---
 
 # Breve descripción

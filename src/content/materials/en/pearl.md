@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Cultured pearls are made by inserting a nucleus and rearing the mollusk in
   clean water.
 category: animal
+image: ../../../assets/images/materials/pearl.jpg
 ---
 
 Pearl is a hard, glossy material produced by certain mollusks as they coat an irritant with layers of nacre.

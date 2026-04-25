@@ -1,6 +1,11 @@
 ---
-title: "Apiary"
-materialsUsed: ["wood", "plant-fibers", "resin", "stone"]
+title: Apiary
+materialsUsed:
+  - wood
+  - plant-fibers
+  - resin
+  - stone
+image: ../../../assets/images/inventions/apiary.jpg
 ---
 
 # Brief description

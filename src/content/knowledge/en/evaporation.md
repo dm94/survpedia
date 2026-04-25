@@ -1,5 +1,5 @@
 ---
-title: "Evaporation"
+title: Evaporation
 relatedMaterials:
   - water
   - salt
@@ -10,6 +10,7 @@ relatedMaterials:
 relatedInventions:
   - containers
   - fire
+image: ../../../assets/images/knowledge/evaporation.jpg
 ---
 
 # Brief description

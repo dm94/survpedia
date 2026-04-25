@@ -1,11 +1,27 @@
 ---
-title: "Metal (General)"
-composition: ["iron", "copper", "tin", "zinc", "carbon"]
-properties: ["conductive", "malleable", "ductile", "strong", "lustrous"]
-uses: ["tools", "weapons", "construction", "machinery", "cookware"]
+title: Metal (General)
+composition:
+  - iron
+  - copper
+  - tin
+  - zinc
+  - carbon
+properties:
+  - conductive
+  - malleable
+  - ductile
+  - strong
+  - lustrous
+uses:
+  - tools
+  - weapons
+  - construction
+  - machinery
+  - cookware
 naturalAvailability: true
-manufacturingProcess: "Smelting ores to extract the metal, then refining and alloying."
+manufacturingProcess: 'Smelting ores to extract the metal, then refining and alloying.'
 category: mineral
+image: ../../../assets/images/materials/metal.jpg
 ---
 
 # Description of what it is like

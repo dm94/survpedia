@@ -1,6 +1,9 @@
 ---
-title: "Multiherramienta"
-materialsUsed: ["steel", "wood"]
+title: Multiherramienta
+materialsUsed:
+  - steel
+  - wood
+image: ../../../assets/images/inventions/multitool.jpg
 ---
 
 # Breve descripción

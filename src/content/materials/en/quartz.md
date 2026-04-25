@@ -21,6 +21,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Mining and cutting/polishing.
 category: mineral
+image: ../../../assets/images/materials/quartz.jpg
 ---
 
 # Brief description

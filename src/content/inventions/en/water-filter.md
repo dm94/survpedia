@@ -6,6 +6,7 @@ materialsUsed:
   - gravel
   - fabric
   - containers
+image: ../../../assets/images/inventions/water-filter.jpg
 ---
 
 # Brief description

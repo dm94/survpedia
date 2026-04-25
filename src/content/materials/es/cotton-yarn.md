@@ -15,6 +15,7 @@ manufacturingProcess: >-
   El algodón se cosecha de las cápsulas, se desmota para quitar semillas, se
   carda y peina, y luego se hila en hebras continuas para tejer o coser.
 category: plant
+image: ../../../assets/images/materials/cotton-yarn.jpg
 ---
 
 El algodón y el hilo cubren la cadena del material desde la fibra cruda hasta las hebras hiladas usadas en textiles y costura.

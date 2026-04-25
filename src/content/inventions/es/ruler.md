@@ -1,6 +1,10 @@
 ---
-title: "Regla"
-materialsUsed: ["wood", "metal", "plastic"]
+title: Regla
+materialsUsed:
+  - wood
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/ruler.jpg
 ---
 
 # Descripción breve

@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Twisting plant fibers, hair, or sinew into cords and plying strands for
   strength and durability.
 category: other
+image: ../../../assets/images/materials/string.jpg
 ---
 
 String is a thin cord made by twisting fibers into a continuous strand. It is used for tying, binding, and joining materials when a flexible connector is needed.

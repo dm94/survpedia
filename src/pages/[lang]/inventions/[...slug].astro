@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntry } from "astro:content";
+import { getCollection, getEntry, render } from "astro:content";
 import { Image } from "astro:assets";
 import Layout from "@layouts/Layout.astro";
 import { useTranslations } from "@i18n/utils";
@@ -7,7 +7,7 @@ import { useTranslations } from "@i18n/utils";
 export async function getStaticPaths() {
   const inventions = await getCollection("inventions");
   return inventions.map(entry => {
-    const [lang, slug] = entry.slug.split("/");
+    const [lang, slug] = entry.id.split("/");
     return {
       params: { lang, slug },
       props: { entry },
@@ -16,7 +16,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content } = await render(entry);
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
 const getDescriptionFromMarkdown = (markdown: string) => {
@@ -33,16 +33,17 @@ const metaDescription =
   rawDescription.length > 0 ? rawDescription : entry.data.title;
 const metaImage = entry.data.image?.src ?? "/logo.png";
 
-const materialLinks = await Promise.all(
-  (entry.data.materialsUsed || []).map(async id => {
-    const material = await getEntry("materials", `${lang}/${id}`);
-    return {
-      id,
-      href: `/${lang}/materials/${id}`,
-      name: material?.data.title || id,
-    };
-  })
-);
+const materialLinks: { id: string; href: string; name: string }[] =
+  await Promise.all(
+    (entry.data.materialsUsed || ([] as string[])).map(async (id: any) => {
+      const material = await getEntry("materials", `${lang}/${id}`);
+      return {
+        id,
+        href: `/${lang}/materials/${id}`,
+        name: material?.data.title || id,
+      };
+    })
+  );
 ---
 
 <Layout

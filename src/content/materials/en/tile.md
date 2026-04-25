@@ -17,8 +17,11 @@ uses:
   - Wall covering
   - Decoration
 naturalAvailability: false
-manufacturingProcess: Molding of clay or concrete followed by drying and firing (for clay) or curing (for concrete).
+manufacturingProcess: >-
+  Molding of clay or concrete followed by drying and firing (for clay) or curing
+  (for concrete).
 category: synthetic
+image: ../../../assets/images/materials/tile.jpg
 ---
 
 A tile is a manufactured piece of hard-wearing material such as ceramic, stone, metal, baked clay, or even glass, generally used for covering roofs, floors, walls, or other objects such as tabletops.

@@ -1,6 +1,11 @@
 ---
-title: "Volante de Inercia"
-materialsUsed: ["metal", "steel", "brass", "spring-steel"]
+title: Volante de Inercia
+materialsUsed:
+  - metal
+  - steel
+  - brass
+  - spring-steel
+image: ../../../assets/images/inventions/balance-wheel.jpg
 ---
 
 # Breve descripción

@@ -13,8 +13,9 @@ uses:
   - Ground Anchors
   - Mesh Reinforcement
 naturalAvailability: false
-manufacturingProcess: Hot rolling steel billets, often creating ridges for better bonding.
+manufacturingProcess: 'Hot rolling steel billets, often creating ridges for better bonding.'
 category: synthetic
+image: ../../../assets/images/materials/rebar.jpg
 ---
 
 Short for **reinforcing bar**. A steel bar or mesh of steel wires used as a tension device in **[Reinforced Concrete](/en/materials/reinforced-concrete)** and reinforced masonry structures to strengthen and aid the concrete under tension.

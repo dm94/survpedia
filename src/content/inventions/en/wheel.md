@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - stone
   - metal
+image: ../../../assets/images/inventions/wheel.jpg
 ---
 
 # Brief description

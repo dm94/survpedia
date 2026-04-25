@@ -13,8 +13,11 @@ uses:
   - Potenciador de sabor
   - Bien de intercambio
 naturalAvailability: false
-manufacturingProcess: Inoculación de cuajada con cultivos vivos, control de humedad, lavado o florecido de la corteza y maduración hasta que la textura se afine.
+manufacturingProcess: >-
+  Inoculación de cuajada con cultivos vivos, control de humedad, lavado o
+  florecido de la corteza y maduración hasta que la textura se afine.
 category: animal
+image: ../../../assets/images/materials/living-cheese.jpg
 ---
 
 El queso vivo es cuajada madurada por cultivos activos en la corteza o el interior. La superficie se mantiene biológicamente activa y desarrolla aromas complejos y una textura que se transforma con el tiempo.

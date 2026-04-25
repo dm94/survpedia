@@ -1,6 +1,10 @@
 ---
-title: "Spring"
-materialsUsed: ["spring-steel", "bronze", "brass"]
+title: Spring
+materialsUsed:
+  - spring-steel
+  - bronze
+  - brass
+image: ../../../assets/images/inventions/spring.jpg
 ---
 
 # Brief description

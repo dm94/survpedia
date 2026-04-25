@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - aluminum
   - plastic
+image: ../../../assets/images/inventions/slide-rule.jpg
 ---
 
 # Brief description

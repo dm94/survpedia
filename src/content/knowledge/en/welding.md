@@ -12,6 +12,7 @@ relatedInventions:
   - anvil
   - tongs
   - protective-equipment
+image: ../../../assets/images/knowledge/welding.jpg
 ---
 
 # Welding

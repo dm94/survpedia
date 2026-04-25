@@ -1,5 +1,5 @@
 ---
-title: "Insectos como alimento"
+title: Insectos como alimento
 relatedMaterials:
   - salt
   - water
@@ -11,6 +11,7 @@ relatedInventions:
   - fly-catcher
   - containers
   - fire
+image: ../../../assets/images/knowledge/insectos-como-alimento.jpg
 ---
 
 # Breve descripción

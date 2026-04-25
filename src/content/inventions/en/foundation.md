@@ -1,7 +1,14 @@
 ---
 title: Foundation
 materialsUsed:
-  ["stone", "brick", "concrete", "wood", "steel", "cement", "mortar"]
+  - stone
+  - brick
+  - concrete
+  - wood
+  - steel
+  - cement
+  - mortar
+image: ../../../assets/images/inventions/foundation.jpg
 ---
 
 # Brief description

@@ -1,12 +1,23 @@
 ---
-title: "Carburo de Calcio"
-formula: "CaC2"
-composition: ["calcium", "carbon"]
-properties: ["Sólido grisáceo", "Duro", "Reacciona violentamente con agua", "Olor a ajo (por impurezas)"]
-uses: ["Generación de acetileno", "Lámparas de carburo", "Desulfuración de acero", "Maduración de frutas"]
+title: Carburo de Calcio
+formula: CaC2
+composition:
+  - calcium
+  - carbon
+properties:
+  - Sólido grisáceo
+  - Duro
+  - Reacciona violentamente con agua
+  - Olor a ajo (por impurezas)
+uses:
+  - Generación de acetileno
+  - Lámparas de carburo
+  - Desulfuración de acero
+  - Maduración de frutas
 naturalAvailability: false
-manufacturingProcess: "Calentamiento de cal viva y coque en un horno de arco eléctrico."
+manufacturingProcess: Calentamiento de cal viva y coque en un horno de arco eléctrico.
 category: synthetic
+image: ../../../assets/images/materials/calcium-carbide.jpg
 ---
 
 El carburo de calcio es un compuesto químico industrial utilizado principalmente para producir gas acetileno. Es una sustancia sólida similar a una roca que, al entrar en contacto con el agua, burbujea vigorosamente liberando gas inflamable.

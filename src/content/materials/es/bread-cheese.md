@@ -12,8 +12,11 @@ uses:
   - Ración de viaje
   - Bien de intercambio
 naturalAvailability: false
-manufacturingProcess: Prensado de cuajada fresca en una rueda plana, salado y horneado o dorado a la plancha hasta formar una corteza.
+manufacturingProcess: >-
+  Prensado de cuajada fresca en una rueda plana, salado y horneado o dorado a la
+  plancha hasta formar una corteza.
 category: animal
+image: ../../../assets/images/materials/bread-cheese.jpg
 ---
 
 El queso de pan es un queso fresco y firme que se cocina hasta dorar su superficie mientras el interior permanece elástico. Se consume caliente y conserva un mordisco chirriante con aroma tostado.

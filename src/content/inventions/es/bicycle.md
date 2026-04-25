@@ -5,6 +5,7 @@ materialsUsed:
   - natural-rubber
   - leather
   - aluminum
+image: ../../../assets/images/inventions/bicycle.jpg
 ---
 
 # Breve descripción

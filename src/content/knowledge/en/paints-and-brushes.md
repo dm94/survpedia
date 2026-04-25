@@ -16,6 +16,7 @@ relatedInventions:
   - brush
   - painting-walls
   - fabric-dyeing
+image: ../../../assets/images/knowledge/paints-and-brushes.jpg
 ---
 
 # Brief description

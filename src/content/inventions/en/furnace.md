@@ -1,6 +1,12 @@
 ---
 title: Furnace
-materialsUsed: ["clay", "brick", "stone", "charcoal", "iron"]
+materialsUsed:
+  - clay
+  - brick
+  - stone
+  - charcoal
+  - iron
+image: ../../../assets/images/inventions/furnace.jpg
 ---
 
 # Brief description

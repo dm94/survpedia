@@ -1,6 +1,10 @@
 ---
-title: "Winch"
-materialsUsed: ["wood", "iron", "rope"]
+title: Winch
+materialsUsed:
+  - wood
+  - iron
+  - rope
+image: ../../../assets/images/inventions/winch.jpg
 ---
 
 # Brief description

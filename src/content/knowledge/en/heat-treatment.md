@@ -9,6 +9,7 @@ relatedMaterials:
 relatedInventions:
   - forge
   - tongs
+image: ../../../assets/images/knowledge/heat-treatment.jpg
 ---
 
 # Heat Treatment

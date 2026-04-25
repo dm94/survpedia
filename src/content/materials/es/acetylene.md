@@ -1,11 +1,20 @@
 ---
-title: "Acetileno"
-composition: ["carbon", "hydrogen"]
-properties: ["Inflamable", "Inestable a presión", "Gas incoloro"]
-uses: ["Soldadura a gas", "Corte de metales", "Iluminación (Lámparas de carburo)"]
+title: Acetileno
+composition:
+  - carbon
+  - hydrogen
+properties:
+  - Inflamable
+  - Inestable a presión
+  - Gas incoloro
+uses:
+  - Soldadura a gas
+  - Corte de metales
+  - Iluminación (Lámparas de carburo)
 naturalAvailability: false
-manufacturingProcess: "Reacción química entre carburo de calcio y agua."
+manufacturingProcess: Reacción química entre carburo de calcio y agua.
 category: synthetic
+image: ../../../assets/images/materials/acetylene.jpg
 ---
 
 El acetileno (C₂H₂) es un gas hidrocarburo que, al quemarse con oxígeno puro, produce una llama de temperatura extremadamente alta (más de 3000°C), lo que lo hace ideal para soldar y cortar acero. Históricamente, también fue muy importante para la iluminación portátil (lámparas de minero).

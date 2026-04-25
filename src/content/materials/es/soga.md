@@ -15,8 +15,10 @@ uses:
   - Navegación/Aparejos
 naturalAvailability: false
 manufacturingProcess: >-
-  Torcer múltiples hilos o hebras juntas en una dirección espiral opuesta a la torsión de los hilos para evitar que se desenrede.
+  Torcer múltiples hilos o hebras juntas en una dirección espiral opuesta a la
+  torsión de los hilos para evitar que se desenrede.
 category: other
+image: ../../../assets/images/materials/soga.jpg
 ---
 
 La soga (o cuerda gruesa) es un cordón fuerte y grueso hecho al torcer o trenzar hebras de fibras, alambre u otro material. Es esencial para tareas pesadas donde el hilo o la cuerda fina se romperían.

@@ -4,6 +4,7 @@ materialsUsed:
   - bone
   - wood
   - metal
+image: ../../../assets/images/inventions/pin.jpg
 ---
 
 # Brief description

@@ -1,6 +1,11 @@
 ---
-title: "Crane"
-materialsUsed: ["wood", "iron", "rope", "steel-cable"]
+title: Crane
+materialsUsed:
+  - wood
+  - iron
+  - rope
+  - steel-cable
+image: ../../../assets/images/inventions/crane.jpg
 ---
 
 # Brief description

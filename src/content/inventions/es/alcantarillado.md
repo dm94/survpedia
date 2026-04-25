@@ -5,6 +5,7 @@ materialsUsed:
   - ladrillo
   - plastic
   - ceramics
+image: ../../../assets/images/inventions/alcantarillado.jpg
 ---
 
 # Breve descripción

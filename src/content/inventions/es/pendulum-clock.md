@@ -1,6 +1,12 @@
 ---
-title: "Reloj de Péndulo"
-materialsUsed: ["wood", "iron", "brass", "rope", "piedra"]
+title: Reloj de Péndulo
+materialsUsed:
+  - wood
+  - iron
+  - brass
+  - rope
+  - piedra
+image: ../../../assets/images/inventions/pendulum-clock.jpg
 ---
 
 # Breve descripción

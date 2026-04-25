@@ -1,10 +1,11 @@
 ---
-title: "Torno"
+title: Torno
 materialsUsed:
   - iron
   - steel
   - bronze
   - oil
+image: ../../../assets/images/inventions/lathe.jpg
 ---
 
 # Breve descripción

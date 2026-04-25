@@ -6,6 +6,7 @@ materialsUsed:
   - sand
   - metal
   - stone
+image: ../../../assets/images/inventions/moldeado.jpg
 ---
 
 El moldeado es un proceso de fabricación utilizado para dar forma a una materia prima líquida o flexible utilizando un marco rígido llamado molde o matriz. Esto puede haberse hecho utilizando patrones del objeto final.

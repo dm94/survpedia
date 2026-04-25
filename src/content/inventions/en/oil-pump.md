@@ -1,6 +1,12 @@
 ---
-title: "Oil Pump"
-materialsUsed: ["iron", "steel", "leather", "wood", "animal-fat"]
+title: Oil Pump
+materialsUsed:
+  - iron
+  - steel
+  - leather
+  - wood
+  - animal-fat
+image: ../../../assets/images/inventions/oil-pump.jpg
 ---
 
 # Brief description

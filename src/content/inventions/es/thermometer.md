@@ -1,6 +1,12 @@
 ---
-title: "Termómetro"
-materialsUsed: ["glass", "mercury", "alcohol", "wood", "metal"]
+title: Termómetro
+materialsUsed:
+  - glass
+  - mercury
+  - alcohol
+  - wood
+  - metal
+image: ../../../assets/images/inventions/thermometer.jpg
 ---
 
 # Descripción breve

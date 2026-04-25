@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - animal-fat
   - vegetable-oil
+image: ../../../assets/images/inventions/slide-bearings.jpg
 ---
 
 # Brief description

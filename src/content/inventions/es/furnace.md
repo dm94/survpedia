@@ -1,6 +1,12 @@
 ---
 title: Horno de Fundición
-materialsUsed: ["clay", "brick", "stone", "charcoal", "iron"]
+materialsUsed:
+  - clay
+  - brick
+  - stone
+  - charcoal
+  - iron
+image: ../../../assets/images/inventions/furnace.jpg
 ---
 
 # Breve descripción

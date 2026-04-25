@@ -1,6 +1,11 @@
 ---
-title: "Measuring Container"
-materialsUsed: ["glass", "clay", "metal", "plastic"]
+title: Measuring Container
+materialsUsed:
+  - glass
+  - clay
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/measuring-container.jpg
 ---
 
 # Brief description

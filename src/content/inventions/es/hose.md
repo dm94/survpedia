@@ -5,6 +5,7 @@ materialsUsed:
   - natural-rubber
   - lienzo
   - leather
+image: ../../../assets/images/inventions/hose.jpg
 ---
 
 # Breve descripción

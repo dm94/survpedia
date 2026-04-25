@@ -1,11 +1,27 @@
 ---
-title: "Metal (General)"
-composition: ["iron", "copper", "tin", "zinc", "carbon"]
-properties: ["conductor", "maleable", "dúctil", "fuerte", "brillante"]
-uses: ["herramientas", "armas", "construcción", "maquinaria", "utensilios"]
+title: Metal (General)
+composition:
+  - iron
+  - copper
+  - tin
+  - zinc
+  - carbon
+properties:
+  - conductor
+  - maleable
+  - dúctil
+  - fuerte
+  - brillante
+uses:
+  - herramientas
+  - armas
+  - construcción
+  - maquinaria
+  - utensilios
 naturalAvailability: true
-manufacturingProcess: "Fundición de minerales para extraer el metal, luego refinado y aleación."
+manufacturingProcess: 'Fundición de minerales para extraer el metal, luego refinado y aleación.'
 category: mineral
+image: ../../../assets/images/materials/metal.jpg
 ---
 
 # Descripción de cómo es

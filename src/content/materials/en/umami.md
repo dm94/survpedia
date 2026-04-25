@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Concentrated from glutamate- and nucleotide-rich ingredients through drying,
   reduction, or **[Fermentation](/en/inventions/fermentation)**.
 category: other
+image: ../../../assets/images/materials/umami.jpg
 ---
 
 Umami is the deep, savory taste that adds fullness to broths, stews, and sauces. It comes from glutamates and nucleotides in certain foods and is intensified through processes like drying and fermentation.

@@ -17,9 +17,9 @@ uses:
   - Torch fuel
   - Optical polishing
 naturalAvailability: false
-manufacturingProcess: >-
-  Boiling tar until the volatile components evaporate, leaving a solid residue.
+manufacturingProcess: 'Boiling tar until the volatile components evaporate, leaving a solid residue.'
 category: synthetic
+image: ../../../assets/images/materials/pitch.jpg
 ---
 
 # Description of what it is like

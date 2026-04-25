@@ -6,6 +6,7 @@ materialsUsed:
   - nitric-acid
   - salt
   - water
+image: ../../../assets/images/inventions/photography.jpg
 ---
 
 # Brief description

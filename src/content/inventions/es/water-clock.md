@@ -1,6 +1,10 @@
 ---
-title: "Reloj de agua"
-materialsUsed: ["piedra", "ceramics", "water"]
+title: Reloj de agua
+materialsUsed:
+  - piedra
+  - ceramics
+  - water
+image: ../../../assets/images/inventions/water-clock.jpg
 ---
 
 # Descripción breve

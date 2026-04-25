@@ -1,6 +1,10 @@
 ---
-title: "Inodoro"
-materialsUsed: ["ceramic", "plastic", "metal"]
+title: Inodoro
+materialsUsed:
+  - ceramic
+  - plastic
+  - metal
+image: ../../../assets/images/inventions/toilet.jpg
 ---
 
 # Breve descripción

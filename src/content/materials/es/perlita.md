@@ -11,8 +11,11 @@ uses:
   - Aislamiento a granel
   - Árido para yeso
 naturalAvailability: true
-manufacturingProcess: Calentar vidrio volcánico a 870°C, haciendo que estalle como palomitas de maíz (expandiéndose 4-20 veces).
+manufacturingProcess: >-
+  Calentar vidrio volcánico a 870°C, haciendo que estalle como palomitas de maíz
+  (expandiéndose 4-20 veces).
 category: mineral
+image: ../../../assets/images/materials/perlita.jpg
 ---
 
 La perlita es un vidrio volcánico amorfo que tiene un contenido de agua relativamente alto. Es un mineral natural que existe como un tipo de obsidiana. Cuando se calienta, se expande enormemente.

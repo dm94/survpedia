@@ -13,8 +13,11 @@ uses:
   - Soundproofing partitions
   - Fire stopping
 naturalAvailability: false
-manufacturingProcess: Melting rock (basalt) or slag at high temperatures (~1500°C) and spinning it into fibers.
+manufacturingProcess: >-
+  Melting rock (basalt) or slag at high temperatures (~1500°C) and spinning it
+  into fibers.
 category: synthetic
+image: ../../../assets/images/materials/mineral-wool.jpg
 ---
 
 Mineral wool (also known as rock wool or stone wool) is a fibrous material formed by spinning or drawing molten mineral or rock materials. It is superior to fiberglass in fire resistance and density.

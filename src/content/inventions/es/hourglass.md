@@ -1,6 +1,10 @@
 ---
-title: "Reloj de Arena"
-materialsUsed: ["glass", "arena", "wood"]
+title: Reloj de Arena
+materialsUsed:
+  - glass
+  - arena
+  - wood
+image: ../../../assets/images/inventions/hourglass.jpg
 ---
 
 # Breve descripción

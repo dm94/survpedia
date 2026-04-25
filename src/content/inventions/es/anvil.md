@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - piedra
+image: ../../../assets/images/inventions/anvil.jpg
 ---
 
 # Breve descripción

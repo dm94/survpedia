@@ -1,6 +1,15 @@
 ---
-title: "Refinería de petróleo"
-materialsUsed: ["steel", "iron", "ladrillo", "concrete", "piedra", "copper", "glass", "water"]
+title: Refinería de petróleo
+materialsUsed:
+  - steel
+  - iron
+  - ladrillo
+  - concrete
+  - piedra
+  - copper
+  - glass
+  - water
+image: ../../../assets/images/inventions/oil-refinery.jpg
 ---
 
 # Breve descripción

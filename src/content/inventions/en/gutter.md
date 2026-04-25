@@ -7,6 +7,7 @@ materialsUsed:
   - earth
   - shovel
   - pickaxe
+image: ../../../assets/images/inventions/gutter.jpg
 ---
 
 # Brief description

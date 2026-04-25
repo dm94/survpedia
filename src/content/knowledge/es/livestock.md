@@ -16,6 +16,7 @@ relatedInventions:
   - containers
   - cart
   - shovel
+image: ../../../assets/images/knowledge/livestock.jpg
 ---
 
 # Breve descripción

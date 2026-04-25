@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - bronze
   - animal-fat
+image: ../../../assets/images/inventions/gear-pump.jpg
 ---
 
 # Breve descripción

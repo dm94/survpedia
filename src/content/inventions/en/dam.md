@@ -5,6 +5,7 @@ materialsUsed:
   - stone
   - concrete
   - timber
+image: ../../../assets/images/inventions/dam.jpg
 ---
 
 # Brief description

@@ -1,6 +1,11 @@
 ---
-title: "Canning"
-materialsUsed: ["glass", "tin", "steel", "water"]
+title: Canning
+materialsUsed:
+  - glass
+  - tin
+  - steel
+  - water
+image: ../../../assets/images/inventions/canning.jpg
 ---
 
 # Brief description

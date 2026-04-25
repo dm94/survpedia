@@ -3,6 +3,7 @@ title: Macadam Road
 materialsUsed:
   - stone
   - gravel
+image: ../../../assets/images/inventions/macadam.jpg
 ---
 
 # Brief description

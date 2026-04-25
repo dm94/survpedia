@@ -1,6 +1,11 @@
 ---
-title: "Escapement"
-materialsUsed: ["metal", "steel", "brass", "ruby"]
+title: Escapement
+materialsUsed:
+  - metal
+  - steel
+  - brass
+  - ruby
+image: ../../../assets/images/inventions/escapement.jpg
 ---
 
 # Brief description

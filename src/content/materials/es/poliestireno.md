@@ -13,8 +13,11 @@ uses:
   - Encofrados perdidos (ICF)
   - Flotadores
 naturalAvailability: false
-manufacturingProcess: Polimerización del monómero estireno, luego expandido (EPS) con vapor o extruido (XPS).
+manufacturingProcess: >-
+  Polimerización del monómero estireno, luego expandido (EPS) con vapor o
+  extruido (XPS).
 category: synthetic
+image: ../../../assets/images/materials/poliestireno.jpg
 ---
 
 El poliestireno es un polímero termoplástico que se obtiene de la polimerización del estireno. En la construcción, se utiliza en dos formas principales: Poliestireno Expandido (EPS) y Poliestireno Extruido (XPS). Es una espuma rígida blanca o coloreada.

@@ -15,8 +15,10 @@ uses:
   - Sailing/Rigging
 naturalAvailability: false
 manufacturingProcess: >-
-  Twisting multiple yarns or strands together in a spiral direction opposite to the twist of the yarns to prevent unraveling.
+  Twisting multiple yarns or strands together in a spiral direction opposite to
+  the twist of the yarns to prevent unraveling.
 category: other
+image: ../../../assets/images/materials/rope.jpg
 ---
 
 Rope is a strong, thick cord made by twisting or braiding together strands of fibers, wire, or other material. It is essential for heavy-duty tasks where string or yarn would break.

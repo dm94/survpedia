@@ -6,6 +6,7 @@ materialsUsed:
   - iron
   - plant-fibers
   - leather
+image: ../../../assets/images/inventions/kulema-trap.jpg
 ---
 
 # Brief description

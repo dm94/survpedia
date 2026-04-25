@@ -13,6 +13,7 @@ relatedInventions:
   - containers
   - raft
   - simple-boat
+image: ../../../assets/images/knowledge/cultivo-de-ostras.jpg
 ---
 
 # Breve descripción

@@ -6,6 +6,7 @@ materialsUsed:
   - water
   - alum
   - wood
+image: ../../../assets/images/inventions/tenido-de-tela.jpg
 ---
 
 # Breve descripción

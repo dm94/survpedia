@@ -6,6 +6,7 @@ materialsUsed:
   - mortar
   - cement
   - lime
+image: ../../../assets/images/inventions/masonry.jpg
 ---
 
 # Breve descripción

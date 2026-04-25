@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - lead
   - wood
+image: ../../../assets/images/inventions/flywheel.jpg
 ---
 
 # Breve descripción

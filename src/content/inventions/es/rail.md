@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - wood
   - stone
+image: ../../../assets/images/inventions/rail.jpg
 ---
 
 # Breve descripción

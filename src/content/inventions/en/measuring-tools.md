@@ -1,6 +1,12 @@
 ---
-title: "Measuring Tools"
-materialsUsed: ["wood", "metal", "stone", "string", "water"]
+title: Measuring Tools
+materialsUsed:
+  - wood
+  - metal
+  - stone
+  - string
+  - water
+image: ../../../assets/images/inventions/measuring-tools.jpg
 ---
 
 # Brief description

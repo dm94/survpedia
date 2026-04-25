@@ -1,6 +1,6 @@
 ---
 title: Poliuretano
-formula: -NH-(C=O)-O- (Enlace carbamato)
+formula: '-NH-(C=O)-O- (Enlace carbamato)'
 properties:
   - Aislamiento térmico (excelente)
   - Rigidez (espumas)
@@ -9,13 +9,16 @@ properties:
   - Resistencia química
 uses:
   - Aislamiento (paneles PIR/PUR)
-  - Espumas (proyectadas, rígidas, flexibles)
+  - 'Espumas (proyectadas, rígidas, flexibles)'
   - Recubrimientos
   - Adhesivos
-  - Elastómeros (ruedas, suelas)
+  - 'Elastómeros (ruedas, suelas)'
 naturalAvailability: false
-manufacturingProcess: Reacción de un poliol con un diisocianato o isocianato polimérico en presencia de catalizadores y aditivos adecuados.
+manufacturingProcess: >-
+  Reacción de un poliol con un diisocianato o isocianato polimérico en presencia
+  de catalizadores y aditivos adecuados.
 category: synthetic
+image: ../../../assets/images/materials/poliuretano.jpg
 ---
 
 El poliuretano (PUR o PU) es un polímero versátil compuesto de unidades orgánicas unidas por enlaces de carbamato (uretano). En la construcción, se encuentra más comúnmente como paneles de aislamiento de espuma rígida (PIR) o espuma proyectada.

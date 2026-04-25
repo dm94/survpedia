@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - copper
   - water
+image: ../../../assets/images/inventions/boiler.jpg
 ---
 
 # Brief description

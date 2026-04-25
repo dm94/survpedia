@@ -18,8 +18,11 @@ uses:
   - armor
   - cookware
 naturalAvailability: false
-manufacturingProcess: Producido pasando lingotes de metal a través de un [Laminador](/es/inventions/rolling-mill).
+manufacturingProcess: >-
+  Producido pasando lingotes de metal a través de un
+  [Laminador](/es/inventions/rolling-mill).
 category: synthetic
+image: ../../../assets/images/materials/sheet-metal.jpg
 ---
 
 # Breve descripción

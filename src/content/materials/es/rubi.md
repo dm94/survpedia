@@ -1,12 +1,23 @@
 ---
-title: "Rubí"
-formula: "Al2O3:Cr"
-composition: ["aluminum", "oxygen", "chromium"]
-properties: ["Dureza (9 Mohs)", "Durabilidad", "Baja fricción"]
-uses: ["Joyería", "Cojinetes de reloj", "Láseres", "Abrasivos"]
+title: Rubí
+formula: 'Al2O3:Cr'
+composition:
+  - aluminum
+  - oxygen
+  - chromium
+properties:
+  - Dureza (9 Mohs)
+  - Durabilidad
+  - Baja fricción
+uses:
+  - Joyería
+  - Cojinetes de reloj
+  - Láseres
+  - Abrasivos
 naturalAvailability: true
-manufacturingProcess: "Minería o crecimiento sintético (proceso Verneuil)."
+manufacturingProcess: Minería o crecimiento sintético (proceso Verneuil).
 category: mineral
+image: ../../../assets/images/materials/rubi.jpg
 ---
 
 # Descripción

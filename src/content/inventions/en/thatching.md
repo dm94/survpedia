@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - wire
   - plant-fibers
+image: ../../../assets/images/inventions/thatching.jpg
 ---
 
 # Brief description

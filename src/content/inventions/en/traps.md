@@ -6,6 +6,7 @@ materialsUsed:
   - plant-fibers
   - leather
   - iron
+image: ../../../assets/images/inventions/traps.jpg
 ---
 
 # Brief description

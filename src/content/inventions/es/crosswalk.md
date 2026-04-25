@@ -5,6 +5,7 @@ materialsUsed:
   - piedra
   - hormigon
   - asphalt
+image: ../../../assets/images/inventions/crosswalk.jpg
 ---
 
 # Breve descripción

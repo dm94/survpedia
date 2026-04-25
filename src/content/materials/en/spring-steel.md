@@ -1,12 +1,24 @@
 ---
-title: "Spring Steel"
-formula: "Fe + C + Mn/Si"
-composition: ["iron", "carbon", "manganese", "silicon"]
-properties: ["High yield strength", "Elasticity", "Resilience"]
-uses: ["Springs", "Blades", "Lockpicks", "Antennas"]
+title: Spring Steel
+formula: Fe + C + Mn/Si
+composition:
+  - iron
+  - carbon
+  - manganese
+  - silicon
+properties:
+  - High yield strength
+  - Elasticity
+  - Resilience
+uses:
+  - Springs
+  - Blades
+  - Lockpicks
+  - Antennas
 naturalAvailability: false
-manufacturingProcess: "Alloying steel with medium-to-high carbon and hardening/tempering."
+manufacturingProcess: Alloying steel with medium-to-high carbon and hardening/tempering.
 category: synthetic
+image: ../../../assets/images/materials/spring-steel.jpg
 ---
 
 # Description

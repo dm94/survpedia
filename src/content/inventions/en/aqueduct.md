@@ -9,6 +9,7 @@ materialsUsed:
   - pickaxe
   - shovel
   - level
+image: ../../../assets/images/inventions/aqueduct.jpg
 ---
 
 # Brief description

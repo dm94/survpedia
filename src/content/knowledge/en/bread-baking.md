@@ -1,5 +1,5 @@
 ---
-title: "Bread Baking"
+title: Bread Baking
 relatedMaterials:
   - wheat
   - water
@@ -17,6 +17,7 @@ relatedInventions:
   - kiln
   - fire
   - containers
+image: ../../../assets/images/knowledge/bread-baking.jpg
 ---
 
 # Brief description

@@ -1,6 +1,10 @@
 ---
-title: "Radiado de Radios"
-materialsUsed: ["wire", "metal", "wood"]
+title: Radiado de Radios
+materialsUsed:
+  - wire
+  - metal
+  - wood
+image: ../../../assets/images/inventions/spoke-lacing.jpg
 ---
 
 # Breve descripción

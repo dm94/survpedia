@@ -20,6 +20,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Enfriamiento rápido de lava rica en sílice hasta formar vidrio.
 category: mineral
+image: ../../../assets/images/materials/obsidian.jpg
 ---
 
 La obsidiana es un vidrio volcánico natural que se forma cuando la lava rica en sílice se enfría tan rápido que no llegan a formarse cristales. Se fractura en bordes extremadamente afilados y puede tallarse para herramientas de corte precisas.

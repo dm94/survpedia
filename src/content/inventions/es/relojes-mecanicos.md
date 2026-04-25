@@ -1,6 +1,11 @@
 ---
-title: "Relojes Mecánicos"
-materialsUsed: ["metal", "wood", "stone", "glass"]
+title: Relojes Mecánicos
+materialsUsed:
+  - metal
+  - wood
+  - stone
+  - glass
+image: ../../../assets/images/inventions/relojes-mecanicos.jpg
 ---
 
 # Breve descripción

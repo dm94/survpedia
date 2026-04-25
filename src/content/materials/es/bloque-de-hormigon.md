@@ -18,6 +18,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Moldeo de hormigón rígido en moldes y vibrado para compactar.
 category: synthetic
+image: ../../../assets/images/materials/bloque-de-hormigon.jpg
 ---
 
 Un bloque de hormigón es un bloque rectangular de tamaño estándar utilizado en la construcción de edificios. Generalmente son huecos para reducir el peso y permitir el refuerzo de acero (varillas) y el aislamiento.

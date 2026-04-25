@@ -10,8 +10,11 @@ uses:
   - Fuente rápida de energía
   - Portador de sabor y color
 naturalAvailability: false
-manufacturingProcess: El azúcar granulado se derrite y se hace girar para formar hilos finos por fuerza centrífuga, luego se recoge en una masa esponjosa.
+manufacturingProcess: >-
+  El azúcar granulado se derrite y se hace girar para formar hilos finos por
+  fuerza centrífuga, luego se recoge en una masa esponjosa.
 category: other
+image: ../../../assets/images/materials/cotton-candy.jpg
 ---
 
 El algodón de azúcar es azúcar hilada formada en fibras delicadas y aireadas.

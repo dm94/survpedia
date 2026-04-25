@@ -19,6 +19,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Forjado (tradicional) o corte de alambre (moderno).
 category: synthetic
+image: ../../../assets/images/materials/nail.jpg
 ---
 
 Un clavo es una pequeña espiga de metal con una cabeza ancha y plana, que se clava en la madera para unir cosas. Es uno de los sujetadores más fundamentales en la construcción.

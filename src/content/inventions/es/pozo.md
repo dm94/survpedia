@@ -6,6 +6,7 @@ materialsUsed:
   - rope
   - shovel
   - pico
+image: ../../../assets/images/inventions/pozo.jpg
 ---
 
 # Breve descripción

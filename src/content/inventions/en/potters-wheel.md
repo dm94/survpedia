@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - stone
   - clay
+image: ../../../assets/images/inventions/potters-wheel.jpg
 ---
 
 # Brief description

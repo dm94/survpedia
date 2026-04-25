@@ -1,6 +1,12 @@
 ---
-title: "Herramientas de medición"
-materialsUsed: ["wood", "iron", "piedra", "rope", "water"]
+title: Herramientas de medición
+materialsUsed:
+  - wood
+  - iron
+  - piedra
+  - rope
+  - water
+image: ../../../assets/images/inventions/measuring-tools.jpg
 ---
 
 # Descripción breve

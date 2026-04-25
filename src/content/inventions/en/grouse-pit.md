@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - stone
   - plant-fibers
+image: ../../../assets/images/inventions/grouse-pit.jpg
 ---
 
 # Brief description

@@ -6,6 +6,7 @@ materialsUsed:
   - iron
   - plant-fibers
   - resin
+image: ../../../assets/images/inventions/lures.jpg
 ---
 
 # Brief description

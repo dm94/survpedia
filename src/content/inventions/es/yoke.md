@@ -3,6 +3,7 @@ title: Yugo
 materialsUsed:
   - wood
   - leather
+image: ../../../assets/images/inventions/yoke.jpg
 ---
 
 # Breve descripción

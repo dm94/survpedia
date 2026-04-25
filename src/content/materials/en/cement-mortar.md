@@ -17,8 +17,11 @@ uses:
   - Flooring screeds
   - Structural repairs
 naturalAvailability: false
-manufacturingProcess: Mixing cement and sand in specific ratios (usually 1:3 to 1:5) with water until a plastic paste is formed.
+manufacturingProcess: >-
+  Mixing cement and sand in specific ratios (usually 1:3 to 1:5) with water
+  until a plastic paste is formed.
 category: synthetic
+image: ../../../assets/images/materials/cement-mortar.jpg
 ---
 
 Cement mortar is a mixture of **[Cement](/en/materials/cement)**, **[Sand](/en/materials/sand)**, and **[Water](/en/materials/water)**. It is the standard bonding agent for modern masonry, providing high strength and water resistance. Unlike lime mortar, it sets quickly and becomes very hard and rigid.

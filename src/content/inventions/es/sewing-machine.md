@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - yarn
   - needle
+image: ../../../assets/images/inventions/sewing-machine.jpg
 ---
 
 # Breve descripción

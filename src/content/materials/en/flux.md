@@ -1,12 +1,24 @@
 ---
-title: "Flux"
-formula: "Depends on type (e.g., SiO2, Na2B4O7·10H2O)"
-composition: ["silicon", "oxygen", "boron", "sodium"]
-properties: ["Cleaning Agent", "Flow Promoter", "Oxidation Inhibitor"]
-uses: ["Welding", "Soldering", "Smelting", "Metal Casting"]
+title: Flux
+formula: 'Depends on type (e.g., SiO2, Na2B4O7·10H2O)'
+composition:
+  - silicon
+  - oxygen
+  - boron
+  - sodium
+properties:
+  - Cleaning Agent
+  - Flow Promoter
+  - Oxidation Inhibitor
+uses:
+  - Welding
+  - Soldering
+  - Smelting
+  - Metal Casting
 naturalAvailability: true
-manufacturingProcess: "Varies. Sand is natural. Borax is mined. Rosin is from pine sap."
+manufacturingProcess: Varies. Sand is natural. Borax is mined. Rosin is from pine sap.
 category: mineral
+image: ../../../assets/images/materials/flux.jpg
 ---
 
 Flux is a chemical cleaning agent, flowing agent, or purifying agent. Fluxes may have more than one function at a time. They are used in both extractive metallurgy and metal joining.

@@ -1,6 +1,11 @@
 ---
-title: "Mill"
-materialsUsed: ["stone", "wood", "iron", "animal-fat"]
+title: Mill
+materialsUsed:
+  - stone
+  - wood
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/mill.jpg
 ---
 
 # Brief description

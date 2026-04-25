@@ -20,6 +20,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Rapid cooling of silica-rich lava into glass.
 category: mineral
+image: ../../../assets/images/materials/obsidian.jpg
 ---
 
 Obsidian is a natural volcanic glass formed when silica-rich lava cools so fast that crystals cannot form. It fractures into razor-sharp edges and can be shaped into precise cutting tools.

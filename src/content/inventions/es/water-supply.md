@@ -1,11 +1,12 @@
 ---
-title: "Suministro de Agua"
+title: Suministro de Agua
 materialsUsed:
   - concrete
   - stone
   - brick
   - plastic
   - metal
+image: ../../../assets/images/inventions/water-supply.jpg
 ---
 
 # Breve descripción

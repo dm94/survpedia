@@ -5,6 +5,7 @@ materialsUsed:
   - hormigon
   - steel
   - piedra
+image: ../../../assets/images/inventions/puente-atirantado.jpg
 ---
 
 # Breve descripción

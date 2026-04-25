@@ -14,6 +14,7 @@ uses:
 naturalAvailability: true
 manufacturingProcess: Harvested from the Guaiacum tree.
 category: plant
+image: ../../../assets/images/materials/lignum-vitae.jpg
 ---
 
 # Brief description

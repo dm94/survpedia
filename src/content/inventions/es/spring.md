@@ -1,6 +1,10 @@
 ---
-title: "Resorte (Muelle)"
-materialsUsed: ["spring-steel", "bronze", "brass"]
+title: Resorte (Muelle)
+materialsUsed:
+  - spring-steel
+  - bronze
+  - brass
+image: ../../../assets/images/inventions/spring.jpg
 ---
 
 # Breve descripción

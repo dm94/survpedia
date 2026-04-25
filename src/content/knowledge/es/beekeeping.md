@@ -13,6 +13,7 @@ relatedInventions:
   - candle
   - apiary
   - traps
+image: ../../../assets/images/knowledge/beekeeping.jpg
 ---
 
 # Breve descripción

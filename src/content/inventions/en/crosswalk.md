@@ -5,6 +5,7 @@ materialsUsed:
   - stone
   - concrete
   - asphalt
+image: ../../../assets/images/inventions/crosswalk.jpg
 ---
 
 # Brief description

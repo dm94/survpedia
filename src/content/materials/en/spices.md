@@ -18,6 +18,7 @@ manufacturingProcess: >-
   Harvested from bark, seeds, roots, or fruits and then cleaned, dried, and
   ground or blended for storage and use.
 category: plant
+image: ../../../assets/images/materials/spices.jpg
 ---
 
 Spices are dried aromatic plant parts used to flavor, preserve, and sometimes medicate food. They are valued for concentrated oils and resins that remain potent after drying.

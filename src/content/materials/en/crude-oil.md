@@ -15,8 +15,11 @@ uses:
   - Lubricant base after processing
   - Waterproofing in heavy fractions
 naturalAvailability: true
-manufacturingProcess: Collected from natural seeps or wells, then separated from water and gas by settling and basic filtration.
+manufacturingProcess: >-
+  Collected from natural seeps or wells, then separated from water and gas by
+  settling and basic filtration.
 category: mineral
+image: ../../../assets/images/materials/crude-oil.jpg
 ---
 
 Crude oil is a naturally occurring liquid mixture of hydrocarbons formed from ancient biological material under heat and pressure.

@@ -1,12 +1,28 @@
 ---
-title: "Ácido Nítrico"
-formula: "HNO3"
-composition: ["hydrogen", "nitrogen", "oxygen"]
-properties: ["Corrosivo", "Oxidante fuerte", "Líquido", "Olor punzante", "Altamente reactivo"]
-uses: ["Producción de fertilizantes", "Fabricación de explosivos", "Fotografía", "Grabado de metales", "Síntesis química"]
+title: Ácido Nítrico
+formula: HNO3
+composition:
+  - hydrogen
+  - nitrogen
+  - oxygen
+properties:
+  - Corrosivo
+  - Oxidante fuerte
+  - Líquido
+  - Olor punzante
+  - Altamente reactivo
+uses:
+  - Producción de fertilizantes
+  - Fabricación de explosivos
+  - Fotografía
+  - Grabado de metales
+  - Síntesis química
 naturalAvailability: false
-manufacturingProcess: "Históricamente producido destilando nitrato de potasio (salitre) con ácido sulfúrico."
+manufacturingProcess: >-
+  Históricamente producido destilando nitrato de potasio (salitre) con ácido
+  sulfúrico.
 category: synthetic
+image: ../../../assets/images/materials/nitric-acid.jpg
 ---
 
 El ácido nítrico, también conocido como *aqua fortis* (agua fuerte), es un ácido mineral altamente corrosivo. Es un reactivo primordial en la química industrial, esencial para la fijación de nitrógeno en fertilizantes y la producción de explosivos.

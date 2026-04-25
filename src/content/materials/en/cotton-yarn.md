@@ -15,6 +15,7 @@ manufacturingProcess: >-
   Cotton is harvested from bolls, ginned to remove seeds, carded and combed,
   then spun into continuous yarn for weaving or sewing.
 category: plant
+image: ../../../assets/images/materials/cotton-yarn.jpg
 ---
 
 Cotton and yarn cover the material chain from raw cotton fiber to the spun strands used for textiles and stitching.

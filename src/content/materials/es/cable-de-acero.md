@@ -15,8 +15,10 @@ uses:
   - Minería
 naturalAvailability: false
 manufacturingProcess: >-
-  Trefilado de acero en alambres finos, trenzado de alambres en cordones y trenzado de cordones en un cable grueso.
+  Trefilado de acero en alambres finos, trenzado de alambres en cordones y
+  trenzado de cordones en un cable grueso.
 category: synthetic
+image: ../../../assets/images/materials/cable-de-acero.jpg
 ---
 
 El cable de acero es un tipo de cuerda que consta de varios hilos de alambre de metal colocados (torcidos) en una hélice. Es esencial para la elevación pesada moderna y la construcción de grandes luces.

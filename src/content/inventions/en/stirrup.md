@@ -1,6 +1,12 @@
 ---
-title: "Stirrup"
-materialsUsed: ["iron", "steel", "leather", "wood", "bronze"]
+title: Stirrup
+materialsUsed:
+  - iron
+  - steel
+  - leather
+  - wood
+  - bronze
+image: ../../../assets/images/inventions/stirrup.jpg
 ---
 
 # Brief description

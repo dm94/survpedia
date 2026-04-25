@@ -1,7 +1,14 @@
 ---
-title: "Selective Breeding"
-relatedMaterials: ["wheat", "maize", "potato", "livestock"]
-relatedInventions: ["apiary", "simple-housing"]
+title: Selective Breeding
+relatedMaterials:
+  - wheat
+  - maize
+  - potato
+  - livestock
+relatedInventions:
+  - apiary
+  - simple-housing
+image: ../../../assets/images/knowledge/selective-breeding.jpg
 ---
 
 # Brief description

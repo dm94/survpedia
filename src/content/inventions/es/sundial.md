@@ -1,6 +1,10 @@
 ---
-title: "Reloj de Sol"
-materialsUsed: ["piedra", "metal", "wood"]
+title: Reloj de Sol
+materialsUsed:
+  - piedra
+  - metal
+  - wood
+image: ../../../assets/images/inventions/sundial.jpg
 ---
 
 # Descripción breve

@@ -6,6 +6,7 @@ materialsUsed:
   - water
   - mercury
   - iron
+image: ../../../assets/images/inventions/perpetual-motion.jpg
 ---
 
 # Brief description

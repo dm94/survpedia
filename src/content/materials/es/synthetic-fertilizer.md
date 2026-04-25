@@ -1,12 +1,26 @@
 ---
-title: "Fertilizante sintético"
-formula: "NH4NO3, (NH4)2SO4, etc."
-composition: ["nitrogen", "phosphorus", "potassium"]
-properties: ["Granular", "Altamente soluble", "Alto contenido de nitrógeno", "A menudo higroscópico"]
-uses: ["Nutrición de cultivos", "Aumento de rendimientos agrícolas", "Agricultura industrial"]
+title: Fertilizante sintético
+formula: 'NH4NO3, (NH4)2SO4, etc.'
+composition:
+  - nitrogen
+  - phosphorus
+  - potassium
+properties:
+  - Granular
+  - Altamente soluble
+  - Alto contenido de nitrógeno
+  - A menudo higroscópico
+uses:
+  - Nutrición de cultivos
+  - Aumento de rendimientos agrícolas
+  - Agricultura industrial
 naturalAvailability: false
-manufacturingProcess: "Producido mediante la reacción del amoníaco con varios ácidos (como el ácido nítrico o sulfúrico) para crear sales ricas en nitrógeno. A menudo se agregan otros minerales como fósforo y potasio para crear fertilizantes NPK."
+manufacturingProcess: >-
+  Producido mediante la reacción del amoníaco con varios ácidos (como el ácido
+  nítrico o sulfúrico) para crear sales ricas en nitrógeno. A menudo se agregan
+  otros minerales como fósforo y potasio para crear fertilizantes NPK.
 category: synthetic
+image: ../../../assets/images/materials/synthetic-fertilizer.jpg
 ---
 
 Los fertilizantes sintéticos son sustancias fabricadas químicamente que proporcionan nutrientes esenciales (nitrógeno, fósforo y potasio) a las plantas en una forma altamente concentrada y fácilmente disponible. Son la piedra angular de la Revolución Verde.

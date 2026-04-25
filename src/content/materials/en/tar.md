@@ -22,6 +22,7 @@ manufacturingProcess: >-
   Destructive distillation of organic matter (pine roots, birch bark, coal) in a
   low-oxygen environment.
 category: synthetic
+image: ../../../assets/images/materials/tar.jpg
 ---
 
 Tar is a dark, thick, oily liquid produced by the destructive distillation of organic matter, such as wood or coal. Pine tar, specifically, has been used for centuries to preserve wood and rope.

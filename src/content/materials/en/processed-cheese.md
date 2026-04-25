@@ -13,8 +13,11 @@ uses:
   - Trade good
   - Preservation
 naturalAvailability: false
-manufacturingProcess: Blending cheese or curd with moisture and salt, heating to emulsify, then forming and cooling.
+manufacturingProcess: >-
+  Blending cheese or curd with moisture and salt, heating to emulsify, then
+  forming and cooling.
 category: animal
+image: ../../../assets/images/materials/processed-cheese.jpg
 ---
 
 Processed cheese is a re-melted dairy product made by blending cheese or curd with moisture and salt, then heating until it emulsifies into a uniform paste. It improves melt behavior, consistency, and short-term storage stability.

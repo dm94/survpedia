@@ -15,8 +15,10 @@ uses:
   - Mining
 naturalAvailability: false
 manufacturingProcess: >-
-  Drawing steel into thin wires, twisting wires into strands, and twisting strands into a thick cable.
+  Drawing steel into thin wires, twisting wires into strands, and twisting
+  strands into a thick cable.
 category: synthetic
+image: ../../../assets/images/materials/steel-cable.jpg
 ---
 
 Steel cable (or wire rope) is a type of rope which consists of several strands of metal wire laid (twisted) into a helix. It is essential for modern heavy lifting and long-span construction.

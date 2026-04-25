@@ -17,8 +17,9 @@ uses:
   - Billiard tables
   - Electrical insulation
 naturalAvailability: true
-manufacturingProcess: Quarrying, splitting along cleavage planes, and trimming to shape.
+manufacturingProcess: 'Quarrying, splitting along cleavage planes, and trimming to shape.'
 category: mineral
+image: ../../../assets/images/materials/slate.jpg
 ---
 
 Slate is a fine-grained, foliated metamorphic rock that is created by the alteration of shale or mudstone by low-grade regional metamorphism. It is famous for its ability to split into thin, flat sheets (fissility).

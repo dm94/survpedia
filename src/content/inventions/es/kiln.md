@@ -5,6 +5,7 @@ materialsUsed:
   - stone
   - wood
   - charcoal
+image: ../../../assets/images/inventions/kiln.jpg
 ---
 
 # Breve descripción

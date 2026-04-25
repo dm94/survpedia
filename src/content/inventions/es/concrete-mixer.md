@@ -4,6 +4,7 @@ materialsUsed:
   - steel
   - iron
   - wood
+image: ../../../assets/images/inventions/concrete-mixer.jpg
 ---
 
 # Breve descripción

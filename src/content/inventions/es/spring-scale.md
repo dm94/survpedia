@@ -1,6 +1,9 @@
 ---
-title: "Báscula de resorte"
-materialsUsed: ["metal", "plastic"]
+title: Báscula de resorte
+materialsUsed:
+  - metal
+  - plastic
+image: ../../../assets/images/inventions/spring-scale.jpg
 ---
 
 # Descripción breve

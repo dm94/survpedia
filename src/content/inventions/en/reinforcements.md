@@ -1,6 +1,13 @@
 ---
 title: Structural reinforcements
-materialsUsed: ["wood", "stone", "iron", "steel", "clay", "plant-fibers"]
+materialsUsed:
+  - wood
+  - stone
+  - iron
+  - steel
+  - clay
+  - plant-fibers
+image: ../../../assets/images/inventions/reinforcements.jpg
 ---
 
 # Brief description

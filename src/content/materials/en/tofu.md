@@ -13,8 +13,11 @@ uses:
   - Preservation
   - Trade good
 naturalAvailability: false
-manufacturingProcess: Coagulation of soy milk with salts or acids, followed by pressing and draining.
+manufacturingProcess: >-
+  Coagulation of soy milk with salts or acids, followed by pressing and
+  draining.
 category: plant
+image: ../../../assets/images/materials/tofu.jpg
 ---
 
 Tofu is a plant-based curd made by coagulating soy milk and pressing the curds into blocks. It concentrates soybeans into a mild, versatile protein with variable firmness.

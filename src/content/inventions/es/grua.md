@@ -1,6 +1,11 @@
 ---
-title: "Grúa"
-materialsUsed: ["wood", "iron", "rope", "cable-de-acero"]
+title: Grúa
+materialsUsed:
+  - wood
+  - iron
+  - rope
+  - cable-de-acero
+image: ../../../assets/images/inventions/grua.jpg
 ---
 
 # Breve descripción

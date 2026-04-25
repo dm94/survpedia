@@ -17,6 +17,7 @@ manufacturingProcess: >-
   Retorcer fibras vegetales, pelo o tendón en cordones y trenzar varias hebras
   para aumentar la resistencia.
 category: other
+image: ../../../assets/images/materials/cuerda.jpg
 ---
 
 La cuerda es un cordón delgado hecho al retorcer fibras en una hebra continua. Se utiliza para atar, sujetar y unir materiales cuando se necesita un conector flexible.

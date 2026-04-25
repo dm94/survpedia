@@ -15,10 +15,11 @@ uses:
   - Binding
   - Rope
   - Springs
-  - "**[Electromagnet](/en/inventions/electromagnet)**"
+  - '**[Electromagnet](/en/inventions/electromagnet)**'
 naturalAvailability: false
 manufacturingProcess: Drawing metal through a series of dies with decreasing diameters.
 category: synthetic
+image: ../../../assets/images/materials/wire.jpg
 ---
 
 A single flexible strand or rod of metal. Wire is used to bear mechanical loads or electricity and telecommunications signals.

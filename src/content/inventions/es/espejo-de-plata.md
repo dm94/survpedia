@@ -5,6 +5,7 @@ materialsUsed:
   - silver
   - tin
   - paint
+image: ../../../assets/images/inventions/espejo-de-plata.jpg
 ---
 
 # Breve descripción
