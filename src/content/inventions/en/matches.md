@@ -25,7 +25,7 @@ Matches function through friction-induced chemical ignition:
 1.  **Friction:** Striking the match against a rough surface generates localized heat.
 2.  **Ignition:** This heat triggers a reaction in the match head chemicals. In early friction matches, this involved unstable compounds like white phosphorus or antimony trisulfide.
 3.  **Combustion:** The initial spark ignites the main fuel in the head (usually **[Sulfur](/en/materials/sulfur)**), which then catches the **[Wood](/en/materials/wood)** stick on fire.
-4.  **Oxidization:** An oxidizing agent (like **[Potassium Nitrate](/en/materials/potassium_nitrate)** or potassium chlorate) provides oxygen to sustain the rapid reaction.
+4.  **Oxidation:** An oxidizing agent (like **[Potassium Nitrate](/en/materials/potassium_nitrate)** or potassium chlorate) provides oxygen to sustain the rapid reaction.
 
 ## How to create it
 
