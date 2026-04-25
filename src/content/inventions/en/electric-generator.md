@@ -6,7 +6,7 @@ materialsUsed: ["copper", "iron", "steel", "wood"]
 
 # Brief description
 
-An electric generator is a device that transforms mechanical energy into electrical energy, allowing the supply of current for various applications.
+An electric generator is a device that transforms mechanical energy into electrical energy, allowing the supply of current for various applications. It is a key technology in the field of **[Electricity](/en/knowledge/electricity)**.
 
 ## Use / Function
 

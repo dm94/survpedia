@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/lente.jpg
 
 # Breve descripción
 
-Una lente es un objeto transparente (generalmente de vidrio, plástico o cristal) con al menos una superficie curva que utiliza la **refracción** para desviar los rayos de luz, ya sea concentrándolos (convergentes) o dispersándolos (divergentes). La refracción es el cambio de dirección de la luz al pasar de un medio a otro de diferente densidad.
+Una lente es un objeto transparente (generalmente vidrio, plástico o cristal) con al menos una superficie curva que utiliza la **refracción** para desviar los rayos de luz, ya sea concentrándolos (convergentes) o dispersándolos (divergentes). La refracción es el principio fundamental de la **[Óptica](/es/knowledge/optics)**.
 
 ## Uso / Función
 

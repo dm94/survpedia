@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/lens.jpg
 
 # Brief description
 
-A lens is a transparent object (usually glass, plastic, or crystal) with at least one curved surface that uses **refraction** to bend light rays, either concentrating them (converging) or spreading them out (diverging). Refraction is the bending of light as it passes from one medium to another of different density.
+A lens is a transparent object (usually glass, plastic, or crystal) with at least one curved surface that uses **refraction** to bend light rays, either concentrating them (converging) or spreading them out (diverging). Refraction is the fundamental principle of **[Optics](/en/knowledge/optics)**.
 
 ## Use / Function
 

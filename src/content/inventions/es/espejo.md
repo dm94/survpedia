@@ -15,7 +15,7 @@ image: ../../../assets/images/inventions/espejo.jpg
 
 # Breve descripción
 
-Un espejo es una superficie pulida que refleja la luz de manera especular, produciendo una imagen virtual de los objetos frente a ella. Es una herramienta esencial para el cuidado personal, la observación científica y la señalización.
+Un espejo es una superficie pulida que refleja la luz de manera especular, produciendo una imagen virtual de los objetos situados frente a él. Es una herramienta esencial para el cuidado personal, la observación científica y la señalización, y una de las aplicaciones principales de la **[Óptica](/es/knowledge/optics)**.
 
 ## Uso / Función
 

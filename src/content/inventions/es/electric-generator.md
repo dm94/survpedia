@@ -6,7 +6,7 @@ materialsUsed: ["copper", "iron", "steel", "wood"]
 
 # Breve descripción
 
-Un generador eléctrico es un dispositivo que transforma energía mecánica en energía eléctrica, permitiendo el suministro de corriente para diversas aplicaciones.
+Un generador eléctrico es un dispositivo que transforma energía mecánica en energía eléctrica, permitiendo el suministro de corriente para diversas aplicaciones. Es una tecnología clave en el campo de la **[Electricidad](/es/knowledge/electricity)**.
 
 ## Uso / Función
 
