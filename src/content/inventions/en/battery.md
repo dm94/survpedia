@@ -6,7 +6,7 @@ image: ../../../assets/inventions/battery.jpg
 
 # Battery (Electric Cell)
 
-A device that converts stored chemical energy into electrical energy. It allows for portable power and the operation of electrical devices without a continuous connection to a generator.
+A device that converts stored chemical energy into electrical energy. It is a fundamental application of **[Electricity](/en/knowledge/electricity)**, allowing for portable power and the operation of electrical devices without a continuous connection to a generator.
 
 ## Use / Function
 

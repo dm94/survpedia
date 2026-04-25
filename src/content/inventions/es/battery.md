@@ -6,7 +6,7 @@ image: ../../../assets/inventions/battery.jpg
 
 # Batería (Pila Eléctrica)
 
-Un dispositivo que convierte la energía química almacenada en energía eléctrica. Permite la energía portátil y el funcionamiento de dispositivos eléctricos sin una conexión continua a un generador.
+Un dispositivo que convierte la energía química almacenada en energía eléctrica. Es una aplicación fundamental de la **[Electricidad](/es/knowledge/electricity)**, que permite la energía portátil y el funcionamiento de dispositivos eléctricos sin una conexión continua a un generador.
 
 ## Uso / Función
 

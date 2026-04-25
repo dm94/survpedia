@@ -6,7 +6,7 @@ materialsUsed: ["copper", "iron", "steel", "magnetite", "wood", "wire"]
 
 # Brief description
 
-An electric motor is a machine that converts electrical energy into mechanical energy. It is the reverse of an electric generator and is fundamental for powering machinery, vehicles, and tools using electricity.
+An electric motor is a machine that converts electrical energy into mechanical energy. It is the reverse of an electric generator and is a fundamental application of **[Electricity](/en/knowledge/electricity)** for powering machinery, vehicles, and tools.
 
 ## Use / Function
 

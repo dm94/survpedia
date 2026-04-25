@@ -15,7 +15,7 @@ image: ../../../assets/images/inventions/mirror.jpg
 
 # Brief description
 
-A mirror is a polished surface that reflects light specularly, producing a virtual image of objects in front of it. It is an essential tool for personal care, scientific observation, and signaling.
+A mirror is a polished surface that reflects light specularly, producing a virtual image of objects in front of it. It is an essential tool for personal care, scientific observation, and signaling, and one of the primary applications of **[Optics](/en/knowledge/optics)**.
 
 ## Use / Function
 

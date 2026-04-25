@@ -6,7 +6,7 @@ materialsUsed: ["copper", "iron", "steel", "magnetite", "wood", "wire"]
 
 # Breve descripción
 
-Un motor eléctrico es una máquina que convierte la energía eléctrica en energía mecánica. Es el inverso de un generador eléctrico y es fundamental para accionar maquinaria, vehículos y herramientas utilizando electricidad.
+Un motor eléctrico es una máquina que convierte la energía eléctrica en energía mecánica. Es el inverso de un generador eléctrico y es una aplicación fundamental de la **[Electricidad](/es/knowledge/electricity)** para accionar maquinaria, vehículos y herramientas.
 
 ## Uso / Función
 
