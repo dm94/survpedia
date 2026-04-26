@@ -42,7 +42,7 @@ El arrabio es un metal oscuro, pesado y extremadamente quebradizo. Si se golpea 
 
 ### Formas comunes de uso
 
-- **Remitido**: Se utiliza en fundiciones para crear **[Hierro Fundido](/es/materials/cast-iron)**.
+- **Refundido**: Se vuelve a fundir en hornos de fundición para crear **[Hierro Fundido](/es/materials/cast-iron)**.
 - **Refinado**: La materia prima principal para el **[Proceso Bessemer](/es/knowledge/bessemer-process)** para crear **[Acero](/es/materials/steel)**.
 - **Pudelado**: Un proceso más antiguo para crear hierro forjado agitando arrabio fundido en una atmósfera oxidante.
 
