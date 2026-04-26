@@ -17,7 +17,7 @@ A blast furnace is a large-scale industrial furnace used for smelting to produce
 
 ## Use / Function
 
-- **Large-scale iron production**: Produces molten "pig iron" from iron ore.
+- **Large-scale iron production**: Produces molten **[Pig Iron](/en/materials/pig-iron)** from iron ore.
 - **Continuous operation**: Designed to run non-stop for months or years.
 - **Efficiency**: Higher fuel efficiency and output compared to traditional bloomery furnaces.
 

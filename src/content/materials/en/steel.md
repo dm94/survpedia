@@ -33,8 +33,8 @@ Steel is a hard, strong, greyish metal. It can be polished to a high shine. Unli
 
 ### Minimum processing required
 
-1.  **Smelting**: Iron ore is smelted into pig iron.
-2.  **Refining**: Impurities are removed, and carbon content is adjusted (Bessemmer process or modern basic oxygen steelmaking).
+1.  **Smelting**: Iron ore is smelted into **[Pig Iron](/en/materials/pig-iron)**.
+2.  **Refining**: Impurities are removed, and carbon content is adjusted (**[Bessemer process](/en/knowledge/bessemer-process)** or modern basic oxygen steelmaking).
 3.  **Heat Treatment**: Quenching and tempering to adjust hardness and toughness.
 
 ### Tools needed to work on it

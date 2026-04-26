@@ -17,7 +17,7 @@ Un alto horno es un horno industrial a gran escala utilizado para la fundición 
 
 ## Uso / Función
 
-- **Producción de hierro a gran escala**: Produce "arrabio" fundido a partir de mineral de hierro.
+- **Producción de hierro a gran escala**: Produce **[Arrabio](/es/materials/pig-iron)** fundido a partir de mineral de hierro.
 - **Funcionamiento continuo**: Diseñado para funcionar sin interrupciones durante meses o años.
 - **Eficiencia**: Mayor eficiencia de combustible y producción en comparación con las forjas o hornos de fosa tradicionales.
 

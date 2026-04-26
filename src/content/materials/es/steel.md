@@ -35,8 +35,8 @@ El acero es un metal duro, fuerte y grisáceo. Puede pulirse hasta obtener un gr
 
 ### Procesamiento mínimo requerido
 
-1.  **Fundición**: El mineral de hierro se funde en arrabio.
-2.  **Refinado**: Se eliminan las impurezas y se ajusta el contenido de carbono (proceso Bessemer o acería moderna de oxígeno básico).
+1.  **Fundición**: El mineral de hierro se funde en **[Arrabio](/es/materials/pig-iron)**.
+2.  **Refinado**: Se eliminan las impurezas y se ajusta el contenido de carbono (**[Proceso Bessemer](/es/knowledge/bessemer-process)** o siderurgia moderna de oxígeno básico).
 3.  **Tratamiento térmico**: Templado y revenido para ajustar la dureza y tenacidad.
 
 ### Herramientas necesarias para trabajarlo
