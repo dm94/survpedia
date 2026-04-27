@@ -31,7 +31,7 @@ Generalmente se encuentra como un polvo blanco cristalino o prensado en tabletas
 
 ## Origen y dónde encontrarlo
 
-- **Entornos**: No se encuentra en la naturaleza en su forma acetilada. Su precursor, el ácido salicílico, se encuentra en la corteza de los árboles de **[Sauce](/en/knowledge/medicinal-plants)** y en la planta reina de los prados.
+- **Entornos**: No se encuentra en la naturaleza en su forma acetilada. Su precursor, el ácido salicílico, se encuentra en la corteza de los árboles de **[Sauce](/es/knowledge/medicinal-plants)** y en la planta reina de los prados.
 - **Señales**: Producto sintético; precursores identificados mediante conocimiento botánico.
 - **Natural vs Sintético**: Derivado sintético de un compuesto natural.
 
