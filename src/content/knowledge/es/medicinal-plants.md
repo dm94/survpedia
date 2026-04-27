@@ -1,6 +1,8 @@
 ---
 title: Plantas Medicinales
 image: ../../../assets/images/knowledge/medicinal-plants.jpg
+relatedMaterials:
+  - aspirin
 ---
 
 Las plantas medicinales son diversas especies vegetales que poseen compuestos bioactivos utilizados con fines terapéuticos. Son la base de la medicina tradicional y el precursor de la farmacología moderna.
@@ -37,7 +39,7 @@ Varían ampliamente en apariencia según la especie (hierbas, arbustos, árboles
 ### Posibles sustitutos
 
 - **Otras plantas**: Muchas plantas tienen efectos superpuestos (por ejemplo, la corteza de sauce y la reina de los prados contienen salicilatos para el dolor).
-- **Fármacos sintéticos**: Equivalentes farmacéuticos modernos.
+- **Fármacos sintéticos**: Equivalentes farmacéuticos modernos como la **[Aspirina](/es/materials/aspirin)** (un derivado sintético de la corteza de sauce).
 
 ### Limitaciones y fallos comunes
 
