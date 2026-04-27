@@ -56,6 +56,7 @@ El telégrafo es un sistema de comunicación que transmite señales eléctricas 
 -   **Retorno por Tierra**: Usar el suelo en lugar de un segundo cable ahorra el 50% del cobre.
 -   **Relé**: Para distancias muy largas, la señal se debilita. Un relé es un receptor telegráfico sensible que actúa como interruptor para un circuito de batería local nuevo, repitiendo la señal con plena potencia a la siguiente estación.
 -   **Sonda vs. Escritor**: Las primeras versiones marcaban cinta de papel; los operadores posteriores preferían escuchar los clics ("Sonda").
+-   **Teléfono**: Un avance posterior que utilizó los mismos principios del electromagnetismo para transmitir la voz real en lugar de solo clics. Ver **[Teléfono](/es/inventions/telephone)**.
 
 ## Límites y riesgos
 

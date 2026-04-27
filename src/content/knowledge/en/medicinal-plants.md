@@ -1,6 +1,8 @@
 ---
 title: Medicinal Plants
 image: ../../../assets/images/knowledge/medicinal-plants.jpg
+relatedMaterials:
+  - aspirin
 ---
 
 Medicinal plants are various species of vegetation that possess bioactive compounds used for therapeutic purposes. They are the foundation of traditional medicine and the precursor to modern pharmacology.
@@ -37,7 +39,7 @@ They vary widely in appearance depending on the species (herbs, shrubs, trees, r
 ### Possible substitutes
 
 - **Other plants**: Many plants have overlapping effects (e.g., willow bark and meadowsweet both contain salicylates for pain).
-- **Synthetic drugs**: Modern pharmaceutical equivalents.
+- **Synthetic drugs**: Modern pharmaceutical equivalents like **[Aspirin](/en/materials/aspirin)** (a synthetic derivative of willow bark).
 
 ### Limitations and common failures
 

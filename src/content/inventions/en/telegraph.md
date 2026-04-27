@@ -61,6 +61,7 @@ The telegraph is a communication system that transmits electric signals over wir
 - **Earth Return**: Using the ground instead of a second wire saves 50% of the copper.
 - **Relay**: For very long distances, the signal gets weak. A relay is a sensitive telegraph receiver that acts as a switch for a fresh local battery circuit, repeating the signal with full power to the next station.
 - **Sounder vs. Writer**: Early versions marked paper tape; later operators preferred listening to the clicks ("Sounder").
+- **Telephone**: A later advancement that used the same principles of electromagnetism to transmit actual voice instead of just clicks. See **[Telephone](/en/inventions/telephone)**.
 
 ## Limits and risks
 
