@@ -6,6 +6,7 @@ materialsUsed:
   - glue
   - glass
   - potassium_nitrate
+image: ../../../assets/images/inventions/matches.jpg
 ---
 
 # Brief description

@@ -13,6 +13,7 @@ relatedInventions:
   - incandescent-light-bulb
   - electromagnet
   - telegraph
+image: ../../../assets/images/knowledge/electricity.jpg
 ---
 
 # Brief description

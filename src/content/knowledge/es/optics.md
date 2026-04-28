@@ -12,6 +12,7 @@ relatedInventions:
   - microscope
   - camera-obscura
   - eyeglasses
+image: ../../../assets/images/knowledge/optics.jpg
 ---
 
 # Breve descripción

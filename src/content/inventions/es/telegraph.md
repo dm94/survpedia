@@ -62,5 +62,5 @@ El telégrafo es un sistema de comunicación que transmite señales eléctricas 
 
 -   **Resistencia**: Los cables finos a largas distancias tienen alta resistencia, debilitando la corriente. Necesitas cables más gruesos, mayor voltaje o relés.
 -   **Privacidad**: Cualquiera que se conecte al cable puede leer el mensaje.
--   **Habilidad**: Requiere aprender un código (como Morse) para usarlo eficazmente.
+- **Habilidad**: Requiere aprender un código (como el **[Código Morse](/es/knowledge/morse-code)**) para usarlo de manera efectiva.
 -   **Clima**: Los rayos que golpean la línea pueden destruir el equipo y matar a los operadores. Los pararrayos (espacios de chispa) son esenciales.

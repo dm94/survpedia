@@ -13,8 +13,11 @@ uses:
   - Productos de hierro fundido
   - Producción de hierro forjado
 naturalAvailability: false
-manufacturingProcess: Fundición de mineral de hierro con combustible rico en carbono (carbón vegetal o coque) en un alto horno.
+manufacturingProcess: >-
+  Fundición de mineral de hierro con combustible rico en carbono (carbón vegetal
+  o coque) en un alto horno.
 category: synthetic
+image: ../../../assets/images/materials/pig-iron.jpg
 ---
 
 El arrabio es el producto intermedio resultante de la fundición del mineral de hierro con un combustible con alto contenido de carbono y un fundente, como la caliza, en un alto horno. Tiene un contenido de carbono muy alto, lo que lo hace muy quebradizo y no es útil directamente como material estructural.

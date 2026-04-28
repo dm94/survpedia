@@ -53,6 +53,6 @@ Technical level: Intermediate. Requires accurate temperature measurement.
 
 ## Limits and risks
 
-- **Not Sterilization:** Pasteurization does not kill bacterial spores. Pasteurized products will eventually spoil and must be kept refrigerated.
+- **Not Sterilization:** Pasteurization does not kill bacterial spores. Pasteurized products will eventually spoil and must be kept refrigerated. See **[Sterilization](/en/knowledge/sterilization)** for total elimination of microbes.
 - **Re-contamination:** If the liquid is placed in a dirty container after heating, the process is rendered useless.
 - **Temperature Precision:** If the temperature is too low, pathogens survive; if too high, the flavor and proteins are damaged (e.g., "cooked" taste in milk).

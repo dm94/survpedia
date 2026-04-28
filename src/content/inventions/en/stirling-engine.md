@@ -7,6 +7,7 @@ materialsUsed:
   - aluminum
   - wood
   - water
+image: ../../../assets/images/inventions/stirling-engine.jpg
 ---
 
 # Brief description

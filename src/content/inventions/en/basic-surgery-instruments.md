@@ -37,7 +37,7 @@ A basic kit should include at least:
 ## Materials needed
 
 - **Stainless Steel**: For all metal instruments (rust resistance and ability to be sterilized).
-- **Sterilization equipment**: Boiling water, alcohol, or autoclave.
+- **Sterilization equipment**: Boiling water, alcohol, or autoclave. See **[Sterilization](/en/knowledge/sterilization)**.
 
 ## Variants and improvements
 

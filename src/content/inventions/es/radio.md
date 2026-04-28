@@ -51,3 +51,6 @@ Funciona bajo el principio de inducción electromagnética y resonancia.
 -   **Alcance:** Depende de la potencia del transmisor, las condiciones atmosféricas y la altura de la antena.
 -   **Interferencia:** Susceptible a estática por rayos y maquinaria eléctrica.
 -   **Energía:** Las radios amplificadas requieren una fuente de electricidad confiable (baterías, red eléctrica).
+
+### Conocimientos relacionados
+- **[Código Morse](/es/knowledge/morse-code)**: El lenguaje estándar para las primeras transmisiones de radio.

@@ -34,7 +34,7 @@ Un kit básico debe incluir al menos:
 ## Materiales necesarios
 
 - **Acero inoxidable**: Para todos los instrumentos metálicos (resistencia al óxido y capacidad de esterilización).
-- **Equipo de esterilización**: Agua hirviendo, alcohol o autoclave.
+- **Equipo de esterilización**: Agua hirviendo, alcohol o autoclave. Ver **[Esterilización](/es/knowledge/sterilization)**.
 
 ## Variantes y mejoras
 

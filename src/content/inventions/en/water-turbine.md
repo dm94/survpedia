@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - wood
   - copper
+image: ../../../assets/images/inventions/water-turbine.jpg
 ---
 
 # Brief description
