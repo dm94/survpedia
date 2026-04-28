@@ -7,6 +7,7 @@ relatedMaterials:
   - limestone
 relatedInventions:
   - blast-furnace
+image: ../../../assets/images/knowledge/bessemer-process.jpg
 ---
 
 # Brief description

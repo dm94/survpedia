@@ -53,3 +53,6 @@ It operates on the principle of electromagnetic induction and resonance.
 - **Range:** Depends on transmitter power, atmospheric conditions, and antenna height.
 - **Interference:** Susceptible to static from lightning and electrical machinery.
 - **Power:** Amplified radios require a reliable electricity source (batteries, mains).
+
+### Related Knowledge
+- **[Morse Code](/en/knowledge/morse-code)**: The standard language for early radio transmission.

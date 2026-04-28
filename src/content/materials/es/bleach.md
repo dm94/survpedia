@@ -21,6 +21,7 @@ manufacturingProcess: >-
   Producido mediante la electrólisis de salmuera (agua salada) o haciendo
   reaccionar gas cloro con una solución de hidróxido de sodio (soda cáustica).
 category: synthetic
+image: ../../../assets/images/materials/bleach.jpg
 ---
 
 La lejía, específicamente el hipoclorito de sodio en solución acuosa, es un potente agente oxidante. Es uno de los productos químicos más importantes para la salud pública, utilizado globalmente para desinfectar agua y superficies, neutralizando eficazmente bacterias, virus y hongos.

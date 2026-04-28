@@ -21,6 +21,7 @@ manufacturingProcess: >-
   Produced by the electrolysis of brine (salt water) or by reacting chlorine gas
   with a solution of sodium hydroxide (caustic soda).
 category: synthetic
+image: ../../../assets/images/materials/bleach.jpg
 ---
 
 Bleach, specifically sodium hypochlorite in aqueous solution, is a powerful oxidizing agent. It is one of the most important chemicals for public health, used globally to sanitize water and surfaces, effectively neutralizing bacteria, viruses, and fungi.

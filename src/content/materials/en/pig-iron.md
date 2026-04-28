@@ -15,6 +15,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: Smelting iron ore with high-carbon fuel (charcoal or coke) in a blast furnace.
 category: synthetic
+image: ../../../assets/images/materials/pig-iron.jpg
 ---
 
 Pig iron is the intermediate product of smelting iron ore with a high-carbon fuel and flux, such as limestone, as a fuel in a blast furnace. It has a very high carbon content, which makes it very brittle and not useful directly as a structural material.

@@ -53,6 +53,6 @@ Nivel técnico: Intermedio. Requiere una medición precisa de la temperatura.
 
 ## Límites y riesgos
 
-- **No es esterilización:** La pasteurización no mata las esporas bacterianas. Los productos pasteurizados eventualmente se echarán a perder y deben mantenerse refrigerados.
+- **No es esterilización:** La pasteurización no mata las esporas bacterianas. Los productos pasteurizados acabarán estropeándose y deben mantenerse refrigerados. Ver **[Esterilización](/es/knowledge/sterilization)** para la eliminación total de microbios.
 - **Recontaminación:** Si el líquido se coloca en un recipiente sucio después del calentamiento, el proceso queda inutilizado.
 - **Precisión de temperatura:** Si la temperatura es demasiado baja, los patógenos sobreviven; si es demasiado alta, el sabor y las proteínas se dañan (p. ej., sabor a "cocido" en la leche).

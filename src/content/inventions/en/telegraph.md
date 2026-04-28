@@ -67,5 +67,5 @@ The telegraph is a communication system that transmits electric signals over wir
 
 - **Resistance**: Thin wires over long distances have high resistance, weakening the current. You need thicker wires, higher voltage, or relays.
 - **Privacy**: Anyone tapping into the wire can read the message.
-- **Skill**: Requires learning a code (like Morse) to use effectively.
+- **Skill**: Requires learning a code (like **[Morse Code](/en/knowledge/morse-code)**) to use effectively.
 - **Weather**: Lightning strikes on the line can destroy equipment and kill operators. Lightning arresters (spark gaps) are essential.
