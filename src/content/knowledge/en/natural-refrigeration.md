@@ -13,7 +13,7 @@ image: ../../../assets/images/knowledge/natural-refrigeration.jpg
 
 # Brief Description
 
-Natural refrigeration encompasses a set of techniques and physical principles used to reduce the temperature of spaces, food, or liquids without the use of electricity or modern mechanical compressors. It relies on harnessing natural phenomena such as evaporation, nocturnal thermal radiation, earth's thermal inertia, and convective ventilation.
+Natural refrigeration encompasses a set of techniques and physical principles used to reduce the temperature of spaces, food, or liquids without the use of electricity or modern mechanical **[compressors](/en/inventions/air-compressor)**. It relies on harnessing natural phenomena such as evaporation, nocturnal thermal radiation, earth's thermal inertia, and convective ventilation.
 
 ## Use / Function
 
@@ -68,5 +68,5 @@ It is not a single object, but an application of techniques. General methods are
 ## Limits and Risks
 
 - **Humidity**: Evaporative cooling does not work well in very humid climates (jungles).
-- **Temperature Limits**: It hardly drops below freezing (0°C / 32°F) (except with stored ice), so it is not suitable for long-term deep freezing.
+- **Temperature Limits**: It hardly drops below freezing (0°C / 32°F) (except with stored ice), so it is not suitable for long-term deep freezing. For deeper cooling, **[Mechanical Refrigeration](/en/inventions/mechanical-refrigeration)** is required.
 - **Bacteria**: Moisture and cool but not freezing temperatures can encourage certain molds if hygiene is not maintained.
