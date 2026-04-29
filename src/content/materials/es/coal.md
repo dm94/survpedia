@@ -47,7 +47,7 @@ El carbón es una sustancia dura, negra, similar a la roca. Es pesado y a menudo
 
 - Carbón en trozos: Para calefacción doméstica y primeras máquinas de vapor.
 - Carbón pulverizado: Para centrales eléctricas modernas.
-- Coque: Carbón que ha sido calentado sin aire para eliminar componentes volátiles, utilizado en la fabricación de acero.
+- **[Coque](/es/materials/coke)**: Carbón que ha sido calentado sin aire para eliminar componentes volátiles, utilizado en la fabricación de acero.
 
 ### Posibles sustitutos
 
@@ -70,8 +70,9 @@ El carbón es una sustancia dura, negra, similar a la roca. Es pesado y a menudo
 ### Materiales relacionados
 
 - Carbono: El elemento principal.
-- Carbón vegetal: La versión sintética fabricada a partir de madera.
-- Acero: El carbón (como coque) es esencial para su producción.
+- **[Carbón vegetal (Charcoal)](/es/materials/charcoal)**: La versión sintética fabricada a partir de madera.
+- **[Coque (Coke)](/es/materials/coke)**: Carbón procesado para metalurgia.
+- **[Acero (Steel)](/es/materials/steel)**: El carbón (como coque) es esencial para su producción.
 
 ## Conocimiento Relacionado
 

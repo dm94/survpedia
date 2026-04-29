@@ -15,7 +15,7 @@ La producción de amoníaco a través del proceso Haber-Bosch es el método indu
 ## Uso / Función
 
 - **Uso principal:** Producción de amoníaco para fertilizantes sintéticos.
-- **Usos secundarios:** Fabricación de explosivos, refrigerantes y agentes de limpieza.
+- **Usos secundarios:** Fabricación de explosivos, **[refrigerantes](/es/inventions/mechanical-refrigeration)** y agentes de limpieza.
 - **Escala:** Plantas industriales a gran escala.
 
 ## Principio de funcionamiento
@@ -41,7 +41,7 @@ La producción de amoníaco a través del proceso Haber-Bosch es el método indu
 ## Materiales necesarios
 
 - **Esenciales:** **[Nitrógeno](/es/elements/nitrogen)** (del aire), **[Hidrógeno](/es/elements/hydrogen)** (del agua o hidrocarburos), **[Hierro](/es/materials/iron)** (catalizador).
-- **Equipo:** **[Acero](/es/materials/steel)** para recipientes a presión, **[Tuberías](/es/inventions/pipes)**, **[Válvulas](/es/inventions/valve)**, **[Bomba](/es/inventions/pump)** (compresores).
+- **Equipo:** **[Acero](/es/materials/steel)** para recipientes a presión, **[Tuberías](/es/inventions/pipes)**, **[Válvulas](/es/inventions/valve)**, **[Bomba](/es/inventions/pump)** y **[Compresores de aire](/es/inventions/air-compressor)**.
 - **Combustible:** **[Carbón](/es/materials/coal)** o gas natural para proporcionar calor e hidrógeno.
 
 ## Variantes y mejoras
@@ -63,6 +63,8 @@ La producción de amoníaco a través del proceso Haber-Bosch es el método indu
 - **[Bomba](/es/inventions/pump)**
 - **[Válvula](/es/inventions/valve)**
 - **[Tuberías](/es/inventions/pipes)**
+- **[Compresor de aire](/es/inventions/air-compressor)**
+- **[Refrigeración mecánica](/es/inventions/mechanical-refrigeration)**
 
 ### Materiales relacionados
 

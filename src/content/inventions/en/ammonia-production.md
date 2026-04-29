@@ -15,7 +15,7 @@ Ammonia production via the Haber-Bosch process is the industrial method for synt
 ## Use / Function
 
 - **Primary use:** Production of ammonia for synthetic fertilizers.
-- **Secondary uses:** Manufacturing explosives, refrigerants, and cleaning agents.
+- **Secondary uses:** Manufacturing explosives, **[Refrigerants](/en/inventions/mechanical-refrigeration)**, and cleaning agents.
 - **Scale:** Large-scale industrial plants.
 
 ## Operating principle
@@ -41,7 +41,7 @@ Ammonia production via the Haber-Bosch process is the industrial method for synt
 ## Materials needed
 
 - **Essential:** **[Nitrogen](/en/elements/nitrogen)** (from air), **[Hydrogen](/en/elements/hydrogen)** (from water or hydrocarbons), **[Iron](/en/materials/iron)** (catalyst).
-- **Equipment:** **[Steel](/en/materials/steel)** for pressure vessels, **[Pipes](/en/inventions/pipes)**, **[Valves](/en/inventions/valve)**, **[Pumps](/en/inventions/pump)** (for compression).
+- **Equipment:** **[Steel](/en/materials/steel)** for pressure vessels, **[Pipes](/en/inventions/pipes)**, **[Valves](/en/inventions/valve)**, **[Pumps](/en/inventions/pump)**, and **[Air Compressors](/en/inventions/air-compressor)**.
 - **Fuel:** **[Coal](/en/materials/coal)** or natural gas to provide heat and hydrogen.
 
 ## Variants and improvements
@@ -63,6 +63,8 @@ Ammonia production via the Haber-Bosch process is the industrial method for synt
 - **[Pump](/en/inventions/pump)**
 - **[Valve](/en/inventions/valve)**
 - **[Pipes](/en/inventions/pipes)**
+- **[Air Compressor](/en/inventions/air-compressor)**
+- **[Mechanical Refrigeration](/en/inventions/mechanical-refrigeration)**
 
 ### Related Materials
 

@@ -13,7 +13,7 @@ image: ../../../assets/images/knowledge/refrigeracion-natural.jpg
 
 # Descripción breve
 
-La refrigeración natural abarca un conjunto de técnicas y principios físicos utilizados para reducir la temperatura de espacios, alimentos o líquidos sin el uso de electricidad ni compresores mecánicos modernos. Se basa en aprovechar fenómenos naturales como la evaporación, la radiación térmica nocturna, la inercia térmica de la tierra y la ventilación convectiva.
+La refrigeración natural abarca un conjunto de técnicas y principios físicos utilizados para reducir la temperatura de espacios, alimentos o líquidos sin el uso de electricidad ni **[compresores](/es/inventions/air-compressor)** mecánicos modernos. Se basa en aprovechar fenómenos naturales como la evaporación, la radiación térmica nocturna, la inercia térmica de la tierra y la ventilación convectiva.
 
 ## Uso / Función
 
@@ -68,5 +68,5 @@ No es un único objeto, sino una aplicación de técnicas. Aquí se describen m�
 ## Límites y riesgos
 
 - **Humedad**: El enfriamiento evaporativo no funciona bien en climas muy húmedos (selvas).
-- **Límites de temperatura**: Difícilmente baja de 0°C (salvo con hielo almacenado), por lo que no sirve para congelación profunda a largo plazo.
+- **Límites de temperatura**: Difícilmente baja de 0°C (salvo con hielo almacenado), por lo que no sirve para congelación profunda a largo plazo. Para un enfriamiento más profundo, se requiere **[Refrigeración mecánica](/es/inventions/mechanical-refrigeration)**.
 - **Bacterias**: La humedad y temperaturas frescas pero no heladas pueden favorecer ciertos mohos si no hay higiene.

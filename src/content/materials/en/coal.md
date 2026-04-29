@@ -47,7 +47,7 @@ Coal is a hard, black, rock-like substance. It is heavy and often dusty. When bu
 
 - Lump coal: For domestic heating and early steam engines.
 - Pulverized coal: For modern power plants.
-- Coke: Coal that has been heated without air to remove volatile components, used in steelmaking.
+- **[Coke](/en/materials/coke)**: Coal that has been heated without air to remove volatile components, used in steelmaking.
 
 ### Possible substitutes
 
@@ -70,8 +70,9 @@ Coal is a hard, black, rock-like substance. It is heavy and often dusty. When bu
 ### Related materials
 
 - Carbon: The primary element.
-- Charcoal: The synthetic version made from wood.
-- Steel: Coal (as coke) is essential for its production.
+- **[Charcoal](/en/materials/charcoal)**: The synthetic version made from wood.
+- **[Coke](/en/materials/coke)**: Processed coal for metallurgy.
+- **[Steel](/en/materials/steel)**: Coal (as coke) is essential for its production.
 
 ## Related Knowledge
 
