@@ -26,7 +26,7 @@ category: plant
 image: ../../../assets/images/materials/natural-rubber.jpg
 ---
 
-Natural rubber is a resilient, elastic polymer harvested as latex from rubber trees. It can be used as-is for flexible coatings, or vulcanized to become tougher, more heat resistant, and less sticky.
+Natural rubber is a resilient, elastic polymer harvested as latex from rubber trees. It can be used as-is for flexible coatings, or **[Vulcanized](/en/knowledge/vulcanization)** to become tougher, more heat resistant, and less sticky.
 
 ## Description of what it is like
 
@@ -83,6 +83,10 @@ Natural rubber is a resilient, elastic polymer harvested as latex from rubber tr
 - **Latex allergy:** Some people react to natural latex proteins.
 - **Smoke and fumes:** Drying and vulcanization require ventilation.
 - **Burns:** Hot rubber and heated molds can cause injuries.
+
+### Related knowledge
+
+- **[Vulcanization](/en/knowledge/vulcanization):** The process used to harden rubber and improve its properties.
 
 ### Related materials
 

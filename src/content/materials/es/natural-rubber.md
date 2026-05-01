@@ -27,7 +27,7 @@ category: plant
 image: ../../../assets/images/materials/natural-rubber.jpg
 ---
 
-El caucho natural es un polímero elástico obtenido del látex de árboles de caucho. Puede usarse en crudo para recubrimientos flexibles o vulcanizarse para ser más resistente, menos pegajoso y más estable al calor.
+El caucho natural es un polímero elástico obtenido del látex de árboles de caucho. Puede usarse en crudo para recubrimientos flexibles o **[Vulcanizarse](/es/knowledge/vulcanization)** para ser más resistente, menos pegajoso y más estable al calor.
 
 ## Descripción de cómo es
 
@@ -84,6 +84,10 @@ El caucho natural es un polímero elástico obtenido del látex de árboles de c
 - **Alergia al látex:** Algunas personas reaccionan a las proteínas del caucho.
 - **Humo y vapores:** El secado y la vulcanización requieren ventilación.
 - **Quemaduras:** El caucho caliente y los moldes pueden causar lesiones.
+
+### Conocimientos relacionados
+
+- **[Vulcanización](/es/knowledge/vulcanization):** El proceso utilizado para endurecer el caucho y mejorar sus propiedades.
 
 ### Materiales relacionados
 

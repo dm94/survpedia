@@ -13,6 +13,7 @@ relatedInventions:
   - incandescent-light-bulb
   - electromagnet
   - telegraph
+  - transformer
 image: ../../../assets/images/knowledge/electricity.jpg
 ---
 
@@ -64,7 +65,7 @@ La electricidad implica el flujo de electrones a través de un conductor.
 - **Corriente Continua (DC):** Flujo de carga en una dirección (baterías).
 - **Corriente Alterna (AC):** Flujo de carga que invierte periódicamente su dirección (eficiente para la transmisión a larga distancia).
 - **Electrónica:** Control del flujo de electrones mediante tubos de vacío o transistores para el procesamiento de información.
-- **Transmisión de alta tensión:** Reducción de la pérdida de energía en largas distancias mediante transformadores.
+- **Transmisión de alta tensión:** Reducción de la pérdida de energía en largas distancias mediante **[Transformadores](/es/inventions/transformer)**.
 
 ## Límites y riesgos
 

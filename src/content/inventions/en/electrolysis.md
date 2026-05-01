@@ -6,6 +6,7 @@ materialsUsed:
   - iron
   - salt
   - simple-acids
+  - graphite
 image: ../../../assets/images/inventions/electrolysis.jpg
 ---
 
@@ -31,7 +32,7 @@ Electrolysis works by passing an electric current through an electrolyte (a subs
 
 ### Minimum functional version
 1.  **Power Source:** A **[Battery](/en/inventions/battery)** or **[Electric Generator](/en/inventions/electric-generator)** providing direct current.
-2.  **Electrodes:** Two conductive rods or plates (e.g., graphite from pencils or copper wire).
+2.  **Electrodes:** Two conductive rods or plates (e.g., **[Graphite](/en/materials/graphite)** from pencils or copper wire).
 3.  **Electrolyte:** A liquid that conducts electricity, such as salt water or water with a small amount of **[Sulfuric Acid](/en/materials/sulfuric-acid)**.
 4.  **Container:** A non-conductive vessel (glass or ceramic).
 
@@ -39,7 +40,7 @@ Technical level: Intermediate. Requires a steady source of electricity and basic
 
 ## Materials needed
 
-- **Essential:** **[Water](/en/materials/water)**, conductive electrodes (**[Copper](/en/materials/copper)**, graphite, or **[Iron](/en/materials/iron)**), and a DC power source.
+- **Essential:** **[Water](/en/materials/water)**, conductive electrodes (**[Copper](/en/materials/copper)**, **[Graphite](/en/materials/graphite)**, or **[Iron](/en/materials/iron)**), and a DC power source.
 - **Chemicals:** **[Salt](/en/materials/salt)** (sodium chloride), **[Simple Acids](/en/materials/simple-acids)** (as catalysts).
 - **Substitutes:** Scrap metal for electrodes, lemon juice or vinegar as weak electrolytes.
 
