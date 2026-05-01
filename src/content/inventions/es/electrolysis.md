@@ -6,6 +6,7 @@ materialsUsed:
   - iron
   - salt
   - simple-acids
+  - graphite
 image: ../../../assets/images/inventions/electrolysis.jpg
 ---
 
@@ -31,7 +32,7 @@ La electrólisis funciona haciendo pasar una corriente eléctrica a través de u
 
 ### Versión funcional mínima
 1.  **Fuente de energía:** Una **[Batería](/es/inventions/battery)** o **[Generador Eléctrico](/es/inventions/electric-generator)** que proporcione corriente continua.
-2.  **Electrodos:** Dos varillas o placas conductoras (por ejemplo, grafito de lápices o alambre de cobre).
+2.  **Electrodos:** Dos varillas o placas conductoras (por ejemplo, **[Grafito](/es/materials/graphite)** de lápices o alambre de cobre).
 3.  **Electrolito:** Un líquido que conduzca la electricidad, como agua con sal o agua con una pequeña cantidad de **[Ácido Sulfúrico](/es/materials/sulfuric-acid)**.
 4.  **Contenedor:** Un recipiente no conductor (vidrio o cerámica).
 
@@ -39,7 +40,7 @@ Nivel técnico: Intermedio. Requiere una fuente estable de electricidad y conoci
 
 ## Materiales necesarios
 
-- **Esenciales:** **[Agua](/es/materials/water)**, electrodos conductores (**[Cobre](/es/materials/copper)**, grafito o **[Hierro](/es/materials/iron)**) y una fuente de energía de CC.
+- **Esenciales:** **[Agua](/es/materials/water)**, electrodos conductores (**[Cobre](/es/materials/copper)**, **[Grafito](/es/materials/graphite)** o **[Hierro](/es/materials/iron)**) y una fuente de energía de CC.
 - **Químicos:** **[Sal](/es/materials/salt)** (cloruro de sodio), **[Ácidos Simples](/es/materials/simple-acids)** (como catalizadores).
 - **Sustitutos:** Chatarra para los electrodos, jugo de limón o vinagre como electrolitos débiles.
 
