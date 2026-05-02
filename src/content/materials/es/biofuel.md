@@ -85,3 +85,5 @@ Los biocombustibles varían según el tipo. El etanol es un líquido claro y vol
 - **[Azúcar](/es/materials/sugar)** y **[Levadura](/es/materials/yeast)**: Insumos de fermentación.
 - **[Agua](/es/materials/water)**: Medio de fermentación y limpieza.
 - **[Madera](/es/materials/wood)**: Fuente común de biocombustible sólido.
+- **[Biogás](/es/materials/biogas)**: Biocombustible gaseoso de digestión anaeróbica.
+- **[Gas de Madera](/es/materials/wood-gas)**: Biocombustible gaseoso de gasificación termoquímica.

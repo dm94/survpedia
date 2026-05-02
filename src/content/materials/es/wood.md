@@ -102,4 +102,5 @@ La madera es generalmente de peso ligero a medio, fácil de tallar o cortar, y t
 - **[Papel](/es/materials/paper)**: Hecho de fibras de madera procesadas.
 - **[Caucho natural](/es/materials/natural-rubber)**: Cosechado de tipos específicos de árboles.
 - **[Ceniza](/es/materials/ash)**: Residuo restante tras quemar madera.
+- **[Gas de Madera](/es/materials/wood-gas)**: Producido por la gasificación de la madera.
 - **[Curtido](/es/knowledge/curtido)**: La corteza es una fuente principal de taninos.

@@ -85,3 +85,5 @@ Biofuels vary by type. Ethanol is a clear, volatile liquid that mixes with water
 - **[Sugar](/en/materials/sugar)** and **[Yeast](/en/materials/yeast)**: Fermentation inputs.
 - **[Water](/en/materials/water)**: Fermentation medium and cleaning.
 - **[Wood](/en/materials/wood)**: Common solid biofuel source.
+- **[Biogas](/en/materials/biogas)**: Gaseous biofuel from anaerobic digestion.
+- **[Wood Gas](/en/materials/wood-gas)**: Gaseous biofuel from thermochemical gasification.

@@ -74,4 +74,5 @@ Wood is generally light to medium weight, easy to carve or cut, and has a distin
 - **[Paper](/en/materials/paper)**: Made from processed wood fibers.
 - **[Natural Rubber](/en/materials/natural-rubber)**: Harvested from specific types of trees.
 - **[Ash](/en/materials/ash)**: Residue left after burning wood.
+- **[Wood Gas](/en/materials/wood-gas)**: Produced by the gasification of wood.
 - **[Tanning](/en/knowledge/tanning)**: Bark is a primary source of tannins.
