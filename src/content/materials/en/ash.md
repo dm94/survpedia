@@ -69,5 +69,6 @@ It is a gray or white powder, soft to the touch, and very light. It is alkaline 
 
 - **Wood**: The most common source.
 - **Charcoal**: Often found mixed with ash.
-- **[Soap](/en/materials/soap)**: Made using lye derived from ash.
-- **Glass**: Some types of glass use ash as a flux.
+- **[Potash](/en/materials/potash)**: Concentrated salts extracted from ash.
+- **[Soap](/en/materials/soap)**: Made using lye derived from ash or potash.
+- **[Glass](/en/materials/glass)**: Some types of glass use ash or potash as a flux.
