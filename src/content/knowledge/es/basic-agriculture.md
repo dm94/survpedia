@@ -42,7 +42,8 @@ La forma más básica de agricultura (horticultura) requiere:
 ## Variantes y mejoras
 
 - **Cultivo itinerante:** Limpiar un parche de bosque, cultivarlo por unos años y luego mudarse (tala y quema).
-- **Campos permanentes:** Uso continuo de la misma tierra, a menudo requiriendo fertilización.
+- **Campos permanentes:** Uso continuo de la misma tierra, que requiere fertilización mediante **[Compost](/es/knowledge/compost)** o estiércol.
+- **[Invernadero](/es/inventions/greenhouse):** Ambiente controlado para extender la temporada de crecimiento.
 - **Arado:** Uso de animales para tirar de una hoja pesada a través del suelo (avanzado).
 - **[Sembradora](/es/inventions/seed-drill):** Siembra mecánica de semillas a profundidades e intervalos controlados.
 - **[Cría Selectiva](/es/knowledge/selective-breeding):** Mejora de los rendimientos y la resistencia de los cultivos mediante la selección de los mejores progenitores.

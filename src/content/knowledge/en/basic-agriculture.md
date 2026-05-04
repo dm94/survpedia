@@ -42,7 +42,8 @@ The most basic form of agriculture (horticulture) requires:
 ## Variants and improvements
 
 - **Shifting cultivation:** Clearing a patch of forest, farming it for a few years, then moving on (slash-and-burn).
-- **Permanent fields:** Continuous use of the same land, often requiring fertilization.
+- **Permanent fields:** Continuous use of the same land, requiring fertilization via **[Compost](/en/knowledge/compost)** or manure.
+- **[Greenhouse](/en/inventions/greenhouse):** Controlled environment to extend the growing season.
 - **Ploughing:** Using animals to pull a heavy blade through the soil (advanced).
 - **[Seed Drill](/en/inventions/seed-drill):** Mechanical sowing of seeds at controlled depths and intervals.
 - **[Selective Breeding](/en/knowledge/selective-breeding):** Improving crop yields and resistance by selecting the best parents.
