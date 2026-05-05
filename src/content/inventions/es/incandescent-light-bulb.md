@@ -31,7 +31,7 @@ Crear una bombilla duradera requiere alta precisión y materiales específicos:
 1. **Filamento**: Trefilar un cable muy fino de **[Tungsteno](/es/materials/tungsten)** y enrollarlo para aumentar su área de superficie.
 2. **Soportes**: Montar el filamento en cables de soporte resistentes hechos de molibdeno o **[Acero](/es/materials/steel)**.
 3. **Recinto**: Crear un bulbo de **[Vidrio](/es/materials/glass)** y sellar los cables de soporte a través del vidrio.
-4. **Evacuación**: Utilizar una bomba de vacío para eliminar el aire o llenar el bulbo con una mezcla de gases inertes.
+4. **Evacuación**: Utilizar una **[Bomba de Vacío](/es/inventions/vacuum-pump)** para eliminar el aire o llenar el bulbo con una mezcla de gases inertes.
 5. **Base**: Adjuntar una base de metal (generalmente **[Cobre](/es/materials/copper)** o **[Latón](/es/materials/brass)**) para proporcionar conexiones eléctricas.
 
 ## Materiales necesarios

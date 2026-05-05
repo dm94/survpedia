@@ -2,6 +2,7 @@
 title: Anestesia
 relatedMaterials:
   - alcohol
+  - ether
   - water
   - soap
   - cotton

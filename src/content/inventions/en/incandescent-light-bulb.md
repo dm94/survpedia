@@ -31,7 +31,7 @@ Creating a durable light bulb requires high precision and specific materials:
 1. **Filament**: Draw a very fine wire of **[Tungsten](/en/materials/tungsten)** and coil it to increase its surface area.
 2. **Supports**: Mount the filament on sturdy support wires made of molybdenum or **[Steel](/en/materials/steel)**.
 3. **Enclosure**: Create a **[Glass](/en/materials/glass)** bulb and seal the support wires through the glass.
-4. **Evacuation**: Use a vacuum pump to remove air or fill the bulb with an inert gas mixture.
+4. **Evacuation**: Use a **[Vacuum Pump](/en/inventions/vacuum-pump)** to remove air or fill the bulb with an inert gas mixture.
 5. **Base**: Attach a metal base (typically **[Copper](/en/materials/copper)** or **[Brass](/en/materials/brass)**) to provide electrical connections.
 
 ## Materials needed
