@@ -30,7 +30,7 @@ It relies on **thermionic emission**:
 2.  **Electrodes:** Fabricate the cathode (filament), grid (fine wire), and anode (plate) from metal.
 3.  **Assembly:** Mount the electrodes on a stem, ensuring they don't touch.
 4.  **Sealing:** Insert the assembly into the bulb and seal the glass.
-5.  **Evacuation:** Use a vacuum pump to remove air through a small tube, then seal it off. A "getter" (reactive metal) is often flashed inside to absorb remaining gas.
+5.  **Evacuation:** Use a **[Vacuum Pump](/en/inventions/vacuum-pump)** to remove air through a small tube, then seal it off. A "getter" (reactive metal) is often flashed inside to absorb remaining gas.
 
 ## Materials needed
 

@@ -29,7 +29,7 @@ Se basa en la **emisión termiónica**:
 2.  **Electrodos:** Fabricar el cátodo (filamento), rejilla (alambre fino) y ánodo (placa) de metal.
 3.  **Montaje:** Montar los electrodos en un vástago, asegurando que no se toquen.
 4.  **Sellado:** Insertar el montaje en la bombilla y sellar el vidrio.
-5.  **Evacuación:** Usar una bomba de vacío para extraer el aire a través de un tubo pequeño, luego sellarlo. A menudo se "flashea" un "getter" (metal reactivo) dentro para absorber el gas restante.
+5.  **Evacuación:** Usar una **[Bomba de Vacío](/es/inventions/vacuum-pump)** para extraer el aire a través de un tubo pequeño, luego sellarlo. A menudo se "flashea" un "getter" (metal reactivo) dentro para absorber el gas restante.
 
 ## Materiales necesarios
 

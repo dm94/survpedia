@@ -8,9 +8,11 @@ relatedMaterials:
   - water
 relatedInventions:
   - battery
+  - leyden-jar
   - electric-generator
   - electric-motor
   - incandescent-light-bulb
+  - vacuum-pump
   - electromagnet
   - telegraph
   - transformer
