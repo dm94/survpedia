@@ -38,7 +38,7 @@ Hygrometers use various principles depending on their design:
 ## Variants and improvements
 
 - **Saussure's Hair Hygrometer:** The classic 18th-century design.
-- **Sling Psychrometer:** A psicrómetro that is whirled in the air to ensure a consistent airflow over the wet bulb.
+- **Sling Psychrometer:** A psychrometer that is whirled in the air to ensure a consistent airflow over the wet bulb.
 - **Dew Point Hygrometer:** Measures the temperature at which dew begins to form on a polished surface.
 - **Electronic/Digital Hygrometer:** Uses capacitive or resistive sensors for high precision and data logging.
 
