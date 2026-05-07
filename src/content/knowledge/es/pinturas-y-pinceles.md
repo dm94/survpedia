@@ -7,7 +7,7 @@ relatedMaterials:
   - glue
   - resin
   - wood
-  - pelo-animal
+  - animal-hair
   - plant-fibers
   - cuerda
   - water
@@ -42,7 +42,7 @@ Pinturas y pinceles es el conocimiento práctico para preparar color, mezclar ag
 1. **Preparar pigmento**: Moler y lavar **[Pigmentos](/es/materials/pigmentos)** hasta lograr polvo fino.
 2. **Elegir aglutinante**: Aceite, pegamento o goma según el soporte y el secado deseado.
 3. **Mezclar consistencia**: Añadir **[Agua](/es/materials/water)** o solvente lentamente hasta lograr flujo sin goteo.
-4. **Construir el pincel**: Usar **[Madera](/es/materials/wood)** para el mango y **[Pelo animal](/es/materials/pelo-animal)** o **[Fibras vegetales](/es/materials/plant-fibers)** para las cerdas.
+4. **Construir el pincel**: Usar **[Madera](/es/materials/wood)** para el mango y **[Pelo animal](/es/materials/animal-hair)** o **[Fibras vegetales](/es/materials/plant-fibers)** para las cerdas.
 5. **Probar trazos**: Ensayar en un soporte de prueba para confirmar opacidad y secado.
 6. **Aplicar y curar**: Usar capas delgadas y dejar secar por completo entre manos.
 
@@ -78,7 +78,7 @@ Básico a intermedio. Los mejores resultados requieren mezcla limpia y pulso est
 - **[Pegamento](/es/materials/glue)**: Aglutinante y apresto de superficies.
 - **[Resina](/es/materials/resin)**: Aglutinante natural y sellador.
 - **[Madera](/es/materials/wood)**: Soporte común y material de mango.
-- **[Pelo animal](/es/materials/pelo-animal)**: Cerdas preferidas para pinceles.
+- **[Pelo animal](/es/materials/animal-hair)**: Cerdas preferidas para pinceles.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Alternativas para cerdas y amarres.
 - **[Cuerda](/es/materials/cuerda)**: Amarre de cerdas y fijaciones.
 - **[Agua](/es/materials/water)**: Dilución y limpieza.
