@@ -17,7 +17,7 @@ manufacturingProcess: >-
   Se obtiene por esquila o cepillado, luego se limpia, clasifica y agrupa o hila
   según el uso.
 category: animal
-image: ../../../assets/images/materials/pelo-animal.jpg
+image: ../../../assets/images/materials/animal-hair.jpg
 ---
 
 El pelo animal es un material fibroso producido por mamíferos. Su grosor, rigidez y longitud varían mucho, lo que lo hace útil para aislamiento, textiles y herramientas como pinceles.

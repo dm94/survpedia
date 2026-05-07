@@ -2,7 +2,7 @@
 title: Pincel
 materialsUsed:
   - madera
-  - pelo-animal
+  - animal-hair
   - cuerda
   - pegamento
 image: ../../../assets/images/inventions/pincel.jpg

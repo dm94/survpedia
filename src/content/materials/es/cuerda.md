@@ -71,5 +71,5 @@ La cuerda es ligera y flexible. Su resistencia depende del tipo de fibra y del n
 ### Materiales relacionados
 
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Fuente común de fibras.
-- **[Pelo animal](/es/materials/pelo-animal)**: Fuente alternativa de fibras.
+- **[Pelo animal](/es/materials/animal-hair)**: Fuente alternativa de fibras.
 - **[Pegamento](/es/materials/glue)**: A menudo se usa con amarres.
