@@ -37,7 +37,7 @@ El estetoscopio funciona según el principio de transmisión acústica de los so
 
 ## Variantes y mejoras
 
-- **Estetoscopio de Laennec:** El cilindro monoaural de madera original inventado in 1816.
+- **Estetoscopio de Laennec:** El cilindro monoaural de madera original inventado en 1816.
 - **Estetoscopio acústico:** La versión moderna estándar que utiliza tubos llenos de aire.
 - **Estetoscopio electrónico:** Amplifica los sonidos electrónicamente y puede filtrar frecuencias específicas.
 - **Estetoscopio fetal (trompa de Pinard):** Un cono especializado de madera o metal para escuchar los latidos del corazón fetal.
