@@ -33,7 +33,7 @@ Un antiguo instrumento astronómico utilizado por astrónomos y navegantes para 
 - **Alidada**: Una barra pivotante con orificios de mira en cada extremo.
 - **Uso**: Solo para medir la altitud del sol o de una estrella para encontrar la latitud.
 
-### 2. Astrolabio planisferio (Completo)
+### 2. Astrolabio planisférico (Completo)
 - **Nivel**: Avanzado.
 - **Madre**: El cuerpo principal, un disco profundo con un borde graduado en grados y horas.
 - **Tímpano (Placa)**: Una placa grabada con círculos de altitud (almucantares) para una latitud específica. Se necesitan diferentes placas para diferentes latitudes.
