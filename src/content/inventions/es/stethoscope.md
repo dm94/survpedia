@@ -1,6 +1,10 @@
 ---
 title: Estetoscopio
-materialsUsed: ["wood", "natural-rubber", "metal"]
+materialsUsed:
+  - wood
+  - natural-rubber
+  - metal
+image: ../../../assets/images/inventions/stethoscope.jpg
 ---
 
 # Descripción breve

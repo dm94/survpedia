@@ -1,6 +1,10 @@
 ---
 title: Hygrometer
-materialsUsed: ["wood", "metal", "animal-hair"]
+materialsUsed:
+  - wood
+  - metal
+  - animal-hair
+image: ../../../assets/images/inventions/hygrometer.jpg
 ---
 
 # Brief description

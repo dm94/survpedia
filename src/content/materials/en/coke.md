@@ -12,8 +12,10 @@ uses:
   - Fuel for blast furnaces
 naturalAvailability: false
 manufacturingProcess: >-
-  Produced by heating coal in the absence of air (destructive distillation) to drive off volatile constituents.
+  Produced by heating coal in the absence of air (destructive distillation) to
+  drive off volatile constituents.
 category: synthetic
+image: ../../../assets/images/materials/coke.jpg
 ---
 
 Coke is a grey, hard, and porous fuel with a high carbon content and few impurities, made by heating coal or oil in the absence of air—a destructive distillation process.

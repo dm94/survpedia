@@ -1,6 +1,11 @@
 ---
-title: "Vacuum Pump"
-materialsUsed: ["metal", "leather", "glass", "wood"]
+title: Vacuum Pump
+materialsUsed:
+  - metal
+  - leather
+  - glass
+  - wood
+image: ../../../assets/images/inventions/vacuum-pump.jpg
 ---
 
 # Brief description

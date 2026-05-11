@@ -1,6 +1,11 @@
 ---
 title: Refrigeración mecánica
-materialsUsed: ["ammonia", "copper", "iron", "steel"]
+materialsUsed:
+  - ammonia
+  - copper
+  - iron
+  - steel
+image: ../../../assets/images/inventions/mechanical-refrigeration.jpg
 ---
 
 # Breve descripción

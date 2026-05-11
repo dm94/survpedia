@@ -1,12 +1,23 @@
 ---
-title: "Diethyl Ether"
-formula: "(C2H5)2O"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Highly volatile", "Extremely flammable", "Sweet, pungent odor", "Anesthetic"]
-uses: ["General anesthesia", "Industrial solvent", "Starting fluid for engines"]
+title: Diethyl Ether
+formula: (C2H5)2O
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Highly volatile
+  - Extremely flammable
+  - 'Sweet, pungent odor'
+  - Anesthetic
+uses:
+  - General anesthesia
+  - Industrial solvent
+  - Starting fluid for engines
 naturalAvailability: false
-manufacturingProcess: "Produced by the dehydration of ethanol using sulfuric acid as a catalyst."
-category: "synthetic"
+manufacturingProcess: Produced by the dehydration of ethanol using sulfuric acid as a catalyst.
+category: synthetic
+image: ../../../assets/images/materials/ether.jpg
 ---
 
 Diethyl ether, often simply called ether, is a colorless, highly volatile, and flammable liquid. It was one of the first effective general anesthetics used in surgery.

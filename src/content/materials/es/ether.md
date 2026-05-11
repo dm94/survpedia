@@ -1,12 +1,25 @@
 ---
-title: "Éter Dietílico"
-formula: "(C2H5)2O"
-composition: ["carbon", "hydrogen", "oxygen"]
-properties: ["Altamente volátil", "Extremadamente inflamable", "Olor dulce y penetrante", "Anestésico"]
-uses: ["Anestesia general", "Solvente industrial", "Fluido de arranque para motores"]
+title: Éter Dietílico
+formula: (C2H5)2O
+composition:
+  - carbon
+  - hydrogen
+  - oxygen
+properties:
+  - Altamente volátil
+  - Extremadamente inflamable
+  - Olor dulce y penetrante
+  - Anestésico
+uses:
+  - Anestesia general
+  - Solvente industrial
+  - Fluido de arranque para motores
 naturalAvailability: false
-manufacturingProcess: "Producido por la deshidratación del etanol usando ácido sulfúrico como catalizador."
-category: "synthetic"
+manufacturingProcess: >-
+  Producido por la deshidratación del etanol usando ácido sulfúrico como
+  catalizador.
+category: synthetic
+image: ../../../assets/images/materials/ether.jpg
 ---
 
 El éter dietílico, a menudo llamado simplemente éter, es un líquido incoloro, altamente volátil e inflamable. Fue uno de los primeros anestésicos generales efectivos utilizados en cirugía.
