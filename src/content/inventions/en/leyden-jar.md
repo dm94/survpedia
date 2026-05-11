@@ -1,6 +1,11 @@
 ---
-title: "Leyden Jar"
-materialsUsed: ["glass", "tin", "copper", "water"]
+title: Leyden Jar
+materialsUsed:
+  - glass
+  - tin
+  - copper
+  - water
+image: ../../../assets/images/inventions/leyden-jar.jpg
 ---
 
 # Brief description

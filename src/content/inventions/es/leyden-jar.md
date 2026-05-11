@@ -1,6 +1,11 @@
 ---
-title: "Botella de Leyden"
-materialsUsed: ["glass", "tin", "copper", "water"]
+title: Botella de Leyden
+materialsUsed:
+  - glass
+  - tin
+  - copper
+  - water
+image: ../../../assets/images/inventions/leyden-jar.jpg
 ---
 
 # Descripción breve

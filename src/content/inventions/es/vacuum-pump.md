@@ -1,6 +1,11 @@
 ---
-title: "Bomba de Vacío"
-materialsUsed: ["metal", "leather", "glass", "wood"]
+title: Bomba de Vacío
+materialsUsed:
+  - metal
+  - leather
+  - glass
+  - wood
+image: ../../../assets/images/inventions/vacuum-pump.jpg
 ---
 
 # Descripción breve

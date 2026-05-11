@@ -1,6 +1,10 @@
 ---
 title: Pararrayos
-materialsUsed: ["copper", "iron", "wire"]
+materialsUsed:
+  - copper
+  - iron
+  - wire
+image: ../../../assets/images/inventions/lightning-rod.jpg
 ---
 
 # Descripción breve

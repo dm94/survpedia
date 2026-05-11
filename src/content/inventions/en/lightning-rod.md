@@ -1,6 +1,10 @@
 ---
 title: Lightning Rod
-materialsUsed: ["copper", "iron", "wire"]
+materialsUsed:
+  - copper
+  - iron
+  - wire
+image: ../../../assets/images/inventions/lightning-rod.jpg
 ---
 
 # Brief description
