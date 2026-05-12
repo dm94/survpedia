@@ -42,7 +42,7 @@ Los frenos funcionan convirtiendo la energía cinética (movimiento) en energía
 ## Variantes y mejoras
 
 - **Frenos de disco:** Un disco giratorio es apretado por pastillas sujetas en una pinza. Ofrece mejor refrigeración y rendimiento que los frenos de tambor.
-- **Frenos hidráulicos:** Utiliza la presión de un fluido para transmitir la fuerza de frenado, permitiendo una presión igual en todas las ruedas.
+- **Frenos hidráulicos:** Utilizan la presión de un fluido para transmitir la fuerza de frenado, permitiendo una presión igual en todas las ruedas.
 - **Frenado regenerativo:** Sistemas modernos que capturan la energía cinética y la almacenan (por ejemplo, como electricidad) en lugar de desperdiciarla en forma de calor.
 
 ## Límites y riesgos
