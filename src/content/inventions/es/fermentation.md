@@ -49,6 +49,7 @@ Permite conservar alimentos, desarrollar sabores y producir alcohol, **[Pan](/es
 - **Herramientas**:
   - **Recipientes**: Ollas de **[Arcilla](/es/materials/arcilla)**, frascos de **[Vidrio](/es/materials/glass)** o barriles de **[Madera](/es/materials/wood)**
   - Airlock o tela limpia
+  - **[Hidrómetro](/es/inventions/hydrometer)**: Para medir niveles de azúcar y alcohol.
 - **Sustitutos posibles**:
   - Iniciadores salvajes de cáscaras de fruta
   - Tela de tejido cerrado en lugar de airlock
@@ -59,6 +60,7 @@ Permite conservar alimentos, desarrollar sabores y producir alcohol, **[Pan](/es
 - **Producción de vinagre**: Exponer el fermento alcohólico al oxígeno.
 - **Fermentación en frío**: Más lenta y con sabores más controlados.
 - **[Destilación](/es/inventions/distillation)**: Concentrar alcohol tras la fermentación.
+- **Monitoreo de precisión**: Uso de un **[Hidrómetro](/es/inventions/hydrometer)** para determinar cuándo ha terminado la fermentación.
 
 ## Límites y riesgos
 

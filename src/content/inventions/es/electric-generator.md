@@ -41,3 +41,9 @@ Se basa en la Ley de Faraday de inducción electromagnética. Al mover un conduc
 - **Descargas:** Riesgo de electrocución si no hay aislamiento.
 - **Calor:** El efecto Joule genera calor que puede fundir el aislamiento si se sobrecarga.
 - **Dependencia:** Requiere una fuente de energía mecánica constante.
+
+### Inventos relacionados
+
+- **[Galvanómetro](/es/inventions/galvanometer)**: Esencial para detectar y medir la corriente producida.
+- **[Imán](/es/inventions/magnet)**: Proporciona el campo magnético necesario.
+- **[Rueda hidráulica](/es/inventions/water-wheel)**: Puede proporcionar la energía rotativa.

@@ -11,6 +11,7 @@ relatedInventions:
   - telescope
   - microscope
   - camera-obscura
+  - spectroscope
   - eyeglasses
 image: ../../../assets/images/knowledge/optics.jpg
 ---
