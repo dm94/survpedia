@@ -17,7 +17,7 @@ Un hidrómetro (o densímetro) es un instrumento utilizado para medir la densida
 - **Control de Fermentación:** Monitorear la conversión de azúcar en alcohol en la **[Fermentación](/es/inventions/fermentation)**.
 - **Pruebas de Pureza:** Comprobar la concentración de soluciones como salmuera o ácidos.
 - **Control de Calidad:** Verificar la densidad de la leche u otros recursos líquidos.
-- **Escala:** Uso desde pequeña escala (doméstico) hasta industrial.
+- **Escala:** Uso desde pequeña escala (doméstica) hasta industrial.
 
 ## Principio de funcionamiento
 
