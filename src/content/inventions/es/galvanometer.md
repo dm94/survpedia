@@ -21,7 +21,7 @@ Un galvanómetro es un instrumento para detectar y medir pequeñas corrientes el
 
 ## Principio de funcionamiento
 
-El galvanómetro funciona basado en el principio del **electromagnetismo**:
+El galvanómetro funciona basándose en el principio del **electromagnetismo**:
 1. Una corriente eléctrica que fluye a través de una bobina de cable produce un campo magnético.
 2. Este campo magnético ejerce una fuerza sobre una aguja magnética cercana.
 3. La deflexión de la aguja es proporcional a la fuerza y dirección de la corriente.
