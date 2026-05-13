@@ -45,6 +45,7 @@ A clear, colorless liquid that evaporates quickly at room temperature. It burns 
 - **Fermentation Vessel**: Airlocked container.
 - **[Still (Alembic)](/en/inventions/alembic)**: For distillation (Pot, condenser, collection vessel).
 - **Thermometer**: To monitor distillation temperatures.
+- **[Hydrometer](/en/inventions/hydrometer)**: To measure purity and alcohol content.
 
 ### Common forms of use
 

@@ -49,6 +49,7 @@ It enables preservation, flavor development, and the production of alcohol, **[B
 - **Tools**:
   - **Vessels**: **[Clay](/en/materials/clay)** pots, **[Glass](/en/materials/glass)** jars, or **[Wood](/en/materials/wood)** barrels
   - Airlock or cloth cover
+  - **[Hydrometer](/en/inventions/hydrometer)**: To measure sugar and alcohol levels.
 - **Possible substitutes**:
   - Wild starters from fruit skins
   - Tight-weave cloth instead of an airlock
@@ -59,6 +60,7 @@ It enables preservation, flavor development, and the production of alcohol, **[B
 - **Vinegar production**: Expose alcoholic ferment to oxygen.
 - **Cold fermentation**: Slower, more controlled flavors.
 - **[Distillation](/en/inventions/distillation)**: Concentrate alcohol after fermentation.
+- **Precision monitoring**: Using a **[Hydrometer](/en/inventions/hydrometer)** to determine when fermentation is complete.
 
 ## Limits and risks
 

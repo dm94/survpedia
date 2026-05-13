@@ -23,6 +23,7 @@ uses:
   - Microscopios
   - Telescopios
   - Fotografía
+  - "**[Espectroscopio](/es/inventions/spectroscope)**"
 naturalAvailability: false
 manufacturingProcess: >-
   Fusión de arena de sílice con sosa y cal a altas temperaturas, seguido de un

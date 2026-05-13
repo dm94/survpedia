@@ -41,3 +41,9 @@ It is based on Faraday's Law of electromagnetic induction. By moving a conductor
 - **Shocks:** Risk of electrocution if there is no insulation.
 - **Heat:** The Joule effect generates heat that can melt insulation if overloaded.
 - **Dependence:** Requires a constant source of mechanical energy.
+
+### Related inventions
+
+- **[Galvanometer](/en/inventions/galvanometer)**: Essential for detecting and measuring the current produced.
+- **[Magnet](/en/inventions/magnet)**: Provides the necessary magnetic field.
+- **[Water Wheel](/en/inventions/water-wheel)**: Can provide the rotational energy.

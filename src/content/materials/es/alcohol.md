@@ -45,6 +45,7 @@ Un líquido claro e incoloro que se evapora rápidamente a temperatura ambiente.
 - **Recipiente de fermentación**: Recipiente con cierre de aire (airlock).
 - **[Alambique](/es/inventions/alembic)**: Para destilación (Olla, condensador, recipiente de recolección).
 - **Termómetro**: Para controlar las temperaturas de destilación.
+- **[Hidrómetro](/es/inventions/hydrometer)**: Para medir la pureza y el contenido de alcohol.
 
 ### Formas comunes de uso
 

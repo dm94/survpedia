@@ -23,6 +23,7 @@ uses:
   - Microscopes
   - Telescopes
   - Photography
+  - "**[Spectroscope](/en/inventions/spectroscope)**"
 naturalAvailability: false
 manufacturingProcess: >-
   Melting silica sand with soda and lime at high temperatures, followed by rapid

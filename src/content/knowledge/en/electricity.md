@@ -16,6 +16,7 @@ relatedInventions:
   - electromagnet
   - telegraph
   - transformer
+  - galvanometer
 image: ../../../assets/images/knowledge/electricity.jpg
 ---
 
