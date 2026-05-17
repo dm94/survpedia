@@ -76,6 +76,10 @@ Paper typically appears as thin, flexible sheets of white or cream color, althou
 - **Cuts:** Paper edges can be sharp.
 - **Chemicals:** Modern industrial bleaching and pulping use corrosive chemicals, but the traditional method is relatively safe.
 
+### Related Knowledge
+
+- **[Paper Making](/en/knowledge/paper-making)**
+
 ### Related materials
 
 - **Cellulose:** The main chemical component.

@@ -76,6 +76,10 @@ El papel se presenta comúnmente como hojas finas y flexibles de color blanco o 
 - **Cortes:** Los bordes del papel pueden ser afilados.
 - **Químicos:** El proceso de blanqueo y pulpado industrial moderno usa químicos corrosivos, pero el método tradicional es relativamente seguro.
 
+### Conocimiento relacionado
+
+- **[Fabricación de papel](/es/knowledge/paper-making)**
+
 ### Materiales relacionados
 
 - **Celulosa:** El componente químico principal.

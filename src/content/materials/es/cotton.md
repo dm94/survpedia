@@ -40,7 +40,7 @@ La fibra es casi celulosa pura. En condiciones naturales, las cápsulas de algod
 ### Herramientas necesarias para trabajarla
 
 - **Manos**: Para la cosecha y la eliminación simple de semillas.
-- **Desmotadora**: Un dispositivo mecánico para acelerar la separación de semillas.
+- **[Desmotadora de algodón](/es/inventions/cotton-gin)**: Un dispositivo mecánico para acelerar la separación de semillas.
 - **Cepillos de cardado**: Para alinear las fibras.
 - **Huso o Rueca**: Para hacer hilo.
 - **Telar**: Para tejer tela.
