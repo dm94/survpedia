@@ -40,7 +40,7 @@ The fiber is almost pure cellulose. Under natural conditions, the cotton bolls w
 ### Tools needed to work on it
 
 - **Hands**: For harvesting and simple seed removal.
-- **Cotton Gin**: A mechanical device to speed up seed separation.
+- **[Cotton Gin](/en/inventions/cotton-gin)**: A mechanical device to speed up seed separation.
 - **Carding Brushes**: To align fibers.
 - **Spindle or Spinning Wheel**: To make thread.
 - **Loom**: To weave fabric.
