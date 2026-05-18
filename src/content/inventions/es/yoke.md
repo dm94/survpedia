@@ -41,7 +41,7 @@ El yugo aprovecha la fuerza del animal distribuyendo la carga a través de una p
 
 - **Yugo de arco:** Utilizado para bueyes, descansando sobre el cuello.
 - **Yugo de cabeza:** Atado a los cuernos de los bueyes (común en España/Latinoamérica).
-- **Yugo de cruz:** Utilizado para caballos/burros (aunque un collar es mejor para los caballos, ya que un yugo puede ahogarlos).
+- **Yugo de cruz:** Utilizado para caballos/burros (aunque una **[Collera](/es/inventions/horse-collar)** es mejor para los caballos, ya que un yugo puede ahogarlos).
 - **Yugo simple:** Para un solo animal.
 
 ## Límites y riesgos

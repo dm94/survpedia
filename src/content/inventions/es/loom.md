@@ -53,7 +53,7 @@ Básico a Intermedio.
 - **Telar de cintura**: Portátil, utiliza el peso del cuerpo para la tensión.
 - **Telar de pesas**: Vertical, las pesas mantienen la urdimbre tensa.
 - **Telar de suelo**: Marco horizontal con pedales para una operación más rápida.
-- **Mejoras**: Añadir un peine para espaciar los hilos uniformemente y batir la trama más apretada.
+- **Mejoras**: Añadir un peine para espaciar los hilos uniformemente y batir la trama más apretada. La invención de la **[Lanzadera Volante](/es/inventions/flying-shuttle)** permitió un tejido mucho más rápido, mientras que la **[Spinning Jenny](/es/inventions/spinning-jenny)** proporcionó el volumen necesario de hilo.
 
 ## Relación con la Máquina de Coser
 
