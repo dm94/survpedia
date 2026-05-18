@@ -31,7 +31,7 @@ The wagon relies on four wheels to distribute weight more evenly than a cart.
 2.  **Rear Axle:** Fix the rear [axle](/en/inventions/axle) rigidly to the frame.
 3.  **Front Axle & Steering:** Create a pivoting mechanism for the front axle. A simple version uses a central pin (kingpin) connecting the front axle assembly to the frame, allowing it to swivel.
 4.  **Wheels:** Mount four sturdy [wheels](/en/inventions/wheel). Often, rear wheels are larger to carry more weight and roll easier, while front wheels are smaller to allow for tighter turns (so they don't hit the frame).
-5.  **Draft Gear:** Attach a tongue or pole to the front axle assembly to connect to the animals via a [yoke](/en/inventions/yoke) or harness.
+5.  **Draft Gear:** Attach a tongue or pole to the front axle assembly to connect to the animals via a [yoke](/en/inventions/yoke) or a **[Horse Collar](/en/inventions/horse-collar)** harness.
 
 ## Materials needed
 

@@ -50,7 +50,7 @@ Plow and tools are a basic agricultural toolkit used to break soil, open furrows
 - **Ard (scratch plow):** Simple wooden plow for light soils.
 - **Moldboard plow:** Turns soil completely, better weed control.
 - **Iron share and coulter:** Cuts harder soils and reduces wear.
-- **Animal-drawn plow:** Faster and deeper tillage.
+- **Animal-drawn plow:** Faster and deeper tillage. Using a **[Horse Collar](/en/inventions/horse-collar)** instead of a yoke greatly increases pulling efficiency.
 - **[Combine harvester](/en/inventions/combine):** Mechanized harvest that completes the field cycle.
 
 ## Limits and risks

@@ -31,7 +31,7 @@ El vagón se basa en cuatro ruedas para distribuir el peso de manera más unifor
 2.  **Eje trasero:** Fija el [eje](/es/inventions/axle) trasero rígidamente al chasis.
 3.  **Eje delantero y dirección:** Crea un mecanismo de pivote para el eje delantero. Una versión simple utiliza un perno central (pivote) que conecta el conjunto del eje delantero al chasis, permitiendo que gire.
 4.  **Ruedas:** Monta cuatro [ruedas](/es/inventions/wheel) robustas. A menudo, las ruedas traseras son más grandes para soportar más peso y rodar más fácilmente, mientras que las delanteras son más pequeñas para permitir giros más cerrados (para que no golpeen el chasis).
-5.  **Tiro:** Fija una lanza o pértiga al conjunto del eje delantero para conectar a los animales mediante un [yugo](/es/inventions/yoke) o arnés.
+5.  **Tiro:** Fija una lanza o pértiga al conjunto del eje delantero para conectar a los animales mediante un [yugo](/es/inventions/yoke) o un arnés de **[Collera](/es/inventions/horse-collar)**.
 
 ## Materiales necesarios
 
