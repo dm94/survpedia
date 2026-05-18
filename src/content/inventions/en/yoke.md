@@ -41,7 +41,7 @@ The yoke harnesses the power of the animal by distributing the load across a str
 
 - **Bow Yoke:** Used for oxen, resting on the neck.
 - **Head Yoke:** Strapped to the horns of oxen (common in Spain/Latin America).
-- **Withers Yoke:** Used for horses/donkeys (though a collar is better for horses as a yoke can choke them).
+- **Withers Yoke:** Used for horses/donkeys (though a **[Horse Collar](/en/inventions/horse-collar)** is better for horses as a yoke can choke them).
 - **Single Yoke:** For one animal.
 
 ## Limits and risks

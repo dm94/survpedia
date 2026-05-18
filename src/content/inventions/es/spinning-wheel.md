@@ -56,6 +56,7 @@ Intermedio. Requiere carpintería precisa para la rueda y los cojinetes.
 - **Rueca de Gran Rueda (Walking Wheel)**: Rueda grande girada a mano. El hilador camina hacia atrás para estirar el hilo y hacia adelante para enrollarlo. Mecanismo simple, alta velocidad.
 - **Rueca Sajona (De pedal)**: Añade un **pedal** (dejando las manos libres) y un mecanismo de **aleta** (tuerce y enrolla simultáneamente). Acción continua.
 - **Charkha**: Rueca horizontal portátil de suelo.
+- **[Spinning Jenny](/es/inventions/spinning-jenny)**: Una mejora de la era industrial que utiliza múltiples husos para hilar muchos hilos a la vez.
 
 ## Límites y riesgos
 

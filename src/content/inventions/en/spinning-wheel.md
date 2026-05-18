@@ -56,6 +56,7 @@ Intermediate. Requires precise carpentry for the wheel and bearings.
 - **Great Wheel (Walking Wheel)**: Large wheel turned by hand. The spinner walks back to draw the thread and forward to wind it. Simple mechanism, high speed.
 - **Saxony Wheel (Treadle Wheel)**: Adds a **foot treadle** (leaving hands free) and a **flyer** mechanism (twists and winds simultaneously). Continuous action.
 - **Charkha**: Portable, horizontal floor wheel.
+- **[Spinning Jenny](/en/inventions/spinning-jenny)**: An industrial-era improvement that uses multiple spindles to spin many threads at once.
 
 ## Limits and risks
 
