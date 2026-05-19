@@ -73,3 +73,4 @@ Fabric appears as a continuous sheet of interlaced threads. Its texture, weight,
 - **[Yarn](/en/materials/yarn)**: The raw material for fabric.
 - **[Textile Dye](/en/materials/textile-dye)**: For coloring.
 - **[Loom](/en/inventions/loom)**: The tool to make it.
+- **[Basic Weaving](/en/knowledge/weaving)**: The knowledge of how to create it.

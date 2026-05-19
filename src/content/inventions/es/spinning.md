@@ -61,6 +61,8 @@ Básico.
 - **Retorcido**: Unión de varias hebras para mayor resistencia.
 - **Hilado húmedo**: Suaviza fibras de líber como el lino.
 
+- **[Tejido Básico](/es/knowledge/weaving)**: El uso principal para el hilo hilado.
+
 ## Límites y riesgos
 
 - **Consistencia**: El estirado irregular genera puntos débiles.
