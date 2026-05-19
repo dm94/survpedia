@@ -55,6 +55,8 @@ Básico a Intermedio.
 - **Telar de suelo**: Marco horizontal con pedales para una operación más rápida.
 - **Mejoras**: Añadir un peine para espaciar los hilos uniformemente y batir la trama más apretada. La invención de la **[Lanzadera Volante](/es/inventions/flying-shuttle)** permitió un tejido mucho más rápido, mientras que la **[Spinning Jenny](/es/inventions/spinning-jenny)** proporcionó el volumen necesario de hilo.
 
+- **[Tejido Básico](/es/knowledge/weaving)**: La técnica principal para operar un telar.
+
 ## Relación con la Máquina de Coser
 
 El telar y la **[Máquina de Coser](/es/inventions/sewing-machine)** representan dos etapas distintas en la producción textil:

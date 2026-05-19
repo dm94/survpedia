@@ -61,6 +61,8 @@ Basic.
 - **Plying**: Twisting multiple yarns together for strength.
 - **Wet spinning**: Helps smooth flax and other bast fibers.
 
+- **[Basic Weaving](/en/knowledge/weaving)**: The primary use for spun yarn.
+
 ## Limits and risks
 
 - **Consistency**: Uneven drafting causes weak spots and breakage.
