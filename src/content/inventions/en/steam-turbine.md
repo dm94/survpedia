@@ -38,7 +38,7 @@ Creating a functional steam turbine requires a much higher level of precision th
 - **Rotor:** A central shaft with precisely shaped blades (airfoils). The blades must be perfectly balanced to prevent catastrophic vibration at high speeds.
 - **Casing:** A pressure-tight shell that directs the steam through the blades and prevents leakage.
 - **Bearings:** High-quality **[Bearings](/en/inventions/bearings)** capable of handling extremely high rotational speeds (thousands of RPM).
-- **Sealings:** To prevent steam from escaping along the shaft.
+- **Seals:** To prevent steam from escaping along the shaft.
 
 ## Materials needed
 
