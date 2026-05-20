@@ -32,7 +32,7 @@ La turbina de vapor funciona convirtiendo la energía potencial del vapor presur
 
 ## Cómo crearla
 
-Crear una turbina de vapor funcional requiere un nivel de precisión mucho mayor que una máquina de pistones.
+Crear una turbina de vapor funcional requiere un nivel de precisión mucho mayor que el de una máquina de pistones.
 
 - **Nivel:** Avanzado.
 - **Rotor:** Un eje central con álabes de forma precisa. Los álabes deben estar perfectamente equilibrados para evitar vibraciones catastróficas a altas velocidades.
