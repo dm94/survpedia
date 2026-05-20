@@ -45,7 +45,7 @@ It is most commonly obtained as a byproduct of **[Soap](/en/materials/soap)** ma
 2.  **Separation:** After soap is formed, a liquid remains (spent lye).
 3.  **Purification:** The glycerol is extracted from this liquid through distillation.
 
-### Tools needed to work on it
+### Tools needed to work with it
 
 - **Distillation Apparatus:** To purify it from the soap-making byproduct.
 - **Storage Containers:** Glass or high-quality plastic.
