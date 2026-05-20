@@ -50,7 +50,7 @@ Crear una turbina de vapor funcional requiere un nivel de precisión mucho mayor
 
 ## Variantes y mejoras
 
-- **Turbina De Laval:** Una turbina de impulso simple de una sola etapa (muy alta velocidad, baja eficiencia).
+- **Turbina de Laval:** Una turbina de impulso simple de una sola etapa (muy alta velocidad, baja eficiencia).
 - **Turbina Parsons:** La primera turbina de reacción multietapa exitosa, mucho más eficiente para la energía a gran escala.
 - **Turbina de Condensación:** Utiliza un condensador para crear un vacío en el escape, aumentando enormemente la eficiencia.
 
