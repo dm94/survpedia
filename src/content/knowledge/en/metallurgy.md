@@ -33,7 +33,7 @@ Most metals are found in nature as ores (combined with other elements). Metallur
 - **Ore:** Copper ore (malachite, chalcopyrite) and tin ore (cassiterite).
 - **Fuel:** Charcoal (produces the necessary high heat and reduction atmosphere).
 - **Flux:** Substances like limestone to help separate impurities (slag).
-- **Tools:** **[Forge](/en/inventions/forge)**, **[Bellows](/en/inventions/bellows)**, crucibles (**[Containers](/en/inventions/containers)**), molds, and **[Hammers](/en/inventions/hammer)**.
+- **Tools:** **[Forge](/en/inventions/forge)**, **[Bellows](/en/inventions/bellows)**, **[Crucible](/en/inventions/crucible)**, molds, and **[Hammers](/en/inventions/hammer)**.
 
 ## Variants and improvements
 

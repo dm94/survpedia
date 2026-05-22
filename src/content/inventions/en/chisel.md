@@ -14,7 +14,7 @@ A chisel is a tool with a characteristically shaped cutting edge of blade on its
 
 ## Use / Function
 
-- **Woodworking:** Carving joints (mortise and tenon), shaping wood, woodturning on a lathe.
+- **Woodworking:** Carving joints (mortise and tenon), shaping wood, woodturning on a lathe. The **[Hand Plane](/en/inventions/hand-plane)** uses a similar blade to achieve flat surfaces.
 - **Masonry:** Cutting and shaping stone bricks or sculptures.
 - **Metalworking:** Cutting cold metal (cold chisel) or removing waste material.
 

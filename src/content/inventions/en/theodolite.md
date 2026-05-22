@@ -10,7 +10,7 @@ image: ../../../assets/images/inventions/theodolite.jpg
 
 # Brief description
 
-Precision measurement instrument used in surveying and engineering to measure angles in horizontal and vertical planes. It is essential for triangulation and precise mapping.
+Precision measurement instrument used in **[Surveying](/en/knowledge/surveying)** and engineering to measure angles in horizontal and vertical planes. It is essential for triangulation and precise mapping.
 
 ## Use / Function
 

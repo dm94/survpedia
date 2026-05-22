@@ -73,3 +73,4 @@ La tela aparece como una lámina continua de hilos entrelazados. Su textura, pes
 - **[Hilo](/es/materials/yarn)**: La materia prima para la tela.
 - **[Tinte textil](/es/materials/textile-dye)**: Para colorear.
 - **[Telar](/es/inventions/loom)**: La herramienta para hacerla.
+- **[Tejido Básico](/es/knowledge/weaving)**: El conocimiento de cómo crearla.

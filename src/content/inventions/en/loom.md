@@ -55,6 +55,8 @@ Basic to Intermediate.
 - **Floor Loom**: Horizontal frame with foot pedals (treadles) for faster operation.
 - **Improvements**: Adding a reed (comb) to space threads evenly and beat the weft tighter. The invention of the **[Flying Shuttle](/en/inventions/flying-shuttle)** allowed for much faster weaving, while the **[Spinning Jenny](/en/inventions/spinning-jenny)** provided the necessary volume of yarn.
 
+- **[Basic Weaving](/en/knowledge/weaving)**: The core technique for operating a loom.
+
 ## Relationship with Sewing Machine
 
 The loom and the **[Sewing Machine](/en/inventions/sewing-machine)** represent two distinct stages in textile production:
