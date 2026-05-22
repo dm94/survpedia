@@ -36,5 +36,5 @@ A sharp metal blade (the "iron") is held at a fixed angle within a body (the "st
 
 ## Limits / Risks
 - **Sharpness:** A dull blade is dangerous and ineffective; constant honing is required.
-- **Grain Direction:** Planning against the grain can cause "tear-out" (splintering).
+- **Grain Direction:** Planing against the grain can cause "tear-out" (splintering).
 - **Physical Effort:** Requires significant manual labor and technique to use correctly.
