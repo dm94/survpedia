@@ -11,7 +11,7 @@ image: ../../../assets/images/inventions/level.jpg
 
 # Brief description
 
-A level is an instrument used to establish or verify a horizontal plane. It is essential in construction, carpentry, and masonry to ensure that surfaces are flat and structures are aligned with gravity.
+A level is an instrument used to establish or verify a horizontal plane. It is essential in **[Surveying](/en/knowledge/surveying)**, construction, carpentry, and masonry to ensure that surfaces are flat and structures are aligned with gravity.
 
 ## Use / Function
 
