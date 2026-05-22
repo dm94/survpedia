@@ -33,7 +33,7 @@ Un polvo cristalino blanco con un sabor intensamente amargo. A menudo se encuent
 - **Purificación**: Los procesos químicos avanzados pueden aislar cristales de quinina pura.
 - **Procesamiento adecuado**: Si no se muele o se hace la infusión correctamente, es posible que los alcaloides activos no se liberen de manera efectiva.
 
-### Herramientas necesarias para trabajar en él
+### Herramientas necesarias para trabajar con él
 
 - **Herramientas básicas**: Mortero y maza para moler, recipientes para infusión.
 - **Nivel tecnológico**: Básico para infusión, intermedio para extracción química.
