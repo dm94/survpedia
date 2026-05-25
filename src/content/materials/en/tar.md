@@ -82,3 +82,7 @@ It is a black or dark brown viscous liquid with a strong, smoky, and distinctive
 - **[Resin](/en/materials/resin)**: The raw component in the wood that becomes tar.
 - **[Pine Resin Glue](/en/materials/pine-resin-glue)**: A similar resin-based adhesive.
 - **Pitch**: Tar that has been boiled down to a solid state.
+
+### Related knowledge
+
+- **[Wood Distillation](/en/knowledge/wood-distillation)**: Wood tar is a primary byproduct of this process.

@@ -11,6 +11,8 @@ relatedInventions:
   - telescope
   - map
   - drawing-compass
+  - anemometer
+  - wind-vane
 image: ../../../assets/images/knowledge/navigation.jpg
 ---
 

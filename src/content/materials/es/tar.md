@@ -82,3 +82,7 @@ Es un líquido viscoso negro o marrón oscuro con un olor fuerte, ahumado y dist
 - **[Resina](/es/materials/resin)**: El componente crudo en la madera que se convierte en alquitrán.
 - **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Un adhesivo similar a base de resina.
 - **Brea**: Alquitrán que ha sido hervido hasta un estado sólido.
+
+### Conocimiento relacionado
+
+- **[Destilación de Madera](/es/knowledge/wood-distillation)**: El alquitrán de madera es un subproducto principal de este proceso.

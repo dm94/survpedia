@@ -26,7 +26,7 @@ Las herramientas de medición son instrumentos diseñados para cuantificar magni
 
 La medición de la temperatura es crucial para procesos químicos, cocina, medicina y predicción del clima.
 
-- **[Termómetro](./thermometer):** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
+- **[Anemómetro](./anemometer), [Pluviómetro](./rain-gauge), [Termómetro](./thermometer):** Utiliza la expansión térmica de líquidos (mercurio, alcohol) o sólidos para indicar la temperatura en una escala graduada. Permite el control preciso de procesos y la seguridad sanitaria.
 - **Termopar:** Para temperaturas extremas o mediciones digitales rápidas.
 
 ## Medición de la horizontalidad
@@ -82,7 +82,7 @@ La creación varía según la herramienta, pero generalmente implica:
 - **Volumen:** [Recipiente de Medición](./measuring-container).
 - **Nivelación:** [Plomada](./plumb-bob), [Nivel de burbuja](./level), [Nivel de agua](./level).
 - **Tiempo:** [Reloj de sol](./sundial), [Reloj de agua](./water-clock), [Reloj de péndulo](./pendulum-clock), [Reloj Mecánico](./mechanical-watch).
-- **Ambiental:** [Termómetro](./thermometer), [Barómetro](./barometer).
+- **Ambiental:** [Anemómetro](./anemometer), [Pluviómetro](./rain-gauge), [Termómetro](./thermometer), [Barómetro](./barometer), [Veleta](./wind-vane).
 
 ## Límites y riesgos
 

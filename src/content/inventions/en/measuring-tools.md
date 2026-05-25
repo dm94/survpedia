@@ -27,6 +27,8 @@ Measuring tools are instruments designed to quantify physical magnitudes such as
 Temperature measurement is crucial for chemical processes, cooking, medicine, and weather prediction.
 
 - **[Thermometer](./thermometer):** Uses the thermal expansion of liquids (mercury, alcohol) or solids to indicate temperature on a graduated scale. It allows for precise process control and health safety.
+- **[Anemometer](./anemometer):** Measures wind speed using rotating cups, vanes, or ultrasonic sensors, crucial for weather prediction, aviation, and wind energy.
+- **[Rain Gauge](./rain-gauge):** Collects and measures precipitation over time to monitor rainfall, essential for agriculture, hydrology, and climate studies.
 - **Thermocouple:** For extreme temperatures or rapid digital measurements.
 
 ## Horizontal Measurement
@@ -73,7 +75,7 @@ Creation varies by tool, but generally involves:
 - **Volume:** [Measuring Container](./measuring-container).
 - **Leveling:** [Plumb bob](./plumb-bob), [Spirit level](./level), [Water level](./level).
 - **Time:** [Sundial](./sundial), [Water clock](./water-clock), [Pendulum clock](./pendulum-clock), [Mechanical Watch](./mechanical-watch).
-- **Environmental:** [Thermometer](./thermometer), [Barometer](./barometer).
+- **Environmental:** [Anemometer](./anemometer), [Rain Gauge](./rain-gauge), [Thermometer](./thermometer), [Barometer](./barometer), [Wind Vane](./wind-vane).
 
 ## Limits and risks
 
