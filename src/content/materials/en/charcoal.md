@@ -77,3 +77,7 @@ Charcoal is black, brittle, and lightweight. It is porous and has a large surfac
 - **[Gunpowder](/en/materials/gunpowder)**: Charcoal is a key ingredient.
 - **[Steel](/en/materials/steel)**: Charcoal provides the carbon needed to turn iron into steel.
 - **[Pine Resin Glue](/en/materials/pine-resin-glue)**: Mixed with charcoal dust for strength.
+
+### Related knowledge
+
+- **[Wood Distillation](/en/knowledge/wood-distillation)**: The chemical process used to produce charcoal and other byproducts.

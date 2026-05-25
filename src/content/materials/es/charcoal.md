@@ -77,3 +77,7 @@ El carbón es negro, frágil y ligero. Es poroso y tiene una gran superficie. Ar
 - **[Pólvora](/es/materials/gunpowder)**: El carbón es un ingrediente clave.
 - **[Acero](/es/materials/steel)**: El carbón proporciona el carbono necesario para convertir el hierro en acero.
 - **[Pegamento de Resina de Pino](/es/materials/pine-resin-glue)**: Mezclado con polvo de carbón para resistencia.
+
+### Conocimiento relacionado
+
+- **[Destilación de Madera](/es/knowledge/wood-distillation)**: El proceso químico utilizado para producir carbón vegetal y otros subproductos.

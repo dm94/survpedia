@@ -78,3 +78,7 @@ Un líquido claro e incoloro con un olor a vinagre abrumador y sofocante. En con
 - **[Vinagre](/es/materials/vinegar)**: La materia prima.
 - **[Cobre](/es/materials/copper)**: Reacciona para formar Cardenillo.
 - **[Plomo](/es/materials/lead)**: Reacciona para formar Albayalde.
+
+### Conocimiento relacionado
+
+- **[Destilación de Madera](/es/knowledge/wood-distillation)**: El ácido piroligneo (vinagre de madera) se produce durante la destilación de la madera.

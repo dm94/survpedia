@@ -78,3 +78,7 @@ A clear, colorless liquid with an overpowering, suffocating smell of vinegar. In
 - **[Vinegar](/en/materials/vinegar)**: The raw material.
 - **[Copper](/en/materials/copper)**: Reacts to form Verdigris.
 - **[Lead](/en/materials/lead)**: Reacts to form Sugar of Lead.
+
+### Related knowledge
+
+- **[Wood Distillation](/en/knowledge/wood-distillation)**: Pyroligneous acid (wood vinegar) is produced during wood distillation.
