@@ -54,6 +54,7 @@ Un líquido claro y aceitoso que es extremadamente corrosivo. Genera un calor si
 
 - **Vinagre (Ácido Acético)**: Para necesidades de ácido muy débil.
 - **Ácido Cítrico**: Ácido débil.
+- **[Ácido clorhídrico](/es/materials/hydrochloric-acid)**: Se puede producir a partir de sal y ácido sulfúrico, pero es volátil.
 
 ### Limitaciones y fallos comunes
 

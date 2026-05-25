@@ -53,3 +53,9 @@ El principio fundamental consiste en calentar agua para crear vapor en un espaci
 - **Eficiencia:** Gran parte de la energía se pierde en forma de calor residual.
 - **Mantenimiento:** La alta presión y el calor causan un desgaste significativo en sellos y partes móviles.
 - **Calidad del agua:** Las impurezas del agua pueden provocar corrosión y acumulaciones peligrosas en la caldera.
+
+### Inventos relacionados
+
+- **[Cigüeñal](/es/inventions/crankshaft)**
+- **[Pistón](/es/inventions/piston)**
+- **[Volante de inercia](/es/inventions/flywheel)**

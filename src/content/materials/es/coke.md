@@ -12,8 +12,10 @@ uses:
   - Combustible para altos hornos
 naturalAvailability: false
 manufacturingProcess: >-
-  Se produce calentando carbón en ausencia de aire (destilación destructiva) para eliminar los componentes volátiles.
+  Se produce calentando carbón en ausencia de aire (destilación destructiva)
+  para eliminar los componentes volátiles.
 category: synthetic
+image: ../../../assets/images/materials/coke.jpg
 ---
 
 El coque es un combustible gris, duro y poroso con un alto contenido de carbono y pocas impurezas, fabricado mediante el calentamiento de carbón o petróleo en ausencia de aire, un proceso de destilación destructiva.

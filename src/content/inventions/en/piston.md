@@ -54,6 +54,7 @@ A component of reciprocating engines, reciprocating pumps, gas compressors, hydr
 - **[Pump](/en/inventions/pump)**
 - **[Slide Bearings](/en/inventions/slide-bearings)** (Connecting rod bearings)
 - **[Flywheel](/en/inventions/flywheel)**
+- **[Crankshaft](/en/inventions/crankshaft)**
 
 ### Related Materials
 

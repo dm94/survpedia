@@ -59,3 +59,11 @@ Construir un MCI funcional requiere alta precisión y metalurgia avanzada:
 - **Lubricación**: Requiere un flujo constante de aceite para reducir la fricción y el desgaste.
 - **Emisiones**: Produce CO2, NOx y partículas.
 - **Complejidad**: Requiere tolerancias de fabricación muy altas; una pequeña falla puede destruir todo el motor.
+
+### Inventos relacionados
+
+- **[Pistón](/es/inventions/piston)**
+- **[Cigüeñal](/es/inventions/crankshaft)**
+- **[Volante de inercia](/es/inventions/flywheel)**
+- **[Válvula](/es/inventions/valve)**
+- **[Generador eléctrico](/es/inventions/electric-generator)**

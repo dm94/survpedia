@@ -14,6 +14,7 @@ relatedInventions:
   - electromagnet
   - telegraph
   - transformer
+  - capacitor
 image: ../../../assets/images/knowledge/electricity.jpg
 ---
 
@@ -64,7 +65,7 @@ Electricity involves the flow of electrons through a conductor.
 
 - **Direct Current (DC):** Flow of charge in one direction (batteries).
 - **Alternating Current (AC):** Flow of charge that periodically reverses direction (efficient for long-distance transmission).
-- **Electronics:** Controlling the flow of electrons using vacuum tubes or transistors for information processing.
+- **Electronics:** Controlling the flow of electrons using vacuum tubes or transistors for information processing. See **[Basic Electronics](/en/knowledge/basic-electronics)**.
 - **High Voltage Transmission:** Reducing energy loss over long distances using **[Transformers](/en/inventions/transformer)**.
 
 ## Limits and risks

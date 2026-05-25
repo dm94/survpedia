@@ -59,3 +59,11 @@ Building a functional ICE requires high precision and advanced metallurgy:
 - **Lubrication**: Requires constant oil flow to reduce friction and wear.
 - **Emissions**: Produces CO2, NOx, and particulate matter.
 - **Complexity**: Requires very high manufacturing tolerances; a small failure can destroy the entire engine.
+
+### Related Inventions
+
+- **[Piston](/en/inventions/piston)**
+- **[Crankshaft](/en/inventions/crankshaft)**
+- **[Flywheel](/en/inventions/flywheel)**
+- **[Valve](/en/inventions/valve)**
+- **[Electric Generator](/en/inventions/electric-generator)**

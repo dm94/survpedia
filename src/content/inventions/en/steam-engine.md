@@ -65,6 +65,7 @@ A heat engine that performs mechanical work using steam as its working fluid. Th
 - **[Flywheel](/en/inventions/flywheel)**
 - **[Boiler](/en/inventions/boiler)**
 - **[Piston](/en/inventions/piston)**
+- **[Crankshaft](/en/inventions/crankshaft)**
 - **[Valve](/en/inventions/valve)**
 - **[Governor](/en/inventions/governor)**
 - **[Pump](/en/inventions/pump)**

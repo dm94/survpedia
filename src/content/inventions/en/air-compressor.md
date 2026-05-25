@@ -1,6 +1,12 @@
 ---
 title: Air Compressor
-materialsUsed: ["iron", "steel", "leather", "brass", "wood"]
+materialsUsed:
+  - iron
+  - steel
+  - leather
+  - brass
+  - wood
+image: ../../../assets/images/inventions/air-compressor.jpg
 ---
 
 # Brief description

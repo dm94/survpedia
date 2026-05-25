@@ -56,7 +56,7 @@ A clear, oily liquid that is extremely corrosive. It generates significant heat 
 
 - **Vinegar (Acetic Acid)**: For very weak acid needs (not suitable for high-power batteries).
 - **Citric Acid**: Weak acid.
-- **Hydrochloric Acid**: Can be produced from salt and sulfuric acid, but is volatile.
+- **[Hydrochloric Acid](/en/materials/hydrochloric-acid)**: Can be produced from salt and sulfuric acid, but is volatile.
 
 ### Limitations and common failures
 
