@@ -33,7 +33,7 @@ const metaDescription =
   rawDescription.length > 0 ? rawDescription : entry.data.title;
 const metaImage = entry.data.image?.src ?? "/logo.png";
 
-const compositionLinks: { id: string; href: string; name: string }[] =
+const compositionLinks: { id: string; href: string; name: string }[] | undefined =
   entry.data.composition?.map((id: string) => ({
     id,
     href: `/${lang}/elements/${id}`,
