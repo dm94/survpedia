@@ -9,6 +9,8 @@ relatedMaterials:
 relatedInventions:
   - battery
   - leyden-jar
+  - capacitor
+  - resistor
   - electric-generator
   - electric-motor
   - incandescent-light-bulb

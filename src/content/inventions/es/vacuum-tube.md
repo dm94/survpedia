@@ -17,6 +17,9 @@ Una válvula de vacío (o tubo de vacío) es un componente electrónico que cont
 
 ## Principio de funcionamiento
 
+El tubo de vacío es un componente clave en la **[Electrónica Básica](/es/knowledge/basic-electronics)**.
+
+
 Se basa en la **emisión termiónica**:
 1.  **Cátodo:** Un filamento (tungsteno) se calienta hasta que emite electrones.
 2.  **Vacío:** La ampolla de vidrio se vacía para que las moléculas de aire no obstruyan los electrones.

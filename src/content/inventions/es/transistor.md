@@ -6,7 +6,7 @@ image: ../../../assets/inventions/transistor.jpg
 
 # Breve descripción
 
-El transistor es un dispositivo semiconductor utilizado para amplificar o conmutar señales eléctricas y potencia. Es el bloque de construcción fundamental de la electrónica moderna, reemplazando a las voluminosas y frágiles válvulas de vacío. Permite la miniaturización de circuitos electrónicos y es la base de todo, desde radios simples hasta computadoras complejas.
+El transistor es un dispositivo semiconductor utilizado para amplificar o conmutar señales eléctricas y potencia. Es el bloque de construcción fundamental de la **[Electrónica Básica](/es/knowledge/basic-electronics)**, reemplazando a las voluminosas y frágiles **[Válvulas de Vacío](/es/inventions/vacuum-tube)**. Permite la miniaturización de circuitos electrónicos y es la base de todo, desde **[Radios](/es/inventions/radio)** simples hasta computadoras complejas.
 
 ## Uso / Función
 

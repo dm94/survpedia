@@ -18,9 +18,9 @@ La radio es un dispositivo capaz de recibir ondas electromagnéticas (ondas de r
 
 Funciona bajo el principio de inducción electromagnética y resonancia.
 1.  **Antena:** Intercepta las ondas de radio, induciendo una pequeña corriente eléctrica.
-2.  **Sintonizador (Resonancia):** Un circuito (usualmente una bobina y un condensador) selecciona una frecuencia específica de entre las muchas que llegan a la antena.
+2.  **Sintonizador (Resonancia):** Un circuito (generalmente una bobina y un **[Condensador](/es/inventions/capacitor)**) selecciona una frecuencia específica de las muchas ondas que golpean la antena.
 3.  **Detector (Demodulación):** Convierte la corriente alterna de la onda de radio en corriente continua (extrae la señal de audio).
-4.  **Amplificación:** Aumenta la potencia de la señal (usando válvulas de vacío o transistores).
+4.  **Amplificación:** Aumenta la fuerza de la señal (usando **[Tubos de vacío](/es/inventions/vacuum-tube)** o **[Transistores](/es/inventions/transistor)**).
 5.  **Transductor:** Convierte la señal eléctrica de nuevo en sonido (altavoz o auriculares).
 
 ## Cómo crearlo
@@ -54,3 +54,4 @@ Funciona bajo el principio de inducción electromagnética y resonancia.
 
 ### Conocimientos relacionados
 - **[Código Morse](/es/knowledge/morse-code)**: El lenguaje estándar para las primeras transmisiones de radio.
+- **[Electrónica Básica](/es/knowledge/basic-electronics)**: Los principios fundamentales de los circuitos de radio.

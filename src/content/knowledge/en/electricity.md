@@ -9,6 +9,8 @@ relatedMaterials:
 relatedInventions:
   - battery
   - leyden-jar
+  - capacitor
+  - resistor
   - electric-generator
   - electric-motor
   - incandescent-light-bulb
@@ -67,7 +69,7 @@ Electricity involves the flow of electrons through a conductor.
 
 - **Direct Current (DC):** Flow of charge in one direction (batteries).
 - **Alternating Current (AC):** Flow of charge that periodically reverses direction (efficient for long-distance transmission).
-- **Electronics:** Controlling the flow of electrons using vacuum tubes or transistors for information processing.
+- **[Electronics](/en/knowledge/basic-electronics):** Controlling the flow of electrons using **[Vacuum Tubes](/en/inventions/vacuum-tube)**, **[Transistors](/en/inventions/transistor)**, **[Resistors](/en/inventions/resistor)**, and **[Capacitors](/en/inventions/capacitor)** for information processing.
 - **High Voltage Transmission:** Reducing energy loss over long distances using **[Transformers](/en/inventions/transformer)**.
 
 ## Limits and risks

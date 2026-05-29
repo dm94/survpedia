@@ -10,7 +10,7 @@ image: ../../../assets/images/inventions/leyden-jar.jpg
 
 # Descripción breve
 
-La botella de Leyden es la forma más antigua de un condensador. Es un dispositivo que "almacena" electricidad estática entre dos electrodos en el interior y el exterior de un frasco de vidrio.
+La botella de Leyden es la forma más antigua de un **[Condensador](/es/inventions/capacitor)**. Es un dispositivo que "almacena" electricidad estática entre dos electrodos en el interior y el exterior de un frasco de vidrio.
 
 ## Uso / Función
 
