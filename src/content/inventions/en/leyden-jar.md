@@ -10,7 +10,7 @@ image: ../../../assets/images/inventions/leyden-jar.jpg
 
 # Brief description
 
-The Leyden jar is the earliest form of a capacitor. It is a device that "stores" static electricity between two electrodes on the inside and outside of a glass jar.
+The Leyden jar is the earliest form of a **[Capacitor](/en/inventions/capacitor)**. It is a device that "stores" static electricity between two electrodes on the inside and outside of a glass jar.
 
 ## Use / Function
 
@@ -47,7 +47,7 @@ The Leyden jar works on the principle of electrical induction.
 
 - **Water-filled Jar:** The simplest version, using water as the inner conductor.
 - **Leyden Battery:** Multiple jars connected in parallel to increase the total storage capacity.
-- **Modern Capacitor:** Uses different dielectric materials (plastic, ceramic) and compact layered designs.
+- **Modern [Capacitor](/en/inventions/capacitor):** Uses different dielectric materials (plastic, ceramic) and compact layered designs.
 
 ## Limits and risks
 

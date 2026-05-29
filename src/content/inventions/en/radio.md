@@ -19,9 +19,9 @@ A radio is a device capable of receiving electromagnetic waves (radio waves) and
 It operates on the principle of electromagnetic induction and resonance.
 
 1.  **Antenna:** Intercepts radio waves, inducing a tiny electric current.
-2.  **Tuner (Resonance):** A circuit (usually a coil and capacitor) selects a specific frequency from the many waves hitting the antenna.
+2.  **Tuner (Resonance):** A circuit (usually a coil and **[Capacitor](/en/inventions/capacitor)**) selects a specific frequency from the many waves hitting the antenna.
 3.  **Detector (Demodulation):** Converts the alternating current of the radio wave into direct current (extracts the audio signal).
-4.  **Amplification:** Increases the signal strength (using vacuum tubes or transistors).
+4.  **Amplification:** Increases the signal strength (using **[Vacuum Tubes](/en/inventions/vacuum-tube)** or **[Transistors](/en/inventions/transistor)**).
 5.  **Transducer:** Converts the electrical signal back into sound (speaker or headphones).
 
 ## How to create it
@@ -56,3 +56,4 @@ It operates on the principle of electromagnetic induction and resonance.
 
 ### Related Knowledge
 - **[Morse Code](/en/knowledge/morse-code)**: The standard language for early radio transmission.
+- **[Basic Electronics](/en/knowledge/basic-electronics)**: The foundational principles of radio circuits.

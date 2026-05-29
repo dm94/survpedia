@@ -17,6 +17,9 @@ A vacuum tube (or valve) is an electronic device that controls the flow of elect
 
 ## Operating principle
 
+The vacuum tube is a key component in **[Basic Electronics](/en/knowledge/basic-electronics)**.
+
+
 It relies on **thermionic emission**:
 
 1.  **Cathode:** A filament (tungsten) is heated until it emits electrons.
