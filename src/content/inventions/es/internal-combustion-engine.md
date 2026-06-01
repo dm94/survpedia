@@ -52,6 +52,7 @@ Construir un MCI funcional requiere alta precisión y metalurgia avanzada:
 - **Motor de Dos Tiempos**: Más simple, ligero, pero menos eficiente y más contaminante.
 - **Motor Diésel**: Utiliza el encendido por compresión en lugar de una chispa; es más eficiente.
 - **Turbocompresor**: Utiliza los gases de escape para bombear más aire al motor para obtener más potencia.
+- **[Gasificador de Madera](/es/inventions/wood-gasifier)**: Un dispositivo que permite que un MCI funcione con madera sólida o combustible de carbón vegetal al convertirlo en gas combustible.
 
 ## Límites y riesgos
 

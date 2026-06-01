@@ -46,7 +46,7 @@ A hand-held agricultural tool with a curved blade typically used for harvesting 
 ## Variants and improvements
 
 - **Serrated Sickle**: Features small teeth along the edge, which "saws" through stalks, staying sharp longer than a smooth edge when cutting dry grain.
-- **Scythe**: A larger, two-handed version with a long handle (snath) used for mowing grass or reaping while standing upright.
+- **[Scythe](/en/inventions/scythe)**: A larger, two-handed version with a long handle (snath) used for mowing grass or reaping while standing upright.
 
 ## Limits and risks
 
