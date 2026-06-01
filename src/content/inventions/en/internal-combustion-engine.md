@@ -52,6 +52,7 @@ Building a functional ICE requires high precision and advanced metallurgy:
 - **Two-stroke Engine**: Simpler, lighter, but less efficient and more polluting.
 - **Diesel Engine**: Uses compression ignition instead of a spark; more efficient.
 - **Turbocharging**: Uses exhaust gases to pump more air into the engine for more power.
+- **[Wood Gasifier](/en/inventions/wood-gasifier)**: A device that allows an ICE to run on solid wood or charcoal fuel by converting it into combustible gas.
 
 ## Limits and risks
 

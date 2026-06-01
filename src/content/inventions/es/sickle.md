@@ -46,7 +46,7 @@ Una herramienta agrícola manual con una hoja curva, utilizada típicamente para
 ## Variantes y mejoras
 
 - **Hoz dentada**: Presenta pequeños dientes a lo largo del borde, lo que permite "serrar" los tallos, manteniéndose afilada más tiempo que un borde liso al cortar grano seco.
-- **Guadaña**: Una versión más grande para dos manos con un mango largo (astil) utilizada para segar hierba o cosechar estando de pie.
+- **[Guadaña](/es/inventions/scythe)**: Una versión más grande para dos manos con un mango largo (astil) utilizada para segar hierba o cosechar estando de pie.
 
 ## Límites y riesgos
 
