@@ -53,7 +53,7 @@ El gasificador funciona a través de un proceso llamado **gasificación termoqu�
 
 ## Límites y riesgos
 
-- **Monóxido de Carbono:** El gas de madera es altamente tóxico debido a su alto contenido de CO. Nunca operar en interiores.
+- **Monóxido de Carbono:** El gas de madera es altamente tóxico debido a su alto contenido de CO. Nunca lo opere en interiores.
 - **Acumulación de Alquitrán:** El gas mal filtrado arruinará rápidamente un motor de combustión interna al atascar válvulas y pistones.
 - **Menor Potencia:** El gas de madera tiene una densidad energética menor que la gasolina; los motores suelen perder entre un 30% y un 40% de su potencia nominal.
 
