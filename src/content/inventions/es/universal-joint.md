@@ -42,7 +42,7 @@ La junta universal consiste en un par de bisagras situadas cerca una de la otra,
 
 ## Variantes y mejoras
 
-- **Junta Cardan Doble:** Utiliza dos juntas en serie para cancelar las fluctuaciones de velocidad, creando un efecto de Velocidad Constante (CV).
+- **Junta Cardán doble:** Utiliza dos juntas en serie para cancelar las fluctuaciones de velocidad, creando un efecto de Velocidad Constante (CV).
 - **Junta Homocinética (CV):** Una junta más compleja (como la junta Rzeppa) que transmite el movimiento a una velocidad perfectamente constante independientemente del ángulo.
 - **Acoplamiento Flexible:** Utiliza caucho o tela para ángulos pequeños y amortiguación de vibraciones.
 
