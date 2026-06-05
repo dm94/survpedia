@@ -37,7 +37,7 @@ La junta universal consiste en un par de bisagras situadas cerca una de la otra,
 
 - **Horquillas y Cruceta:** Acero forjado o acero aleado de alta resistencia.
 - **Cojinetes:** Acero endurecido (cojinetes de agujas) o Bronce (casquillos).
-- **Lubricante:** Grasa (Grasa animal para versiones primitivas).
+- **Lubricante:** Grasa (grasa animal para versiones primitivas).
 - **Herramientas:** Forja, Torno, Taladro de columna y Rectificadora.
 
 ## Variantes y mejoras
