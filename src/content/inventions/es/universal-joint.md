@@ -5,7 +5,7 @@ materialsUsed: ["steel", "iron", "animal-fat"]
 
 # Breve descripción
 
-Una junta universal (también llamada junta Cardan) es una junta o acoplamiento que conecta varillas rígidas cuyos ejes están inclinados entre sí.
+Una junta universal (también llamada junta Cardán) es una junta o acoplamiento que conecta varillas rígidas cuyos ejes están inclinados entre sí.
 Permite la transmisión del movimiento rotativo a través de un ángulo.
 Se utiliza comúnmente en ejes que transmiten movimiento rotativo.
 
