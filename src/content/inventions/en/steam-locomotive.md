@@ -58,7 +58,7 @@ The steam locomotive is an application of the **[Steam Engine](/en/inventions/st
 ## Limits and risks
 
 - **Efficiency:** Steam locomotives are thermally inefficient (rarely exceeding 6-10%).
-- **Maintenance:** Requires frequent cleaning (boilerscale removal), lubrication, and mechanical adjustment.
+- **Maintenance:** Requires frequent cleaning (boiler scale removal), lubrication, and mechanical adjustment.
 - **Boiler Explosion:** A catastrophic failure of the pressure vessel due to low water levels or excessive pressure.
 - **Fire Risk:** Sparks from the chimney can ignite nearby fields or forests.
 
