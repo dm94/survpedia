@@ -59,7 +59,7 @@ Un líquido ligero y transparente que se evapora muy rápidamente a temperatura 
 
 - **Alcohol (Etanol/Isopropanol)**: Un disolvente más débil, pero más seguro para algunas aplicaciones.
 - **Trementina**: Para diluir pinturas a base de aceite.
-- **Metiletilcetona (MEK)**: Un disolvente similar pero menos volátil.
+- **Metil etil cetona (MEK)**: Un disolvente similar pero menos volátil.
 
 ### Limitaciones y fallos comunes
 
