@@ -24,7 +24,7 @@ The combustion of **[Acetylene](/en/materials/acetylene)** with **[Oxygen](/en/e
 
 ## How to create it
 
-Creating a gas welding equipment from scratch is complex and dangerous due to the need to handle gases under pressure and the risk of explosion. However, the basic components are:
+Creating gas welding equipment from scratch is complex and dangerous due to the need to handle gases under pressure and the risk of explosion. However, the basic components are:
 
 1.  **Gas Generators:**
     - **Acetylene:** Can be generated in a "generator" by mixing **[Calcium Carbide](/en/materials/calcium-carbide)** with **[Water](/en/materials/water)** in a controlled manner.
