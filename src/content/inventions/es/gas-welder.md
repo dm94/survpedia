@@ -2,9 +2,7 @@
 title: Soldador a Gas
 materialsUsed:
   - acetylene
-  - oxygen
   - filler-rod
-  - hose
   - brass
 image: ../../../assets/images/inventions/gas-welder.jpg
 ---
