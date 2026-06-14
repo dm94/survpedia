@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/gas-welder.jpg
 
 # Gas Welder (Oxy-fuel)
 
-An equipment that uses the combustion of a fuel gas (usually acetylene) mixed with pure oxygen to produce a very high-temperature flame, capable of melting most commercial metals.
+Equipment that uses the combustion of a fuel gas (usually acetylene) mixed with pure oxygen to produce a very high-temperature flame, capable of melting most commercial metals.
 
 ## Use / Function
 
