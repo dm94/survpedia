@@ -32,7 +32,7 @@ It is a colorless gas. In its pure state it is odorless, but commercial grade ha
 ### Minimum processing required
 
 1.  **Obtaining Carbide:** **[Calcium Carbide](/en/materials/calcium-carbide)** is needed.
-2.  **Generation:** In a generator (like a carbide lamp or a gasogen), water drips onto the calcium carbide.
+2.  **Generation:** In a gas generator (such as a carbide lamp or a gasogene), water drips onto the calcium carbide.
 3.  **Reaction:** $CaC_2 + 2H_2O \rightarrow C_2H_2 + Ca(OH)_2$ (Acetylene + Slaked Lime).
 
 ### Tools needed to work on it
