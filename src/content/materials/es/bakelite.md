@@ -24,7 +24,7 @@ category: synthetic
 
 La baquelita (polioxibencilmetilenglicolanhídrido) fue el primer plástico verdaderamente sintético. Es una resina de fenol-formaldehído termoestable. Una vez fraguada, es extremadamente dura, resistente al calor y químicamente estable. Suele ser de color oscuro (marrón o negro) y tiene un olor "fenólico" característico cuando se calienta o se frota.
 
-## Origen y dónde encontrarlo
+## Origen y dónde encontrarla
 
 - **Sintético:** Inventado por Leo Baekeland en 1907. No existe en la naturaleza.
 - **Recolección:** Se encuentra en componentes eléctricos antiguos, radios viejas, teléfonos y mangos de utensilios de cocina de principios a mediados del siglo XX.
