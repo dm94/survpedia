@@ -1,6 +1,10 @@
 ---
-title: "Differential"
-materialsUsed: ["steel", "iron", "animal-fat"]
+title: Differential
+materialsUsed:
+  - steel
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/differential.jpg
 ---
 
 # Brief description

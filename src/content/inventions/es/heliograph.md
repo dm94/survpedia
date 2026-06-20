@@ -1,6 +1,11 @@
 ---
-title: "Heliógrafo"
-materialsUsed: ["glass", "wood", "metal", "silver"]
+title: Heliógrafo
+materialsUsed:
+  - glass
+  - wood
+  - metal
+  - silver
+image: ../../../assets/images/inventions/heliograph.jpg
 ---
 
 # Descripción breve

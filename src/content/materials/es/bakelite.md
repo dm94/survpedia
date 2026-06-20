@@ -16,8 +16,9 @@ uses:
   - mangos y pomos
   - joyería
 naturalAvailability: false
-manufacturingProcess: 'Policondensación de fenol y formaldehído bajo calor y presión.'
+manufacturingProcess: Policondensación de fenol y formaldehído bajo calor y presión.
 category: synthetic
+image: ../../../assets/images/materials/bakelite.jpg
 ---
 
 # Descripción

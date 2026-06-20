@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - wood
+image: ../../../assets/images/inventions/harrow.jpg
 ---
 
 # Descripción breve

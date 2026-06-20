@@ -6,6 +6,7 @@ materialsUsed:
   - water
   - clay
   - stone
+image: ../../../assets/images/inventions/solar-still.jpg
 ---
 
 # Breve descripción
