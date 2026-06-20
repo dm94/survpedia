@@ -1,6 +1,10 @@
 ---
-title: "Junta Universal"
-materialsUsed: ["steel", "iron", "animal-fat"]
+title: Junta Universal
+materialsUsed:
+  - steel
+  - iron
+  - animal-fat
+image: ../../../assets/images/inventions/universal-joint.jpg
 ---
 
 # Breve descripción

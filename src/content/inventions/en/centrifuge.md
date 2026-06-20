@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - wood
   - glass
+image: ../../../assets/images/inventions/centrifuge.jpg
 ---
 
 # Brief description

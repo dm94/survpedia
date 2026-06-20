@@ -5,6 +5,7 @@ materialsUsed:
   - aluminum
   - steel
   - bronze
+image: ../../../assets/images/inventions/propeller.jpg
 ---
 
 # Breve descripción

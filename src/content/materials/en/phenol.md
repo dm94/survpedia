@@ -16,8 +16,9 @@ uses:
   - manufacturing of aspirin
   - production of dyes
 naturalAvailability: true
-manufacturingProcess: 'Historically extracted from coal tar or synthesized from benzene.'
+manufacturingProcess: Historically extracted from coal tar or synthesized from benzene.
 category: synthetic
+image: ../../../assets/images/materials/phenol.jpg
 ---
 
 # Description of what it is like

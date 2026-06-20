@@ -16,8 +16,9 @@ uses:
   - handles and knobs
   - jewelry
 naturalAvailability: false
-manufacturingProcess: 'Polycondensation of phenol and formaldehyde under heat and pressure.'
+manufacturingProcess: Polycondensation of phenol and formaldehyde under heat and pressure.
 category: synthetic
+image: ../../../assets/images/materials/bakelite.jpg
 ---
 
 # Description of what it is like

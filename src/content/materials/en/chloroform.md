@@ -21,6 +21,7 @@ manufacturingProcess: >-
   Produced via the haloform reaction by reacting acetone (or ethanol) with
   bleach (sodium hypochlorite).
 category: synthetic
+image: ../../../assets/images/materials/chloroform.jpg
 ---
 
 Chloroform is a colorless, sweet-smelling, dense liquid that is a powerful anesthetic and an effective solvent for fats, oils, and resins. While its use in medicine has been largely replaced by safer alternatives, it remains a vital industrial chemical.

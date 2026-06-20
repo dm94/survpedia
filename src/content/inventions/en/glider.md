@@ -7,6 +7,7 @@ materialsUsed:
   - glue
   - paint
   - metal
+image: ../../../assets/images/inventions/glider.jpg
 ---
 
 # Brief description

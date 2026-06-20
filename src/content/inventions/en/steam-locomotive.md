@@ -9,6 +9,7 @@ materialsUsed:
   - water
   - coal
   - wood
+image: ../../../assets/images/inventions/steam-locomotive.jpg
 ---
 
 # Brief description

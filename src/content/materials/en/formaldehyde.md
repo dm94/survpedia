@@ -16,8 +16,9 @@ uses:
   - synthesis of resins
   - textile finishing
 naturalAvailability: true
-manufacturingProcess: 'Catalytic oxidation of methanol.'
+manufacturingProcess: Catalytic oxidation of methanol.
 category: synthetic
+image: ../../../assets/images/materials/formaldehyde.jpg
 ---
 
 # Description of what it is like

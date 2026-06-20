@@ -1,6 +1,11 @@
 ---
-title: "Fonógrafo"
-materialsUsed: ["wood", "metal", "beeswax", "tin"]
+title: Fonógrafo
+materialsUsed:
+  - wood
+  - metal
+  - beeswax
+  - tin
+image: ../../../assets/images/inventions/phonograph.jpg
 ---
 
 # Descripción breve

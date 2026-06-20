@@ -18,9 +18,11 @@ uses:
   - Fuel additive
 naturalAvailability: true
 manufacturingProcess: >-
-  Historically produced by the dry distillation of acetates (like calcium acetate).
-  Also produced by the fermentation of starch by certain bacteria (ABE fermentation).
+  Historically produced by the dry distillation of acetates (like calcium
+  acetate). Also produced by the fermentation of starch by certain bacteria (ABE
+  fermentation).
 category: synthetic
+image: ../../../assets/images/materials/acetone.jpg
 ---
 
 Acetone is the simplest and smallest ketone. It is a colorless, highly volatile and flammable liquid with a characteristic pungent odor. It is a very important solvent, capable of dissolving many plastics and synthetic fibers.
