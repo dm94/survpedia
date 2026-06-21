@@ -1,0 +1,148 @@
+
+> suvpedia@1.2.0 dev /app
+> astro dev
+
+12:03:45 [auto-images] Auto-Images: Checking for missing images in content...
+12:03:45 [auto-images] Auto-Images: Generating image for acetone.md...
+12:03:45 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Acetone%20(Propanone)%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:45 [ERROR] [auto-images] Auto-Images: Failed to download image for Acetone (Propanone): Error: Failed to download image: Payment Required
+12:03:45 [auto-images] Auto-Images: Generating image for bakelite.md...
+12:03:45 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Bakelite%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:45 [ERROR] [auto-images] Auto-Images: Failed to download image for Bakelite: Error: Failed to download image: Payment Required
+12:03:45 [auto-images] Auto-Images: Generating image for chloroform.md...
+12:03:45 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Chloroform%20(Trichloromethane)%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:46 [ERROR] [auto-images] Auto-Images: Failed to download image for Chloroform (Trichloromethane): Error: Failed to download image: Payment Required
+12:03:46 [auto-images] Auto-Images: Generating image for acetone.md...
+12:03:46 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Acetona%20(Propanona)%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:46 [ERROR] [auto-images] Auto-Images: Failed to download image for Acetona (Propanona): Error: Failed to download image: Payment Required
+12:03:46 [auto-images] Auto-Images: Generating image for bakelite.md...
+12:03:46 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Baquelita%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:46 [ERROR] [auto-images] Auto-Images: Failed to download image for Baquelita: Error: Failed to download image: Payment Required
+12:03:46 [auto-images] Auto-Images: Generating image for chloroform.md...
+12:03:46 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Cloroformo%20(Triclorometano)%20materials%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:47 [ERROR] [auto-images] Auto-Images: Failed to download image for Cloroformo (Triclorometano): Error: Failed to download image: Payment Required
+12:03:47 [auto-images] Auto-Images: Generating image for centrifuge.md...
+12:03:47 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Centrifuge%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:47 [ERROR] [auto-images] Auto-Images: Failed to download image for Centrifuge: Error: Failed to download image: Payment Required
+12:03:47 [auto-images] Auto-Images: Generating image for differential.md...
+12:03:47 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Differential%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:47 [ERROR] [auto-images] Auto-Images: Failed to download image for Differential: Error: Failed to download image: Payment Required
+12:03:47 [auto-images] Auto-Images: Generating image for glider.md...
+12:03:47 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Glider%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:48 [build] Waiting for integration "auto-images", hook "astro:config:setup"...
+12:03:48 [ERROR] [auto-images] Auto-Images: Failed to download image for Glider: Error: Failed to download image: Payment Required
+12:03:48 [auto-images] Auto-Images: Generating image for harrow.md...
+12:03:48 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Harrow%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:48 [ERROR] [auto-images] Auto-Images: Failed to download image for Harrow: Error: Failed to download image: Payment Required
+12:03:48 [auto-images] Auto-Images: Generating image for heliograph.md...
+12:03:48 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Heliograph%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:48 [ERROR] [auto-images] Auto-Images: Failed to download image for Heliograph: Error: Failed to download image: Payment Required
+12:03:48 [auto-images] Auto-Images: Generating image for horseshoe.md...
+12:03:48 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Horseshoe%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:49 [ERROR] [auto-images] Auto-Images: Failed to download image for Horseshoe: Error: Failed to download image: Payment Required
+12:03:49 [auto-images] Auto-Images: Generating image for loudspeaker.md...
+12:03:49 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Loudspeaker%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:49 [ERROR] [auto-images] Auto-Images: Failed to download image for Loudspeaker: Error: Failed to download image: Payment Required
+12:03:49 [auto-images] Auto-Images: Generating image for mechanical-calculator.md...
+12:03:49 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Mechanical%20Calculator%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:49 [ERROR] [auto-images] Auto-Images: Failed to download image for Mechanical Calculator: Error: Failed to download image: Payment Required
+12:03:49 [auto-images] Auto-Images: Generating image for microphone.md...
+12:03:49 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Microphone%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:50 [ERROR] [auto-images] Auto-Images: Failed to download image for Microphone: Error: Failed to download image: Payment Required
+12:03:50 [auto-images] Auto-Images: Generating image for motion-picture.md...
+12:03:50 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Motion%20Picture%20(Cinema)%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:50 [ERROR] [auto-images] Auto-Images: Failed to download image for Motion Picture (Cinema): Error: Failed to download image: Payment Required
+12:03:50 [auto-images] Auto-Images: Generating image for phonograph.md...
+12:03:50 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Phonograph%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:50 [ERROR] [auto-images] Auto-Images: Failed to download image for Phonograph: Error: Failed to download image: Payment Required
+12:03:50 [auto-images] Auto-Images: Generating image for propeller.md...
+12:03:50 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Propeller%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:51 [ERROR] [auto-images] Auto-Images: Failed to download image for Propeller: Error: Failed to download image: Payment Required
+12:03:51 [auto-images] Auto-Images: Generating image for solar-still.md...
+12:03:51 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Solar%20Still%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:51 [ERROR] [auto-images] Auto-Images: Failed to download image for Solar Still: Error: Failed to download image: Payment Required
+12:03:51 [auto-images] Auto-Images: Generating image for steam-locomotive.md...
+12:03:51 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Steam%20Locomotive%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:51 [ERROR] [auto-images] Auto-Images: Failed to download image for Steam Locomotive: Error: Failed to download image: Payment Required
+12:03:51 [auto-images] Auto-Images: Generating image for submarine.md...
+12:03:51 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Submarine%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:51 [ERROR] [auto-images] Auto-Images: Failed to download image for Submarine: Error: Failed to download image: Payment Required
+12:03:51 [auto-images] Auto-Images: Generating image for typewriter.md...
+12:03:51 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Typewriter%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:52 [ERROR] [auto-images] Auto-Images: Failed to download image for Typewriter: Error: Failed to download image: Payment Required
+12:03:52 [auto-images] Auto-Images: Generating image for universal-joint.md...
+12:03:52 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Universal%20Joint%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:52 [ERROR] [auto-images] Auto-Images: Failed to download image for Universal Joint: Error: Failed to download image: Payment Required
+12:03:52 [auto-images] Auto-Images: Generating image for centrifuge.md...
+12:03:52 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Centrifugadora%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:52 [ERROR] [auto-images] Auto-Images: Failed to download image for Centrifugadora: Error: Failed to download image: Payment Required
+12:03:52 [auto-images] Auto-Images: Generating image for differential.md...
+12:03:52 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Diferencial%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:53 [ERROR] [auto-images] Auto-Images: Failed to download image for Diferencial: Error: Failed to download image: Payment Required
+12:03:53 [auto-images] Auto-Images: Generating image for glider.md...
+12:03:53 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Planeador%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:53 [ERROR] [auto-images] Auto-Images: Failed to download image for Planeador: Error: Failed to download image: Payment Required
+12:03:53 [auto-images] Auto-Images: Generating image for harrow.md...
+12:03:53 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Grada%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:53 [ERROR] [auto-images] Auto-Images: Failed to download image for Grada: Error: Failed to download image: Payment Required
+12:03:53 [auto-images] Auto-Images: Generating image for heliograph.md...
+12:03:53 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Heli%C3%B3grafo%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:54 [ERROR] [auto-images] Auto-Images: Failed to download image for Heliógrafo: Error: Failed to download image: Payment Required
+12:03:54 [auto-images] Auto-Images: Generating image for horseshoe.md...
+12:03:54 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Herradura%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:54 [ERROR] [auto-images] Auto-Images: Failed to download image for Herradura: Error: Failed to download image: Payment Required
+12:03:54 [auto-images] Auto-Images: Generating image for loudspeaker.md...
+12:03:54 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Altavoz%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:54 [ERROR] [auto-images] Auto-Images: Failed to download image for Altavoz: Error: Failed to download image: Payment Required
+12:03:54 [auto-images] Auto-Images: Generating image for mechanical-calculator.md...
+12:03:54 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Calculadora%20Mec%C3%A1nica%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:55 [ERROR] [auto-images] Auto-Images: Failed to download image for Calculadora Mecánica: Error: Failed to download image: Payment Required
+12:03:55 [auto-images] Auto-Images: Generating image for microphone.md...
+12:03:55 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Micr%C3%B3fono%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:55 [ERROR] [auto-images] Auto-Images: Failed to download image for Micrófono: Error: Failed to download image: Payment Required
+12:03:55 [auto-images] Auto-Images: Generating image for motion-picture.md...
+12:03:55 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Cinematograf%C3%ADa%20(Cine)%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:55 [ERROR] [auto-images] Auto-Images: Failed to download image for Cinematografía (Cine): Error: Failed to download image: Payment Required
+12:03:55 [auto-images] Auto-Images: Generating image for phonograph.md...
+12:03:55 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Fon%C3%B3grafo%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:56 [ERROR] [auto-images] Auto-Images: Failed to download image for Fonógrafo: Error: Failed to download image: Payment Required
+12:03:56 [auto-images] Auto-Images: Generating image for propeller.md...
+12:03:56 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20H%C3%A9lice%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:56 [ERROR] [auto-images] Auto-Images: Failed to download image for Hélice: Error: Failed to download image: Payment Required
+12:03:56 [auto-images] Auto-Images: Generating image for solar-still.md...
+12:03:56 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Destilador%20Solar%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:56 [ERROR] [auto-images] Auto-Images: Failed to download image for Destilador Solar: Error: Failed to download image: Payment Required
+12:03:56 [auto-images] Auto-Images: Generating image for steam-locomotive.md...
+12:03:56 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Locomotora%20de%20Vapor%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:57 [ERROR] [auto-images] Auto-Images: Failed to download image for Locomotora de Vapor: Error: Failed to download image: Payment Required
+12:03:57 [auto-images] Auto-Images: Generating image for submarine.md...
+12:03:57 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Submarino%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:57 [ERROR] [auto-images] Auto-Images: Failed to download image for Submarino: Error: Failed to download image: Payment Required
+12:03:57 [auto-images] Auto-Images: Generating image for typewriter.md...
+12:03:57 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20M%C3%A1quina%20de%20Escribir%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:57 [ERROR] [auto-images] Auto-Images: Failed to download image for Máquina de Escribir: Error: Failed to download image: Payment Required
+12:03:57 [auto-images] Auto-Images: Generating image for universal-joint.md...
+12:03:57 [auto-images] Auto-Images: Downloading from https://image.pollinations.ai/prompt/illustration%20of%20Junta%20Universal%20inventions%20high%20quality%20realistic%20no%20text?width=1024&height=1024&nologo=true&model=klein-large
+12:03:57 [ERROR] [auto-images] Auto-Images: Failed to download image for Junta Universal: Error: Failed to download image: Payment Required
+[vite] connected.
+12:03:59 [types] Generated 1ms
+[vite] connected.
+12:04:00 [content] Syncing content
+12:04:01 [content] Synced content
+12:04:01 [vite] Re-optimizing dependencies because vite config has changed
+ astro  v6.4.4 ready in 17424 ms
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+12:04:01 watching for file changes...
+Browserslist: browsers data (caniuse-lite) is 6 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+12:04:55 [404] /en/inventions/submarine 92ms
+12:04:56 [404] /pagefind/pagefind-ui.css 453ms
+12:04:56 [404] /pagefind/pagefind-ui.js 81ms
+12:04:56 [200] /es/materials/bakelite 60ms
+12:04:56 [404] /pagefind/pagefind-ui.css 4ms
+12:04:56 [404] /pagefind/pagefind-ui.js 4ms
+12:04:57 [404] /en/inventions/motion-picture 13ms
+12:04:57 [404] /pagefind/pagefind-ui.css 5ms
+12:04:57 [404] /pagefind/pagefind-ui.js 4ms
