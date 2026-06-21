@@ -18,9 +18,10 @@ uses:
   - Extracción de alcaloides
 naturalAvailability: false
 manufacturingProcess: >-
-  Producido mediante la reacción de haloformo al hacer reaccionar acetona (o etanol) con
-  lejía (hipoclorito de sodio).
+  Producido mediante la reacción de haloformo al hacer reaccionar acetona (o
+  etanol) con lejía (hipoclorito de sodio).
 category: synthetic
+image: ../../../assets/images/materials/chloroform.jpg
 ---
 
 El cloroformo es un líquido denso, incoloro y de olor dulce que es un potente anestésico y un disolvente eficaz para grasas, aceites y resinas. Aunque su uso en medicina ha sido reemplazado en gran medida por alternativas más seguras, sigue siendo un producto químico industrial vital.

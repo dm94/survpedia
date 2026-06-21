@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - charcoal
   - leather
+image: ../../../assets/images/inventions/horseshoe.jpg
 ---
 
 # Brief description

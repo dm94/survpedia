@@ -6,6 +6,7 @@ materialsUsed:
   - charcoal
   - metal
   - paper
+image: ../../../assets/images/inventions/microphone.jpg
 ---
 
 # Breve descripción

@@ -7,6 +7,7 @@ materialsUsed:
   - ink
   - paper
   - natural-rubber
+image: ../../../assets/images/inventions/typewriter.jpg
 ---
 
 # Breve descripción

@@ -6,6 +6,7 @@ materialsUsed:
   - plastic
   - wood
   - metal
+image: ../../../assets/images/inventions/motion-picture.jpg
 ---
 
 # Motion Picture

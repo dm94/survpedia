@@ -16,8 +16,9 @@ uses:
   - síntesis de resinas
   - acabado textil
 naturalAvailability: true
-manufacturingProcess: 'Oxidación catalítica del metanol.'
+manufacturingProcess: Oxidación catalítica del metanol.
 category: synthetic
+image: ../../../assets/images/materials/formaldehyde.jpg
 ---
 
 # Descripción

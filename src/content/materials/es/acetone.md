@@ -18,9 +18,11 @@ uses:
   - Aditivo de combustible
 naturalAvailability: true
 manufacturingProcess: >-
-  Históricamente producida por la destilación seca de acetatos (como el acetato de calcio).
-  También producida por la fermentación de almidón por ciertas bacterias (fermentación ABE).
+  Históricamente producida por la destilación seca de acetatos (como el acetato
+  de calcio). También producida por la fermentación de almidón por ciertas
+  bacterias (fermentación ABE).
 category: synthetic
+image: ../../../assets/images/materials/acetone.jpg
 ---
 
 La acetona es la cetona más simple y pequeña. Es un líquido incoloro, altamente volátil e inflamable con un olor punzante característico. Es un disolvente muy importante, capaz de disolver muchos plásticos y fibras sintéticas.

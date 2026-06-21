@@ -6,6 +6,7 @@ materialsUsed:
   - paper
   - glue
   - wood
+image: ../../../assets/images/inventions/loudspeaker.jpg
 ---
 
 # Breve descripción

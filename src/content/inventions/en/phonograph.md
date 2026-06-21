@@ -1,6 +1,11 @@
 ---
-title: "Phonograph"
-materialsUsed: ["wood", "metal", "beeswax", "tin"]
+title: Phonograph
+materialsUsed:
+  - wood
+  - metal
+  - beeswax
+  - tin
+image: ../../../assets/images/inventions/phonograph.jpg
 ---
 
 # Brief description

@@ -16,8 +16,11 @@ uses:
   - fabricación de aspirina
   - producción de tintes
 naturalAvailability: true
-manufacturingProcess: 'Históricamente extraído del alquitrán de hulla o sintetizado a partir del benceno.'
+manufacturingProcess: >-
+  Históricamente extraído del alquitrán de hulla o sintetizado a partir del
+  benceno.
 category: synthetic
+image: ../../../assets/images/materials/phenol.jpg
 ---
 
 # Descripción
