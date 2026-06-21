@@ -15,7 +15,7 @@ A biogas digester (or biodigester) is an airtight container where organic waste 
 
 - **Waste Management:** Safe disposal of animal manure, human waste, and organic kitchen scraps.
 - **Energy Production:** Generating **[Biogas](/en/materials/biogas)** for cooking, heating, or lighting.
-- **Fertilizer Production:** Producing liquid and solid organic fertilizer (digestat/biol) as a byproduct.
+- **Fertilizer Production:** Producing liquid and solid organic fertilizer (digestate/biol) as a byproduct.
 - **Sanitation:** Reducing pathogens and odors associated with raw organic waste.
 - **Scale:** Household (small) to Industrial (large).
 
