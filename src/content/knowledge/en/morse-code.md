@@ -70,7 +70,7 @@ Morse code is a precursor to digital communication, representing information in 
 
 - **Transmission Device**: **[Telegraph](/en/inventions/telegraph)** key or a **[Radio](/en/inventions/radio)** transmitter.
 - **Receiving Device**: Telegraph sounder or radio receiver.
-- **Power Source**: **[Battery](/en/inventions/battery)** or generator.
+- **Power Source**: **[Battery](/en/materials/battery)** or generator.
 - **Conductor**: **[Copper](/en/materials/copper)** wire or the atmosphere (for radio).
 
 ## Variants and improvements

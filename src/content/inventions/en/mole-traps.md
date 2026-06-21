@@ -27,7 +27,7 @@ The trap is set inside a tunnel and triggered by the animal’s movement or pres
 
 1. **Locate an active tunnel:** Press the surface to find fresh runs and reopen a small section.
 2. **Choose a mechanism:** A wire noose, scissor-style jaws, or a deadfall block.
-3. **Prepare a guide:** Use **[Wire](/en/inventions/wire)** or wooden guides so the trigger sits centered in the tunnel.
+3. **Prepare a guide:** Use **[Wire](/en/materials/wire)** or wooden guides so the trigger sits centered in the tunnel.
 4. **Set the trigger:** Light, balanced trigger that fires with slight pressure.
 5. **Stabilize:** Pack soil around the trap to prevent wobble and block light.
 6. **Check regularly:** Reset or remove when triggered.

@@ -81,7 +81,7 @@ Los clavos son productos manufacturados.
 - **[Martillo](/es/inventions/hammer)**
 - **[Armazón](/es/inventions/frame)**
 - **[Fragua](/es/inventions/forge)**
-- **[Alambre](/es/inventions/wire)**
+- **[Alambre](/es/materials/wire)**
 
 ### Materiales relacionados
 

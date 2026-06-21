@@ -68,7 +68,7 @@ The load is transferred from the deck -> suspenders -> main cables -> towers (do
 
 - **[Arch Bridge](/en/inventions/arch-bridge)**
 - **[Cable-Stayed Bridge](/en/inventions/cable-stayed-bridge)**
-- **[Wire](/en/inventions/wire)**
+- **[Wire](/en/materials/wire)**
 - **[Rope](/en/inventions/rope)**
 - **[Concrete](/en/materials/concrete)**
 

@@ -38,7 +38,7 @@ Most microphones work by converting the mechanical vibration of a diaphragm into
 2.  **Electrodes**: Two **[Metal](/en/materials/metal)** plates at opposite ends of the container.
 3.  **Active material**: Finely crushed **[Charcoal](/en/materials/charcoal)** (carbon granules) filled between the plates.
 4.  **Diaphragm**: A thin, flexible sheet (tightly stretched **[Paper](/en/materials/paper)** or thin metal) that presses against one electrode.
-5.  **Circuit**: Connect in series with a **[Battery](/en/inventions/battery)** and a receiver (like an earphone).
+5.  **Circuit**: Connect in series with a **[Battery](/en/materials/battery)** and a receiver (like an earphone).
 
 ### Technical level
 

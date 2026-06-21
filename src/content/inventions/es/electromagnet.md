@@ -34,14 +34,14 @@ El electroimán funciona basándose en el **Electromagnetismo**:
 
 1.  **Preparar el Núcleo**: Toma una varilla de **[Hierro](/es/materials/iron)** dulce o un clavo de hierro grande.
 2.  **Bobinado**: Envuelve un **[Cable](/es/materials/wire)** (típicamente de **[Cobre](/es/materials/copper)**) aislado firmemente alrededor del núcleo de hierro. Más vueltas darán como resultado un imán más fuerte.
-3.  **Conectar la Alimentación**: Pela el aislamiento de los extremos del cable y conéctalos a una fuente de alimentación, como una **[Batería](/es/inventions/battery)**.
+3.  **Conectar la Alimentación**: Pela el aislamiento de los extremos del cable y conéctalos a una fuente de alimentación, como una **[Batería](/es/materials/battery)**.
 4.  **Prueba**: El núcleo de hierro ahora debería poder recoger pequeños objetos de hierro como clips.
 
 ## Materiales necesarios
 
 - **Núcleo**: Un material ferromagnético, idealmente **[Hierro](/es/materials/iron)** dulce (que pierde el magnetismo rápidamente cuando se corta la energía).
 - **Bobina**: **[Cable](/es/materials/wire)** conductor aislado, normalmente de **[Cobre](/es/materials/copper)**.
-- **Fuente de Alimentación**: Una **[Batería](/es/inventions/battery)** u otra fuente de alimentación de corriente continua (DC).
+- **Fuente de Alimentación**: Una **[Batería](/es/materials/battery)** u otra fuente de alimentación de corriente continua (DC).
 
 ## Variantes y mejoras
 

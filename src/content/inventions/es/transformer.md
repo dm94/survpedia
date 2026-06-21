@@ -61,7 +61,7 @@ El transformador funciona según el principio de la Ley de Inducción de Faraday
 
 - **[Generador eléctrico](/es/inventions/electric-generator)**
 - **[Electroimán](/es/inventions/electromagnet)**
-- **[Batería](/es/inventions/battery)** (a menudo la fuente de los primeros experimentos de CC a CA)
+- **[Batería](/es/materials/battery)** (a menudo la fuente de los primeros experimentos de CC a CA)
 - **[Telégrafo](/es/inventions/telegraph)**
 
 ### Conocimientos relacionados

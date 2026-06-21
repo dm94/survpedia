@@ -23,7 +23,7 @@ Una corriente eléctrica salta a través de un espacio entre el electrodo y la p
 
 ## Cómo crearlo (Soldadora de Batería)
 
-1.  **Fuente de Energía**: Conecta 2 o 3 **[Baterías](/es/inventions/battery)** de plomo-ácido de 12V en serie para obtener 24V o 36V CC. Esto proporciona el voltaje necesario para iniciar y mantener un arco.
+1.  **Fuente de Energía**: Conecta 2 o 3 **[Baterías](/es/materials/battery)** de plomo-ácido de 12V en serie para obtener 24V o 36V CC. Esto proporciona el voltaje necesario para iniciar y mantener un arco.
     - Conexión en serie: Batería 1 (+) a Batería 2 (-), Batería 2 (+) a Batería 3 (-).
 2.  **Cables**: Usa cables de **[Cobre](/es/materials/copper)** de grueso calibre (como cables de arranque) para manejar la alta corriente (50-100+ Amperios).
 3.  **Portaelectrodos**: Sujeta el cable positivo al **[Electrodo de Soldadura](/es/materials/welding-electrode)** usando alicates aislados o un soporte improvisado.

@@ -39,7 +39,7 @@ Nivel técnico: Básico a intermedio en tallado y cordaje.
 
 - **Esenciales:** Rama flexible de **[Madera](/es/materials/wood)**, cordaje de **[Fibras vegetales](/es/materials/plant-fibers)**, tiras de **[Cuero](/es/materials/leather)**, **[Hierro](/es/materials/iron)** opcional para alambre.
 - **Herramientas:** Cuchillo, hacha pequeña o sierra, guantes.
-- **Sustitutos:** **[Cuerda](/es/inventions/rope)** para la línea, **[Alambre](/es/inventions/wire)** para el lazo, lianas verdes para amarres rápidos.
+- **Sustitutos:** **[Cuerda](/es/inventions/rope)** para la línea, **[Alambre](/es/materials/wire)** para el lazo, lianas verdes para amarres rápidos.
 
 ## Variantes y mejoras
 

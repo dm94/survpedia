@@ -31,7 +31,7 @@ La electrólisis funciona haciendo pasar una corriente eléctrica a través de u
 ## Cómo crearlo
 
 ### Versión funcional mínima
-1.  **Fuente de energía:** Una **[Batería](/es/inventions/battery)** o **[Generador Eléctrico](/es/inventions/electric-generator)** que proporcione corriente continua.
+1.  **Fuente de energía:** Una **[Batería](/es/materials/battery)** o **[Generador Eléctrico](/es/inventions/electric-generator)** que proporcione corriente continua.
 2.  **Electrodos:** Dos varillas o placas conductoras (por ejemplo, **[Grafito](/es/materials/graphite)** de lápices o alambre de cobre).
 3.  **Electrolito:** Un líquido que conduzca la electricidad, como agua con sal o agua con una pequeña cantidad de **[Ácido Sulfúrico](/es/materials/sulfuric-acid)**.
 4.  **Contenedor:** Un recipiente no conductor (vidrio o cerámica).
