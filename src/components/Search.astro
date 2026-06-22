@@ -111,7 +111,16 @@ const searchNoResults = t("search.noResults");
       }
 
       // Shortcut: / to focus search
-      if (e.key === "/" && !container?.contains(document.activeElement) && document.activeElement?.tagName !== "INPUT" && document.activeElement?.tagName !== "TEXTAREA") {
+      if (
+        e.key === "/" &&
+        !e.metaKey &&
+        !e.ctrlKey &&
+        !e.altKey &&
+        !container?.contains(document.activeElement) &&
+        document.activeElement?.tagName !== "INPUT" &&
+        document.activeElement?.tagName !== "TEXTAREA" &&
+        !document.activeElement?.isContentEditable
+      ) {
         e.preventDefault();
         toggleSearch(true);
       }
