@@ -64,7 +64,7 @@ A heavy, stable powder (usually grey or reddish depending on the oxide used). It
 
 - **Extreme Heat**: Reaches temperatures that melt almost any metal.
 - **UV Radiation**: The reaction produces intense light that can damage eyes (use welding goggles).
-- **Inability to Extinguish**: Once started, it cannot be put out with water (which may cause a steam explosion) or sand.
+- **Difficult to Extinguish**: Once started, it should never be sprayed with water (risk of steam explosion), and while dry sand can be used to contain or redirect the reaction, it will not fully extinguish the thermite itself.
 
 ### Related materials
 
