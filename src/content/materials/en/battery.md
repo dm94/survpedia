@@ -47,7 +47,7 @@ A primitive battery, like a Voltaic Pile, consists of a stack of metal discs. A 
 
 - **Voltaic Pile:** The first battery, using zinc and copper discs separated by brine-soaked cardboard.
 - **Daniell Cell:** Uses copper and zinc electrodes in copper sulfate and zinc sulfate solutions; more stable for telegraphs.
-- **Lead-Acid Battery:** Rechargable, using lead plates and sulfuric acid.
+- **Lead-Acid Battery:** Rechargeable, using lead plates and sulfuric acid.
 
 ### Possible substitutes
 
