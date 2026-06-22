@@ -8,9 +8,13 @@ const searchNoResults = t("search.noResults");
 ---
 
 <div id="search-container" class="relative group">
-  <div
+  <button
     id="search-trigger"
-    class="flex items-center space-x-2 cursor-pointer bg-slate-100 dark:bg-slate-800 px-3 py-2 rounded-lg hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors"
+    type="button"
+    aria-label={t("nav.search")}
+    aria-expanded="false"
+    aria-controls="pagefind-ui"
+    class="flex items-center space-x-2 cursor-pointer bg-slate-100 dark:bg-slate-800 px-3 py-2 rounded-lg hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors focus-visible:ring-2 focus-visible:ring-blue-500 outline-none"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +32,12 @@ const searchNoResults = t("search.noResults");
     <span class="text-sm text-slate-700 dark:text-slate-200"
       >{t("nav.search")}</span
     >
-  </div>
+    <kbd
+      class="hidden md:inline-flex items-center justify-center h-5 w-5 text-[10px] font-sans font-medium text-slate-400 border border-slate-300 dark:border-slate-600 rounded bg-slate-50 dark:bg-slate-900 pointer-events-none"
+    >
+      /
+    </kbd>
+  </button>
 
   <div
     id="pagefind-ui"
@@ -74,14 +83,38 @@ const searchNoResults = t("search.noResults");
       }
     };
 
-    trigger?.addEventListener("click", () => {
-      container?.classList.toggle("hidden");
-      initSearch();
-      // Focus input if possible
-      setTimeout(() => {
-        const input = container?.querySelector("input");
-        if (input) input.focus();
-      }, 100);
+    const toggleSearch = (show) => {
+      const isHidden = container?.classList.contains("hidden");
+      const shouldShow = show !== undefined ? show : isHidden;
+
+      if (shouldShow) {
+        container?.classList.remove("hidden");
+        trigger?.setAttribute("aria-expanded", "true");
+        initSearch();
+        setTimeout(() => {
+          const input = container?.querySelector("input");
+          if (input) input.focus();
+        }, 100);
+      } else {
+        container?.classList.add("hidden");
+        trigger?.setAttribute("aria-expanded", "false");
+      }
+    };
+
+    trigger?.addEventListener("click", () => toggleSearch());
+
+    // Close on Escape
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !container?.classList.contains("hidden")) {
+        toggleSearch(false);
+        trigger?.focus();
+      }
+
+      // Shortcut: / to focus search
+      if (e.key === "/" && !container?.contains(document.activeElement) && document.activeElement?.tagName !== "INPUT" && document.activeElement?.tagName !== "TEXTAREA") {
+        e.preventDefault();
+        toggleSearch(true);
+      }
     });
 
     document.addEventListener("click", e => {
@@ -89,8 +122,8 @@ const searchNoResults = t("search.noResults");
       const isInside = container?.contains(target) || trigger?.contains(target);
       const isDetached = !document.documentElement.contains(target);
 
-      if (!isInside && !isDetached) {
-        container?.classList.add("hidden");
+      if (!isInside && !isDetached && !container?.classList.contains("hidden")) {
+        toggleSearch(false);
       }
     });
   });

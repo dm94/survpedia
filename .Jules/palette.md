@@ -1,0 +1,3 @@
+## 2025-05-14 - [Enhancing Search Accessibility and Keyboard UX]
+**Learning:** Converting non-interactive elements (like `div`) to semantic `<button>` elements with proper ARIA attributes (`aria-expanded`, `aria-controls`) is essential for screen reader support and keyboard navigation. Adding a dedicated keyboard shortcut (e.g., `/`) with a visual `kbd` hint provides a clear path for power users while maintaining discoverability.
+**Action:** Always prefer semantic interactive elements over `div` with click handlers. Implement consistent focus management (returning focus to the trigger on close) and provide visual hints for keyboard shortcuts.
