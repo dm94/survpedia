@@ -39,7 +39,7 @@ Lacing works through triangulation and tension (or compression).
 
 ## Materials needed
 
-- **Spokes:** Usually stainless steel [wire](/en/inventions/wire) or hard [wood](/en/materials/wood).
+- **Spokes:** Usually stainless steel [wire](/en/materials/wire) or hard [wood](/en/materials/wood).
 - **Nipples:** Small nuts that hold the spoke to the rim.
 - **Rim:** The outer hoop.
 - **Hub:** The central core.

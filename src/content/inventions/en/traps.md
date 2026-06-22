@@ -39,7 +39,7 @@ Traps combine a trigger with stored energy or gravity. The target animal applies
 
 - **Essential:** **[Wood](/en/materials/wood)** frame, **[Stone](/en/materials/stone)** weight, **[Plant fibers](/en/materials/plant-fibers)** for cordage, **[Leather](/en/materials/leather)** thongs, **[Iron](/en/materials/iron)** hooks or jaws.
 - **Tools:** Knife, mallet, shovel.
-- **Substitutes:** Bent saplings for spring power, **[Wire](/en/inventions/wire)** for snares, **[Rope](/en/inventions/rope)** for lines and anchors.
+- **Substitutes:** Bent saplings for spring power, **[Wire](/en/materials/wire)** for snares, **[Rope](/en/inventions/rope)** for lines and anchors.
 
 ## Variants and improvements
 

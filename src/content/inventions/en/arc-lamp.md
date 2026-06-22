@@ -32,7 +32,7 @@ The lamp works by creating an electrical discharge through ionized gas (air) bet
 ## How to create it
 
 ### 1. Power Source
-Requires a high-voltage DC source, such as a large **[Battery](/en/inventions/battery)** bank (Voltaic pile) or a **[Simple Electric Generator](/en/inventions/simple-electric-generator)** (Dynamo).
+Requires a high-voltage DC source, such as a large **[Battery](/en/materials/battery)** bank (Voltaic pile) or a **[Simple Electric Generator](/en/inventions/simple-electric-generator)** (Dynamo).
 
 ### 2. Electrodes
 Shape two rods from **[Charcoal](/en/materials/charcoal)** or graphite. For longer life, they can be copper-coated.
@@ -68,7 +68,7 @@ A frame of **[Iron](/en/materials/iron)** and a **[Glass](/en/materials/glass)**
 
 ### Related Inventions
 
-- **[Battery](/en/inventions/battery)**
+- **[Battery](/en/materials/battery)**
 - **[Simple Electric Generator](/en/inventions/simple-electric-generator)**
 - **[Electromagnet](/en/inventions/electromagnet)**
 - **[Incandescent Light Bulb](/en/inventions/incandescent-light-bulb)** (The cleaner, quieter successor)

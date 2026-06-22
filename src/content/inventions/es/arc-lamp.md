@@ -32,7 +32,7 @@ La lámpara funciona creando una descarga eléctrica a través de gas ionizado (
 ## Cómo crearla
 
 ### 1. Fuente de Energía
-Requiere una fuente de CC de alto voltaje, como un banco de **[Baterías](/es/inventions/battery)** (pila voltaica) o un **[Generador Eléctrico Simple](/es/inventions/simple-electric-generator)** (Dinamo).
+Requiere una fuente de CC de alto voltaje, como un banco de **[Baterías](/es/materials/battery)** (pila voltaica) o un **[Generador Eléctrico Simple](/es/inventions/simple-electric-generator)** (Dinamo).
 
 ### 2. Electrodos
 Dar forma a dos varillas de **[Carbón Vegetal](/es/materials/charcoal)** o grafito. Para una vida más larga, pueden estar recubiertas de cobre.
@@ -68,7 +68,7 @@ Un marco de **[Hierro](/es/materials/iron)** y una carcasa de **[Vidrio](/es/mat
 
 ### Inventos Relacionados
 
-- **[Batería](/es/inventions/battery)**
+- **[Batería](/es/materials/battery)**
 - **[Generador Eléctrico Simple](/es/inventions/simple-electric-generator)**
 - **[Electroimán](/es/inventions/electromagnet)**
 - **[Bombilla Incandescente](/es/inventions/incandescent-light-bulb)** (El sucesor más limpio y silencioso)

@@ -61,7 +61,7 @@ The transformer works on the principle of Faraday's Law of Induction, specifical
 
 - **[Electric Generator](/en/inventions/electric-generator)**
 - **[Electromagnet](/en/inventions/electromagnet)**
-- **[Battery](/en/inventions/battery)** (often the source for early DC to AC experiments)
+- **[Battery](/en/materials/battery)** (often the source for early DC to AC experiments)
 - **[Telegraph](/en/inventions/telegraph)**
 
 ### Related Knowledge

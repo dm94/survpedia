@@ -56,7 +56,7 @@ La electricidad implica el flujo de electrones a través de un conductor.
 - Girar una bobina de cable de **[Cobre](/es/materials/copper)** dentro de un campo magnético (usando **[Imanes](/es/inventions/magnet)**). Esto induce una corriente en el cable.
 
 ### 4. Circuito básico
-- Conectar una fuente de alimentación (**[Batería](/es/inventions/battery)** o generador) a una carga (lámpara o motor) usando cables conductores, formando un bucle completo.
+- Conectar una fuente de alimentación (**[Batería](/es/materials/battery)** o generador) a una carga (lámpara o motor) usando cables conductores, formando un bucle completo.
 
 ## Materiales necesarios
 

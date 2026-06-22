@@ -34,14 +34,14 @@ The electromagnet works based on **Electromagnetism**:
 
 1.  **Prepare the Core**: Take a soft **[Iron](/en/materials/iron)** rod or a large iron nail.
 2.  **Winding**: Wrap insulated **[Wire](/en/materials/wire)** (typically **[Copper](/en/materials/copper)**) tightly around the iron core. More turns will result in a stronger magnet.
-3.  **Connect Power**: Strip the insulation from the ends of the wire and connect them to a power source, such as a **[Battery](/en/inventions/battery)**.
+3.  **Connect Power**: Strip the insulation from the ends of the wire and connect them to a power source, such as a **[Battery](/en/materials/battery)**.
 4.  **Testing**: The iron core should now be able to pick up small iron objects like paperclips.
 
 ## Materials needed
 
 - **Core**: A ferromagnetic material, ideally soft **[Iron](/en/materials/iron)** (which loses magnetism quickly when power is cut).
 - **Coil**: Insulated conductive **[Wire](/en/materials/wire)**, usually **[Copper](/en/materials/copper)**.
-- **Power Source**: A **[Battery](/en/inventions/battery)** or other DC power supply.
+- **Power Source**: A **[Battery](/en/materials/battery)** or other DC power supply.
 
 ## Variants and improvements
 

@@ -26,7 +26,7 @@ A baited trigger holds a spring bar, wire loop, or door under tension. When a mo
 ## How to create it
 
 1. **Prepare the base:** Cut a small plank of **[Wood](/en/materials/wood)** and smooth the edges.
-2. **Form the spring:** Shape a strong **[Wire](/en/inventions/wire)** bar from **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)**.
+2. **Form the spring:** Shape a strong **[Wire](/en/materials/wire)** bar from **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)**.
 3. **Build the trigger:** Carve a notch-and-peg trigger and add a bait hook.
 4. **Set the latch:** Tension the spring and secure it on the trigger.
 5. **Place and test:** Position along walls, bait lightly, and test with a tap.

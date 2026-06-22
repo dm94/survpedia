@@ -70,7 +70,7 @@ El código Morse es un precursor de la comunicación digital, representando la i
 
 - **Dispositivo de transmisión**: Llave de **[Telégrafo](/es/inventions/telegraph)** o transmisor de **[Radio](/es/inventions/radio)**.
 - **Dispositivo de recepción**: Sonador de telégrafo o receptor de radio.
-- **Fuente de energía**: **[Batería](/es/inventions/battery)** o generador.
+- **Fuente de energía**: **[Batería](/es/materials/battery)** o generador.
 - **Conductor**: Cable de **[Cobre](/es/materials/copper)** o la atmósfera (para la radio).
 
 ## Variantes y mejoras

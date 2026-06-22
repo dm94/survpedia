@@ -31,7 +31,7 @@ Electrolysis works by passing an electric current through an electrolyte (a subs
 ## How to create it
 
 ### Minimum functional version
-1.  **Power Source:** A **[Battery](/en/inventions/battery)** or **[Electric Generator](/en/inventions/electric-generator)** providing direct current.
+1.  **Power Source:** A **[Battery](/en/materials/battery)** or **[Electric Generator](/en/inventions/electric-generator)** providing direct current.
 2.  **Electrodes:** Two conductive rods or plates (e.g., **[Graphite](/en/materials/graphite)** from pencils or copper wire).
 3.  **Electrolyte:** A liquid that conducts electricity, such as salt water or water with a small amount of **[Sulfuric Acid](/en/materials/sulfuric-acid)**.
 4.  **Container:** A non-conductive vessel (glass or ceramic).

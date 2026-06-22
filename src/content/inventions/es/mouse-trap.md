@@ -26,7 +26,7 @@ Un disparador con cebo mantiene tensado un brazo, lazo o puerta. Al tirar o pisa
 ## Cómo crearla
 
 1. **Prepara la base:** Corta una tablilla de **[Madera](/es/materials/wood)** y alisa los bordes.
-2. **Forma el muelle:** Dobla un brazo de **[Alambre](/es/inventions/wire)** en **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**.
+2. **Forma el muelle:** Dobla un brazo de **[Alambre](/es/materials/wire)** en **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**.
 3. **Crea el disparador:** Talla un gatillo de muesca y coloca un gancho de cebo.
 4. **Ajusta el seguro:** Tensa el muelle y engánchalo al disparador.
 5. **Coloca y prueba:** Sitúa junto a paredes, ceba poco y prueba con un toque.

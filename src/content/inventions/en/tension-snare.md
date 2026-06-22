@@ -39,7 +39,7 @@ Technical level: Basic to intermediate carving and cordage skills.
 
 - **Essential:** Flexible **[Wood](/en/materials/wood)** pole, **[Plant fibers](/en/materials/plant-fibers)** cordage, **[Leather](/en/materials/leather)** thongs or soft line, optional **[Iron](/en/materials/iron)** for wire snare.
 - **Tools:** Knife, small hatchet or saw, gloves.
-- **Substitutes:** **[Rope](/en/inventions/rope)** for line, **[Wire](/en/inventions/wire)** for the noose, green vine for quick lashings.
+- **Substitutes:** **[Rope](/en/inventions/rope)** for line, **[Wire](/en/materials/wire)** for the noose, green vine for quick lashings.
 
 ## Variants and improvements
 

@@ -23,7 +23,7 @@ An electric current jumps across a gap between the electrode and the workpiece, 
 
 ## How to create it (Battery Welder)
 
-1.  **Power Source**: Connect 2 or 3 12V lead-acid **[Batteries](/en/inventions/battery)** in series to get 24V or 36V DC. This provides the necessary voltage to strike and maintain an arc.
+1.  **Power Source**: Connect 2 or 3 12V lead-acid **[Batteries](/en/materials/battery)** in series to get 24V or 36V DC. This provides the necessary voltage to strike and maintain an arc.
     - Series connection: Battery 1 (+) to Battery 2 (-), Battery 2 (+) to Battery 3 (-).
 2.  **Cables**: Use heavy-gauge **[Copper](/en/materials/copper)** cables (like jumper cables) to handle the high current (50-100+ Amps).
 3.  **Electrode Holder**: Clamp the positive cable to the **[Welding Electrode](/en/materials/welding-electrode)** using insulated pliers or a makeshift holder.

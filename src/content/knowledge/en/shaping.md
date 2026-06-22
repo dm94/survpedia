@@ -54,7 +54,7 @@ Pouring liquid or pliable material into a mold where it solidifies into the shap
 Assembling separate parts together to form a larger or more complex shape.
 
 - **Welding**: Fusing metals by melting the workpieces.
-- **Fastening**: Using mechanical means like **[Nails](/en/inventions/mechanical-joints)**, **[Rope](/en/inventions/rope)**, or **[Wire](/en/inventions/wire)**.
+- **Fastening**: Using mechanical means like **[Nails](/en/inventions/mechanical-joints)**, **[Rope](/en/inventions/rope)**, or **[Wire](/en/materials/wire)**.
 - **Bonding**: Using **[Glue](/en/materials/glue)** or adhesives.
 
 ## Relation to Forging

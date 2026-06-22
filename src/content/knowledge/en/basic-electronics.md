@@ -53,7 +53,7 @@ Basic electronics relies on controlling the flow of electrons to perform work or
 - **Substrate:** Perforated board, wood, or etched **[Copper](/en/materials/copper)** clad boards.
 - **Joining:** **[Solder](/en/materials/solder)** and soldering iron.
 - **Conductors:** Insulated **[Copper](/en/materials/copper)** wire.
-- **Power:** **[Batteries](/en/inventions/battery)** or generators.
+- **Power:** **[Batteries](/en/materials/battery)** or generators.
 
 ## Variants and improvements
 

@@ -53,7 +53,7 @@ La electrónica básica se basa en controlar el flujo de electrones para realiza
 - **Sustrato:** Placa perforada, madera o placas revestidas de **[Cobre](/es/materials/copper)** grabadas.
 - **Unión:** **[Soldadura](/es/materials/solder)** y soldador.
 - **Conductores:** Cable de **[Cobre](/es/materials/copper)** aislado.
-- **Energía:** **[Baterías](/es/inventions/battery)** o generadores.
+- **Energía:** **[Baterías](/es/materials/battery)** o generadores.
 
 ## Variantes y mejoras
 

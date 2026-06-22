@@ -39,7 +39,7 @@ Las trampas combinan un disparador con energía almacenada o gravedad. El animal
 
 - **Esenciales:** Armazón de **[Madera](/es/materials/wood)**, peso de **[Piedra](/es/materials/piedra)**, **[Fibras vegetales](/es/materials/plant-fibers)** para cordaje, tiras de **[Cuero](/es/materials/leather)**, ganchos o mandíbulas de **[Hierro](/es/materials/iron)**.
 - **Herramientas:** Cuchillo, maza, pala.
-- **Sustitutos:** Ramas flexibles como muelle, **[Alambre](/es/inventions/wire)** para lazos, **[Cuerda](/es/inventions/rope)** para líneas y anclajes.
+- **Sustitutos:** Ramas flexibles como muelle, **[Alambre](/es/materials/wire)** para lazos, **[Cuerda](/es/inventions/rope)** para líneas y anclajes.
 
 ## Variantes y mejoras
 

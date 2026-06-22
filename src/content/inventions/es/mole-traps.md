@@ -27,7 +27,7 @@ La trampa se coloca dentro del túnel y se activa por movimiento o presión sobr
 
 1. **Localiza un túnel activo:** Presiona la superficie y abre una sección pequeña.
 2. **Elige un mecanismo:** Lazo de alambre, mandíbulas tipo tijera o una caída con peso.
-3. **Prepara una guía:** Usa **[Alambre](/es/inventions/wire)** o guías de madera para centrar el disparador.
+3. **Prepara una guía:** Usa **[Alambre](/es/materials/wire)** o guías de madera para centrar el disparador.
 4. **Ajusta el disparo:** Disparador ligero y equilibrado que se active con poca presión.
 5. **Estabiliza:** Compacta la tierra alrededor para evitar vibraciones y bloquear la luz.
 6. **Revisa a diario:** Reajusta o retira cuando se active.

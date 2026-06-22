@@ -38,7 +38,7 @@ La mayoría de los micrófonos funcionan convirtiendo la vibración mecánica de
 2.  **Electrodos**: Dos placas de **[Metal](/es/materials/metal)** en extremos opuestos del recipiente.
 3.  **Material activo**: **[Carbón vegetal](/es/materials/charcoal)** finamente triturado (gránulos de carbono) que llena el espacio entre las placas.
 4.  **Diafragma**: Una lámina delgada y flexible (**[Papel](/es/materials/paper)** tensado o metal fino) que presiona contra un electrodo.
-5.  **Circuito**: Conectar en serie con una **[Batería](/es/inventions/battery)** y un receptor (como un auricular).
+5.  **Circuito**: Conectar en serie con una **[Batería](/es/materials/battery)** y un receptor (como un auricular).
 
 ### Nivel técnico
 

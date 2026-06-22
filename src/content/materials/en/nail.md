@@ -81,7 +81,7 @@ Nails are manufactured products.
 - **[Hammer](/en/inventions/hammer)**
 - **[Frame](/en/inventions/frame)**
 - **[Forge](/en/inventions/forge)**
-- **[Wire](/en/inventions/wire)**
+- **[Wire](/en/materials/wire)**
 
 ### Related materials
 

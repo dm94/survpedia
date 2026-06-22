@@ -50,7 +50,7 @@ Verter material líquido o flexible en un molde donde se solidifica con la forma
 Ensamblar partes separadas juntas para formar una forma más grande o compleja.
 
 - **Soldadura**: Fusión de metales derritiendo las piezas de trabajo.
-- **Sujeción**: Uso de medios mecánicos como **[Clavos](/es/inventions/mechanical-joints)**, **[Cuerda](/es/inventions/rope)** o **[Alambre](/es/inventions/wire)**.
+- **Sujeción**: Uso de medios mecánicos como **[Clavos](/es/inventions/mechanical-joints)**, **[Cuerda](/es/inventions/rope)** o **[Alambre](/es/materials/wire)**.
 - **Pegado**: Uso de **[Pegamento](/es/materials/glue)** o adhesivos.
 
 ## Relación con la Forja

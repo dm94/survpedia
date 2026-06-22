@@ -39,7 +39,7 @@ El radiado funciona mediante la triangulación y la tensión (o compresión).
 
 ## Materiales necesarios
 
-- **Radios:** Generalmente de [alambre](/es/inventions/wire) de acero inoxidable o [madera](/es/materials/wood) dura.
+- **Radios:** Generalmente de [alambre](/es/materials/wire) de acero inoxidable o [madera](/es/materials/wood) dura.
 - **Cabecillas (Nipples):** Pequeñas tuercas que sujetan el radio a la llanta.
 - **Llanta:** El aro exterior.
 - **Cubo:** El núcleo central.
