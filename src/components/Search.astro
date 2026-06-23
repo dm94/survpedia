@@ -8,9 +8,13 @@ const searchNoResults = t("search.noResults");
 ---
 
 <div id="search-container" class="relative group">
-  <div
+  <button
     id="search-trigger"
-    class="flex items-center space-x-2 cursor-pointer bg-slate-100 dark:bg-slate-800 px-3 py-2 rounded-lg hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors"
+    type="button"
+    aria-label={t("nav.search")}
+    aria-haspopup="true"
+    aria-expanded="false"
+    class="flex items-center space-x-2 cursor-pointer bg-slate-100 dark:bg-slate-800 px-3 py-2 rounded-lg hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +32,12 @@ const searchNoResults = t("search.noResults");
     <span class="text-sm text-slate-700 dark:text-slate-200"
       >{t("nav.search")}</span
     >
-  </div>
+    <kbd
+      class="hidden md:inline-flex h-5 items-center gap-1 rounded border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 px-1.5 font-mono text-[10px] font-medium text-slate-500 dark:text-slate-400 opacity-100"
+    >
+      <span class="text-xs">/</span>
+    </kbd>
+  </button>
 
   <div
     id="pagefind-ui"
@@ -48,51 +57,70 @@ const searchNoResults = t("search.noResults");
 <script src="/pagefind/pagefind-ui.js" is:inline></script>
 
 <script define:vars={{ searchPlaceholder, searchNoResults }}>
-  window.addEventListener("DOMContentLoaded", () => {
-    const container = document.getElementById("pagefind-ui");
-    const trigger = document.getElementById("search-trigger");
-    let initialized = false;
+  const container = document.getElementById("pagefind-ui");
+  const trigger = document.getElementById("search-trigger");
+  let initialized = false;
 
-    const initSearch = () => {
-      if (initialized) return;
+  const initSearch = () => {
+    if (initialized) return;
+    // @ts-ignore
+    if (typeof PagefindUI !== "undefined") {
       // @ts-ignore
-      if (typeof PagefindUI !== "undefined") {
-        // @ts-ignore
-        new PagefindUI({
-          element: "#pagefind-ui",
-          showSubResults: true,
-          resetStyles: false,
-          translations: {
-            placeholder: searchPlaceholder,
-            zero_results: searchNoResults,
-          },
-        });
-        initialized = true;
-      } else {
-        container.innerHTML =
-          '<p class="text-sm text-red-500 p-2">Search available in production build.</p>';
-      }
-    };
+      new PagefindUI({
+        element: "#pagefind-ui",
+        showSubResults: true,
+        resetStyles: false,
+        translations: {
+          placeholder: searchPlaceholder,
+          zero_results: searchNoResults,
+        },
+      });
+      initialized = true;
+    } else {
+      container.innerHTML =
+        '<p class="text-sm text-red-500 p-2">Search available in production build.</p>';
+    }
+  };
 
-    trigger?.addEventListener("click", () => {
-      container?.classList.toggle("hidden");
+  const toggleSearch = () => {
+    const isHidden = container?.classList.toggle("hidden");
+    trigger?.setAttribute("aria-expanded", (!isHidden).toString());
+    if (!isHidden) {
       initSearch();
       // Focus input if possible
       setTimeout(() => {
         const input = container?.querySelector("input");
         if (input) input.focus();
       }, 100);
-    });
+    }
+  };
 
-    document.addEventListener("click", e => {
-      const target = e.target;
-      const isInside = container?.contains(target) || trigger?.contains(target);
-      const isDetached = !document.documentElement.contains(target);
+  trigger?.addEventListener("click", toggleSearch);
 
-      if (!isInside && !isDetached) {
-        container?.classList.add("hidden");
+  document.addEventListener("keydown", (e) => {
+    const target = e.target;
+    if (e.key === "/" && target instanceof HTMLElement && !["INPUT", "TEXTAREA"].includes(target.tagName)) {
+      e.preventDefault();
+      if (container?.classList.contains("hidden")) {
+        toggleSearch();
       }
-    });
+    }
+    if (e.key === "Escape" && !container?.classList.contains("hidden")) {
+      container?.classList.add("hidden");
+      trigger?.setAttribute("aria-expanded", "false");
+      if (trigger instanceof HTMLElement) trigger.focus();
+    }
+  });
+
+  document.addEventListener("click", e => {
+    const target = e.target;
+    const isInside = container?.contains(target) || trigger?.contains(target);
+    const isDetached = !document.documentElement.contains(target);
+
+    if (!isInside && !isDetached) {
+      container?.classList.add("hidden");
+      trigger?.setAttribute("aria-expanded", "false");
+    }
   });
 </script>
 
