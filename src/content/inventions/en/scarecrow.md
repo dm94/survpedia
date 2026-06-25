@@ -1,5 +1,5 @@
 ---
-title: Scarecrow
+title: "Scarecrow"
 materialsUsed:
   - wood
   - straw
@@ -10,46 +10,46 @@ image: ../../../assets/images/inventions/scarecrow.jpg
 
 # Brief description
 
-A scarecrow is a field decoy built to discourage birds and small animals from feeding on seeds and crops. It creates a human-like presence and movement that makes fields feel unsafe to approach.
+A scarecrow is a field decoy constructed to frighten away birds and small animals that eat seeds or damage crops. Its human shape and movement in the wind make the area appear unsafe.
 
 ## Use / Function
 
-- **Crop protection:** Reduce bird damage during germination and ripening.
-- **Field coverage:** Provide a visible deterrent across open rows.
-- **Behavior shaping:** Encourage pests to avoid a specific area over time.
-- **Scale:** Single fields to small farms and gardens.
+- **Crop protection**: Reduces damage by birds during sowing and ripening.
+- **Plot coverage**: Creates a visible point of deterrence in open rows.
+- **Behavior modification**: Induces avoidance of a specific area over time.
+- **Scale**: Orchards, small plots, and medium-sized fields.
 
 ## Operating principle
 
-- **Threat silhouette:** A human-like outline triggers avoidance in many birds.
-- **Novelty effect:** Unfamiliar shapes and textures make the area feel unsafe.
-- **Motion cues:** Wind-driven movement increases perceived risk.
-- **Unpredictability:** Changing position or accessories prevents habituation.
+- **Threatening Silhouette**: The human form triggers avoidance in many birds.
+- **Novelty Effect**: New textures and shapes increase caution.
+- **Movement Cues**: The wind provides movement and reinforces the perceived risk.
+- **Unpredictability**: Changing positions or accessories prevents habituation.
 
 ## How to create it
 
-1. **Build the frame:** Lash two straight **[Wood](/en/materials/wood)** poles into a cross.
-2. **Add padding:** Bundle **[Straw](/en/materials/straw)** or dry grasses to bulk the torso and arms.
-3. **Dress it:** Cover with old **[Fabric](/en/materials/fabric)** or sacks to form a body.
-4. **Shape the head:** Stuff a cloth bag or bundle straw into a round form and tie it on.
-5. **Anchor it:** Plant the post firmly and secure with **[Plant fibers](/en/materials/plant-fibers)** or rope so it stays upright in wind.
+1.  **Build the Frame**: Tie two straight **[Wood](/en/materials/wood)** poles in the shape of a cross.
+2.  **Add Volume**: Stuff with **[Straw](/en/materials/straw)** or dry grasses to provide body.
+3.  **Dress It**: Cover with **[Fabric](/en/materials/fabric)**, sacks, or old clothing.
+4.  **Form the Head**: Fill a fabric sack or a bundle of straw and fix it to the top.
+5.  **Anchor the Post**: Bury and secure with **[Plant fibers](/en/materials/plant-fibers)** or rope to withstand the wind.
 
 ## Materials needed
 
-- **Essential materials:** **[Wood](/en/materials/wood)**, **[Straw](/en/materials/straw)**, **[Fabric](/en/materials/fabric)**, **[Plant fibers](/en/materials/plant-fibers)**.
-- **Tools:** Knife, awl, hammer or stone for driving the post.
-- **Possible substitutes:** Reeds for straw, bark or woven mats for fabric, vines for rope.
+- **Essential**: **[Wood](/en/materials/wood)**, **[Straw](/en/materials/straw)**, **[Fabric](/en/materials/fabric)**, **[Plant fibers](/en/materials/plant-fibers)**.
+- **Tools**: Knife, awl, hammer, or a stone to drive the post.
+- **Substitutes**: Reeds instead of straw, bark or mats instead of fabric, vines as rope.
 
 ## Variants and improvements
 
-- **Moving arms:** Add loose joints or weighted sleeves for wind movement.
-- **Sound makers:** Hang shells, dry seed pods, or clappers to add noise.
-- **Bird-specific layouts:** Use multiple small decoys for flocking birds.
-- **Rotation plan:** Move or restyle the scarecrow weekly to stay effective.
+- **Mobile Arms**: Adding loose joints or weighted sleeves to move with the wind.
+- **Sound Generators**: Shells, dry seeds, or slats that clatter together.
+- **Multiple Decoys**: Several small ones for flocking birds.
+- **Rotation**: Moving and changing the outfit every week to maintain effectiveness.
 
 ## Limits and risks
 
-- **Habituation:** Birds learn when the decoy is static and harmless.
-- **Weather damage:** Strong wind and rain can collapse or rot the frame.
-- **Coverage limits:** One scarecrow protects only a limited radius.
-- **Fire risk:** Dry straw and fabric ignite easily near open flames.
+- **Habituation**: Birds get used to it if the decoy is static.
+- **Weather Damage**: Wind and rain degrade the structure.
+- **Limited Coverage**: A single scarecrow protects only a small radius.
+- **Fire Risk**: Dry straw and fabric burn easily.
