@@ -38,7 +38,7 @@ Crucial for anchoring is the anchor line (rope or chain). A heavy chain forms a 
 - **Materials**: A bifurcated tree branch, a heavy **[Stone](/en/materials/stone)**, **[Rope](/en/materials/rope)** or lashings.
 - **Method**: Use the fork as a hook and tie the stone to provide weight.
 
-### 2. Stockless Anchor (Admiralty Style)
+### 2. Stock Anchor (Admiralty Style)
 
 - **Concept**: A T-shaped iron device. The "stock" (crossbar) ensures the anchor falls flat so that one of the two flukes points down and digs in.
 - **Materials**: Wrought **[Iron](/en/materials/iron)** for the shank and arms, **[Wood](/en/materials/wood)** or iron for the stock.
