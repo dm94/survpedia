@@ -5,6 +5,7 @@ export const en = {
   'nav.inventions': 'Inventions',
   'nav.knowledge': 'Knowledge',
   'nav.search': 'Search',
+  'nav.skipToContent': 'Skip to content',
   'home.title': 'Survpedia',
   'home.description':
     'Your technological survival manual codex: from basic elements to inventions that will rebuild the world.',

@@ -1,5 +1,5 @@
 ---
-import { getLangFromUrl } from '@i18n/utils';
+import { getLangFromUrl, useTranslations } from '@i18n/utils';
 import { languages, defaultLang } from '@i18n/ui';
 import Header from '@components/Header.astro';
 import '@styles/global.css';
@@ -13,6 +13,7 @@ interface Props {
 
 const { title, description, image, noindex } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const defaultDescription = 'Survpedia - Technological Survival Manual Codex';
 const metaDescription = description ?? defaultDescription;
@@ -122,8 +123,14 @@ const structuredData = [
   <body
     class="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col"
   >
+    <a
+      href="#main-content"
+      class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-blue-600 focus:text-white focus:rounded-lg focus:shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+    >
+      {t('nav.skipToContent')}
+    </a>
     <Header />
-    <main class="flex-grow container mx-auto px-4 py-8">
+    <main id="main-content" tabindex="-1" class="flex-grow container mx-auto px-4 py-8 outline-none">
       <slot />
     </main>
     <footer

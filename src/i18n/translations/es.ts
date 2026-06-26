@@ -5,6 +5,7 @@ export const es = {
   'nav.inventions': 'Inventos',
   'nav.knowledge': 'Conocimiento',
   'nav.search': 'Buscar',
+  'nav.skipToContent': 'Saltar al contenido',
   'home.title': 'Survpedia',
   'home.description':
     'Tu códice de manual de supervivencia tecnológica: desde los elementos básicos hasta los inventos que reconstruirán el mundo.',
