@@ -14,7 +14,7 @@ const { href, title, body, tag, image } = Astro.props;
 ---
 
 <li class="link-card list-none h-full">
-	<a href={href} class="flex flex-col h-full p-6 bg-white dark:bg-slate-800 rounded-xl shadow-sm hover:shadow-md transition-all border border-slate-200 dark:border-slate-700 hover:border-blue-400 dark:hover:border-blue-500">
+	<a href={href} class="group flex flex-col h-full p-6 bg-white dark:bg-slate-800 rounded-xl shadow-sm hover:shadow-md transition-all border border-slate-200 dark:border-slate-700 hover:border-blue-400 dark:hover:border-blue-500 focus-visible:ring-2 focus-visible:ring-blue-500 outline-none">
 		{image && (
             <div class="w-full h-48 mb-4 overflow-hidden rounded-lg bg-slate-100 dark:bg-slate-700">
                 <Image src={image} alt={title} class="w-full h-full object-cover" />
