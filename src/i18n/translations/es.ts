@@ -27,6 +27,7 @@ export const es = {
   'common.properties': 'Propiedades',
   'common.readMore': 'Leer más',
   'common.aiGenerated': 'Generado con IA',
+  'common.scrollToTop': 'Volver arriba',
   'elements.desc': 'Los bloques fundamentales del universo.',
   'materials.desc': 'Recursos y materiales compuestos.',
   'materials.natural': 'Natural',
