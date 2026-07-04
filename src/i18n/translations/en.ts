@@ -27,6 +27,7 @@ export const en = {
   'common.properties': 'Properties',
   'common.readMore': 'Read more',
   'common.aiGenerated': 'Generated with AI',
+  'common.scrollToTop': 'Scroll to top',
   'elements.desc': 'The fundamental building blocks of the universe.',
   'materials.desc': 'Resources and compound materials.',
   'materials.natural': 'Natural',
