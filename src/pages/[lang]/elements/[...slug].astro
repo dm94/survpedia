@@ -3,6 +3,7 @@ import { getCollection, render } from "astro:content";
 import { Image } from "astro:assets";
 import Layout from "@layouts/Layout.astro";
 import { useTranslations } from "@i18n/utils";
+import BackLink from "@components/BackLink.astro";
 
 export async function getStaticPaths() {
   const elements = await getCollection("elements");
@@ -40,11 +41,7 @@ const metaImage = entry.data.image?.src ?? "/logo.png";
   image={metaImage}
 >
   <div class="max-w-4xl mx-auto">
-    <a
-      href={`/${lang}/elements`}
-      class="text-blue-600 hover:underline mb-4 inline-block"
-      >&larr; {t("elements.title")}</a
-    >
+    <BackLink href={`/${lang}/elements`} label={t("elements.title")} />
 
     <article
       class="bg-white dark:bg-slate-800 shadow-lg rounded-2xl overflow-hidden"
