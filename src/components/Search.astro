@@ -135,13 +135,11 @@ const searchNoResults = t("search.noResults");
     --pagefind-ui-font: inherit;
   }
 
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --pagefind-ui-text: #f1f5f9;
-      --pagefind-ui-background: #0f172a;
-      --pagefind-ui-border: #334155;
-      --pagefind-ui-tag: #334155;
-    }
+  :root.dark {
+    --pagefind-ui-text: #f1f5f9;
+    --pagefind-ui-background: #0f172a;
+    --pagefind-ui-border: #334155;
+    --pagefind-ui-tag: #334155;
   }
 
   .pagefind-ui__result {

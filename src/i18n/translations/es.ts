@@ -5,6 +5,7 @@ export const es = {
   'nav.inventions': 'Inventos',
   'nav.knowledge': 'Conocimiento',
   'nav.search': 'Buscar',
+  'nav.themeToggle': 'Cambiar tema',
   'nav.skipToContent': 'Saltar al contenido',
   'home.title': 'Survpedia',
   'home.description':
