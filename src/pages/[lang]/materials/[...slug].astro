@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import Layout from "@layouts/Layout.astro";
 import { useTranslations } from "@i18n/utils";
 import BackLink from "@components/BackLink.astro";
+import ReadingTime from "@components/ReadingTime.astro";
 
 export async function getStaticPaths() {
   const materials = await getCollection("materials");
@@ -20,6 +21,7 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
+
 const getDescriptionFromMarkdown = (markdown: string) => {
   const cleaned = markdown
     .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
@@ -60,7 +62,7 @@ const compositionLinks: { id: string; href: string; name: string }[] | undefined
           <span
             class="bg-purple-600 text-white text-xs font-bold px-2 py-1 rounded"
           >
-            {entry.data.naturalAvailability ? "Natural" : "Synthetic"}
+            {entry.data.naturalAvailability ? t("materials.natural") : t("materials.synthetic")}
           </span>
           {
             entry.data.aiGenerated && (
@@ -69,6 +71,7 @@ const compositionLinks: { id: string; href: string; name: string }[] | undefined
               </span>
             )
           }
+          <ReadingTime body={entry.body ?? ""} lang={lang} />
         </div>
         <h1 class="text-4xl font-extrabold text-slate-900 dark:text-white mb-4">
           {entry.data.title}
@@ -146,7 +149,7 @@ const compositionLinks: { id: string; href: string; name: string }[] | undefined
           entry.data.manufacturingProcess && (
             <div class="mt-8 p-6 bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-800 rounded-xl">
               <h3 class="font-bold mb-2 text-amber-900 dark:text-amber-100">
-                Manufacturing / Process
+                {t("materials.manufacturing")}
               </h3>
               <p class="text-amber-800 dark:text-amber-200">
                 {entry.data.manufacturingProcess}
