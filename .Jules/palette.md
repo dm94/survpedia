@@ -5,3 +5,7 @@
 ## 2025-05-20 - [Reading Progress Bar & Accessibility]
 **Learning:** A reading progress bar provides great visual feedback for long-form content. Using `pointer-events-none` prevents it from interfering with UI interactions, and `motion-reduce:transition-none` ensures accessibility for users with motion sensitivities.
 **Action:** When adding fixed decorative elements, ensure they don't block clicks and respect motion preferences.
+
+## 2025-05-25 - [Reading Time & Shared UX Components]
+**Learning:** For content-heavy sites, reading time estimates help set user expectations. Abstracting these into shared Astro components (like `ReadingTime.astro`) ensures visual and logic consistency across different content collections while reducing code duplication.
+**Action:** Always localize UI labels using the `t()` function and abstract repetitive UX patterns into shared components.

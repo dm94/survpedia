@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import Layout from "@layouts/Layout.astro";
 import { useTranslations } from "@i18n/utils";
 import BackLink from "@components/BackLink.astro";
+import ReadingTime from "@components/ReadingTime.astro";
 
 export async function getStaticPaths() {
   const elements = await getCollection("elements");
@@ -19,6 +20,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
+
 const getDescriptionFromMarkdown = (markdown: string) => {
   const cleaned = markdown
     .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
@@ -73,6 +75,7 @@ const metaImage = entry.data.image?.src ?? "/logo.png";
                 </span>
               )
             }
+            <ReadingTime body={entry.body ?? ""} lang={lang} />
           </div>
           <h1
             class="text-4xl md:text-5xl font-extrabold text-slate-900 dark:text-white mb-6"
@@ -97,7 +100,7 @@ const metaImage = entry.data.image?.src ?? "/logo.png";
               class="bg-white dark:bg-slate-800 p-3 rounded shadow-sm border border-slate-200 dark:border-slate-700"
             >
               <span class="block text-xs text-slate-500 uppercase mb-1"
-                >Symbol</span
+                >{t("elements.symbol")}</span
               >
               <span class="text-xl font-bold">{entry.data.symbol}</span>
             </div>
@@ -105,7 +108,7 @@ const metaImage = entry.data.image?.src ?? "/logo.png";
               class="bg-white dark:bg-slate-800 p-3 rounded shadow-sm border border-slate-200 dark:border-slate-700"
             >
               <span class="block text-xs text-slate-500 uppercase mb-1"
-                >Atomic Mass</span
+                >{t("elements.atomicMass")}</span
               >
               <span class="text-xl font-bold">{entry.data.atomicMass}</span>
             </div>
@@ -134,7 +137,7 @@ const metaImage = entry.data.image?.src ?? "/logo.png";
                     clip-rule="evenodd"
                   />
                 </svg>
-                Extraction / Obtención
+                {t("elements.extraction")}
               </h3>
               <p class="text-slate-700 dark:text-slate-300">
                 {entry.data.extractionProcess}
