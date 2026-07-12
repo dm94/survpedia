@@ -9,3 +9,7 @@
 ## 2025-05-25 - [Reading Time & Shared UX Components]
 **Learning:** For content-heavy sites, reading time estimates help set user expectations. Abstracting these into shared Astro components (like `ReadingTime.astro`) ensures visual and logic consistency across different content collections while reducing code duplication.
 **Action:** Always localize UI labels using the `t()` function and abstract repetitive UX patterns into shared components.
+
+## 2025-05-30 - [Interaction Symmetry & Decorative Elements]
+**Learning:** For a predictable and inclusive interface, hover-driven visual feedback (like scaling or translations) should always be mirrored on `focus-visible`. Additionally, decorative icons within links should be hidden from screen readers using `aria-hidden="true"` to prevent redundant announcements, especially when the icon is already described by text or an ARIA label.
+**Action:** Ensure all interactive animations are triggered by both hover and keyboard focus, and audit icons for proper ARIA concealment.

@@ -36,8 +36,9 @@ if (categoryLower.includes('gas noble') || categoryLower.includes('noble gas')) 
 <a
   href={href}
   aria-label={`${number} ${name} (${symbol}) - ${category}`}
+  title={`${number} ${name} (${symbol}) - ${category}`}
   class:list={[
-    `flex flex-col items-center justify-between p-2 rounded-lg shadow-sm hover:shadow-md hover:scale-110 hover:z-10 transition-all border outline-none focus-visible:ring-4 focus-visible:ring-blue-500/50`,
+    `flex flex-col items-center justify-between p-2 rounded-lg shadow-sm hover:shadow-md hover:scale-110 hover:z-10 focus-visible:scale-110 focus-visible:z-10 transition-all border outline-none focus-visible:ring-4 focus-visible:ring-blue-500/50`,
     `${colorClass}`,
     `aspect-square`,
   ]}
