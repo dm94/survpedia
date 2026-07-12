@@ -44,7 +44,7 @@ Add a fork to hold the front wheel, connected to handlebars via a headset. Insta
 ## Materials needed
 
 - **[Steel](/en/materials/steel)** or **[Aluminum](/en/materials/aluminum)**: For the frame and components.
-- **[Natural Rubber](/en/materials/natural-rubber)**: For pneumatic tires and inner tubes.
+- **[Natural Rubber](/en/materials/natural-rubber)**: For **[Pneumatic Tires](/en/inventions/pneumatic-tire)** and inner tubes.
 - **[Leather](/en/materials/leather)** or Plastic: For the saddle.
 - **[Steel Cable](/en/materials/steel-cable)**: For brake and gear actuation.
 - **[Ball and Roller Bearings](/en/inventions/ball-and-roller-bearing)**: For all rotating parts.

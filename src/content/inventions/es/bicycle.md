@@ -44,7 +44,7 @@ Añada una horquilla para sujetar la rueda delantera, conectada al manillar medi
 ## Materiales necesarios
 
 - **[Acero](/es/materials/steel)** o **[Aluminio](/es/materials/aluminum)**: Para el cuadro y los componentes.
-- **[Caucho natural](/es/materials/natural-rubber)**: Para neumáticos y cámaras de aire.
+- **[Caucho natural](/es/materials/natural-rubber)**: Para **[Neumáticos](/es/inventions/pneumatic-tire)** y cámaras de aire.
 - **[Cuero](/es/materials/leather)** o Plástico: Para el sillín.
 - **[Cable de acero](/es/materials/steel-cable)**: Para el accionamiento de frenos y marchas.
 - **[Rodamientos de bolas y rodillos](/es/inventions/ball-and-roller-bearing)**: Para todas las partes giratorias.
