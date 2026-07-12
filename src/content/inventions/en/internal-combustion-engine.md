@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - aluminum
+  - gasoline
   - crude-oil
   - copper
 image: ../../../assets/images/inventions/internal-combustion-engine.jpg
@@ -38,6 +39,7 @@ Building a functional ICE requires high precision and advanced metallurgy:
 - **Valves and Camshaft**: Precisely timed to open and close at the right moments.
 - **Ignition System**: Requires a way to time a spark (magneto or battery/coil system).
 - **Fuel System**: A carburetor to mix fuel with air in the correct ratio.
+- **Tires**: Modern vehicles require **[Pneumatic Tires](/en/inventions/pneumatic-tire)** for traction and comfort at speed.
 
 ## Materials needed
 
@@ -45,7 +47,7 @@ Building a functional ICE requires high precision and advanced metallurgy:
 - **Crankshaft and Connecting Rods**: Forged **[Steel](/en/materials/steel)**.
 - **Pistons**: **[Aluminum](/en/materials/aluminum)** alloys.
 - **Bearings**: Bronze or specialized soft metal alloys.
-- **Fuel**: Derived from **[Crude Oil](/en/materials/crude-oil)** (gasoline/diesel) or biofuels (alcohol).
+- **Fuel**: **[Gasoline](/en/materials/gasoline)** or diesel derived from **[Crude Oil](/en/materials/crude-oil)**, or biofuels (alcohol).
 
 ## Variants and improvements
 

@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - aluminum
+  - gasoline
   - crude-oil
   - copper
 image: ../../../assets/images/inventions/internal-combustion-engine.jpg
@@ -38,6 +39,7 @@ Construir un MCI funcional requiere alta precisión y metalurgia avanzada:
 - **Válvulas y Árbol de Levas**: Sincronizados con precisión para abrirse y cerrarse en los momentos adecuados.
 - **Sistema de Encendido**: Requiere una forma de sincronizar una chispa (sistema de magneto o batería/bobina).
 - **Sistema de Combustible**: Un carburador para mezclar el combustible con el aire en la proporción correcta.
+- **Neumáticos**: Los vehículos modernos requieren **[Neumáticos](/es/inventions/pneumatic-tire)** para tracción y comodidad a gran velocidad.
 
 ## Materiales necesarios
 
@@ -45,7 +47,7 @@ Construir un MCI funcional requiere alta precisión y metalurgia avanzada:
 - **Cigüeñal y Bielas**: **[Acero](/es/materials/steel)** forjado.
 - **Pistones**: Aleaciones de **[Aluminio](/es/materials/aluminum)**.
 - **Cojinetes**: Bronce o aleaciones especiales de metal blando.
-- **Combustible**: Derivado del **[Petróleo Crudo](/es/materials/crude-oil)** (gasolina/diésel) o biocombustibles (alcohol).
+- **Combustible**: **[Gasolina](/es/materials/gasoline)** o diésel derivado del **[Petróleo Crudo](/es/materials/crude-oil)**, o biocombustibles (alcohol).
 
 ## Variantes y mejoras
 
