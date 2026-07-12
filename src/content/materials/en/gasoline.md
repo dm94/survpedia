@@ -28,7 +28,7 @@ Gasoline (or petrol) is a transparent, petroleum-derived flammable liquid that i
 
 ## Description of what it is like
 
-Gasoline is a clear or slightly yellowish liquid with a distinctive, pungent odor. it is highly volatile, meaning it evaporates quickly at room temperature, forming a heavy, flammable vapor that can travel along the ground.
+Gasoline is a clear or slightly yellowish liquid with a distinctive, pungent odor. It is highly volatile, meaning it evaporates quickly at room temperature, forming a heavy, flammable vapor that can travel along the ground.
 
 ## Origin and where to find it
 
