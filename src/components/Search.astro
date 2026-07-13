@@ -46,6 +46,13 @@ const searchNoResults = t("search.noResults");
   </div>
 </div>
 
+<div
+  id="search-backdrop"
+  class="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-[90] hidden transition-opacity"
+  aria-hidden="true"
+>
+</div>
+
 <script>
   // Dynamic import only works if files exist, which they don't in dev until built
   // So we rely on the build step to put them in /pagefind/
@@ -59,6 +66,7 @@ const searchNoResults = t("search.noResults");
 <script define:vars={{ searchPlaceholder, searchNoResults }}>
   const container = document.getElementById("pagefind-ui");
   const trigger = document.getElementById("search-trigger");
+  const backdrop = document.getElementById("search-backdrop");
   let initialized = false;
 
   const initSearch = () => {
@@ -82,10 +90,19 @@ const searchNoResults = t("search.noResults");
     }
   };
 
-  const toggleSearch = () => {
-    const isHidden = container?.classList.toggle("hidden");
-    trigger?.setAttribute("aria-expanded", (!isHidden).toString());
-    if (!isHidden) {
+  const toggleSearch = (forceClose = false) => {
+    const isHidden = forceClose ? true : !container?.classList.contains("hidden");
+
+    if (isHidden) {
+      container?.classList.add("hidden");
+      backdrop?.classList.add("hidden");
+      document.body.classList.remove("overflow-hidden");
+      trigger?.setAttribute("aria-expanded", "false");
+    } else {
+      container?.classList.remove("hidden");
+      backdrop?.classList.remove("hidden");
+      document.body.classList.add("overflow-hidden");
+      trigger?.setAttribute("aria-expanded", "true");
       initSearch();
       // Focus input if possible
       setTimeout(() => {
@@ -95,7 +112,8 @@ const searchNoResults = t("search.noResults");
     }
   };
 
-  trigger?.addEventListener("click", toggleSearch);
+  trigger?.addEventListener("click", () => toggleSearch());
+  backdrop?.addEventListener("click", () => toggleSearch(true));
 
   document.addEventListener("keydown", (e) => {
     const target = e.target;
@@ -106,20 +124,18 @@ const searchNoResults = t("search.noResults");
       }
     }
     if (e.key === "Escape" && !container?.classList.contains("hidden")) {
-      container?.classList.add("hidden");
-      trigger?.setAttribute("aria-expanded", "false");
+      toggleSearch(true);
       if (trigger instanceof HTMLElement) trigger.focus();
     }
   });
 
   document.addEventListener("click", e => {
     const target = e.target;
-    const isInside = container?.contains(target) || trigger?.contains(target);
+    const isInside = (target instanceof Node) && (container?.contains(target) || trigger?.contains(target));
     const isDetached = !document.documentElement.contains(target);
 
-    if (!isInside && !isDetached) {
-      container?.classList.add("hidden");
-      trigger?.setAttribute("aria-expanded", "false");
+    if (!isInside && !isDetached && !container?.classList.contains("hidden")) {
+      toggleSearch(true);
     }
   });
 </script>

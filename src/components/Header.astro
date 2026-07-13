@@ -39,9 +39,9 @@ const isPathActive = (path: string) => {
             href={elementsPath}
             aria-current={isPathActive(elementsPath) ? "page" : undefined}
             class:list={[
-              "transition-colors",
+              "transition-all px-2 py-1 rounded-md outline-none focus-visible:ring-2 focus-visible:ring-blue-500 hover:bg-slate-100 dark:hover:bg-slate-800",
               isPathActive(elementsPath)
-                ? "text-blue-600 dark:text-blue-400 font-bold"
+                ? "text-blue-600 dark:text-blue-400 font-bold bg-blue-50/50 dark:bg-blue-900/20"
                 : "hover:text-blue-600 dark:hover:text-blue-400 text-slate-600 dark:text-slate-300",
             ]}
             >{t("nav.elements")}</a
@@ -52,9 +52,9 @@ const isPathActive = (path: string) => {
             href={materialsPath}
             aria-current={isPathActive(materialsPath) ? "page" : undefined}
             class:list={[
-              "transition-colors",
+              "transition-all px-2 py-1 rounded-md outline-none focus-visible:ring-2 focus-visible:ring-blue-500 hover:bg-slate-100 dark:hover:bg-slate-800",
               isPathActive(materialsPath)
-                ? "text-blue-600 dark:text-blue-400 font-bold"
+                ? "text-blue-600 dark:text-blue-400 font-bold bg-blue-50/50 dark:bg-blue-900/20"
                 : "hover:text-blue-600 dark:hover:text-blue-400 text-slate-600 dark:text-slate-300",
             ]}
             >{t("nav.materials")}</a
@@ -65,9 +65,9 @@ const isPathActive = (path: string) => {
             href={inventionsPath}
             aria-current={isPathActive(inventionsPath) ? "page" : undefined}
             class:list={[
-              "transition-colors",
+              "transition-all px-2 py-1 rounded-md outline-none focus-visible:ring-2 focus-visible:ring-blue-500 hover:bg-slate-100 dark:hover:bg-slate-800",
               isPathActive(inventionsPath)
-                ? "text-blue-600 dark:text-blue-400 font-bold"
+                ? "text-blue-600 dark:text-blue-400 font-bold bg-blue-50/50 dark:bg-blue-900/20"
                 : "hover:text-blue-600 dark:hover:text-blue-400 text-slate-600 dark:text-slate-300",
             ]}
             >{t("nav.inventions")}</a
@@ -78,9 +78,9 @@ const isPathActive = (path: string) => {
             href={knowledgePath}
             aria-current={isPathActive(knowledgePath) ? "page" : undefined}
             class:list={[
-              "transition-colors",
+              "transition-all px-2 py-1 rounded-md outline-none focus-visible:ring-2 focus-visible:ring-blue-500 hover:bg-slate-100 dark:hover:bg-slate-800",
               isPathActive(knowledgePath)
-                ? "text-blue-600 dark:text-blue-400 font-bold"
+                ? "text-blue-600 dark:text-blue-400 font-bold bg-blue-50/50 dark:bg-blue-900/20"
                 : "hover:text-blue-600 dark:hover:text-blue-400 text-slate-600 dark:text-slate-300",
             ]}
             >{t("nav.knowledge")}</a
@@ -136,7 +136,7 @@ const isPathActive = (path: string) => {
               aria-label={label}
               title={label}
               class:list={[
-                `px-2 py-1 rounded`,
+                `px-2 py-1 rounded outline-none transition-all focus-visible:ring-2 focus-visible:ring-blue-500`,
                 `${code === lang ? "bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-200" : "text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800"}`,
               ]}
             >
