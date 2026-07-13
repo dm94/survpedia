@@ -20,7 +20,7 @@ La teoría germinal es el principio científico que establece que muchas enferme
 
 - **Prevención de enfermedades**: Comprender cómo se propagan los patógenos permite prácticas efectivas de saneamiento e higiene.
 - **Tratamiento médico**: La identificación de gérmenes específicos conduce a tratamientos dirigidos como antibióticos y antivirales.
-- **Seguridad alimentaria**: Guio el desarrollo de técnicas como la pasteurización y la refrigeración para prevenir el deterioro y las enfermedades transmitidas por los alimentos.
+- **Seguridad alimentaria**: Guió el desarrollo de técnicas como la pasteurización y la refrigeración para prevenir el deterioro y las enfermedades transmitidas por los alimentos.
 - **Esterilización**: Desarrollo de protocolos para la limpieza de instrumentos y entornos quirúrgicos.
 
 ## Principio operativo
