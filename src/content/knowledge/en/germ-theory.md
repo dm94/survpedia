@@ -58,7 +58,7 @@ Intermediate. Requires the ability to see microorganisms (optics) and a systemat
 
 ## Limits and risks
 
-- **Antibiotic Resistance**: Overuse of treatments can lead to "superbugs" that germs theory alone cannot easily solve.
+- **Antibiotic Resistance**: Overuse of treatments can lead to "superbugs" that germ theory alone cannot easily solve.
 - **Misidentification**: Not all microbes are harmful; some are essential for health (human microbiome).
 - **Invisible Threat**: Because germs cannot be seen, it is easy to become complacent with hygiene.
 
