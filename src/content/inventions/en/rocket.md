@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - clay
   - glue
+image: ../../../assets/images/inventions/rocket.jpg
 ---
 
 # Brief description

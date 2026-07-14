@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - clay
   - glue
+image: ../../../assets/images/inventions/cohete.jpg
 ---
 
 # Breve descripción

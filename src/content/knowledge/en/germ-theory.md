@@ -10,6 +10,7 @@ relatedInventions:
   - microscope
   - water-filter
   - distillation
+image: ../../../assets/images/knowledge/germ-theory.jpg
 ---
 
 # Brief description
