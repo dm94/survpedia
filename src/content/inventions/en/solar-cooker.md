@@ -11,7 +11,7 @@ image: ../../../assets/images/inventions/solar-cooker.jpg
 
 # Brief description
 
-A solar cooker is a device which uses the energy of direct sunlight to heat, cook or pasteurize drink and other food materials. It allows cooking without fuel, which is vital in resource-scarce environments.
+A solar cooker is a device which uses the energy of direct sunlight to heat, cook or pasteurize drinks and other food materials. It allows cooking without fuel, which is vital in resource-scarce environments.
 
 ## Use / Function
 
