@@ -16,7 +16,7 @@ uses:
   - 'Feedstock for **[Formaldehyde](/en/materials/formaldehyde)** production'
 naturalAvailability: false
 manufacturingProcess: >-
-  Historically produced by the destructive distillation of wood. Modernly
+  Historically produced by the destructive distillation of wood. Currently
   produced from synthesis gas (CO and H2) over a catalyst.
 category: synthetic
 image: ../../../assets/images/materials/methanol.jpg
