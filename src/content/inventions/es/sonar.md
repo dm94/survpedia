@@ -22,7 +22,7 @@ El Sonar (Sound Navigation and Ranging) es una técnica que utiliza la propagaci
 
 ## Principio de funcionamiento
 
-El sonar se basa en el hecho de que el sonido viaja mucho más eficiente y rápido en el agua (aprox. 1.500 m/s) que en el aire.
+El sonar se basa en el hecho de que el sonido viaja mucho más eficientemente y rápido en el agua (aprox. 1.500 m/s) que en el aire.
 
 1.  **Generación de Pulso**: Se genera una señal electrónica.
 2.  **Transducción**: Un transductor convierte la señal eléctrica en una onda de sonido (un "ping").
