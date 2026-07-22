@@ -12,7 +12,7 @@ image: ../../../assets/images/knowledge/contact-process.jpg
 
 # Descripción breve
 
-El proceso de contacto es el principal método industrial moderno para producir ácido sulfúrico de alta concentración ($H_2SO_4$). El ácido sulfúrico es considerado el "alma mater de la química" y un indicador fundamental de la capacidad industrial de una nación, utilizado en refinamiento, baterías, metalurgia y síntesis química.
+El proceso de contacto es el principal método industrial moderno para producir ácido sulfúrico de alta concentración ($H_2SO_4$). El ácido sulfúrico es considerado la "piedra angular de la química" y un indicador fundamental de la capacidad industrial de una nación, utilizado en refinamiento, baterías, metalurgia y síntesis química.
 
 ## Uso / Función
 
