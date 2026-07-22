@@ -70,7 +70,7 @@ $$H_2S_2O_7 (l) + H_2O (l) \rightarrow 2H_2SO_4 (l)$$
 - **Catalyst**: Vanadium pentoxide ($V_2O_5$) supported on silica, or platinum wire mesh (more expensive and easily poisoned by impurities).
 - **Water**: High-purity water for safe dilution.
 - **Refractory Bricks**: To line sulfur burners.
-- **Acid-Resistant Alloys or Ceramics**: To withstand highly hot and corrosive fuming acids.
+- **Acid-Resistant Alloys or Ceramics**: To withstand extremely hot and highly corrosive fuming acids.
 
 ## Variants and improvements
 
