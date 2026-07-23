@@ -17,6 +17,7 @@ El Proceso de Frasch es un método industrial utilizado para extraer azufre elem
 ## Uso / Función
 
 - **Extracción de Azufre**: Extrae de forma segura azufre elemental de alta pureza (hasta el 99.5%) de depósitos subterráneos profundos en domos de sal.
+- **Precursor químico**: Suministra grandes cantidades de azufre bruto que se emplean principalmente como materia prima para la producción de ácido sulfúrico, uno de los pilares de las industrias de fertilizantes, acero y química. En cadenas de procesos posteriores (por ejemplo, el Proceso Ostwald), este azufre puede también contribuir indirectamente a la obtención de ácido nítrico, aunque ese no es su uso principal.
 - **Precursor Químico**: Suministra las enormes cantidades de azufre bruto necesarias para producir ácido nítrico y ácido sulfúrico, cruciales para las industrias globales de fertilizantes, acero y química.
 - **Escala**: Operaciones mineras industriales.
 
