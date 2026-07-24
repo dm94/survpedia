@@ -64,7 +64,7 @@ $$2\text{NO} (g) + \text{O}_2 (g) \rightarrow 2\text{NO}_2 (g)$$
 
 - **Azufre**: Extraído de depósitos minerales, o piritas de hierro ($FeS_2$) tostadas al aire. Puede obtenerse a partir del **[Azufre](/es/materials/sulfur)**.
 - **Plomo**: Láminas de **[Plomo](/es/materials/lead)** puro para revestir las cámaras.
-- **Salitre (Nitrato de Potasio) o Ácido Nítrico**: Para generar los gases catalíticos de óxido de nitrógeno. Sourced from **[Ácido Nítrico](/es/materials/nitric-acid)**.
+- **Salitre (Nitrato de Potasio) o Ácido Nítrico**: Para generar los gases catalíticos de óxido de nitrógeno. Obtenido a partir del **[Ácido Nítrico](/es/materials/nitric-acid)**.
 - **Agua**: Calentada en una caldera (**[Caldera](/es/inventions/boiler)**) para suministrar vapor. Sourced from **[Agua](/es/materials/water)**.
 - **Oxígeno/Aire**: Extraído del aire atmosférico.
 
