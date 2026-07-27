@@ -53,12 +53,12 @@ Un transmisor de chispa convierte la energía eléctrica de corriente continua (
 
 ## Materiales necesarios
 
-- **Bobina de Inducción**: Para generar altos voltajes. Sourced de **[Cable](/es/materials/wire)** y **[Cobre](/es/materials/copper)**.
-- **Llave de Telegrafía**: Un interruptor simple con resorte. Sourced de **[Metal](/es/materials/metal)** y **[Madera](/es/materials/wood)**.
-- **Batería**: Fuente de alimentación de corriente continua. Sourced de **[Batería](/es/materials/battery)**.
-- **Botella de Leyden**: Condensador de alto voltaje. Sourced de **[Vidrio](/es/materials/glass)** y papel de aluminio.
-- **Explosor**: Dos varillas o pernos de metal ajustables. Sourced de **[Cobre](/es/materials/copper)** o **[Latón](/es/materials/brass)**.
-- **Cable de Antena**: Cable conductor largo para radiar la señal. Sourced de **[Cable](/es/materials/wire)**.
+- **Bobina de Inducción**: Para generar altos voltajes, obtenida a partir de **[Cable](/es/materials/wire)** y **[Cobre](/es/materials/copper)**.
+- **Llave de Telegrafía**: Un interruptor simple con resorte, obtenida a partir de **[Metal](/es/materials/metal)** y **[Madera](/es/materials/wood)**.
+- **Batería**: Fuente de alimentación de corriente continua, obtenida a partir de **[Batería](/es/materials/battery)**.
+- **Botella de Leyden**: Condensador de alto voltaje, obtenida a partir de **[Vidrio](/es/materials/glass)** y papel de aluminio.
+- **Explosor**: Dos varillas o pernos de metal ajustables, obtenido a partir de **[Cobre](/es/materials/copper)** o **[Latón](/es/materials/brass)**.
+- **Cable de Antena**: Cable conductor largo para radiar la señal, obtenido a partir de **[Cable](/es/materials/wire)**.
 
 ## Variantes y mejoras
 
