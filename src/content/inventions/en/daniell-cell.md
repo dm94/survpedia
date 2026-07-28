@@ -32,7 +32,7 @@ The Daniell cell converts chemical energy into electrical energy through paired 
 
 ### 1. Preparing the Containers and Barrier
 
-- Obtain a outer container made of **[Glass](/en/materials/glass)**, glazed ceramic, or plastic.
+- Obtain an outer container made of **[Glass](/en/materials/glass)**, glazed ceramic, or plastic.
 - Prepare a porous inner container. A cup made of unglazed clay or earthenware (such as a clean, unpainted flower pot with the bottom hole plugged) works perfectly as a barrier.
 
 ### 2. Creating the Electrodes
