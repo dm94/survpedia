@@ -74,7 +74,7 @@ El cohesor aprovecha el fenómeno físico de la coherencia electromagnética en 
 ## Variantes y mejoras
 
 - **Cohesor de vacío**: Sellar el tubo al vacío evita que las limaduras se oxiden gradualmente debido a la exposición al aire, lo que incrementa enormemente su fiabilidad y vida útil operativa.
-- **Cohesor de mercurio y hierro (Cohesor Castelli)**: Utiliza una gota de mercurio entre dos electrodos de hierro. Este diseño se autorestablece (se descohesiona automáticamente tan pronto como cesa la señal de radio), eliminando la necesidad de un percutor mecánico.
+- **Cohesor de mercurio y hierro (Cohesor Castelli)**: Utiliza una gota de mercurio entre dos electrodos de hierro. Este diseño se autorrestablece (se descohesiona automáticamente tan pronto como cesa la señal de radio), eliminando la necesidad de un percutor mecánico.
 
 ## Límites y riesgos
 
