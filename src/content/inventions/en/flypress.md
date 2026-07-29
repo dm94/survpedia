@@ -59,7 +59,7 @@ The flypress exploits the physical principle of mechanical advantage and energy 
 
 ## Variants and improvements
 
-- **Manual Flypress**: The classic workshops standard, requiring no electricity or external power.
+- **Manual Flypress**: The classic workshop standard, requiring no electricity or external power.
 - **Friction Screw Press**: A motorized version where the flywheel is driven by large rotating leather-rimmed discs pressed against its perimeter, allowing automated high-speed mass production.
 - **Hydraulic Press**: Uses hydraulic fluid pressure instead of momentum, providing even greater force control but operating at a much slower speed.
 
