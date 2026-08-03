@@ -30,7 +30,7 @@ La nitrocelulosa (históricamente conocida como algodón pólvora, piroxilina o 
 
 ## Descripción de su aspecto
 
-- **Apariencia:** Visualmente idéntica al algodón común cuando está completamente procesada, aunque ligeramente más áspera o rígido al tacto. También puede moldearse en láminas transparentes, barnices o películas.
+- **Apariencia:** Visualmente idéntica al algodón común cuando está completamente procesada, aunque ligeramente más áspera o más rígida al tacto. También puede moldearse en láminas transparentes, barnices o películas.
 - **Textura:** Suave y fibrosa en su estado original; extremadamente lisa y tenaz cuando se disuelve y se vierte en láminas.
 - **Estado:** Sólido a temperatura ambiente.
 - **Rotura:** Altamente frágil y propenso a rasgarse en estado fibroso, pero forma una película duradera, flexible y muy combustible cuando se mezcla con plastificantes.
