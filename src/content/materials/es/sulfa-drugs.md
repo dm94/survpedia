@@ -19,7 +19,7 @@ uses:
 naturalAvailability: false
 manufacturingProcess: >-
   Sintetizado mediante química orgánica de múltiples pasos comenzando con la acetilación
-  de la anilina (derivada del alquitrán de hulla), seguida de la clorofonación con
+  de la anilina (derivada del alquitrán de hulla), seguida de la clorosulfonación con
   ácido clorosulfónico, reacción con amoníaco para formar un grupo sulfonamida,
   e hidrólisis ácida final para obtener sulfanilamida pura.
 category: synthetic
