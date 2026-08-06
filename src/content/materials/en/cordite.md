@@ -23,7 +23,7 @@ category: synthetic
 image: ../../../assets/images/materials/cordite.jpg
 ---
 
-Cordite is a family of smokeless propellants developed in the late 19th century to replace traditional black gunpowder in military and industrial applications. As a double-base propellant, it combines the high explosive power of nitroglycerin with the structural stability of nitrocellulose, bonded together into a homogenous plasticized material using acetone. Unlike black powder, cordite produces very little smoke, leaves minimal corrosive residue in barrels, and burns at a controlled, predictable rate rather than detonating instantly, making it highly effective for projecting bullets and shells.
+Cordite is a family of smokeless propellants developed in the late 19th century to replace traditional black gunpowder in military and industrial applications. As a double-base propellant, it combines the high explosive power of nitroglycerin with the structural stability of nitrocellulose, bonded together into a homogeneous plasticized material using acetone. Unlike black powder, cordite produces very little smoke, leaves minimal corrosive residue in barrels, and burns at a controlled, predictable rate rather than detonating instantly, making it highly effective for projecting bullets and shells.
 
 ## Description of what it is like
 
