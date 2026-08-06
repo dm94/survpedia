@@ -9,20 +9,22 @@ composition:
   - sulfur
 properties:
   - Agente antibacteriano y bacteriostático
-  - Polvo cristalino fino, blanco o amarillento
-  - Poco soluble en agua, soluble en solventes orgánicos
+  - 'Polvo cristalino fino, blanco o amarillento'
+  - 'Poco soluble en agua, soluble en solventes orgánicos'
   - Alta estabilidad química en condiciones ambientales
 uses:
-  - Tratamiento de infecciones bacterianas (estreptococo, neumonía, meningitis)
+  - 'Tratamiento de infecciones bacterianas (estreptococo, neumonía, meningitis)'
   - Prevención de infecciones en heridas y en el campo de batalla
   - Precursor químico sintético para medicamentos especializados
 naturalAvailability: false
 manufacturingProcess: >-
-  Sintetizado mediante química orgánica de múltiples pasos comenzando con la acetilación
-  de la anilina (derivada del alquitrán de hulla), seguida de la clorosulfonación con
-  ácido clorosulfónico, reacción con amoníaco para formar un grupo sulfonamida,
-  e hidrólisis ácida final para obtener sulfanilamida pura.
+  Sintetizado mediante química orgánica de múltiples pasos comenzando con la
+  acetilación de la anilina (derivada del alquitrán de hulla), seguida de la
+  clorosulfonación con ácido clorosulfónico, reacción con amoníaco para formar
+  un grupo sulfonamida, e hidrólisis ácida final para obtener sulfanilamida
+  pura.
 category: synthetic
+image: ../../../assets/images/materials/sulfa-drugs.jpg
 ---
 
 Las sulfamidas (específicamente las sulfonamidas, como la sulfanilamida) son el primer grupo de agentes antibacterianos sintéticos altamente eficaces descubiertos por la humanidad. A diferencia de los antibióticos como la penicilina, que son producidos por microorganismos vivos, las sulfamidas son productos químicos orgánicos totalmente sintéticos derivados de materias primas industriales (originalmente el alquitrán de hulla). Funcionan actuando como inhibidores competitivos de las vías enzimáticas bacterianas, impidiendo que las bacterias sinteticen el ácido fólico necesario para su crecimiento y replicación.
