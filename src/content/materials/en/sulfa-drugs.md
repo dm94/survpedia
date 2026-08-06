@@ -10,19 +10,20 @@ composition:
 properties:
   - Antibacterial and bacteriostatic agent
   - Fine crystalline white or yellowish powder
-  - Sparingly soluble in water, soluble in organic solvents
+  - 'Sparingly soluble in water, soluble in organic solvents'
   - High chemical stability under ambient conditions
 uses:
-  - Treating bacterial infections (streptococcus, pneumonia, meningitis)
+  - 'Treating bacterial infections (streptococcus, pneumonia, meningitis)'
   - Preventing wound and battlefield infections
   - Synthetic chemical precursor for specialized pharmaceuticals
 naturalAvailability: false
 manufacturingProcess: >-
-  Synthesized through multi-step organic chemistry starting with the acetylation of aniline
-  (derived from coal tar), followed by chlorosulfonation with chlorosulfonic acid,
-  reaction with ammonia to form a sulfonamide group, and final acid hydrolysis to
-  obtain pure sulfanilamide.
+  Synthesized through multi-step organic chemistry starting with the acetylation
+  of aniline (derived from coal tar), followed by chlorosulfonation with
+  chlorosulfonic acid, reaction with ammonia to form a sulfonamide group, and
+  final acid hydrolysis to obtain pure sulfanilamide.
 category: synthetic
+image: ../../../assets/images/materials/sulfa-drugs.jpg
 ---
 
 Sulfa drugs (specifically sulfonamides, such as sulfanilamide) are the first group of highly effective synthetic antibacterial agents ever discovered. Unlike antibiotics like penicillin, which are produced by living microorganisms, sulfa drugs are entirely synthetic organic chemicals derived from industrial feedstocks (originally coal tar). They function by acting as competitive inhibitors of bacterial enzymatic pathways, preventing bacteria from synthesizing folic acid required for growth and replication.

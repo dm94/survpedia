@@ -5,6 +5,7 @@ materialsUsed:
   - glass
   - silver
   - steel
+image: ../../../assets/images/inventions/vacuum-flask.jpg
 ---
 
 # Breve descripción
