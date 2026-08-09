@@ -39,7 +39,7 @@ The Thermocouple operates on the thermoelectric effect, specifically the **Seebe
 - Connect the other ends of the copper and iron wires to copper terminal leads at a known temperature (the **reference or cold junction**).
 
 ### 3. Measuring the Output
-- Connect the terminal leads to a sensitive voltmeter (such as an **[Electroscope](/en/inventions/electroscope)** or galvanometer).
+- Connect the terminal leads to a sensitive voltmeter (such as a **millivoltmeter** or a **sensitive galvanometer**).
 - Place the hot junction in a heat source (like a candle flame or boiling water) and keep the cold junction at room temperature or in ice water.
 - Observe the small voltage generated (typically a few millivolts). The voltage is directly proportional to the temperature difference between the two junctions.
 
