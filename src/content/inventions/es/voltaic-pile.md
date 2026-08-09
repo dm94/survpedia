@@ -75,5 +75,5 @@ La Pila Voltaica funciona bajo el principio de reacciones electroquímicas de ox
 ## Límites y riesgos
 
 - **Polarización (Acumulación de gas hidrógeno):** A medida que la batería funciona, se forman burbujas de gas hidrógeno en la placa de cobre. Esto aísla el cobre, aumentando rápidamente la resistencia interna y disminuyendo la producción eléctrica.
-- **Expresión del electrolito:** En pilas altas, el gran peso de los discos metálicos exprime el electrolito líquido de los discos de tejido inferiores, provocando cortocircuitos y reduciendo el rendimiento.
+- **Expulsión del electrolito:** En pilas altas, el gran peso de los discos metálicos expulsa el electrolito líquido de los discos de tejido inferiores, provocando cortocircuitos y reduciendo el rendimiento.
 - **Cortocircuitos:** Si el agua salada gotea por la superficie exterior de la pila, crea caminos de contacto eléctrico directo, puenteando las celdas y provocando una autodescarga rápida.
