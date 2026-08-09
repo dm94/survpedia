@@ -35,7 +35,7 @@ El Termopar funciona bajo el principio del efecto termoeléctrico, específicame
 
 ### 2. Creación de las uniones
 - Pelar el aislamiento de los extremos de ambos cables.
-- Retorcer firmemente los cables de cobre e hierro juntos en un extremo para formar la **unión de medición (caliente)**. Para una conexión más confiable y duradera, soldar la punta retorcida con un soplete o arco eléctrico.
+- Retorcer firmemente los cables de cobre y hierro juntos en un extremo para formar la **unión de medición (caliente)**. Para una conexión más confiable y duradera, soldar la punta retorcida con un soplete o arco eléctrico.
 - Conectar los otros extremos de los cables de cobre e hierro a terminales de cobre a una temperatura conocida (la **unión de referencia o fría**).
 
 ### 3. Medición del voltaje
