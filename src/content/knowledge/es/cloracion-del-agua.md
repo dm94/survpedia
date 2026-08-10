@@ -67,6 +67,6 @@ Para la purificación de supervivencia en emergencias o a pequeña escala:
 
 ## Límites y riesgos
 
-- **Peligros químicos:** Los compuestos clorados concentrados son muy corrosivos y tóxicos. Inhalar gas cloro o tragar lejía concentrada es letal.
+- **Peligros químicos:** Los compuestos clorados concentrados son muy corrosivos y tóxicos. Inhalar gas de cloro o tragar lejía concentrada es letal.
 - **Patógenos resistentes:** Ciertos quistes de protozoos, especialmente _Cryptosporidium_ y _Giardia lamblia_, poseen capas protectoras gruesas y son muy resistentes a las dosis estándar de cloro. Para eliminarlos se requiere hervir el agua o usar ultrafiltración.
 - **Subproductos de la desinfección:** Cuando el cloro reacciona con altas concentraciones de materia orgánica, puede formar trihalometanos ($THM$), que son carcinógenos en exposiciones a largo plazo. Prefiltrar el agua minimiza este riesgo.
