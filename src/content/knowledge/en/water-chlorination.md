@@ -68,5 +68,5 @@ For emergency or small-scale survival purification:
 ## Limits and risks
 
 - **Chemical Hazards:** Concentrated chlorine compounds are highly corrosive and toxic. Inhaling chlorine gas or swallowing concentrated bleach is lethal.
-- **Resistant Pathogens:** Certain protozoan cysts, notably _Cryptosporidium_ and _Giardia lamblia_, have thick protective shells and are highly resistant to standard chlorine dosages. Boiling or ultra-filtration is required to eliminate them.
+- **Resistant Pathogens:** Certain protozoan cysts, notably _Cryptosporidium_ and _Giardia lamblia_, have thick protective shells and are highly resistant to standard chlorine dosages. Boiling or ultrafiltration is required to eliminate them.
 - **Disinfection Byproducts (DBPs):** When chlorine reacts with high concentrations of organic matter, it can form trihalomethanes ($THMs$), which are carcinogenic over long-term exposure. Pre-filtering the water minimizes this risk.
