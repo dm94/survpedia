@@ -26,7 +26,7 @@ The Open Hearth Process, also known as the Siemens-Martin process, is an industr
 
 The fundamental innovation of the Open Hearth process is the **regenerative preheating system**, which achieves temperatures exceeding 1600°C by recycling waste heat:
 
-1. **Regenerative Checkerworks**: Below the furnace lie chambers filled with a grid of firebricks (checkers).
+1. **Regenerative checkerwork**: Below the furnace lie chambers filled with a grid of firebricks (checkers).
 2. **Reversing Combustion Gas Flow**: Hot waste gases exiting the hearth pass through one set of checker chambers, heating the bricks to extreme temperatures. Simultaneously, fresh air and fuel gas are drawn in through a second, already hot set of checker chambers, absorbing their heat before entering the hearth.
 3. **The Cycle**: Every 20 to 30 minutes, valves reverse the direction of the gas flow. The cold intake air/gas now flows through the newly heated chambers, while the exhaust gas begins reheating the cooled chambers. This continuous cycle minimizes heat waste and maximizes furnace temperature.
 4. **Decarburization**: In the shallow pool of the hearth, the carbon and other impurities in the **[Pig Iron](/en/materials/pig-iron)** are slowly oxidized by adding iron ore or exposing the melt to the hot furnace gases.
