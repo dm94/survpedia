@@ -70,5 +70,5 @@ For an emergency or laboratory-scale setup:
 
 - **Chlorine Gas Toxicity**: Chlorine ($Cl_2$) is a highly toxic, suffocating, and corrosive gas. Inhaling even tiny amounts damages lung tissue and can be fatal. **Always conduct this process in a well-ventilated outdoor area or under a fume hood.**
 - **Explosive Gas Mixture**: Hydrogen gas ($H_2$) is extremely flammable. If mixed with chlorine or oxygen in closed spaces, it can be ignited by a spark or sunlight, causing violent explosions.
-- **Chemical Burns**: **[Caustic Soda](/en/materials/caustic-soda)** ($NaOH$) is a strong base that rapidly dissolves organic tissue. Wear protective gloves and eyewear; flush any contact areas immediately with abundance of water.
+- **Chemical Burns**: **[Caustic Soda](/en/materials/caustic-soda)** ($NaOH$) is a strong base that rapidly dissolves organic tissue. Wear protective gloves and eyewear; flush any contact areas immediately with plenty of water.
 - **Electrode Degradation**: Standard metal electrodes (like iron or copper) will react with the chlorine, forming metal chlorides and contaminating the solution instead of producing gas.
