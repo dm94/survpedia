@@ -34,7 +34,7 @@ El superfosfato suele presentarse como un polvo fino de color gris claro a blanq
 ## Origen y dónde encontrarlo
 
 - **No es natural**: No existe en estado natural; se fabrica mediante procesamiento químico.
-- **Precursos**: Se elabora a partir de **[Ácido Sulfúrico](/es/materials/sulfuric-acid)** y fuentes insolubles de fosfato de calcio, como la roca fosfórica mineral (apatita) o la harina de huesos de animales triturados.
+- **Precursores**: Se elabora a partir de **[Ácido Sulfúrico](/es/materials/sulfuric-acid)** y fuentes insolubles de fosfato de calcio, como la roca fosfórica mineral (apatita) o la harina de huesos de animales triturados.
 
 ### Procesamiento mínimo requerido
 
