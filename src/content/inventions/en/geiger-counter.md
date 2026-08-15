@@ -35,7 +35,7 @@ The core of a Geiger counter is the **Geiger–Müller (GM) tube**, a hollow gas
 
 To assemble a basic functional Geiger–Müller detection circuit:
 
-1. **Construct or Obtain a GM Tube**: Fabricate a sealed glass cylinder lined with a thin copper metal cathode mesh or foil, with a ultra-fine tungsten wire (0.05 mm diameter) stretched taut along the central axis. Backfill the tube with argon gas mixed with a trace of ethanol vapor at low pressure (~10 kPa), or use a salvaged commercial GM tube (such as SBM-20 or STS-5).
+1. **Construct or Obtain a GM Tube**: Fabricate a sealed glass cylinder lined with a thin copper metal cathode mesh or foil, with an ultra-fine tungsten wire (0.05 mm diameter) stretched taut along the central axis. Backfill the tube with argon gas mixed with a trace of ethanol vapor at low pressure (~10 kPa), or use a salvaged commercial GM tube (such as SBM-20 or STS-5).
 2. **Build High-Voltage Power Supply**: Construct a high-voltage boost converter using a small transformer, transistor oscillator, and diode-capacitor voltage multiplier ladder to convert 3V to 9V battery DC up to 400V–500V DC.
 3. **Assemble Load & Signal Processing Circuit**: Connect a high-resistance load resistor ($4.7\text{--}10\,\text{M}\Omega$) in series with the GM tube cathode and high-voltage supply. Connect a coupling capacitor ($100\,\text{pF}$) from the junction to a transistor audio amplifier or piezo buzzer.
 4. **Integrate Power Source**: Wire a 9V **[Battery](/en/materials/battery)** through a power switch to supply the high-voltage generator and audio amplifier circuit.
