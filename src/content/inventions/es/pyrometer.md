@@ -50,7 +50,7 @@ Los pirómetros funcionan según diferentes principios físicos según su diseñ
 
 1. Mezclado: Combinar proporciones precisas de arcilla (caolín), sílice (arena) y fundentes (feldespato, cal o ceniza de sosa).
 2. Moldeo: Dar forma de pirámides triangulares alargadas (conos).
-3. Prueba: Coquer conos de prueba junto con muestras de referencia para registrar la temperatura exacta de flexión.
+3. Prueba: Cocer conos de prueba junto con muestras de referencia para registrar la temperatura exacta de flexión.
 
 ## Materiales necesarios
 
