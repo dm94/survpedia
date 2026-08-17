@@ -31,7 +31,7 @@ El daguerrotipo fue el primer procedimiento fotográfico anunciado públicamente
 1. **Preparación de la placa:** Lamine o aplique una fina capa de **[Plata](/es/materials/silver)** pura sobre una lámina de **[Cobre](/es/materials/copper)**. Pula el lado de plata con abrasivos finos (piedra pómez, rojo de pulir) hasta obtener un acabado de espejo perfecto.
 2. **Caja sensibilizadora:** Construya una caja de madera hermética con cristales de yodo en el fondo. Suspenda la placa con la cara pulida hacia abajo sobre los cristales en la oscuridad hasta que la plata adquiera un tono amarillo dorado.
 3. **Exposición en cámara:** Inserte la placa en un chasis estanco a la luz, móntela en una cámara oscura y exponga la escena a través de una lente de vidrio durante un periodo de varios segundos a minutos (según la intensidad solar).
-4. **Cámara de revelado de mercurio:** Situé la placa expuesta dentro de una cámara de madera inclinada sobre un recipiente con mercurio calentado mediante un **[Lámpara de aceite](/es/inventions/oil-lamp)** (~60 °C). Observe cómo se revela la imagen latente a medida que los vapores de mercurio interactúan con la placa.
+4. **Cámara de revelado de mercurio:** Sitúe la placa expuesta dentro de una cámara de madera inclinada sobre un recipiente con mercurio calentado mediante un **[Lámpara de aceite](/es/inventions/oil-lamp)** (~60 °C). Observe cómo se revela la imagen latente a medida que los vapores de mercurio interactúan con la placa.
 5. **Fijado y encuadernación:** Sumerja la placa revelada en un baño de tiosulfato de sodio para fijar la imagen, lave minuciosamente con agua destilada, seque con llama suave y selle bajo un cristal protector con paspartú de madera o metal.
 
 ## Materiales necesarios
