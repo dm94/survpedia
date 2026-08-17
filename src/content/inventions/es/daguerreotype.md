@@ -10,7 +10,7 @@ image: ../../../assets/images/inventions/daguerreotype.jpg
 
 # Descripción general
 
-El daguerrotipo fue el primer procedimiento fotográfico anunciado públicamente y el primero en alcanzar un uso comercial masivo. Captura una imagen positiva directa sobre una placa de cobre plateada sin emplear un negativo, produciendo una fotografía extremadamente detallada, nítida e única con un acabado especular.
+El daguerrotipo fue el primer procedimiento fotográfico anunciado públicamente y el primero en alcanzar un uso comercial masivo. Captura una imagen positiva directa sobre una placa de cobre plateada sin emplear un negativo, produciendo una fotografía extremadamente detallada, nítida y única con un acabado especular.
 
 ## Uso / Función
 
