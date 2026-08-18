@@ -17,7 +17,7 @@ An AC electric motor in which the electric current in the rotor needed to produc
 
 - **Industrial Machinery:** Powers pumps, compressors, conveyors, blowers, and heavy industrial equipment.
 - **Domestic Appliances:** Drives washing machines, refrigerators, air conditioners, and ceiling fans.
-- **Scale:** Ranges from fractional horsepower units in household devices to multi-megawatt industrial powerplants.
+- **Scale:** Ranges from fractional horsepower units in household devices to multi-megawatt industrial power plants.
 
 ## Operating principle
 
