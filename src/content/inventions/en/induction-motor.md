@@ -15,7 +15,7 @@ An AC electric motor in which the electric current in the rotor needed to produc
 
 ## Use / Function
 
-- **Industrial Machinery:** Powers pumps, compressors, conveyers, blowers, and heavy industrial equipment.
+- **Industrial Machinery:** Powers pumps, compressors, conveyors, blowers, and heavy industrial equipment.
 - **Domestic Appliances:** Drives washing machines, refrigerators, air conditioners, and ceiling fans.
 - **Scale:** Ranges from fractional horsepower units in household devices to multi-megawatt industrial powerplants.
 
