@@ -15,7 +15,7 @@ Un horno solar es una estructura que utiliza energía solar concentrada para pro
 ## Use / Function
 
 - **Metalurgia y Fundición:** Fundir metales, producir aleaciones de alta pureza y refinar materiales sin contaminación química derivada de gases de combustión.
-- **Ensayos de Materiales:** Someter cerámicas, escudos térmicos y materiales refractarios a estreses térmicos extremos.
+- **Ensayos de Materiales:** Someter cerámicas, escudos térmicos y materiales refractarios a esfuerzos térmicos extremos.
 - **Síntesis Química:** Impulsar reacciones químicas endotérmicas de alta temperatura, como la producción solar de hidrógeno o la calcinación de cal.
 - **Escala:** Desde pequeñas parábolas experimentales (que alcanzan varios cientos de grados Celsius) hasta grandes instalaciones industriales capaces de superar los 3000°C.
 
