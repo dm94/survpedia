@@ -28,7 +28,7 @@ Un horno solar es una estructura que utiliza energía solar concentrada para pro
 
 ## How to create it
 
-1. **Estructura Parabólica:** Construir una armazón parabólica rígida utilizando **[Acero](/es/materials/steel)** o madera para soportar los elementos reflectantes con precisión geométrica.
+1. **Estructura Parabólica:** Construir un armazón parabólico rígido utilizando **[Acero](/es/materials/steel)** o madera para soportar los elementos reflectantes con precisión geométrica.
 2. **Superficie Reflectante:** Montar **[Espejos](/es/materials/mirror)** de **[Vidrio](/es/materials/glass)** plateado o láminas de aluminio pulido sobre la estructura parabólica.
 3. **Helióstato de Seguimiento:** Construir una matriz de espejos planos móviles montados sobre un marco de doble eje para orientar continuamente la luz solar hacia el plato parabólico a medida que el sol se mueve.
 4. **Receptor Focal:** Instalar un crisol refractario o una cámara objetivo aislada en el foco geométrico exacto de la parábola utilizando **[Ladrillo](/es/materials/ladrillo)** refractario o aislamiento cerámico.
