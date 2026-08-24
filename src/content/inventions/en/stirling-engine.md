@@ -1,62 +1,71 @@
 ---
 title: Stirling Engine
 materialsUsed:
-  - steel
   - iron
+  - steel
+  - brass
   - copper
-  - aluminum
-  - wood
-  - water
-image: ../../../assets/images/inventions/stirling-engine.jpg
 ---
 
 # Brief description
 
-The Stirling engine is an external combustion engine that operates by cyclic compression and expansion of air or other gas (the working fluid) at different temperatures, such that there is a net conversion of heat energy to mechanical work.
+A Stirling engine is a closed-cycle regenerative heat engine that operates by cyclic compression and expansion of air or another gas (the working fluid) at different temperature levels, converting thermal energy into mechanical work. Unlike internal combustion engines, heat is supplied from an external source without burning fuel inside the cylinder.
 
 ## Use / Function
 
-- **Water pumping**: Ideal for remote areas where a simple heat source is available.
-- **Electricity generation**: Can be powered by concentrated solar energy or waste heat.
-- **Quiet power**: Unlike internal combustion engines, Stirling engines are nearly silent.
-- **Scale**: Small-scale domestic to medium-scale industrial.
+- **Mechanical Power Generation:** Drives water pumps, fans, small machinery, or generators using any external heat source (solar, biomass, waste heat).
+- **Silent & Low-Maintenance Power:** Useful in quiet environments or remote locations requiring high reliability and low maintenance.
+- **Scale:** Ranges from small educational tabletop models to moderate industrial solar concentrators or auxiliary power generators.
 
 ## Operating principle
 
-The Stirling engine works on the principle of the gas laws: gas expands when heated and contracts when cooled.
-
-- **Heat addition**: A heat source warms the gas in a sealed cylinder, causing it to expand and push a piston.
-- **Transfer**: The gas is moved to a cold part of the engine.
-- **Heat removal**: The gas cools and contracts, allowing the piston to return.
-- **Regenerator**: A critical component (often a metal mesh) that stores heat from the hot gas as it moves to the cold side and gives it back to the cold gas as it returns to the hot side, greatly increasing efficiency.
+1. **Heating:** A fixed quantity of gas inside a sealed cylinder is heated by an external source at the hot end, causing the gas to expand.
+2. **Expansion & Work:** The expanding gas pushes a power **[Piston](/en/inventions/piston)**, doing mechanical work on a crankshaft.
+3. **Displacement:** A displacer piston moves the warm gas to the cold side of the cylinder.
+4. **Cooling & Compression:** The gas cools at the cold end, contracting in volume. The power piston compresses the cold gas back with minimal work input.
+5. **Regeneration:** The displacer moves the gas back to the hot side through a regenerator (**[Heat Exchanger](/en/inventions/heat-exchanger)**), recycling stored heat to repeat the cycle.
 
 ## How to create it
 
-### Minimum functional version
-A "tin can" Stirling engine can be built using:
-1. **Cylinder**: A metal can.
-2. **Displacer**: A loose-fitting piston (made of steel wool or another can) that moves air between the hot and cold ends.
-3. **Power Piston**: A tight-sealing flexible membrane (like a balloon) or a precisely fitted small cylinder.
-4. **Crankshaft**: Made from wire to coordinate the movement of the displacer and the power piston.
-
-### Required technological level
-Intermediate. While the concept is simple, the engine requires high-quality seals and low friction to operate efficiently.
+1. **Construct the Hot & Cold Cylinders:** Fabricate a high-temperature resistant hot cylinder (from **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)**) and a well-cooled cold cylinder (from **[Brass](/en/materials/brass)** or **[Copper](/en/materials/copper)** with cooling fins).
+2. **Fabricate the Displacer:** Build a lightweight, heat-resistant displacer piston with a loose fit inside the hot cylinder to allow gas to pass around or through it.
+3. **Build the Power Piston:** Machine a precise, airtight power piston and cylinder pair with minimal friction and no air leakage.
+4. **Link the Crankshaft:** Connect both the displacer and power piston to a common crankshaft with a 90-degree phase difference to coordinate gas movement and work extraction.
+5. **Attach a Flywheel:** Mount a heavy **[Flywheel](/en/inventions/flywheel)** to smooth out rotational energy and carry the mechanism through compression phases.
 
 ## Materials needed
 
-- **Essential**: High-conductivity metal for the hot end (**[Steel](/en/materials/steel)** or **[Copper](/en/materials/copper)**), cooling mechanism (**[Water](/en/materials/water)** or air fins).
-- **Tools**: **[Lathe](/en/inventions/lathe)** (for precision pistons), soldering or welding tools.
-- **Possible substitutes**: For low-temperature versions, even plastics or glass can be used for parts of the structure.
+- **Hot Section:** Stainless **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)** (heat resistant).
+- **Cold Section & Radiator:** **[Copper](/en/materials/copper)** or **[Brass](/en/materials/brass)** (high thermal conductivity).
+- **Pistons & Seals:** Machined bronze, graphite, or **[Steel](/en/materials/steel)**.
+- **Flywheel & Frame:** **[Cast Iron](/en/materials/cast-iron)**, **[Steel](/en/materials/steel)**, or hard **[Wood](/en/materials/wood)**.
+- **Heat Source:** Concentrated solar energy, burning **[Wood](/en/materials/wood)**, **[Charcoal](/en/materials/charcoal)**, or waste heat.
 
 ## Variants and improvements
 
-- **Alpha Stirling**: Two separate pistons in their own cylinders (one hot, one cold).
-- **Beta Stirling**: A single cylinder with a displacer and a power piston on the same shaft.
-- **Gamma Stirling**: A displacer in one cylinder and a power piston in another.
+- **Alpha Configuration:** Uses two separate power pistons in different temperature cylinders connected by a pipe containing a regenerator.
+- **Beta Configuration:** Uses a single cylinder housing both the displacer and power piston on the same axis.
+- **Gamma Configuration:** Uses separate cylinders for the displacer and power piston, linked externally to the same crankshaft.
+- **Solar Stirling Concentrator:** Uses parabolic mirrors to focus solar thermal rays directly onto the engine hot head for high-efficiency solar power generation.
 
 ## Limits and risks
 
-- **Power-to-weight ratio**: Much lower than internal combustion engines; they are heavy for the power they produce.
-- **Slow start-up**: Requires time to reach operating temperature.
-- **Sealing**: Keeping the working gas (especially if using helium or hydrogen) inside the engine is difficult over long periods.
-- **Material Fatigue**: The hot end is constantly under high thermal stress.
+- **Power-to-Weight Ratio:** Generally heavier and bulkier for a given power output compared to internal combustion engines.
+- **Thermal Inertia:** Cannot change speed or power output rapidly; slow start-up and acceleration response.
+- **Sealing & Leakage:** Gas leaks reduce efficiency drastically over long periods.
+- **High Heat Strain:** The hot cylinder end is subjected to continuous thermal stress and oxidation.
+
+### Related Inventions
+
+- **[Piston](/en/inventions/piston)**
+- **[Flywheel](/en/inventions/flywheel)**
+- **[Heat Exchanger](/en/inventions/heat-exchanger)**
+- **[Boiler](/en/inventions/boiler)**
+- **[Solar Cooker](/en/inventions/solar-cooker)**
+
+### Related Materials
+
+- **[Steel](/en/materials/steel)**
+- **[Copper](/en/materials/copper)**
+- **[Brass](/en/materials/brass)**
+- **[Iron](/en/materials/iron)**
