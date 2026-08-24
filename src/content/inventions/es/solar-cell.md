@@ -40,7 +40,7 @@ La célula solar se basa en el efecto fotovoltaico que ocurre en una unión semi
 
 ## Materiales necesarios
 
-- **Substrato semiconductor:** Lámina de **[Cobre](/es/materials/copper)** de alta pureza.
+- **Sustrato semiconductor:** Lámina de **[Cobre](/es/materials/copper)** de alta pureza.
 - **Electrolito y disolvente:** **[Sal](/es/materials/salt)** común y **[Agua](/es/materials/water)** limpia.
 - **Contenedor:** Recipiente transparente de **[Vidrio](/es/materials/glass)**.
 - **Conductores:** **[Alambre](/es/materials/wire)** aislado de cobre y bornes de conexión.
