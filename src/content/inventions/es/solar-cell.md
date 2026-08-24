@@ -50,7 +50,7 @@ La célula solar se basa en el efecto fotovoltaico que ocurre en una unión semi
 
 - **Célula de óxido cuproso de estado sólido:** Emplea una malla transparente de alambre o fina capa metálica depositada directamente sobre el $Cu_2O$ en lugar de solución salina líquida.
 - **Célula de silicio cristalino:** Células modernas de silicio dopado con boro (tipo p) y fósforo (tipo n), alcanzando eficiencias del 15% al 22%.
-- **Células de titanio sensibilizadas por colorante:** Utlizan dióxido de titanio ($TiO_2$) y colorantes orgánicos (como jugo de mora) para absorber luz y transferir electrones.
+- **Células de titanio sensibilizadas por colorante:** Utilizan dióxido de titanio ($TiO_2$) y colorantes orgánicos (como jugo de mora) para absorber luz y transferir electrones.
 
 ## Límites y riesgos
 
