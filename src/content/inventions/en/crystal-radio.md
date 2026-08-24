@@ -46,7 +46,7 @@ A crystal radio operates through resonance and signal rectification:
 
 ## Variants and improvements
 
-- **Foxhole Radio:** A wartime field variant using a oxidized safety pin resting on a blue razor blade as a crude semiconductor detector.
+- **Foxhole Radio:** A wartime field variant using an oxidized safety pin resting on a blue razor blade as a crude semiconductor detector.
 - **Variable Capacitor Tuning:** Replaces the coil slider with a variable air capacitor for sharper frequency selectivity.
 - **Amplified Crystal Set:** Connects the detector output to a **[Vacuum Tube](/en/inventions/vacuum-tube)** or **[Transistor](/en/inventions/transistor)** amplifier to drive loudspeakers.
 
