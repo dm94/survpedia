@@ -1,62 +1,67 @@
 ---
-title: Motor Stirling
-materialsUsed:
-  - steel
-  - iron
-  - copper
-  - aluminum
-  - wood
-  - water
-image: ../../../assets/images/inventions/stirling-engine.jpg
+title: "Motor Stirling"
+materialsUsed: ["iron", "steel", "brass", "copper"]
 ---
 
-# Descripción breve
+# Breve descripción
 
-El motor Stirling es un motor de combustión externa que funciona mediante la compresión y expansión cíclica de aire u otro gas (el fluido de trabajo) a diferentes temperaturas, de modo que se produce una conversión neta de energía térmica en trabajo mecánico.
+El motor Stirling es un motor térmico regenerativo de ciclo cerrado que funciona mediante la compresión y expansión cíclica de aire u otro gas (el fluido de trabajo) a diferentes niveles de temperatura, transformando energía térmica en trabajo mecánico. A diferencia de los motores de combustión interna, el calor proviene de una fuente externa sin quemar combustible dentro del cilindro.
 
 ## Uso / Función
 
-- **Bombeo de agua**: Ideal para áreas remotas donde hay una fuente de calor simple disponible.
-- **Generación de electricidad**: Puede ser alimentado por energía solar concentrada o calor residual.
-- **Potencia silenciosa**: A diferencia de los motores de combustión interna, los motores Stirling son casi silenciosos.
-- **Escala**: Desde escala doméstica pequeña hasta industrial mediana.
+- **Generación de energía mecánica:** Acciona bombas de agua, ventiladores, pequeña maquinaria o generadores aprovechando cualquier fuente de calor externa (solar, biomasa, calor residual).
+- **Energía silenciosa y de bajo mantenimiento:** Adecuado para entornos silenciosos o ubicaciones remotas que exigen alta fiabilidad.
+- **Escala:** Desde pequeños modelos educativos de mesa hasta concentradores solares industriales o generadores auxiliares de tamaño medio.
 
 ## Principio de funcionamiento
 
-El motor Stirling funciona según el principio de las leyes de los gases: el gas se expande cuando se calienta y se contrae cuando se enfría.
-
-- **Adición de calor**: Una fuente de calor calienta el gas en un cilindro sellado, lo que hace que se expanda y empuje un pistón.
-- **Transferencia**: El gas se mueve a una parte fría del motor.
-- **Eliminación de calor**: El gas se enfría y se contrae, permitiendo que el pistón regrese.
-- **Regenerador**: Un componente crítico (a menudo una malla metálica) que almacena el calor del gas caliente mientras se mueve hacia el lado frío y se lo devuelve al gas frío cuando regresa al lado caliente, aumentando enormemente la eficiencia.
+1. **Calentamiento:** Una cantidad fija de gas sellado dentro de un cilindro se calienta por una fuente externa en el extremo caliente, haciendo que el gas se expanda.
+2. **Expansión y trabajo:** El gas en expansión empuja un **[Pistón](/es/inventions/piston)** de potencia, realizando trabajo mecánico sobre un cigüeñal.
+3. **Desplazamiento:** Un pistón desplazador mueve el gas caliente hacia el lado frío del cilindro.
+4. **Enfriamiento y compresión:** El gas se enfría en el extremo frío, reduciendo su volumen. El pistón de potencia comprime el gas frío devolviéndolo con mínimo consumo de trabajo.
+5. **Regeneración:** El desplazador devuelve el gas al lado caliente a través de un regenerador (**[Intercambiador de calor](/es/inventions/heat-exchanger)**), reciclando calor almacenado para repetir el ciclo.
 
 ## Cómo crearlo
 
-### Versión funcional mínima
-Se puede construir un motor Stirling de "lata de conserva" usando:
-1. **Cilindro**: Una lata de metal.
-2. **Desplazador**: Un pistón holgado (hecho de lana de acero u otra lata) que mueve el aire entre los extremos caliente y frío.
-3. **Pistón de potencia**: Una membrana flexible que selle herméticamente (como un globo) o un cilindro pequeño ajustado con precisión.
-4. **Cigüeñal**: Hecho de alambre para coordinar el movimiento del desplazador y el pistón de potencia.
-
-### Nivel tecnológico requerido
-Intermedio. Aunque el concepto es simple, el motor requiere sellos de alta calidad y baja fricción para funcionar eficientemente.
+1. **Construir los cilindros caliente y frío:** Fabricar un cilindro caliente resistente a altas temperaturas (de **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**) y un cilindro frío bien refrigerado (de **[Latón](/es/materials/brass)** o **[Cobre](/es/materials/copper)** con aletas de refrigeración).
+2. **Fabricar el desplazador:** Construir un pistón desplazador ligero y resistente al calor con un ajuste holgado dentro del cilindro caliente para permitir que el gas fluya a su alrededor.
+3. **Construir el pistón de potencia:** Mecanizar un par de pistón y cilindro de potencia estanco y preciso, con mínima fricción y sin fugas de aire.
+4. **Acoplar el cigüeñal:** Conectar tanto el desplazador como el pistón de potencia a un cigüeñal común con un desfase de 90 grados para coordinar el movimiento del gas y la extracción de trabajo.
+5. **Montar un volante de inercia:** Instalar un **[Volante de inercia](/es/inventions/flywheel)** pesado para suavizar la energía rotacional y mantener el movimiento durante las fases de compresión.
 
 ## Materiales necesarios
 
-- **Esencial**: Metal de alta conductividad para el extremo caliente (**[Acero](/es/materials/steel)** o **[Cobre](/es/materials/copper)**), mecanismo de enfriamiento (**[Agua](/es/materials/water)** o aletas de aire).
-- **Herramientas**: **[Torno](/es/inventions/lathe)** (para pistones de precisión), herramientas de soldadura.
-- **Sustitutos posibles**: Para versiones de baja temperatura, incluso se pueden usar plásticos o vidrio para partes de la estructura.
+- **Sección caliente:** **[Acero](/es/materials/steel)** inoxidable o **[Hierro](/es/materials/iron)** (resistente al calor).
+- **Sección fría y radiador:** **[Cobre](/es/materials/copper)** o **[Latón](/es/materials/brass)** (alta conductividad térmica).
+- **Pistones y sellos:** Bronce mecanizado, grafito o **[Acero](/es/materials/steel)**.
+- **Volante y bastidor:** **[Hierro fundido](/es/materials/cast-iron)**, **[Acero](/es/materials/steel)** o **[Madera](/es/materials/wood)** dura.
+- **Fuente de calor:** Energía solar concentrada, combustión de **[Madera](/es/materials/wood)**, **[Carbón vegetal](/es/materials/charcoal)** o calor residual.
 
 ## Variantes y mejoras
 
-- **Stirling Alfa**: Dos pistones separados en sus propios cilindros (uno caliente, uno frío).
-- **Stirling Beta**: Un solo cilindro con un desplazador y un pistón de potencia en el mismo eje.
-- **Stirling Gamma**: Un desplazador en un cilindro y un pistón de potencia en otro.
+- **Configuración Alfa:** Utiliza dos pistones de potencia independientes en cilindros a diferente temperatura conectados por un tubo que contiene un regenerador.
+- **Configuración Beta:** Utiliza un único cilindro que alberga tanto el desplazador como el pistón de potencia en el mismo eje.
+- **Configuración Gamma:** Utiliza cilindros separados para el desplazador y el pistón de potencia, vinculados externamente al mismo cigüeñal.
+- **Concentrador Stirling Solar:** Emplea espejos parabólicos para enfocar rayos solares sobre la cabeza caliente del motor para generación solar de alta eficiencia.
 
 ## Límites y riesgos
 
-- **Relación potencia-peso**: Mucho menor que los motores de combustión interna; son pesados para la potencia que producen.
-- **Arranque lento**: Requiere tiempo para alcanzar la temperatura de funcionamiento.
-- **Sellado**: Mantener el gas de trabajo (especialmente si se usa helio o hidrógeno) dentro del motor es difícil durante largos períodos.
-- **Fatiga del material**: El extremo caliente está constantemente bajo un alto estrés térmico.
+- **Relación potencia-peso:** Generalmente más pesado y voluminoso para una potencia determinada en comparación con los motores de combustión interna.
+- **Inercia térmica:** No puede cambiar de velocidad ni de potencia rápidamente; respuesta lenta en el arranque y la aceleración.
+- **Sellado y fugas:** Las fugas de gas reducen drásticamente la eficiencia a lo largo del tiempo.
+- **Fatiga por alto calor:** El extremo del cilindro caliente está expuesto a tensión térmica continua y oxidación.
+
+### Inventos Relacionados
+
+- **[Pistón](/es/inventions/piston)**
+- **[Volante de inercia](/es/inventions/flywheel)**
+- **[Intercambiador de Calor](/es/inventions/heat-exchanger)**
+- **[Caldera](/es/inventions/boiler)**
+- **[Cocina Solar](/es/inventions/solar-cooker)**
+
+### Materiales Relacionados
+
+- **[Acero](/es/materials/steel)**
+- **[Cobre](/es/materials/copper)**
+- **[Latón](/es/materials/brass)**
+- **[Hierro](/es/materials/iron)**
