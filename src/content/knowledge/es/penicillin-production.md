@@ -20,7 +20,7 @@ La penicilina es un antibiótico betalactámico secretado de forma natural por l
 
 ## Proceso Principal y Principios Biológicos
 
-1. **Aislamiento y Selección:** Identificación de cepas de hongos *Penicillium* de fuentes silvestres (mhojo verde-azul que crece en cáscaras de cítricos, melones o pan).
+1. **Aislamiento y Selección:** Identificación de cepas de hongos *Penicillium* de fuentes silvestres (moho verde-azul que crece en cáscaras de cítricos, melones o pan).
 2. **Fermentación Nutritiva:** Cultivo del hongo en caldo líquido mediante fermentación en superficie o sumergida, utilizando medios con azúcares, nitrógeno orgánico y sales minerales (históricamente macerado de maíz y lactosa).
 3. **Secreción:** El hongo secreta la penicilina al caldo líquido circundante como metabolito secundario cuando los niveles de azúcar disminuyen.
 4. **Filtración y Adsorción:** Filtrado del micelio del hongo y adsorción de la penicilina disuelta en el caldo sobre partículas de **[Carbón vegetal](/es/materials/charcoal)** activado.
