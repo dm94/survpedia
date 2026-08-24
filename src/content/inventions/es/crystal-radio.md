@@ -46,7 +46,7 @@ La radio de galena funciona mediante resonancia inductiva y rectificación de se
 
 ## Variantes y mejoras
 
-- **Radio de trinchera (Foxhole radio):** Variante de campaña militar que usa una hoja de afeitar oxidada y una dardo de grafito o imperdible como detector semiconductor improvisado.
+- **Radio de trinchera (Foxhole radio):** Variante de campaña militar que usa una hoja de afeitar oxidada y un dardo de grafito o imperdible como detector semiconductor improvisado.
 - **Sintonización por condensador variable:** Sustituye el deslizador de bobina por un condensador variable de aire para mayor nitidez y capacidad de discriminación de emisoras.
 - **Receptor amplificado:** Conecta la salida del detector a una **[Válvula de vacío](/es/inventions/vacuum-tube)** o **[Transistor](/es/inventions/transistor)** para alimentar altavoces.
 
