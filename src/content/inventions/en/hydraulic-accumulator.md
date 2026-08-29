@@ -21,7 +21,7 @@ A hydraulic accumulator is an energy storage device that stores liquid under pre
 
 Fluid (usually water or oil) is pumped into a cylinder, lifting a heavy weight or compressing a gas/spring.
 
-1. **Charge phase:** A **[Pump](/en/inventions/pump)** forces fluid into the cylinder, forcing a heavy heavy-duty piston or ram upward against gravity (weight-loaded accumulator) or compressing nitrogen gas/a spring.
+1. **Charge phase:** A **[Pump](/en/inventions/pump)** forces fluid into the cylinder, forcing a heavy-duty piston or ram upward against gravity (weight-loaded accumulator) or compressing nitrogen gas/a spring.
 2. **Storage phase:** The fluid remains under high pressure controlled by a **[Valve](/en/inventions/valve)**.
 3. **Discharge phase:** When a connected machine (such as a **[Hydraulic Press](/en/inventions/hydraulic-press)**) requires immediate high-volume flow, the stored pressurized fluid is discharged rapidly into the system.
 
