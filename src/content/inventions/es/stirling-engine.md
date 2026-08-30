@@ -1,6 +1,11 @@
 ---
-title: "Motor Stirling"
-materialsUsed: ["iron", "steel", "brass", "copper"]
+title: Motor Stirling
+materialsUsed:
+  - iron
+  - steel
+  - brass
+  - copper
+image: ../../../assets/images/inventions/stirling-engine.jpg
 ---
 
 # Breve descripción

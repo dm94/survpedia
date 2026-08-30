@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - brass
   - copper
+image: ../../../assets/images/inventions/stirling-engine.jpg
 ---
 
 # Brief description
