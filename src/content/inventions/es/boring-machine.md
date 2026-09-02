@@ -36,7 +36,7 @@ Una máquina herramienta pesada para rectificar, agrandar y alinear con alta pre
 - **Bancada:** **[Madera](/es/materials/wood)** densa o **[Hierro Fundido](/es/materials/cast-iron)**.
 - **Barra de Corte y Husillo:** **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)**.
 - **Cuchillas:** **[Acero](/es/materials/steel)** templado.
-- **Cojinetes:** **[Bronce](/es/materials/brass)** o hierro.
+- **Cojinetes:** **[Bronce](/es/materials/bronze)** o hierro.
 
 ## Variantes y mejoras
 
