@@ -5,6 +5,7 @@ materialsUsed:
   - iron
   - steel
   - fabric
+image: ../../../assets/images/inventions/carding-machine.jpg
 ---
 
 # Brief description

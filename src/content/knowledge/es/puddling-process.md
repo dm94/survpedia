@@ -8,6 +8,7 @@ relatedMaterials:
 relatedInventions:
   - blast-furnace
   - reverberatory-furnace
+image: ../../../assets/images/knowledge/puddling-process.jpg
 ---
 
 # Breve descripción

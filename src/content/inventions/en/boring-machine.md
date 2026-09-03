@@ -5,6 +5,7 @@ materialsUsed:
   - cast-iron
   - steel
   - wood
+image: ../../../assets/images/inventions/boring-machine.jpg
 ---
 
 # Brief description
