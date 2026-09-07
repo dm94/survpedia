@@ -49,7 +49,7 @@ El concentrador funciona mediante principios geométricos de reflexión óptica:
 
 - **Requisito de luz solar directa:** Solo funciona con cielos despejados y radiación solar directa; ineficaz en días nublados.
 - **Necesidad de seguimiento:** Requiere reajuste constante hacia la posición del sol a medida que avanza el día.
-- **Peligro de quemaduras y ceguera:** Los rayos focales concentrados provocan quemaduras graves e inhalaciones térmicas o lesiones oculares; se requiere protección ocular oscura obligatoria.
+- **Peligro de quemaduras y ceguera:** Los rayos focales concentrados provocan quemaduras graves en la piel y daños oculares permanentes; se requiere protección ocular adecuada.
 
 ### Inventos relacionados
 
