@@ -43,7 +43,7 @@ The Stirling refrigerator operates on the reverse Stirling thermodynamic cycle:
 - **Structural Frame & Cylinders:** **[Steel](/en/materials/steel)** or **[Iron](/en/materials/iron)**.
 - **Regenerator Matrix:** **[Copper](/en/materials/copper)** wire mesh or **[Steel](/en/materials/steel)** wool.
 - **Seals & Gaskets:** **[Natural Rubber](/en/materials/natural-rubber)** or treated **[Leather](/en/materials/leather)**.
-- **Working Fluid:** Dry **[Air](/en/materials/air)** (basic) or compressed helium/hydrogen (advanced).
+- **Working Fluid:** Dry Air (basic) or compressed helium/hydrogen (advanced).
 
 ## Variants and improvements
 
