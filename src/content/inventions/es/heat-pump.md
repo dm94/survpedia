@@ -48,7 +48,7 @@ Una bomba de calor funciona mediante el ciclo termodinámico de compresión de v
 
 - **Bomba de Calor Aerotérmica:** Extrae calor directamente del aire exterior (instalación más sencilla).
 - **Bomba de Calor Geotérmica:** Circula fluido a través de tubos enterrados en el suelo, aprovechando la temperatura subterránea constante para mayor eficiencia.
-- **Bomba de Calor Rereversible:** Utiliza una válvula de Inversión de cuatro vías para cambiar la dirección del flujo de refrigerante, permitiendo que la misma unidad proporcione calefacción en invierno y refrigeración en verano.
+- **Bomba de Calor Reversible:** Utiliza una válvula de Inversión de cuatro vías para cambiar la dirección del flujo de refrigerante, permitiendo que la misma unidad proporcione calefacción en invierno y refrigeración en verano.
 
 ## Límites y riesgos
 
