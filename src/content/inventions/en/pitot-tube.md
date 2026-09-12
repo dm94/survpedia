@@ -52,7 +52,7 @@ A Pitot tube is a pressure measurement instrument used to measure fluid flow vel
 
 ### Related Inventions
 
-- **[Manometer](/en/inventions/barometer)**
+- **[Barometer](/en/inventions/barometer)**
 - **[Anemometer](/en/inventions/anemometer)**
 
 ### Related Materials
