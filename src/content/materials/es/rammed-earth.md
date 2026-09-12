@@ -42,5 +42,5 @@ La tierra apisonada (o tapial) es una técnica para construir cimientos, suelos 
 
 - **[Arcilla](/es/materials/arcilla)**
 - **[Grava](/es/materials/gravel)**
-- **[Arena](/es/materials/sand)**
+- **[Arena](/es/materials/arena)**
 - **[Cal](/es/materials/cal)**
