@@ -30,7 +30,7 @@ Un condensador de vapor es un dispositivo que enfría el vapor de escape proveni
 1. **Construir el Cuerpo Exterior:** Fabricar una carcasa rígida y hermética de **[Hierro](/es/materials/iron)** o **[Acero](/es/materials/steel)** equipada con conexiones de entrada de vapor, salida de agua y drenaje.
 2. **Fabricar el Haz Tubular:** Disponer una matriz de tubos de pared delgada de **[Cobre](/es/materials/copper)** o **[Latón](/es/materials/brass)** dentro de la carcasa para maximizar el área de transferencia térmica.
 3. **Instalar Placas de Extremo y Sellos:** Fijar los extremos de los tubos en placas perforadas mediante casquillos o juntas de latón estancas para separar el agua de refrigeración del vapor en condensación.
-4. **Conectar la Bomba de Circulación:** Acomplar una **[Bomba](/es/inventions/pump)** para hacer circular continuamente **[Agua](/es/materials/water)** fría a través de los tubos de cobre.
+4. **Conectar la Bomba de Circulación:** Acoplar una **[Bomba](/es/inventions/pump)** para hacer circular continuamente **[Agua](/es/materials/water)** fría a través de los tubos de cobre.
 5. **Instalar Bomba de Extracción de Condensado:** Montar una bomba de aire en la base del cuerpo para drenar continuamente el condensado líquido y preservar la presión de vacío.
 
 ## Materials needed
