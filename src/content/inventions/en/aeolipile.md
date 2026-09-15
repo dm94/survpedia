@@ -5,7 +5,7 @@ materialsUsed: ["copper", "brass", "water", "wood"]
 
 # Brief description
 
-An aeolipile (also known as a Hero's engine) is a simple, bladed-less radial steam turbine that spins when the central water container is heated. It is historically recognized as the earliest known rocket-style reaction engine and steam turbine.
+An aeolipile (also known as a Hero's engine) is a simple, bladeless radial steam turbine that spins when the central water container is heated. It is historically recognized as the earliest known rocket-style reaction engine and steam turbine.
 
 ## Use / Function
 
