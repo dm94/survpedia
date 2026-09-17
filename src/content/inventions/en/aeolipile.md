@@ -1,6 +1,11 @@
 ---
-title: "Aeolipile"
-materialsUsed: ["copper", "brass", "water", "wood"]
+title: Aeolipile
+materialsUsed:
+  - copper
+  - brass
+  - water
+  - wood
+image: ../../../assets/images/inventions/aeolipile.jpg
 ---
 
 # Brief description
