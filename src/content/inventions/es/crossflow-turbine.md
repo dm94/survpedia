@@ -40,7 +40,7 @@ Una turbina de flujo cruzado (también conocida como turbina Banki-Michell o Oss
 ### 2. Inyectora y caja de regulación
 
 1. Construir una carcasa rectangular de acero soldado o madera alrededor de la sección superior del rodete.
-2. Instalar un álabes de regulación articulado dentro de la inyectora para ajustar el ancho del chorro de agua en función de las variaciones estacionales del río.
+2. Instalar un álabe de regulación articulado dentro de la inyectora para ajustar el ancho del chorro de agua en función de las variaciones estacionales del río.
 
 ### 3. Instalación y acoplamiento
 
