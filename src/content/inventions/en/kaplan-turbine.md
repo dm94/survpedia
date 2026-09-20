@@ -5,7 +5,6 @@ materialsUsed:
   - cast-iron
   - bronze
   - water
-image: ../../../assets/images/inventions/kaplan-turbine.jpg
 ---
 
 # Brief description
