@@ -60,7 +60,7 @@ La turbina Turgo es una turbina de agua de acción (impulso) diseñada para salt
 
 ## Límites y riesgos
 
-- **Abrasión por sedimentos**: Los chorros de agua a gran velocidad cargados de arena o arena fina producen una erosión acelerada en las toberas y en la superficie de las cucharas.
+- **Abrasión por sedimentos**: Los chorros de agua a gran velocidad cargados de arena o limo producen una erosión acelerada en las toberas y en la superficie de las cucharas.
 - **Alineación crítica del chorro**: Desviaciones mínimas en el ángulo de incidencia del chorro reducen significativamente la eficiencia mecánica.
 - **Descarga libre por impulso**: Requiere una cámara de aire atmosférica en la carcasa; no puede funcionar sumergida en el canal de salida.
 
