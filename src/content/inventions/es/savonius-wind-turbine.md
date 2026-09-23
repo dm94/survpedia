@@ -9,7 +9,7 @@ image: ../../../assets/images/inventions/savonius-wind-turbine.jpg
 
 # Descripción breve
 
-La turbina eólica Savonius es un aerogenerador de eje vertical (VAWT) basado en la fuerza de arrastre, inventado por el ingeniero finlandés Sigurd Johannes Savonius en 1922. Formada por dos o tres palas en forma de cúpula semi-cilíndrica montadas sobre un eje vertical, gira bajo el efecto de arrastre aerodinámico independientemente de la dirección del viento. Debido a su extrema sencillez mecánica, su capacidad de autoarranque a bajas velocidades de viento y su elevado par a bajas revoluciones, la turbina Savonius es un dispositivo de tecnología apropiada fundamental para bombeo mecánico, ventilación y generación descentralizada de energía.
+La turbina eólica Savonius es un aerogenerador de eje vertical (VAWT) basado en la fuerza de arrastre, inventado por el ingeniero finlandés Sigurd Johannes Savonius en 1922. Formada por dos o tres palas en forma de cazoleta semi-cilíndrica montadas sobre un eje vertical, gira bajo el efecto de arrastre aerodinámico independientemente de la dirección del viento. Debido a su extrema sencillez mecánica, su capacidad de autoarranque a bajas velocidades de viento y su elevado par a bajas revoluciones, la turbina Savonius es un dispositivo de tecnología apropiada fundamental para bombeo mecánico, ventilación y generación descentralizada de energía.
 
 ## Uso / Función
 
