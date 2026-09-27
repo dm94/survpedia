@@ -41,7 +41,7 @@ Los ladrillos refractarios son bloques pesados y densos cuyo color varía del bl
 
 1.  **Extracción de arcilla refractaria**: Extraer arcilla caolínica refractaria con bajo contenido de óxido de hierro, cal y álcalis (que actúan como fundentes bajando el punto de fusión).
 2.  **Mezcla y adición de chamota**: Mezclar la arcilla refractaria lavada con "chamota" (ladrillo refractario molido o arcilla cocida pulverizada) para reducir la contracción y el agrietamiento durante el secado.
-3.  **Moldeo**: Prensa la mezcla húmeda a alta presión en moldes rectangulares densos.
+3.  **Moldeo**: Prensar la mezcla húmeda a alta presión en moldes rectangulares densos.
 4.  **Secado**: Secar al aire minuciosamente durante varios días para eliminar la humedad libre.
 5.  **Cocción a alta temperatura**: Cocer en horno a 1.300–1.500 °C hasta que las partículas de arcilla se sintericen y formen cristales de mullita.
 
