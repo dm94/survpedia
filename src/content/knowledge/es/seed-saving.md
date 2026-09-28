@@ -47,7 +47,7 @@ La conservación de semillas se basa en preservar la viabilidad celular al suspe
 
 ## Variantes y mejoras
 
-- **Bancos comunitarios de semillas**: Redes de almacenamiento distribuido que salguardan la diversidad genética contra malas cosechas regionales.
+- **Bancos comunitarios de semillas**: Redes de almacenamiento distribuido que salvaguardan la diversidad genética contra malas cosechas regionales.
 - **Almacenamiento en frío**: Cámaras refrigeradas que extienden la viabilidad de las semillas de años a décadas o siglos.
 - **Propagación vegetativa**: Conservación de cultivos clonales (como las **[Patatas](/es/materials/potato)**) mediante tubérculos, esquejes o división de raíces en lugar de semillas verdaderas.
 
