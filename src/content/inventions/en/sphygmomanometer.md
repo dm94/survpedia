@@ -36,7 +36,7 @@ A sphygmomanometer is a device used to measure blood pressure, consisting of an 
 
 - **Essential Materials:** **[Natural Rubber](/en/materials/natural-rubber)** (bladder, tubing, bulb), **[Fabric](/en/materials/fabric)** (inelastic cuff sleeve), **[Metal](/en/materials/metal)** (valves, fittings, gauge body), **[Mercury](/en/materials/mercury)** or a calibrated metallic bellows diaphragm.
 - **Tools:** Glassblowing tools (for mercury column), metal lathe/machining tools, sewing tools, pressure calibration reference standard.
-- **Substitutes:** Water manometer column (requires a taller tube ~2.7 meters), aneroid pressure gauge instead of liquid mercury.
+- **Substitutes:** Water manometer column (requires a taller tube ~4.1 meters for 300 mmHg), aneroid pressure gauge instead of liquid mercury.
 
 ## Variants and improvements
 
