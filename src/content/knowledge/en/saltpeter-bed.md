@@ -22,7 +22,7 @@ A nitrary (or saltpeter bed) is a traditional chemical-biological process used t
 
 ## Operating principle
 
-1. **Nitrification:** Soil nitrifying bacteria (*Nitrosomonas* and *Nitrobacter*) break down organic nitrogen from urine and manure into ammonia, which is then oxidized into nitrites and nitrates.
+1. **Ammonification:** Decomposer microbes break down organic nitrogen from urine and manure into ammonia. **Nitrification:** Soil nitrifying bacteria (*Nitrosomonas* and *Nitrobacter*) oxidize the resulting ammonia through nitrite to nitrate.
 2. **Neutralization:** Calcium carbonate from limestone, mortar, or old plaster reacts with nitric acid formed by bacteria to produce soluble calcium nitrate.
 3. **Leaching:** Water poured through the aged manure heap washes out the soluble calcium and sodium nitrate salts into collection vats.
 4. **Metathesis (Double Displacement):** Wood ash rich in potash (**[Potash](/en/materials/potash)**) is mixed into the liquid extract. Potassium replaces calcium, precipitating insoluble calcium carbonate and leaving potassium nitrate in solution.
