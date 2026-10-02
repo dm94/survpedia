@@ -12,7 +12,7 @@ A hot blast stove (or Cowper stove) is a regenerative heat exchanger that prehea
 
 ## Use / Function
 
-- **Efficiency Enhancement:** Preheats blast furnace air to 300°C–800°C+, tripling smelting efficiency and drastically reducing fuel consumption.
+- **Efficiency Enhancement:** Preheats blast furnace air to 300°C–800°C+, reducing fuel consumption by roughly one-third, depending on furnace design and operating conditions.
 - **Increased Smelting Temperature:** Elevates flame temperature inside the furnace hearth, enabling the smelting of refractory iron ores.
 - **Scale:** Industrial iron and steel smelting works.
 
