@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - iron
   - wire
+image: ../../../assets/images/inventions/fanning-mill.jpg
 ---
 
 # Breve descripción
