@@ -4,6 +4,7 @@ materialsUsed:
   - refractory-brick
   - cast-iron
   - steel
+image: ../../../assets/images/inventions/hot-blast.jpg
 ---
 
 # Brief description
