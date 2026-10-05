@@ -29,7 +29,7 @@ Gauge blocks (also known as Jo-blocks or slip gauges) are precision-ground metal
 1. **Select High-Stability Alloy:** Choose high-carbon chromium tool steel, hardened stainless steel, or tungsten carbide to withstand wear and dimensional drift.
 2. **Rough Machining and Heat Treatment:** Cut steel blanks to oversize dimensions, harden through heat treatment, and stress-relieve via deep cryogenic cooling to prevent microstructural transformation over time.
 3. **Rough Surface Grinding:** Precision-grind opposite parallel faces flat to within a few micrometers using a flat surface grinding machine.
-4. **Precision Fine Lapping:** Lap parallel faces against a flat lap plate using ultra-fine abrasive slurries (aluminum oxide or diamond dust) until surface flatments reach optical interference level.
+4. **Precision Fine Lapping:** Lap parallel faces against a flat lap plate using ultra-fine abrasive slurries (aluminum oxide or diamond dust) until surface flatness reaches optical interference level.
 5. **Dimensional Calibration:** Compare finished blocks against primary laser interferometer standards or master gauge blocks on a surface plate, then mark standard length values.
 
 ## Materials needed
