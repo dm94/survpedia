@@ -3,6 +3,7 @@ title: Extractor Soxhlet
 materialsUsed:
   - glass
   - water
+image: ../../../assets/images/inventions/soxhlet-extractor.jpg
 ---
 
 # Breve descripción
