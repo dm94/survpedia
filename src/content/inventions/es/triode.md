@@ -5,6 +5,7 @@ materialsUsed:
   - copper
   - tungsten
   - wire
+image: ../../../assets/images/inventions/triode.jpg
 ---
 
 # Breve descripción

@@ -3,6 +3,7 @@ title: Mármol de Verificación
 materialsUsed:
   - cast-iron
   - stone
+image: ../../../assets/images/inventions/surface-plate.jpg
 ---
 
 # Breve descripción

@@ -3,6 +3,7 @@ title: Surface Plate
 materialsUsed:
   - cast-iron
   - stone
+image: ../../../assets/images/inventions/surface-plate.jpg
 ---
 
 # Brief description
