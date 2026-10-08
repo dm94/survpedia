@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - iron
   - fabric
+image: ../../../assets/images/inventions/winnowing-machine.jpg
 ---
 
 # Brief description
