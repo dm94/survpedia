@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - iron
   - bronze
+image: ../../../assets/images/inventions/planer.jpg
 ---
 
 # Brief description
