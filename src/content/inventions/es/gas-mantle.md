@@ -4,6 +4,7 @@ materialsUsed:
   - fabric
   - silk
   - metal
+image: ../../../assets/images/inventions/gas-mantle.jpg
 ---
 
 # Breve descripción
