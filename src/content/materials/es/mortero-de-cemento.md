@@ -2,7 +2,7 @@
 title: Mortero de Cemento
 composition:
   - cement
-  - sand
+  - arena
   - water
 properties:
   - Alta resistencia a la compresión

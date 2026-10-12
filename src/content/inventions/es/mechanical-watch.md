@@ -5,7 +5,7 @@ materialsUsed:
   - steel
   - glass
   - spring-steel
-  - ruby
+  - rubi
 image: ../../../assets/images/inventions/mechanical-watch.jpg
 ---
 

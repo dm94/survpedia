@@ -3,7 +3,7 @@ title: Curtido
 relatedMaterials:
   - water
   - salt
-  - lime
+  - cal
   - alum
   - animal-fat
   - wood

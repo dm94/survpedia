@@ -5,7 +5,7 @@ relatedMaterials:
   - salt
   - wood
   - plant-fibers
-  - stone
+  - piedra
   - pearl
 relatedInventions:
   - rope
@@ -47,7 +47,7 @@ El cultivo de ostras es la cría controlada de ostras en aguas costeras o estuar
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)**, **[Madera](/es/materials/wood)**, **[Fibras vegetales](/es/materials/plant-fibers)**, **[Piedra](/es/materials/stone)** como peso.
+- **Esenciales**: **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)**, **[Madera](/es/materials/wood)**, **[Fibras vegetales](/es/materials/plant-fibers)**, **[Piedra](/es/materials/piedra)** como peso.
 - **Herramientas**: **[Cuerda](/es/inventions/rope)**, **[Red de pesca](/es/inventions/fishing-net)**, **[Contenedores](/es/inventions/containers)**, **[Balsa](/es/inventions/raft)** o **[Bote simple](/es/inventions/simple-boat)**.
 - **Sustitutos**: Bambú, canastas tejidas o bastidores de juncos con malla.
 
@@ -72,7 +72,7 @@ El cultivo de ostras es la cría controlada de ostras en aguas costeras o estuar
 - **[Sal](/es/materials/salt)**: Indica salinidad adecuada.
 - **[Madera](/es/materials/wood)**: Estacas, bastidores y marcos.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Mallas y amarres.
-- **[Piedra](/es/materials/stone)**: Pesos para estabilizar equipos.
+- **[Piedra](/es/materials/piedra)**: Pesos para estabilizar equipos.
 - **[Perla](/es/materials/pearl)**: Subproducto de alto valor en algunas ostras.
 
 ### Inventos relacionados

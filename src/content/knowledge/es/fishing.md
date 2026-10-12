@@ -5,7 +5,7 @@ relatedMaterials:
   - plant-fibers
   - wood
   - bone
-  - stone
+  - piedra
   - iron
   - corcho
   - resin
@@ -57,7 +57,7 @@ Básico a intermedio. La orilla es baja tecnología; redes y botes elevan el niv
 ## Materiales necesarios
 
 - **Esenciales**: **[Fibras vegetales](/es/materials/plant-fibers)** para línea o red, **[Madera](/es/materials/wood)** para pértigas y flotadores, **[Hueso](/es/materials/bone)** o **[Hierro](/es/materials/iron)** para anzuelos.
-- **Apoyo**: **[Corcho](/es/materials/corcho)** para flotadores, **[Piedra](/es/materials/stone)** para plomos, **[Resina](/es/materials/resin)** para sellar nudos.
+- **Apoyo**: **[Corcho](/es/materials/corcho)** para flotadores, **[Piedra](/es/materials/piedra)** para plomos, **[Resina](/es/materials/resin)** para sellar nudos.
 - **Herramientas**: Cuchillo, punzón y fuego pequeño para secar y reparar.
 
 ## Variantes y mejoras

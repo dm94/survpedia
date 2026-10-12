@@ -1,7 +1,11 @@
 ---
-title: "Liofilización"
-relatedMaterials: ["water"]
-relatedInventions: ["vacuum-pump", "containers"]
+title: Liofilización
+relatedMaterials:
+  - water
+relatedInventions:
+  - vacuum-pump
+  - containers
+image: ../../../assets/images/knowledge/freeze-drying.jpg
 ---
 
 # Liofilización (Secado por Congelación)

@@ -4,7 +4,7 @@ materialsUsed:
   - metal
   - steel
   - brass
-  - ruby
+  - rubi
 image: ../../../assets/images/inventions/escapement.jpg
 ---
 
@@ -32,13 +32,13 @@ El escape convierte la fuerza rotacional continua del tren de engranajes en el m
 Crear un escape requiere alta precisión. La geometría de los dientes y las paletas es crítica.
 
 1.  **Rueda de escape:** Cortar una rueda con dientes de forma especial (por ejemplo, puntiagudos para áncora, en forma de maza para palanca).
-2.  **Paletas:** Fabricar los componentes de bloqueo (paletas). En relojes de alta calidad, estas están hechas de **[Rubí](/es/materials/ruby)** sintético para reducir la fricción. En relojes grandes, es común el **[Acero](/es/materials/steel)** endurecido.
+2.  **Paletas:** Fabricar los componentes de bloqueo (paletas). En relojes de alta calidad, estas están hechas de **[Rubí](/es/materials/rubi)** sintético para reducir la fricción. En relojes grandes, es común el **[Acero](/es/materials/steel)** endurecido.
 3.  **Geometría:** Asegurar que la distancia entre el centro de la rueda de escape y el eje de las paletas sea exacta para que las acciones de bloqueo e impulso ocurran correctamente.
 
 ## Materiales necesarios
 
 -   **Rueda de escape:** **[Latón](/es/materials/brass)** (endurecido por trabajo) o **[Acero](/es/materials/steel)**.
--   **Paletas:** **[Acero](/es/materials/steel)** endurecido o **[Rubí](/es/materials/ruby)** (Joyas).
+-   **Paletas:** **[Acero](/es/materials/steel)** endurecido o **[Rubí](/es/materials/rubi)** (Joyas).
 -   **Ejes:** **[Acero](/es/materials/steel)** pulido para pivotes de baja fricción.
 
 ## Variantes y mejoras

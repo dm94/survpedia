@@ -2,8 +2,8 @@
 title: Suministro de Agua
 materialsUsed:
   - concrete
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - plastic
   - metal
 image: ../../../assets/images/inventions/water-supply.jpg

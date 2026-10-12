@@ -2,11 +2,11 @@
 title: Horno de Cal
 materialsUsed:
   - caliza
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - wood
   - charcoal
-  - clay
+  - arcilla
 image: ../../../assets/images/inventions/lime-kiln.jpg
 ---
 

@@ -1,5 +1,6 @@
 ---
 import { getLangFromUrl, useTranslations } from '@i18n/utils';
+import { getLocalizedPathname } from '@i18n/localized-path';
 import { languages, defaultLang } from '@i18n/ui';
 import Header from '@components/Header.astro';
 import '@styles/global.css';
@@ -22,21 +23,21 @@ const ogImageUrl = image?.startsWith('http')
   ? image
   : new URL(image ?? '/logo.png', siteUrl).toString();
 const langCodes = Object.keys(languages);
-const pathSegments = Astro.url.pathname.split('/').filter(Boolean);
-const hasLangPrefix = langCodes.includes(pathSegments[0] ?? '');
-const getLocalizedPath = (targetLang: string) => {
-  if (hasLangPrefix) {
-    const segments = [...pathSegments];
-    segments[0] = targetLang;
-    return `/${segments.join('/')}`;
-  }
-
-  if (targetLang === defaultLang) {
-    return `/${pathSegments.join('/')}`;
-  }
-
-  return `/${[targetLang, ...pathSegments].join('/')}`;
-};
+const alternateUrls = Object.fromEntries(
+  await Promise.all(
+    langCodes.map(async code => [
+      code,
+      new URL(
+        await getLocalizedPathname(code, Astro.url.pathname),
+        siteUrl
+      ).toString(),
+    ])
+  )
+);
+const defaultUrl = new URL(
+  await getLocalizedPathname(defaultLang, Astro.url.pathname),
+  siteUrl
+).toString();
 const localeMap: Record<string, string> = {
   en: 'en_US',
   es: 'es_ES',
@@ -98,18 +99,10 @@ const structuredData = [
     <link rel="canonical" href={canonicalUrl} />
     {
       langCodes.map(code => (
-        <link
-          rel="alternate"
-          hreflang={code}
-          href={new URL(getLocalizedPath(code), siteUrl).toString()}
-        />
+        <link rel="alternate" hreflang={code} href={alternateUrls[code]} />
       ))
     }
-    <link
-      rel="alternate"
-      hreflang="x-default"
-      href={new URL(getLocalizedPath(defaultLang), siteUrl).toString()}
-    />
+    <link rel="alternate" hreflang="x-default" href={defaultUrl} />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/logo.png" />
     <title>{title}</title>
@@ -134,9 +127,11 @@ const structuredData = [
     <meta property="twitter:description" content={metaDescription} />
     <meta property="twitter:image" content={ogImageUrl} />
     <script defer data-domain="survpedia.deeme.dev" src="https://an.deeme.dev/js/script.js"></script>
-    <script type="application/ld+json">
-      {JSON.stringify(structuredData)}
-    </script>
+    <script
+      is:inline
+      type="application/ld+json"
+      set:html={JSON.stringify(structuredData)}
+    />
   </head>
   <body
     class="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col"

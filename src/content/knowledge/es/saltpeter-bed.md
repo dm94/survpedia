@@ -4,10 +4,11 @@ relatedMaterials:
   - potassium_nitrate
   - manure
   - ash
-  - lime
+  - cal
 relatedInventions:
   - gunpowder
   - simple-acids
+image: ../../../assets/images/knowledge/saltpeter-bed.jpg
 ---
 
 # Breve descripción
@@ -32,7 +33,7 @@ Una nitrería (o lecho de salitre) es un proceso químico-biológico tradicional
 
 ### 1. Construir el lecho de la nitrería
 - Construir un lecho de tierra cubierto y protegido de la lluvia pero abierto a la circulación del aire.
-- Disponer en capas **[Estiércol](/es/materials/manure)** animal, orina, despojos de matadero, paja y **[Cal](/es/materials/lime)** triturada o mortero viejo.
+- Disponer en capas **[Estiércol](/es/materials/manure)** animal, orina, despojos de matadero, paja y **[Cal](/es/materials/cal)** triturada o mortero viejo.
 
 ### 2. Maduración y aireación
 - Mantener el lecho húmedo vertiendo periódicamente orina estancada o purín.
@@ -50,7 +51,7 @@ Una nitrería (o lecho de salitre) es un proceso químico-biológico tradicional
 ## Materiales necesarios
 
 - **Nitrógeno orgánico:** **[Estiércol](/es/materials/manure)** animal, orina y residuos orgánicos.
-- **Base alcalina:** **[Caliza](/es/materials/limestone)** triturada, **[Cal](/es/materials/lime)** apagada o restos de mortero.
+- **Base alcalina:** **[Caliza](/es/materials/limestone)** triturada, **[Cal](/es/materials/cal)** apagada o restos de mortero.
 - **Fuente de potasa:** **[Ceniza](/es/materials/ash)** de madera (rica en carbonato de potasio).
 - **Disolvente y recipientes:** **[Agua](/es/materials/water)**, tinas de lixiviación de madera y calderas de hierro.
 

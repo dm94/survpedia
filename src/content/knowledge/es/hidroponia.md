@@ -3,8 +3,8 @@ title: Hidroponía
 relatedMaterials:
   - water
   - gravel
-  - sand
-  - clay
+  - arena
+  - arcilla
   - plant-fibers
   - wood
   - glass
@@ -36,14 +36,14 @@ Las plantas requieren **agua**, **oxígeno**, **luz** y **nutrientes**. La hidro
 
 1. **Elegir un sistema simple:** El sistema de mecha o el depósito estático (Kratky) no requiere electricidad.
 2. **Construir un depósito:** Usar un **[contenedor](/es/inventions/containers)** sellado para el agua nutritiva.
-3. **Sujetar la planta:** Llenar una canastilla o maceta perforada con **[grava](/es/materials/gravel)**, **[arena](/es/materials/sand)** o **[arcilla](/es/materials/clay)** y colocar la plántula.
+3. **Sujetar la planta:** Llenar una canastilla o maceta perforada con **[grava](/es/materials/gravel)**, **[arena](/es/materials/arena)** o **[arcilla](/es/materials/arcilla)** y colocar la plántula.
 4. **Aportar nutrientes:** Mezclar **[agua](/es/materials/water)** limpia con nutrientes disueltos y mantener las raíces parcialmente sumergidas.
 5. **Asegurar oxígeno:** Dejar un espacio de aire, remover a diario o hacer circular el agua con una **[bomba](/es/inventions/pump)**.
 6. **Gestionar luz y calor:** Proveer luz constante y proteger el sistema del sobrecalentamiento y las algas.
 
 ## Materiales necesarios
 
-- **Esenciales:** **[Agua](/es/materials/water)** limpia, contenedores, medios inertes (**[grava](/es/materials/gravel)**, **[arena](/es/materials/sand)** o **[arcilla](/es/materials/clay)**) y semillas.
+- **Esenciales:** **[Agua](/es/materials/water)** limpia, contenedores, medios inertes (**[grava](/es/materials/gravel)**, **[arena](/es/materials/arena)** o **[arcilla](/es/materials/arcilla)**) y semillas.
 - **Estructura:** Marcos de **[madera](/es/materials/wood)** o cubiertas de **[vidrio](/es/materials/glass)** para protección y control de humedad.
 - **Filtración:** **[carbón vegetal](/es/materials/charcoal)** para reducir olores y acumulación orgánica cuando se reutiliza el agua.
 - **Sustitutos posibles:** Mechas con **[fibras vegetales](/es/materials/plant-fibers)** y flujo por gravedad desde depósitos elevados.

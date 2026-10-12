@@ -4,7 +4,7 @@ materialsUsed:
   - mirror
   - glass
   - steel
-  - brick
+  - ladrillo
 image: ../../../assets/images/inventions/solar-furnace.jpg
 ---
 

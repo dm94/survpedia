@@ -4,7 +4,7 @@ materialsUsed:
   - wood
   - rope
   - lead
-  - sand
+  - arena
 image: ../../../assets/images/inventions/chip-log.jpg
 ---
 
@@ -30,7 +30,7 @@ La corredera de barquilla es un instrumento clásico de navegación utilizado po
 1. **Dar forma a la barquilla:** Cortar una pieza de madera en forma de cuadrante (un cuarto de círculo), lastrada en su borde curvo con [Plomo](/es/materials/lead) incrustado para que mantenga la posición vertical en el agua.
 2. **Montar la pata de gallo:** Fijar un arnés de tres cabos a las esquinas de la barquilla para que tire de forma perpendicular al agua. Asegurar uno de los extremos con una clavija de madera removible que se suelte al dar un tirón seco, permitiendo recuperar la barquilla de plano sobre el agua.
 3. **Preparar el cordel:** Medir una línea larga y ligera de [Cuerda](/es/materials/rope) (de 150 a 200 metros). Atar nudos a intervalos proporcionales a la duración del reloj de arena (por ejemplo, unos 14.4 metros para una ampolleta de 28 segundos).
-4. **Construir el reloj de arena:** Crear una ampolleta o frasco doble sellado que contenga [Arena](/es/materials/sand) fina y seca calibrada para vaciarse exactamente en 28 segundos.
+4. **Construir el reloj de arena:** Crear una ampolleta o frasco doble sellado que contenga [Arena](/es/materials/arena) fina y seca calibrada para vaciarse exactamente en 28 segundos.
 5. **Montar en carrete:** Enrollar el cordel en un carrete de madera que gire libremente.
 
 ## Materiales necesarios
@@ -38,7 +38,7 @@ La corredera de barquilla es un instrumento clásico de navegación utilizado po
 - **Madera:** Madera dura para la barquilla y el carrete giratorio.
 - **Cuerda:** Cordel o [Cuerda](/es/materials/rope) flexible para la línea principal y la pata de gallo.
 - **Plomo:** Lastre de [Plomo](/es/materials/lead) para hundir el borde inferior de la tablilla.
-- **Cristal y arena:** Recipiente de vidrio sellado y [Arena](/es/materials/sand) seca uniforme para el temporizador.
+- **Cristal y arena:** Recipiente de vidrio sellado y [Arena](/es/materials/arena) seca uniforme para el temporizador.
 
 ## Variantes y mejoras
 
@@ -64,4 +64,4 @@ La corredera de barquilla es un instrumento clásico de navegación utilizado po
 - **[Madera](/es/materials/wood)**
 - **[Cuerda](/es/materials/rope)**
 - **[Plomo](/es/materials/lead)**
-- **[Arena](/es/materials/sand)**
+- **[Arena](/es/materials/arena)**

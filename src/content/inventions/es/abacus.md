@@ -2,9 +2,9 @@
 title: Ábaco
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - string
-  - clay
+  - arcilla
 image: ../../../assets/images/inventions/abacus.jpg
 ---
 
@@ -33,7 +33,7 @@ El ábaco explota el concepto de **valor posicional**. Cada varilla o alambre re
 
 - **Materiales esenciales**:
   - **[Madera](/es/materials/wood)**: Para el marco y posiblemente las varillas.
-  - **[Piedra](/es/materials/stone)** o **[Arcilla](/es/materials/clay)**: Para las cuentas o contadores.
+  - **[Piedra](/es/materials/piedra)** o **[Arcilla](/es/materials/arcilla)**: Para las cuentas o contadores.
 - **Herramientas**:
   - **[Cuchillo](/es/inventions/knife)** o **[Sierra](/es/inventions/saw)**: Para dar forma a la madera.
   - **[Taladro](/es/inventions/hand-drill)**: Para hacer agujeros en las cuentas.

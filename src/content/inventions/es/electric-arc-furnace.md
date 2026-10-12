@@ -4,8 +4,8 @@ materialsUsed:
   - graphite
   - iron
   - copper
-  - brick
-  - clay
+  - ladrillo
+  - arcilla
 image: ../../../assets/images/inventions/electric-arc-furnace.jpg
 ---
 

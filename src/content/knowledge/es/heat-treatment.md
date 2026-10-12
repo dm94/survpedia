@@ -5,7 +5,7 @@ relatedMaterials:
   - steel
   - water
   - vegetable-oil
-  - clay
+  - arcilla
 relatedInventions:
   - forge
   - tongs

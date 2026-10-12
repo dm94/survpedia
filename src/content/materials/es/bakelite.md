@@ -4,7 +4,7 @@ materialsUsed:
   - phenol
   - formaldehyde
   - wood
-  - clay
+  - arcilla
 properties:
   - resistente al calor
   - no conductor
@@ -34,7 +34,7 @@ La baquelita (polioxibencilmetilenglicolanhídrido) fue el primer plástico verd
 
 1.  **Preparación:** Mezclar **[Fenol](/es/materials/phenol)** y **[Formaldehído](/es/materials/formaldehyde)** en presencia de un catalizador (ácido o base).
 2.  **Condensación:** Calentar la mezcla para formar una resina "novolaca" (si es ácida) o "resol" (si es básica).
-3.  **Carga:** Mezclar la resina con materiales de carga como harina de **[Madera](/es/materials/wood)**, **[Arcilla](/es/materials/clay)** o asbesto para mejorar la resistencia y reducir el coste.
+3.  **Carga:** Mezclar la resina con materiales de carga como harina de **[Madera](/es/materials/wood)**, **[Arcilla](/es/materials/arcilla)** o asbesto para mejorar la resistencia y reducir el coste.
 4.  **Moldeo:** Colocar la mezcla en un molde y aplicar calor y presión elevados para activar la polimerización final (reticulación), que fija el plástico de forma permanente.
 
 ### Herramientas necesarias para trabajarlo

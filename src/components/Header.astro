@@ -1,5 +1,6 @@
 ---
 import { getLangFromUrl, useTranslations } from "@i18n/utils";
+import { getLocalizedPathname } from "@i18n/localized-path";
 import { languages } from "@i18n/ui";
 import Search from "./Search.astro";
 
@@ -13,6 +14,13 @@ const inventionsPath = `/${lang}/inventions`;
 const knowledgePath = `/${lang}/knowledge`;
 
 const currentPath = Astro.url.pathname;
+const languageLinks = await Promise.all(
+  Object.entries(languages).map(async ([code, label]) => ({
+    code,
+    label,
+    href: await getLocalizedPathname(code, currentPath),
+  }))
+);
 const isPathActive = (path: string) => {
   if (path === homePath) return currentPath === homePath || currentPath === `${homePath}/`;
   return currentPath.startsWith(path);
@@ -130,9 +138,9 @@ const isPathActive = (path: string) => {
 
       <div class="flex space-x-2 text-xs font-semibold">
         {
-          Object.entries(languages).map(([code, label]) => (
+          languageLinks.map(({ code, label, href }) => (
             <a
-              href={`/${code}`}
+              href={href}
               aria-label={label}
               title={label}
               class:list={[

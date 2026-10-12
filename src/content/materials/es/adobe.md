@@ -1,8 +1,8 @@
 ---
 title: Adobe
 composition:
-  - clay
-  - sand
+  - arcilla
+  - arena
   - silt
   - straw
   - water

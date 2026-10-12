@@ -43,7 +43,7 @@ Un biodigestor es un sistema que descompone los residuos orgánicos (como el est
 
 ## Materiales necesarios
 
-- **Material del tanque**: **[Hormigón](/es/materials/hormigon)**, **[Ladrillo](/es/materials/brick)** o **[Plástico](/es/materials/plastic)** de alta densidad.
+- **Material del tanque**: **[Hormigón](/es/materials/hormigon)**, **[Ladrillo](/es/materials/ladrillo)** o **[Plástico](/es/materials/plastic)** de alta densidad.
 - **Sellado**: **[Betún](/es/materials/bitumen)** o selladores especializados para garantizar la estanqueidad.
 - **Tuberías**: **[PVC](/es/materials/plastic)** o **[Tuberías](/es/inventions/tuberias)** de metal para el transporte de gas y residuos.
 - **Entrada**: Residuos orgánicos (estiércol animal, restos de comida, residuos de cosechas) y **[Agua](/es/materials/water)**.

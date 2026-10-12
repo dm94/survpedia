@@ -2,7 +2,7 @@
 title: Plano Inclinado
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - earth
 image: ../../../assets/images/inventions/inclined-plane.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Trompa de agua"
-materialsUsed: ["water", "wood", "stone", "iron"]
+materialsUsed: ["water", "wood", "piedra", "iron"]
 image: ../../../assets/images/inventions/trompe.jpg
 ---
 
@@ -46,7 +46,7 @@ Una trompa de agua es un compresor de aire hidráulico que utiliza una corriente
 ## Materiales necesarios
 
 - **Tubos y Conductos**: Troncos ahuecados de **[Madera](/es/materials/wood)**, tuberías de **[Hierro](/es/materials/iron)** o canales de cerámica.
-- **Cámara y Base**: Mampostería de **[Piedra](/es/materials/stone)**, madera pesada y sellador de cal o resina.
+- **Cámara y Base**: Mampostería de **[Piedra](/es/materials/piedra)**, madera pesada y sellador de cal o resina.
 - **Fluido de Trabajo**: **[Agua](/es/materials/water)** procedente de un arroyo o canal continuo.
 - **Placa de Impacto**: Placa de hierro fundido o losa de piedra densa para resistir la erosión hidráulica.
 

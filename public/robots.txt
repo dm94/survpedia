@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://survpedia.deeme.dev/sitemap-index.xml

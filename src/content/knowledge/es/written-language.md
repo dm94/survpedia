@@ -1,7 +1,7 @@
 ---
 title: "Lenguaje escrito"
 image: ../../../assets/inventions/written-language.jpg
-relatedMaterials: ["clay", "paper", "ink", "papyrus", "parchment", "charcoal", "plant-fibers", "leather"]
+relatedMaterials: ["arcilla", "paper", "ink", "papyrus", "parchment", "charcoal", "plant-fibers", "leather"]
 ---
 
 # Breve descripción

@@ -2,7 +2,7 @@
 title: Dinamita
 materialsUsed:
   - nitroglycerin
-  - clay
+  - arcilla
   - charcoal
   - paper
 image: ../../../assets/images/inventions/dynamite.jpg
@@ -33,14 +33,14 @@ La dinamita funciona estabilizando la altamente sensible **[Nitroglicerina](/es/
 
 La producción de dinamita implica la incorporación cuidadosa de **[Nitroglicerina](/es/materials/nitroglycerin)** estabilizada en una base absorbente.
 
-- **Preparación del Absorbente:** Tradicionalmente se utilizaba tierra de diatomeas (Kieselguhr) por su alta porosidad. En variantes modernas también pueden usarse **[Arcilla](/es/materials/clay)** especializada, aserrín o pulpa de madera.
+- **Preparación del Absorbente:** Tradicionalmente se utilizaba tierra de diatomeas (Kieselguhr) por su alta porosidad. En variantes modernas también pueden usarse **[Arcilla](/es/materials/arcilla)** especializada, aserrín o pulpa de madera.
 - **Proceso de Mezclado:** El explosivo líquido se añade al absorbente seco en entornos controlados. Este proceso debe minimizar la fricción y la electricidad estática para evitar una ignición accidental.
 - **Moldeo y Envasado:** La pasta explosiva resultante se extruye en cartuchos cilíndricos y se recubre con papel resistente a la humedad o tubos de plástico.
 
 ## Materiales necesarios
 
 - **[Nitroglicerina](/es/materials/nitroglycerin)**: El componente explosivo.
-- **Absorbente:** Tierra de diatomeas, **[Arcilla](/es/materials/clay)** o pulpa de madera.
+- **Absorbente:** Tierra de diatomeas, **[Arcilla](/es/materials/arcilla)** o pulpa de madera.
 - **[Carbón Vegetal](/es/materials/charcoal)**: A veces se añade para ajustar el balance de oxígeno o la sensibilidad.
 - **[Papel](/es/materials/paper)**: Para los cartuchos.
 - **[Cera de abejas](/es/materials/beeswax)**: A menudo se utiliza para impermeabilizar y sellar.
@@ -65,4 +65,4 @@ La producción de dinamita implica la incorporación cuidadosa de **[Nitroglicer
 ### Materiales Relacionados
 
 - **[Nitroglicerina](/es/materials/nitroglycerin)**: El explosivo central.
-- **[Arcilla](/es/materials/clay)**: Un absorbente común.
+- **[Arcilla](/es/materials/arcilla)**: Un absorbente común.

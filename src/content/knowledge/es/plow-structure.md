@@ -2,7 +2,7 @@
 title: Estructura del arado
 relatedMaterials:
   - wood
-  - stone
+  - piedra
   - iron
   - bronze
   - plant-fibers
@@ -51,7 +51,7 @@ Básico a intermedio. Versiones de madera o piedra son básicas; rejas metálica
 
 ## Materiales necesarios
 
-- **Esenciales**: Viga y manceras de **[Madera](/es/materials/wood)**, reja de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, amarres de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**.
+- **Esenciales**: Viga y manceras de **[Madera](/es/materials/wood)**, reja de **[Piedra](/es/materials/piedra)** o **[Hierro](/es/materials/iron)**, amarres de **[Fibras vegetales](/es/materials/plant-fibers)** o **[Cuero](/es/materials/leather)**.
 - **Herramientas**: **[Herramientas de piedra](/es/inventions/stone-tools)** para tallar y perforar.
 - **Durabilidad opcional**: **[Bronce](/es/materials/bronze)** en refuerzos o puntas reemplazables.
 
@@ -75,7 +75,7 @@ Básico a intermedio. Versiones de madera o piedra son básicas; rejas metálica
 - **[Cosechadora combinada](/es/inventions/combine)**: Cosecha mecanizada que sigue a la preparación del suelo.
 - **[Pala](/es/inventions/shovel)**: Herramienta de apoyo para campo y reparación.
 - **[Madera](/es/materials/wood)**: Estructura principal.
-- **[Piedra](/es/materials/stone)**: Material básico para rejas tempranas.
+- **[Piedra](/es/materials/piedra)**: Material básico para rejas tempranas.
 - **[Hierro](/es/materials/iron)**: Opción resistente para el filo.
 - **[Bronce](/es/materials/bronze)**: Refuerzos y puntas reemplazables.
 - **[Fibras vegetales](/es/materials/plant-fibers)**: Amarres y fijaciones.

@@ -28,14 +28,14 @@ El alumbrado de gas produce luz artificial mediante la combustión de gas inflam
 ## Cómo crearlo
 
 1. **Montaje de la retorta:** Sellar carbón bituminoso seco dentro de un recipiente pesado de **[Hierro Fundido](/es/materials/cast-iron)** o arcilla equipado con una tubería de salida, y calentarlo sobre un horno.
-2. **Enfriamiento y purificación:** Hacer pasar la tubería de gas saliente por un baño de agua (condensador) para precipitar el alquitrán de hulla, y luego burbujear el gas a través de una cámara con **[Cal](/es/materials/lime)** apagada o agua para eliminar el sulfuro de hidrógeno y el dióxido de carbono.
+2. **Enfriamiento y purificación:** Hacer pasar la tubería de gas saliente por un baño de agua (condensador) para precipitar el alquitrán de hulla, y luego burbujear el gas a través de una cámara con **[Cal](/es/materials/cal)** apagada o agua para eliminar el sulfuro de hidrógeno y el dióxido de carbono.
 3. **Depósito de gas:** Invertir una campana metálica en un tanque de agua (un **[Gasómetro](/es/inventions/gasometer)** simple) para recolectar el gas limpio y mantener una presión constante.
 4. **Tubería de distribución:** Conectar tuberías de metal o **[Cobre](/es/materials/copper)** desde el gasómetro hasta el punto de iluminación.
 5. **Boquilla del quemador:** Colocar un pequeño pico cerámico o metálico con orificios finos (quemador Argand o de cola de pez) protegido por un tubo de **[Vidrio](/es/materials/glass)** para estabilizar la llama.
 
 ## Materiales necesarios
 
-- **Materiales esenciales:** **[Carbón](/es/materials/coal)** o biomasa, **[Hierro Fundido](/es/materials/cast-iron)**, **[Cal](/es/materials/lime)**, tuberías de **[Cobre](/es/materials/copper)** o plomo, **[Vidrio](/es/materials/glass)**.
+- **Materiales esenciales:** **[Carbón](/es/materials/coal)** o biomasa, **[Hierro Fundido](/es/materials/cast-iron)**, **[Cal](/es/materials/cal)**, tuberías de **[Cobre](/es/materials/copper)** o plomo, **[Vidrio](/es/materials/glass)**.
 - **Herramientas:** Horno/fragua, accesorios de tubería, arcilla selladora, baños de agua.
 - **Sustitutos:** Se puede emplear madera o grasa animal para la gasificación si no se dispone de carbón mineral.
 
@@ -62,6 +62,6 @@ El alumbrado de gas produce luz artificial mediante la combustión de gas inflam
 
 - **[Carbón](/es/materials/coal)**
 - **[Hierro Fundido](/es/materials/cast-iron)**
-- **[Cal](/es/materials/lime)**
+- **[Cal](/es/materials/cal)**
 - **[Cobre](/es/materials/copper)**
 - **[Vidrio](/es/materials/glass)**

@@ -32,7 +32,7 @@ El proceso aprovecha la alta afinidad química del oxígeno por las impurezas pr
 ## Cómo implementarlo
 
 ### 1. El Convertidor
-- Construir un gran recipiente de acero en forma de pera revestido con **[Arcilla](/es/materials/clay)** refractaria o **[Sílice](/es/materials/sand)** (proceso ácido) o **[Caliza](/es/materials/limestone)**/**Dolomita** (proceso básico, para hierro con alto contenido de fósforo).
+- Construir un gran recipiente de acero en forma de pera revestido con **[Arcilla](/es/materials/arcilla)** refractaria o **[Sílice](/es/materials/arena)** (proceso ácido) o **[Caliza](/es/materials/limestone)**/**Dolomita** (proceso básico, para hierro con alto contenido de fósforo).
 - Montar el recipiente sobre muñones para que pueda inclinarse para recibir el hierro fundido y verter el acero terminado.
 
 ### 2. El soplado de aire

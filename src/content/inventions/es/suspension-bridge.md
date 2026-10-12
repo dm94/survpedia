@@ -5,7 +5,7 @@ materialsUsed:
   - iron
   - wire
   - rope
-  - stone
+  - piedra
   - concrete
   - wood
 image: ../../../assets/images/inventions/suspension-bridge.jpg

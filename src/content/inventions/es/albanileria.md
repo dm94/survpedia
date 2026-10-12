@@ -3,9 +3,9 @@ title: Albañilería
 materialsUsed:
   - ladrillo
   - piedra
-  - mortar
+  - mortero
   - cement
-  - lime
+  - cal
 image: ../../../assets/images/inventions/albanileria.jpg
 ---
 

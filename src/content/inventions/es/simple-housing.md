@@ -7,7 +7,7 @@ materialsUsed:
   - plant-fibers
   - arena
   - gravel
-  - lime
+  - cal
 image: ../../../assets/images/inventions/simple-housing.jpg
 ---
 
@@ -30,7 +30,7 @@ La vivienda simple combina una **estructura portante** con una **envolvente** qu
 2. **Muros:** Tierra compactada, **[Piedra](/es/materials/piedra)** apilada o entramados con **[Arcilla](/es/materials/arcilla)** reducen corrientes de aire.
 3. **Techo:** Inclinación para evacuar la lluvia y alejarla de la base.
 4. **Drenaje:** Base seca con **[Grava](/es/materials/gravel)** y **[Arena](/es/materials/arena)** para evitar humedad ascendente.
-5. **Sellado:** Revoques de **[Cal](/es/materials/lime)** o arcilla cierran grietas y reducen plagas.
+5. **Sellado:** Revoques de **[Cal](/es/materials/cal)** o arcilla cierran grietas y reducen plagas.
 
 ## Cómo crearlo
 

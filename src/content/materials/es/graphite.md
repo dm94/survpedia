@@ -80,4 +80,4 @@ El grafito es una forma cristalina del elemento carbono con sus átomos dispuest
 - **[Carbono](/es/elements/carbon):** El elemento que compone el grafito.
 - **[Carbón](/es/materials/coal):** Otro mineral rico en carbono.
 - **[Carbón vegetal](/es/materials/charcoal):** Carbono amorfo producido a partir de la madera.
-- **[Arcilla](/es/materials/clay):** A menudo se mezcla con grafito para lápices y crisoles.
+- **[Arcilla](/es/materials/arcilla):** A menudo se mezcla con grafito para lápices y crisoles.

@@ -2,10 +2,10 @@
 title: Moldeado
 materialsUsed:
   - wood
-  - clay
-  - sand
+  - arcilla
+  - arena
   - metal
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/moldeado.jpg
 ---
 

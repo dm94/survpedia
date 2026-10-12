@@ -1,17 +1,17 @@
 ---
 title: Albañilería
 materialsUsed:
-  - brick
-  - stone
-  - mortar
+  - ladrillo
+  - piedra
+  - mortero
   - cement
-  - lime
+  - cal
 image: ../../../assets/images/inventions/masonry.jpg
 ---
 
 # Breve descripción
 
-La albañilería es la construcción de estructuras a partir de unidades individuales, que a menudo se colocan y se unen mediante **[Mortero](/es/materials/mortar)**. Es una de las técnicas de construcción más duraderas de la historia.
+La albañilería es la construcción de estructuras a partir de unidades individuales, que a menudo se colocan y se unen mediante **[Mortero](/es/materials/mortero)**. Es una de las técnicas de construcción más duraderas de la historia.
 
 ## Uso / Función
 
@@ -28,7 +28,7 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 ## Cómo crearlo
 
 1.  **Cimientos:** Asegurar una base estable y nivelada (zapata) por debajo de la línea de heladas.
-2.  **Mezcla de mortero:** Preparar una mezcla trabajable de **[Mortero](/es/materials/mortar)**.
+2.  **Mezcla de mortero:** Preparar una mezcla trabajable de **[Mortero](/es/materials/mortero)**.
 3.  **Primera hilada:** Colocar una cama de mortero y colocar la primera fila de unidades, asegurándose de que estén perfectamente niveladas.
 4.  **Aparejo:** Comenzar la segunda fila con media unidad para que las juntas verticales no se alineen con las de abajo.
 5.  **Nivelación:** Comprobar constantemente la alineación vertical (plomo) y horizontal (nivel) utilizando un **[Nivel](/es/inventions/level)** y una **[Plomada](/es/inventions/plumb-bob)**.
@@ -36,8 +36,8 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 
 ## Materiales necesarios
 
-- **Materiales esenciales:** **[Ladrillos](/es/materials/brick)**, **[Piedra](/es/materials/stone)** o bloques de **[Hormigón](/es/materials/concrete)**.
-- **Aglutinante:** **[Mortero](/es/materials/mortar)** (Cal, Cemento o Barro).
+- **Materiales esenciales:** **[Ladrillos](/es/materials/ladrillo)**, **[Piedra](/es/materials/piedra)** o bloques de **[Hormigón](/es/materials/concrete)**.
+- **Aglutinante:** **[Mortero](/es/materials/mortero)** (Cal, Cemento o Barro).
 - **Herramientas:**
     - **Palana:** Para manejar y esparcir el mortero.
     - **Línea de cuerda:** Para mantener las filas rectas.
@@ -70,10 +70,10 @@ La albañilería se basa en la **compresión** y la **gravedad**. Las unidades i
 
 ### Materiales relacionados
 
-- **[Ladrillo](/es/materials/brick)**
+- **[Ladrillo](/es/materials/ladrillo)**
 - **[Azulejo](/es/materials/tile)**
-- **[Mortero](/es/materials/mortar)**
-- **[Piedra](/es/materials/stone)**
+- **[Mortero](/es/materials/mortero)**
+- **[Piedra](/es/materials/piedra)**
 - **[Cemento](/es/materials/cement)**
 - **[Aislamiento térmico](/es/materials/thermal-insulation)**
 - **[Lana mineral](/es/materials/mineral-wool)**

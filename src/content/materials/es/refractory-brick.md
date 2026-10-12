@@ -1,8 +1,8 @@
 ---
 title: Ladrillo Refractario
 composition:
-  - clay
-  - sand
+  - arcilla
+  - arena
   - aluminum
 properties:
   - Resistencia extrema al calor

@@ -1,9 +1,9 @@
 ---
 title: Horno de Fundición
 materialsUsed:
-  - clay
-  - brick
-  - stone
+  - arcilla
+  - ladrillo
+  - piedra
   - charcoal
   - iron
 image: ../../../assets/images/inventions/furnace.jpg
@@ -36,7 +36,7 @@ Los hornos operan conteniendo un fuego extremadamente caliente dentro de una cá
 
 ## Materiales necesarios
 
-- **Estructura:** **[Arcilla](/es/materials/clay)** mezclada con arena/chamota, o Ladrillo Refractario.
+- **Estructura:** **[Arcilla](/es/materials/arcilla)** mezclada con arena/chamota, o Ladrillo Refractario.
 - **Combustible:** **[Carbón Vegetal](/es/materials/charcoal)** es el estándar histórico; Coque para altos hornos modernos.
 - **Fundente:** Piedra caliza (para eliminar impurezas/escoria).
 

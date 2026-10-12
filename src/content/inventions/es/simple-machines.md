@@ -2,7 +2,7 @@
 title: Máquinas Simples
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
 image: ../../../assets/images/inventions/simple-machines.jpg
 ---
@@ -36,7 +36,7 @@ Ver las páginas individuales para detalles de construcción de cada máquina.
 
 ## Materiales necesarios
 
-- **Estructural:** [Madera](/es/materials/wood), [Piedra](/es/materials/stone), [Hierro](/es/materials/iron), [Acero](/es/materials/steel).
+- **Estructural:** [Madera](/es/materials/wood), [Piedra](/es/materials/piedra), [Hierro](/es/materials/iron), [Acero](/es/materials/steel).
 - **Sujeciones:** [Cuerda](/es/materials/rope), [Clavos](/es/materials/nail), clavijas.
 
 ## Variantes y mejoras

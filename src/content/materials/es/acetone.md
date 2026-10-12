@@ -39,7 +39,7 @@ Un líquido ligero y transparente que se evapora muy rápidamente a temperatura 
 ### Procesamiento mínimo requerido
 
 **Destilación seca de acetatos**:
-1.  **Preparación**: Haga reaccionar **[Vinagre](/es/materials/vinegar)** (ácido acético) con **[Cal](/es/materials/lime)** o cáscaras de huevo trituradas (carbonato de calcio) para producir acetato de calcio.
+1.  **Preparación**: Haga reaccionar **[Vinagre](/es/materials/vinegar)** (ácido acético) con **[Cal](/es/materials/cal)** o cáscaras de huevo trituradas (carbonato de calcio) para producir acetato de calcio.
 2.  **Secado**: Evapore el agua para obtener polvo de acetato de calcio seco.
 3.  **Destilación**: Caliente el acetato de calcio seco en una retorta sin aire. El calor lo descompone en carbonato de calcio y vapor de acetona.
 4.  **Condensación**: Enfríe el vapor para recoger la acetona líquida.
@@ -78,6 +78,6 @@ Un líquido ligero y transparente que se evapora muy rápidamente a temperatura 
 ### Materiales relacionados
 
 - **[Vinagre](/es/materials/vinegar)**: Fuente de ácido acético.
-- **[Cal](/es/materials/lime)**: Utilizada para hacer acetato de calcio.
+- **[Cal](/es/materials/cal)**: Utilizada para hacer acetato de calcio.
 - **[Lejía](/es/materials/bleach)**: Reacciona con la acetona para fabricar **[Cloroformo](/es/materials/chloroform)**.
 ---

@@ -36,7 +36,7 @@ El volante de inercia trabaja en conjunto con un muelle espiral (espiral).
 
 -   **Rueda:** **[Latón](/es/materials/brass)** o **[Acero](/es/materials/steel)**.
 -   **Espiral:** **[Acero para Muelles](/es/materials/spring-steel)**, Bronce fosforoso o aleaciones especializadas resistentes a los cambios de temperatura.
--   **Pivotes:** **[Acero](/es/materials/steel)** endurecido corriendo en cojinetes de **[Rubí](/es/materials/ruby)**.
+-   **Pivotes:** **[Acero](/es/materials/steel)** endurecido corriendo en cojinetes de **[Rubí](/es/materials/rubi)**.
 
 ## Variantes y mejoras
 

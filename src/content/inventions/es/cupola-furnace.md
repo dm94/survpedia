@@ -4,8 +4,8 @@ materialsUsed:
   - iron
   - coke
   - limestone
-  - brick
-  - clay
+  - ladrillo
+  - arcilla
 image: ../../../assets/images/inventions/cupola-furnace.jpg
 ---
 

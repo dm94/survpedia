@@ -6,7 +6,7 @@ relatedMaterials:
   - alcohol
   - cotton
   - vinegar
-  - lime
+  - cal
 relatedInventions:
   - latrine
   - passive-ventilation
@@ -51,7 +51,7 @@ Básico a intermedio. Requiere organización, disciplina y recursos de higiene.
 ## Materiales necesarios
 
 - **Higiene**: **[Agua](/es/materials/water)**, **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
-- **Limpieza**: **[Vinagre](/es/materials/vinegar)** y **[Cal](/es/materials/lime)** para desinfección básica.
+- **Limpieza**: **[Vinagre](/es/materials/vinegar)** y **[Cal](/es/materials/cal)** para desinfección básica.
 - **Saneamiento**: **[Letrinas](/es/inventions/latrine)** y **[Contenedores](/es/inventions/containers)** cerrados.
 - **Aire**: **[Ventilación pasiva](/es/inventions/passive-ventilation)** para renovar espacios.
 

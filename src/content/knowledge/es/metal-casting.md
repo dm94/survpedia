@@ -3,8 +3,8 @@ title: Fundición de Metales
 relatedMaterials:
   - iron
   - copper
-  - sand
-  - clay
+  - arena
+  - arcilla
 relatedInventions:
   - furnace
   - crucible
@@ -35,7 +35,7 @@ La fundición de metales aprovecha la fluidez de los metales líquidos por encim
 
 ## Cómo implementarlo
 
-1. **Preparar la arena verde de moldeo**: Mezclar **[Arena](/es/materials/sand)** sílice con **[Arcilla](/es/materials/clay)** (bentonita) y una pequeña cantidad de agua para crear arena de moldeo reutilizable.
+1. **Preparar la arena verde de moldeo**: Mezclar **[Arena](/es/materials/arena)** sílice con **[Arcilla](/es/materials/arcilla)** (bentonita) y una pequeña cantidad de agua para crear arena de moldeo reutilizable.
 2. **Formar las cajas de moldeo**: Colocar el modelo de madera en una caja de dos partes (tapa y fondo), compactar la arena firmemente alrededor y cortar canales de colada y respiraderos.
 3. **Fundir la carga metálica**: Calentar chatarra (bronce, hierro fundido o aluminio) en un horno revestido de refractario hasta obtener fluidez uniforme.
 4. **Vertido y ventilación**: Verter el metal líquido de forma continua a través del bebedero mientras el aire y los gases escapan por los respiraderos.

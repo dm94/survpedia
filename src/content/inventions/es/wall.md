@@ -1,12 +1,12 @@
 ---
 title: Pared
 materialsUsed:
-  - brick
-  - stone
+  - ladrillo
+  - piedra
   - wood
   - adobe
   - concrete
-  - mortar
+  - mortero
 image: ../../../assets/images/inventions/wall.jpg
 ---
 
@@ -45,8 +45,8 @@ Las paredes funcionan mediante **compresión** y **masa**.
 
 ## Materiales necesarios
 
-- **Unidades de Albañilería:** **[Ladrillo](/es/materials/brick)**, **[Piedra](/es/materials/stone)**, **[Adobe](/es/materials/adobe)**, **[Bloque de Hormigón](/es/materials/concrete-block)**.
-- **Aglutinante:** **[Mortero](/es/materials/mortar)**, **[Cemento](/es/materials/cement)**, **[Barro](/es/materials/clay)**.
+- **Unidades de Albañilería:** **[Ladrillo](/es/materials/ladrillo)**, **[Piedra](/es/materials/piedra)**, **[Adobe](/es/materials/adobe)**, **[Bloque de Hormigón](/es/materials/concrete-block)**.
+- **Aglutinante:** **[Mortero](/es/materials/mortero)**, **[Cemento](/es/materials/cement)**, **[Barro](/es/materials/arcilla)**.
 - **Entramado:** **[Madera](/es/materials/wood)**, **[Acero](/es/materials/steel)**.
 - **Herramientas:** **[Paleta](/es/inventions/trowel)**, **[Nivel](/es/inventions/level)**, **[Plomada](/es/inventions/plumb-bob)**.
 
@@ -75,8 +75,8 @@ Las paredes funcionan mediante **compresión** y **masa**.
 
 ### Materiales relacionados
 
-- **[Ladrillo](/es/materials/brick)**
-- **[Piedra](/es/materials/stone)**
+- **[Ladrillo](/es/materials/ladrillo)**
+- **[Piedra](/es/materials/piedra)**
 - **[Hormigón](/es/materials/concrete)**
 - **[Mortero](/es/materials/mortero)**
 - **[Adobe](/es/materials/adobe)**

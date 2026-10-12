@@ -1,8 +1,8 @@
 ---
 title: Teja / Baldosa
 composition:
-  - clay
-  - sand
+  - arcilla
+  - arena
   - water
   - cement
 properties:
@@ -34,9 +34,9 @@ Las baldosas suelen ser formas delgadas, cuadradas o rectangulares. Las **tejas*
 
 Son productos manufacturados.
 
-- **Tejas/Baldosas de Cerámica:** Hechas de **[Arcilla](/es/materials/clay)**, **[Arena](/es/materials/sand)** y otros minerales, luego cocidas en un **[Horno](/es/inventions/kiln)**.
-- **Tejas/Baldosas de Hormigón:** Hechas de una mezcla de **[Cemento](/es/materials/cement)**, **[Arena](/es/materials/sand)** y **[Agua](/es/materials/water)**.
-- **Baldosas de Piedra:** Cortadas de **[Piedra](/es/materials/stone)** natural (como pizarra, mármol, granito).
+- **Tejas/Baldosas de Cerámica:** Hechas de **[Arcilla](/es/materials/arcilla)**, **[Arena](/es/materials/arena)** y otros minerales, luego cocidas en un **[Horno](/es/inventions/kiln)**.
+- **Tejas/Baldosas de Hormigón:** Hechas de una mezcla de **[Cemento](/es/materials/cement)**, **[Arena](/es/materials/arena)** y **[Agua](/es/materials/water)**.
+- **Baldosas de Piedra:** Cortadas de **[Piedra](/es/materials/piedra)** natural (como pizarra, mármol, granito).
 
 ### Procesamiento mínimo requerido
 
@@ -52,7 +52,7 @@ Son productos manufacturados.
 
 - **Moldes:** Marcos de madera o metal para dar forma.
 - **Horno:** Esencial para tejas cerámicas.
-- **Paleta:** Para aplicar **[Mortero](/es/materials/mortar)** para fijar las baldosas.
+- **Paleta:** Para aplicar **[Mortero](/es/materials/mortero)** para fijar las baldosas.
 - **Cortador de baldosas:** Para cortar piezas y ajustarlas a espacios específicos.
 
 ### Formas comunes de uso
@@ -68,7 +68,7 @@ Son productos manufacturados.
 - **[Pizarra](/es/materials/slate):** Alternativa natural muy duradera para techos.
 - **Láminas de [Metal](/es/materials/metal):** Techado ligero y duradero.
 - **[Techado de Paja](/es/inventions/thatching):** Tallos de plantas usados para techado (aislante pero inflamable).
-- **[Ladrillo](/es/materials/brick):** Puede usarse para pavimentos pero es más grueso.
+- **[Ladrillo](/es/materials/ladrillo):** Puede usarse para pavimentos pero es más grueso.
 
 ### Limitaciones y fallos comunes
 
@@ -93,7 +93,7 @@ Son productos manufacturados.
 
 ### Materiales relacionados
 
-- **[Arcilla](/es/materials/clay)**
+- **[Arcilla](/es/materials/arcilla)**
 - **[Cerámica](/es/materials/ceramics)**
-- **[Mortero](/es/materials/mortar)**
+- **[Mortero](/es/materials/mortero)**
 - **[Cemento](/es/materials/cement)**

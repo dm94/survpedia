@@ -3,7 +3,7 @@ title: Compost
 relatedMaterials:
   - water
   - ash
-  - clay
+  - arcilla
 image: ../../../assets/images/knowledge/compost.jpg
 ---
 
@@ -38,7 +38,7 @@ El compostaje se basa en la descomposición aeróbica realizada por bacterias, h
 
 - **Verdes:** Restos de frutas/verduras, hojas verdes, **[Estiércol](/es/knowledge/livestock)** (si está disponible), posos de café.
 - **Marrones:** Paja, hojas secas, serrín, cartón triturado.
-- **Aditivos:** Un puñado de **[Tierra](/es/materials/stone)** o compost viejo para "sembrar" los microbios; un poco de **[Ceniza](/es/materials/ash)** (con moderación) para equilibrar la acidez.
+- **Aditivos:** Un puñado de **[Tierra](/es/materials/piedra)** o compost viejo para "sembrar" los microbios; un poco de **[Ceniza](/es/materials/ash)** (con moderación) para equilibrar la acidez.
 - **Herramientas:** Pala, horca o un simple contenedor de madera.
 
 ## Variantes y mejoras

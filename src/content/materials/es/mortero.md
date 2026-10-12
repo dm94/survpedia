@@ -1,8 +1,8 @@
 ---
 title: Mortero
 composition:
-  - sand
-  - lime
+  - arena
+  - cal
   - cement
   - water
 properties:
@@ -23,7 +23,7 @@ image: ../../../assets/images/materials/mortero.jpg
 
 # Breve descripción
 
-El mortero es una pasta trabajable utilizada para unir bloques de construcción como **[Piedra](/es/materials/stone)**, **[Ladrillo](/es/materials/brick)** y unidades de mampostería de hormigón, llenar y sellar los huecos irregulares entre ellos y, a veces, agregar colores o patrones decorativos a las paredes de mampostería. A diferencia del hormigón, el mortero no está diseñado para ser un material estructural en sí mismo, sino más bien el "pegamento" que mantiene unida la estructura.
+El mortero es una pasta trabajable utilizada para unir bloques de construcción como **[Piedra](/es/materials/piedra)**, **[Ladrillo](/es/materials/ladrillo)** y unidades de mampostería de hormigón, llenar y sellar los huecos irregulares entre ellos y, a veces, agregar colores o patrones decorativos a las paredes de mampostería. A diferencia del hormigón, el mortero no está diseñado para ser un material estructural en sí mismo, sino más bien el "pegamento" que mantiene unida la estructura.
 
 ## Descripción de cómo es
 
@@ -35,7 +35,7 @@ El mortero es una pasta trabajable utilizada para unir bloques de construcción 
 
 - **Origen:** Material compuesto artificial.
 - **Historia:** Los antiguos egipcios usaban mortero de yeso; griegos y romanos usaban mortero de cal (agregando ceniza volcánica para el fraguado bajo el agua, creando mortero puzolánico).
-- **Disponibilidad:** Hecho de materias primas ampliamente disponibles (**[Arena](/es/materials/sand)**, **[Cal](/es/materials/lime)**, **[Agua](/es/materials/water)**).
+- **Disponibilidad:** Hecho de materias primas ampliamente disponibles (**[Arena](/es/materials/arena)**, **[Cal](/es/materials/cal)**, **[Agua](/es/materials/water)**).
 
 ### Procesamiento mínimo requerido
 
@@ -90,9 +90,9 @@ El mortero es una pasta trabajable utilizada para unir bloques de construcción 
 
 ### Materiales relacionados
 
-- **[Arena](/es/materials/sand)**
-- **[Cal](/es/materials/lime)**
+- **[Arena](/es/materials/arena)**
+- **[Cal](/es/materials/cal)**
 - **[Cemento](/es/materials/cement)**
 - **[Agua](/es/materials/water)**
-- **[Ladrillo](/es/materials/brick)**
-- **[Piedra](/es/materials/stone)**
+- **[Ladrillo](/es/materials/ladrillo)**
+- **[Piedra](/es/materials/piedra)**

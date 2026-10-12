@@ -3,7 +3,7 @@ title: Relojes Mecánicos
 materialsUsed:
   - metal
   - wood
-  - stone
+  - piedra
   - glass
 image: ../../../assets/images/inventions/relojes-mecanicos.jpg
 ---
@@ -41,7 +41,7 @@ Construir un reloj mecánico requiere ingeniería de precisión y comprensión d
 ## Materiales necesarios
 
 -   **Esenciales:** Se prefiere **[Metal](/es/materials/metal)** (Latón para engranajes para reducir la fricción, Acero para piñones y muelles). Se puede usar **[Madera](/es/materials/wood)** dura para grandes relojes de torre o movimientos rústicos.
--   **Pesas:** **[Plomo](/es/materials/lead)**, **[Hierro](/es/materials/iron)**, o **[Piedra](/es/materials/stone)**.
+-   **Pesas:** **[Plomo](/es/materials/lead)**, **[Hierro](/es/materials/iron)**, o **[Piedra](/es/materials/piedra)**.
 -   **Lubricación:** **[Aceite](/es/materials/oil)** fino (históricamente de grasa animal o plantas) es crucial para evitar el desgaste.
 
 ## Variantes y mejoras

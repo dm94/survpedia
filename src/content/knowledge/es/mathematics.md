@@ -1,6 +1,6 @@
 ---
 title: "Matemáticas"
-relatedMaterials: ["stone", "wood", "clay", "paper", "ink", "sand"]
+relatedMaterials: ["piedra", "wood", "arcilla", "paper", "ink", "arena"]
 image: ../../../assets/inventions/mathematics.jpg
 ---
 

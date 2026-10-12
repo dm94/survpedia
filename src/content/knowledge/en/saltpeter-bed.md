@@ -8,6 +8,7 @@ relatedMaterials:
 relatedInventions:
   - gunpowder
   - simple-acids
+image: ../../../assets/images/knowledge/saltpeter-bed.jpg
 ---
 
 # Brief description

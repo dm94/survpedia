@@ -5,7 +5,7 @@ materialsUsed:
   - piedra
   - wood
   - ladrillo
-  - mortar
+  - mortero
 image: ../../../assets/images/inventions/steam-bath.jpg
 ---
 

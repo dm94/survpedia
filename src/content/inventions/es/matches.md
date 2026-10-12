@@ -42,7 +42,7 @@ Las cerillas funcionan mediante la ignición química inducida por fricción:
 
 - **Combustible:** Astillas de **[Madera](/es/materials/wood)**, **[Azufre](/es/materials/sulfur)**.
 - **Oxidante:** **[Nitrato de Potasio](/es/materials/potassium_nitrate)** (o clorato de potasio).
-- **Abrasivo:** **[Vidrio](/es/materials/glass)** triturado o **[Arena](/es/materials/sand)** fina.
+- **Abrasivo:** **[Vidrio](/es/materials/glass)** triturado o **[Arena](/es/materials/arena)** fina.
 - **Aglutinante:** **[Pegamento](/es/materials/glue)** (cola animal o almidón).
 - **Herramientas:** **[Cuchillo](/es/inventions/knife)** afilado para las astillas, **[Recipientes](/es/inventions/containers)** para mezclar.
 

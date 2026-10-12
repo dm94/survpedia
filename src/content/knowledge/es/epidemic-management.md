@@ -6,7 +6,7 @@ relatedMaterials:
   - alcohol
   - cotton
   - vinegar
-  - lime
+  - cal
 relatedInventions:
   - latrine
   - distillation
@@ -42,7 +42,7 @@ Gestionar una epidemia es coordinar higiene, aislamiento, saneamiento y comunica
 3. **Protección personal**: Usa **[Equipo de protección personal](/es/knowledge/equipo-de-proteccion-personal)** para cuidados, limpieza y manejo de residuos.
 4. **Agua segura**: Hierve, filtra o **[Destila](/es/inventions/distillation)** el agua para consumo.
 5. **Ventila espacios**: Usa **[Ventilación pasiva](/es/inventions/passive-ventilation)** y evita hacinamiento.
-6. **Residuos y excretas**: Implementa **[Letrinas](/es/inventions/latrine)** y desinfecta con **[Cal](/es/materials/lime)** cuando sea posible.
+6. **Residuos y excretas**: Implementa **[Letrinas](/es/inventions/latrine)** y desinfecta con **[Cal](/es/materials/cal)** cuando sea posible.
 7. **Limpieza programada**: Superficies de alto contacto se limpian con jabón o vinagre diluido.
 8. **Registro y comunicación**: Mantén listas de casos, contactos y reglas visibles.
 9. **Plan de vacunación**: Si hay vacunas disponibles, organiza la **[Vacunación](/es/knowledge/vacunacion)** con grupos prioritarios y almacenamiento seguro.
@@ -54,7 +54,7 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 ## Materiales necesarios
 
 - **Higiene**: **[Agua](/es/materials/water)**, **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
-- **Limpieza**: **[Vinagre](/es/materials/vinegar)** para desincrustar y **[Cal](/es/materials/lime)** para desinfección básica.
+- **Limpieza**: **[Vinagre](/es/materials/vinegar)** para desincrustar y **[Cal](/es/materials/cal)** para desinfección básica.
 - **Saneamiento**: **[Letrinas](/es/inventions/latrine)** y **[Contenedores](/es/inventions/containers)** cerrados.
 - **Aire**: **[Ventilación pasiva](/es/inventions/passive-ventilation)** para renovar espacios.
 
@@ -78,7 +78,7 @@ Básico a intermedio. La disciplina y la organización pesan más que la tecnolo
 - **[Agua](/es/materials/water)**: Base para higiene y consumo.
 - **[Jabón](/es/materials/soap)**: Eliminación mecánica de patógenos.
 - **[Alcohol](/es/materials/alcohol)**: Antiséptico cuando falta agua.
-- **[Cal](/es/materials/lime)**: Desinfección de residuos.
+- **[Cal](/es/materials/cal)**: Desinfección de residuos.
 - **[Aislamiento](/es/knowledge/aislamiento)**: Separación de casos para cortar transmisión.
 - **[Letrinas](/es/inventions/latrine)**: Corte de rutas fecales.
 - **[Contenedores](/es/inventions/containers)**: Almacenamiento seguro de insumos.

@@ -2,8 +2,8 @@
 title: Hormigón Asfáltico
 composition:
   - bitumen
-  - stone
-  - sand
+  - piedra
+  - arena
   - gravel
 properties:
   - Impermeable

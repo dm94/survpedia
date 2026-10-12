@@ -1,15 +1,15 @@
 ---
 title: Minería
 relatedMaterials:
-  - stone
+  - piedra
   - iron
   - copper
   - coal
   - charcoal
   - wood
   - water
-  - clay
-  - sand
+  - arcilla
+  - arena
   - gravel
 relatedInventions:
   - pico
@@ -33,7 +33,7 @@ La minería es la extracción controlada de minerales, roca y combustibles del s
 
 - **Metales**: Suministra menas para **[Hierro](/es/materials/iron)**, **[Cobre](/es/materials/copper)** y aleaciones.
 - **Combustible**: Provee **[Carbón mineral](/es/materials/coal)** para calor e industria.
-- **Construcción**: Entrega **[Piedra](/es/materials/stone)**, **[Arena](/es/materials/sand)** y **[Arcilla](/es/materials/clay)**.
+- **Construcción**: Entrega **[Piedra](/es/materials/piedra)**, **[Arena](/es/materials/arena)** y **[Arcilla](/es/materials/arcilla)**.
 - **Procesamiento de materiales**: Habilita fundición, cerámica y herramientas duraderas.
 - **Intercambio**: Concentra recursos valiosos para comercio.
 - **Escala**: Desde recolección manual hasta pozos y canteras organizadas.
@@ -61,8 +61,8 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 
 ## Materiales necesarios
 
-- **Esenciales**: Herramientas de **[Piedra](/es/materials/stone)** o **[Hierro](/es/materials/iron)**, **[Madera](/es/materials/wood)** para soportes, **[Refuerzos](/es/inventions/reinforcements)**, **[Cuerda](/es/inventions/rope)** para izado.
-- **Procesamiento**: **[Agua](/es/materials/water)** para lavado, **[Arena](/es/materials/sand)** o **[Arcilla](/es/materials/clay)** para moldes al fundir.
+- **Esenciales**: Herramientas de **[Piedra](/es/materials/piedra)** o **[Hierro](/es/materials/iron)**, **[Madera](/es/materials/wood)** para soportes, **[Refuerzos](/es/inventions/reinforcements)**, **[Cuerda](/es/inventions/rope)** para izado.
+- **Procesamiento**: **[Agua](/es/materials/water)** para lavado, **[Arena](/es/materials/arena)** o **[Arcilla](/es/materials/arcilla)** para moldes al fundir.
 - **Herramientas**: **[Pico](/es/inventions/pico)**, **[Pala](/es/inventions/shovel)**, **[Carro](/es/inventions/cart)**, **[Polea](/es/inventions/pulley)**, **[Fuego controlado](/es/inventions/fire)**, **[Lámpara de seguridad](/es/inventions/safety-lamp)** para luz en zonas con gases.
 - **Sustitutos**: Martillos de piedra, cestas tejidas, trineos o arrastres.
 
@@ -86,15 +86,15 @@ Básico para recolección superficial y bateo. Intermedio para fosas y galerías
 
 ### Materiales relacionados
 
-- **[Piedra](/es/materials/stone)**: Roca anfitriona y material estructural.
+- **[Piedra](/es/materials/piedra)**: Roca anfitriona y material estructural.
 - **[Hierro](/es/materials/iron)**: Metal objetivo para herramientas y máquinas.
 - **[Cobre](/es/materials/copper)**: Metal temprano extraído de menas.
 - **[Carbón mineral](/es/materials/coal)**: Combustible de alto calor.
 - **[Carbón vegetal](/es/materials/charcoal)**: Combustible de fundición más limpio.
 - **[Madera](/es/materials/wood)**: Soportes y mangos.
 - **[Agua](/es/materials/water)**: Lavado y control de polvo.
-- **[Arcilla](/es/materials/clay)**: Revestimientos y moldes.
-- **[Arena](/es/materials/sand)**: Abrasivo y templante de moldes.
+- **[Arcilla](/es/materials/arcilla)**: Revestimientos y moldes.
+- **[Arena](/es/materials/arena)**: Abrasivo y templante de moldes.
 - **[Grava](/es/materials/gravel)**: Drenaje y caminos de acceso.
 
 ### Inventos relacionados

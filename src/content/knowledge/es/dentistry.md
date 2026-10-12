@@ -8,7 +8,7 @@ relatedMaterials:
   - cotton
   - ash
   - charcoal
-  - clay
+  - arcilla
   - toothpaste
   - surgical-thread
   - bone
@@ -56,7 +56,7 @@ Básico a intermedio. La prevención es de baja tecnología; reparaciones y extr
 
 ## Materiales necesarios
 
-- **Esenciales**: **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)**, abrasivos suaves (**[Ceniza](/es/materials/ash)**, **[Carbón](/es/materials/charcoal)**, **[Arcilla](/es/materials/clay)**).
+- **Esenciales**: **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)**, abrasivos suaves (**[Ceniza](/es/materials/ash)**, **[Carbón](/es/materials/charcoal)**, **[Arcilla](/es/materials/arcilla)**).
 - **Higiene**: **[Jabón](/es/materials/soap)**, **[Alcohol](/es/materials/alcohol)**, **[Algodón](/es/materials/cotton)**.
 - **Herramientas**: **[Cepillo de dientes](/es/inventions/toothbrush)**, **[Herramientas de cirugía](/es/inventions/surgery-tools)**, **[Aguja](/es/inventions/needle)**.
 - **Consumibles**: **[Pasta de dientes](/es/materials/toothpaste)** cuando esté disponible.

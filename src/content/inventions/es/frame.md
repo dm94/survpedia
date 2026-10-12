@@ -5,7 +5,7 @@ materialsUsed:
   - steel
   - iron
   - concrete
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/frame.jpg
 ---
 

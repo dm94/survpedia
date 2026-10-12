@@ -35,7 +35,7 @@ Granos grandes adheridos a una mazorca central. Al secarse se endurecen y se pue
 - Secado: Las mazorcas se secan para reducir humedad.
 - Desgranado: Se separan los granos de la mazorca.
 - Molienda: Se muelen los granos en harina o sémola.
-- Cocción alcalina opcional: Mejora nutrición con **[Cal](/es/materials/lime)**.
+- Cocción alcalina opcional: Mejora nutrición con **[Cal](/es/materials/cal)**.
 
 ### Herramientas necesarias para trabajarlo
 
@@ -69,5 +69,5 @@ Granos grandes adheridos a una mazorca central. Al secarse se endurecen y se pue
 
 ### Materiales relacionados
 
-- **[Cal](/es/materials/lime)**: Usada en la cocción alcalina del maíz.
+- **[Cal](/es/materials/cal)**: Usada en la cocción alcalina del maíz.
 - **[Paja](/es/materials/paja)**: Los tallos sirven como cama y acolchado.

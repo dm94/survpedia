@@ -87,6 +87,6 @@ La pizarra es una roca metamórfica foliada de grano fino que se crea por la alt
 
 ### Materiales relacionados
 
--   **[Piedra](/es/materials/stone)**
--   **[Arcilla](/es/materials/clay)** (Material madre de la lutita, que se convierte en pizarra)
+-   **[Piedra](/es/materials/piedra)**
+-   **[Arcilla](/es/materials/arcilla)** (Material madre de la lutita, que se convierte en pizarra)
 -   **[Teja](/es/materials/tile)**

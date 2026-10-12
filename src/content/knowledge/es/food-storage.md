@@ -1,7 +1,7 @@
 ---
 title: "Almacenamiento de alimentos"
 image: ../../../assets/inventions/food-storage.jpg
-relatedMaterials: ["clay", "plant-fibers", "stone", "salt", "wood"]
+relatedMaterials: ["arcilla", "plant-fibers", "piedra", "salt", "wood"]
 ---
 
 # Breve descripción

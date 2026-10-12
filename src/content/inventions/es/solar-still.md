@@ -4,8 +4,8 @@ materialsUsed:
   - glass
   - plastic
   - water
-  - clay
-  - stone
+  - arcilla
+  - piedra
 image: ../../../assets/images/inventions/solar-still.jpg
 ---
 
@@ -31,7 +31,7 @@ El destilador solar replica el **ciclo del agua** natural (evaporación y conden
 
 ### Versión funcional mínima (Tipo balsa)
 
-1.  **Base**: Un recipiente poco profundo o un foso revestido con un material oscuro e impermeable (como **[Arcilla](/es/materials/clay)** o **[Plástico](/es/materials/plastic)** negro) para contener el agua impura.
+1.  **Base**: Un recipiente poco profundo o un foso revestido con un material oscuro e impermeable (como **[Arcilla](/es/materials/arcilla)** o **[Plástico](/es/materials/plastic)** negro) para contener el agua impura.
 2.  **Cubierta**: Una lámina de **[Vidrio](/es/materials/glass)** o **[Plástico](/es/materials/plastic)** colocada sobre la base con cierto ángulo.
 3.  **Canal de recolección**: Un canal limpio o un pequeño recipiente colocado en el punto más bajo de la inclinación de la cubierta.
 4.  **Sellado**: Asegurarse de que los bordes sean herméticos para evitar que escape el vapor.
@@ -44,7 +44,7 @@ Básico. Puede construirse con materiales improvisados.
 
 - **Materiales esenciales**:
   - **Cubierta transparente**: **[Vidrio](/es/materials/glass)** o película de **[Plástico](/es/materials/plastic)**.
-  - **Revestimiento impermeable**: **[Arcilla](/es/materials/clay)**, base de **[Piedra](/es/materials/stone)** o lámina de plástico.
+  - **Revestimiento impermeable**: **[Arcilla](/es/materials/arcilla)**, base de **[Piedra](/es/materials/piedra)** o lámina de plástico.
   - **Recipiente de recolección**: Cualquier **[Recipiente](/es/inventions/containers)** limpio.
 - **Herramientas**:
   - Pala (si se cava un foso), herramientas de corte básicas.

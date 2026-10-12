@@ -4,7 +4,7 @@ materialsUsed:
   - metal
   - wood
   - plastic
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/gutter.jpg
 ---
 
@@ -40,7 +40,7 @@ Los canalones funcionan por **gravedad**. Se instalan con una ligera pendiente h
 - **[Metal](/es/materials/metal):** Cobre (duradero, costoso), Aluminio (ligero, inoxidable), Acero (fuerte, necesita pintura), Zinc.
 - **[Madera](/es/materials/wood):** Cedro o secoya (naturalmente resistentes a la podredumbre), a menudo revestidos con metal o alquitrán.
 - **Plástico (PVC):** Barato, fácil de instalar, pero puede agrietarse con el frío/UV.
-- **[Piedra](/es/materials/stone):** Canalones de piedra tallada (gárgolas) en edificios históricos.
+- **[Piedra](/es/materials/piedra):** Canalones de piedra tallada (gárgolas) en edificios históricos.
 
 ## Variantes y mejoras
 

@@ -1,13 +1,13 @@
 ---
 title: Cimientos (Foundation)
 materialsUsed:
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - concrete
   - wood
   - steel
   - cement
-  - mortar
+  - mortero
 image: ../../../assets/images/inventions/cimientos.jpg
 ---
 

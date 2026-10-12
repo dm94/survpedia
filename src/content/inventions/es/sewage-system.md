@@ -2,7 +2,7 @@
 title: Sistema de Alcantarillado
 materialsUsed:
   - concrete
-  - brick
+  - ladrillo
   - plastic
   - ceramic
 image: ../../../assets/images/inventions/sewage-system.jpg

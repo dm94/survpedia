@@ -1,7 +1,7 @@
 ---
 title: "Cocción de alimentos"
 image: ../../../assets/inventions/food-cooking.jpg
-relatedMaterials: ["wood", "stone", "clay", "water"]
+relatedMaterials: ["wood", "piedra", "arcilla", "water"]
 ---
 
 # Breve descripción

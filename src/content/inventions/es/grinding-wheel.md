@@ -33,7 +33,7 @@ La muela consta de granos abrasivos unidos por un agente aglomerante. A medida q
 
 ### Versión avanzada (Aglomerante Vitrificado)
 
-1.  **Abrasivo:** Triture y tamice material duro (**[Arena](/es/materials/arena)**, **[Esmeril](/es/materials/piedra)**, **[Corindón](/es/materials/ruby)**) a un tamaño de grano específico.
+1.  **Abrasivo:** Triture y tamice material duro (**[Arena](/es/materials/arena)**, **[Esmeril](/es/materials/piedra)**, **[Corindón](/es/materials/rubi)**) a un tamaño de grano específico.
 2.  **Mezcla:** Mezcle con un agente aglomerante (generalmente **[Arcilla](/es/materials/arcilla)** y feldespato).
 3.  **Moldeo:** Presione la mezcla en un molde a alta presión.
 4.  **Cocción:** Cueza en un **[Horno](/es/inventions/horno)** a alta temperatura para vitrificar (convertir en vidrio) el aglomerante.

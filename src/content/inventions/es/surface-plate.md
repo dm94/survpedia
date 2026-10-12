@@ -2,7 +2,7 @@
 title: Mármol de Verificación
 materialsUsed:
   - cast-iron
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/surface-plate.jpg
 ---
 
@@ -24,7 +24,7 @@ Un mármol de verificación (o placa de superficie) es un bloque sólido y plano
 
 ## Cómo crearlo
 
-1. **Fundir o cortar la base:** Fundir una placa con nervaduras de **[Hierro fundido](/es/materials/cast-iron)** con una superficie superior gruesa o cantear un bloque de granito o **[Piedra](/es/materials/stone)** libre de tensiones internas.
+1. **Fundir o cortar la base:** Fundir una placa con nervaduras de **[Hierro fundido](/es/materials/cast-iron)** con una superficie superior gruesa o cantear un bloque de granito o **[Piedra](/es/materials/piedra)** libre de tensiones internas.
 2. **Alivio de tensiones:** Dejar envejecer la pieza de fundición o aplicar un tratamiento térmico para eliminar tensiones internas que puedan provocar deformaciones con el tiempo.
 3. **Mecanizado bruto:** Cepillar o rectificar la superficie superior para lograr un plano aproximado.
 4. **Método de rascado de tres placas:** Preparar tres placas idénticas. Aplicar pigmento (azul de Prusia) a una placa, frotarla contra la segunda y utilizar una rasqueta manual para rebajar los puntos de contacto resaltados. Repetir este proceso rotatorio entre las placas A, B y C hasta eliminar todos los puntos altos.
@@ -32,7 +32,7 @@ Un mármol de verificación (o placa de superficie) es un bloque sólido y plano
 
 ## Materiales necesarios
 
-- **Cuerpo del mármol:** **[Hierro fundido](/es/materials/cast-iron)** con nervaduras de refuerzo o **[Piedra](/es/materials/stone)** de granito negro.
+- **Cuerpo del mármol:** **[Hierro fundido](/es/materials/cast-iron)** con nervaduras de refuerzo o **[Piedra](/es/materials/piedra)** de granito negro.
 - **Herramientas de rascado:** Rasquetas manuales de acero al carbono endurecido o metal duro (carburo).
 - **Abrasivos y fluido de marcaje:** Azul de Prusia en óleo y compuestos de lapeado de esmeril fino o carburo de silicio.
 
@@ -58,4 +58,4 @@ Un mármol de verificación (o placa de superficie) es un bloque sólido y plano
 ### Materiales Relacionados
 
 - **[Hierro Fundido](/es/materials/cast-iron)**
-- **[Piedra](/es/materials/stone)**
+- **[Piedra](/es/materials/piedra)**

@@ -3,7 +3,7 @@ title: Soldadura
 relatedMaterials:
   - iron
   - steel
-  - sand
+  - arena
   - flux
   - charcoal
   - acetylene
@@ -32,7 +32,7 @@ La soldadura moderna utiliza electricidad (soldadura por arco) o llamas de gas p
 
 1.  **Preparación**: Limpiar las superficies a unir. Eliminar óxido y cascarilla.
 2.  **Calentamiento**: Calentar el metal en una **[Fragua (Forge)](/es/inventions/forge)** hasta que esté amarillo brillante o blanco (cerca del punto de fusión).
-3.  **Aplicación de Fundente**: Aplicar **[Fundente (Flux)](/es/materials/flux)** (como **[Arena (Sand)](/es/materials/sand)** o Bórax) al área calentada para prevenir la oxidación y eliminar impurezas.
+3.  **Aplicación de Fundente**: Aplicar **[Fundente (Flux)](/es/materials/flux)** (como **[Arena (Sand)](/es/materials/arena)** o Bórax) al área calentada para prevenir la oxidación y eliminar impurezas.
 4.  **Unión**: Colocar rápidamente las piezas juntas sobre un **[Yunque (Anvil)](/es/inventions/anvil)** y golpearlas con un **[Martillo (Hammer)](/es/inventions/hammer)**. La fuerza expulsa impurezas y fusiona el metal.
 
 ## Importancia

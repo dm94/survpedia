@@ -2,7 +2,7 @@
 title: Cuña
 materialsUsed:
   - wood
-  - stone
+  - piedra
   - iron
 image: ../../../assets/images/inventions/wedge.jpg
 ---

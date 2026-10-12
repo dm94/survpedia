@@ -33,7 +33,7 @@ Aparece como piedras o guijarros de color gris a marrón o negro. Cuando está s
 
 ### Procesamiento mínimo requerido
 
-1.  **Materias Primas**: Mezclar **[Cal Viva (Lime)](/es/materials/lime)** y **[Carbón (Coke/Charcoal)](/es/materials/coal)** (o carbón vegetal) en una proporción de 60/40.
+1.  **Materias Primas**: Mezclar **[Cal Viva (Lime)](/es/materials/cal)** y **[Carbón (Coke/Charcoal)](/es/materials/coal)** (o carbón vegetal) en una proporción de 60/40.
 2.  **Fusión**: Calentar la mezcla en un **[Horno de Arco Eléctrico](/es/inventions/arc-welder)** (usando electrodos de carbono grandes y alta corriente). La reacción es: $CaO + 3C \rightarrow CaC_2 + CO$.
 3.  **Enfriamiento**: El carburo fundido se extrae y se deja enfriar hasta solidificarse.
 4.  **Trituración**: Se rompe en trozos del tamaño deseado para los generadores.
@@ -70,5 +70,5 @@ Aparece como piedras o guijarros de color gris a marrón o negro. Cuando está s
 ### Materiales relacionados
 
 - **[Acetileno](/es/materials/acetylene)**: El producto principal.
-- **[Cal (Lime)](/es/materials/lime)**: La materia prima de calcio.
+- **[Cal (Lime)](/es/materials/cal)**: La materia prima de calcio.
 - **[Carbón (Coal/Charcoal)](/es/materials/charcoal)**: La fuente de carbono.

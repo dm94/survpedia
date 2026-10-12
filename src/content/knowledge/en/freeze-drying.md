@@ -1,7 +1,11 @@
 ---
-title: "Freeze Drying"
-relatedMaterials: ["water"]
-relatedInventions: ["vacuum-pump", "containers"]
+title: Freeze Drying
+relatedMaterials:
+  - water
+relatedInventions:
+  - vacuum-pump
+  - containers
+image: ../../../assets/images/knowledge/freeze-drying.jpg
 ---
 
 # Freeze Drying (Lyophilization)

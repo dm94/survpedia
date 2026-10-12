@@ -36,17 +36,22 @@ const metaDescription =
   rawDescription.length > 0 ? rawDescription : entry.data.title;
 const metaImage = entry.data.image?.src ?? "/logo.png";
 
-const materialLinks: { id: string; href: string; name: string }[] =
-  await Promise.all(
-    (entry.data.materialsUsed || ([] as string[])).map(async (id: any) => {
-      const material = await getEntry("materials", `${lang}/${id}`);
-      return {
-        id,
-        href: `/${lang}/materials/${id}`,
-        name: material?.data.title || id,
-      };
-    })
-  );
+const materialLinks: {
+  id: string;
+  href: string;
+  name: string;
+  exists: boolean;
+}[] = await Promise.all(
+  (entry.data.materialsUsed || ([] as string[])).map(async (id: string) => {
+    const material = await getEntry("materials", `${lang}/${id}`);
+    return {
+      id,
+      href: `/${lang}/materials/${id}`,
+      name: material?.data.title ?? id,
+      exists: Boolean(material),
+    };
+  })
+);
 ---
 
 <Layout
@@ -96,14 +101,20 @@ const materialLinks: { id: string; href: string; name: string }[] =
                 {t("common.madeOf")}
               </h3>
               <div class="flex flex-wrap gap-2">
-                {materialLinks.map(link => (
-                  <a
-                    href={link.href}
-                    class="bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-blue-700 dark:text-blue-300 px-3 py-1 rounded-full text-sm font-medium transition-colors capitalize"
-                  >
-                    {link.name}
-                  </a>
-                ))}
+                {materialLinks.map(link =>
+                  link.exists ? (
+                    <a
+                      href={link.href}
+                      class="bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-blue-700 dark:text-blue-300 px-3 py-1 rounded-full text-sm font-medium transition-colors capitalize"
+                    >
+                      {link.name}
+                    </a>
+                  ) : (
+                    <span class="bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 px-3 py-1 rounded-full text-sm font-medium capitalize">
+                      {link.name}
+                    </span>
+                  )
+                )}
               </div>
             </div>
           )

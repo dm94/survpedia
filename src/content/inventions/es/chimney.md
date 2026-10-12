@@ -2,7 +2,7 @@
 title: Chimenea
 materialsUsed:
   - ladrillo
-  - mortar
+  - mortero
 image: ../../../assets/images/inventions/chimney.jpg
 ---
 

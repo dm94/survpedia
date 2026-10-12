@@ -4,7 +4,7 @@ materialsUsed:
   - gunpowder
   - paper
   - wood
-  - clay
+  - arcilla
   - glue
 image: ../../../assets/images/inventions/cohete.jpg
 ---

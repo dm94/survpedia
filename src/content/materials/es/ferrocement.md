@@ -3,7 +3,7 @@ title: Ferrocemento
 composition:
   - wire
   - steel
-  - sand
+  - arena
   - cement
   - water
 properties:

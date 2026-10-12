@@ -44,7 +44,7 @@ El vidrio de borosilicato es un tipo de vidrio que tiene sílice y trióxido de 
 El vidrio de borosilicato es completamente sintético y no se produce de forma natural.
 
 - **Componentes:**
-  1.  **[Arena](/es/materials/sand) (Sílice / SiO2):** La red principal formadora de vidrio (aprox. 70-80%).
+  1.  **[Arena](/es/materials/arena) (Sílice / SiO2):** La red principal formadora de vidrio (aprox. 70-80%).
   2.  **Óxido Bórico (B2O3):** El aditivo clave (aprox. 10-13%) que reduce el coeficiente de expansión térmica. Se obtiene mediante el procesamiento de boratos minerales.
   3.  **[Sosa](/es/materials/soda) / [Potasa](/es/materials/potash):** Fundentes para ayudar a la fusión.
   4.  **Alúmina (Al2O3):** Mejora la durabilidad química.
@@ -93,5 +93,5 @@ El vidrio de borosilicato es completamente sintético y no se produce de forma n
 ### Materiales relacionados
 
 - **[Vidrio](/es/materials/glass):** El material hermano fundamental.
-- **[Arena](/es/materials/sand):** El ingrediente principal.
+- **[Arena](/es/materials/arena):** El ingrediente principal.
 - **[Ácido sulfúrico](/es/materials/sulfuric-acid):** A menudo almacenado o procesado dentro de recipientes de borosilicato.

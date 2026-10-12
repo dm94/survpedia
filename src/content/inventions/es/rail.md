@@ -4,7 +4,7 @@ materialsUsed:
   - iron
   - steel
   - wood
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/rail.jpg
 ---
 
@@ -33,7 +33,7 @@ La interacción entre la rueda de acero y el riel de acero produce una **fricci�
 
 - **Riel:** Acero de alto carbono.
 - **Durmientes:** Madera dura tratada u Hormigón pretensado.
-- **Balasto:** **[Piedra](/es/materials/stone)** triturada (Grava) para drenar el agua y bloquear los durmientes en su lugar.
+- **Balasto:** **[Piedra](/es/materials/piedra)** triturada (Grava) para drenar el agua y bloquear los durmientes en su lugar.
 - **Sujetadores:** Clavos de acero, pernos y clips.
 
 ## Variantes y mejoras

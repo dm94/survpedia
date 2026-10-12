@@ -4,9 +4,9 @@ materialsUsed:
   - iron
   - charcoal
   - limestone
-  - clay
-  - brick
-  - stone
+  - arcilla
+  - ladrillo
+  - piedra
   - water
 image: ../../../assets/images/inventions/blast-furnace.jpg
 ---
@@ -33,7 +33,7 @@ El alto horno es un reactor químico que funciona mediante un proceso de contrac
 ## Cómo crearla
 
 ### Versión funcional mínima
-1. **La Cuba**: Una estructura alta similar a una chimenea construida con **[Ladrillo](/es/materials/brick)** o **[Piedra](/es/materials/stone)** resistente al calor, revestida con **[Arcilla](/es/materials/clay)** refractaria.
+1. **La Cuba**: Una estructura alta similar a una chimenea construida con **[Ladrillo](/es/materials/ladrillo)** o **[Piedra](/es/materials/piedra)** resistente al calor, revestida con **[Arcilla](/es/materials/arcilla)** refractaria.
 2. **Suministro de aire**: Grandes **[Fuelles](/es/inventions/bellows)**, a menudo accionados por una **[Rueda hidráulica](/es/inventions/water-wheel)**, para proporcionar un soplo de aire constante.
 3. **El Crisol**: Un área de recolección en la base para el metal fundido.
 
@@ -43,7 +43,7 @@ Avanzado. Requiere maestría en albañilería, sistemas de suministro de aire a 
 ## Materiales necesarios
 
 - **Esenciales**: Mineral de hierro, **[Carbón vegetal](/es/materials/charcoal)**, **[Caliza](/es/materials/caliza)**.
-- **Construcción**: **[Arcilla](/es/materials/clay)** refractaria, ladrillos de fuego, piedra pesada para el revestimiento exterior.
+- **Construcción**: **[Arcilla](/es/materials/arcilla)** refractaria, ladrillos de fuego, piedra pesada para el revestimiento exterior.
 - **Infraestructura**: Una fuente de agua fiable (para energía), grandes fuelles.
 
 ## Variantes y mejoras

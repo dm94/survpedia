@@ -64,5 +64,5 @@ Típicamente consiste en un núcleo de alambre de metal recto cubierto por una c
 
 - **[Acero](/es/materials/steel)**: El material de núcleo más común.
 - **[Fundente](/es/materials/flux)**: El material de revestimiento.
-- **[Cal](/es/materials/lime)**: Ingrediente común del fundente.
+- **[Cal](/es/materials/cal)**: Ingrediente común del fundente.
 - **[Arena](/es/materials/arena)**: Fuente de sílice para el fundente.

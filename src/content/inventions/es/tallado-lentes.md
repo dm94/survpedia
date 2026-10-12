@@ -3,7 +3,7 @@ title: Tallado de Lentes
 materialsUsed:
   - glass
   - quartz
-  - sand
+  - arena
   - water
   - pitch
   - iron

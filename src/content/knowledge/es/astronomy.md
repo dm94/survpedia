@@ -1,6 +1,6 @@
 ---
 title: "Astronomía"
-relatedMaterials: ["stone", "wood", "glass", "paper", "ink"]
+relatedMaterials: ["piedra", "wood", "glass", "paper", "ink"]
 image: ../../../assets/inventions/astronomy.jpg
 ---
 

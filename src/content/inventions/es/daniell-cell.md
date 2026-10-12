@@ -64,7 +64,7 @@ La pila Daniell convierte la energía química en energía eléctrica mediante r
 - **Electrodo de zinc**: Placa negativa. Obtenido de **[Zinc](/es/materials/zinc)**.
 - **Ácido sulfúrico / Sulfato de zinc**: Electrolito del ánodo. Obtenido de **[Ácido sulfúrico](/es/materials/sulfuric-acid)**.
 - **Sulfato de cobre**: Electrolito del cátodo. Obtenido a partir de mineral de cobre procesado con ácido sulfúrico.
-- **Vaso de arcilla porosa**: Barrera de soluto. Obtenido de **[Arcilla](/es/materials/clay)** sin esmaltar.
+- **Vaso de arcilla porosa**: Barrera de soluto. Obtenido de **[Arcilla](/es/materials/arcilla)** sin esmaltar.
 - **Recipiente exterior**: Obtenido de **[Vidrio](/es/materials/glass)**.
 - **Cable de conexión**: Obtenido de **[Cable](/es/materials/wire)**.
 

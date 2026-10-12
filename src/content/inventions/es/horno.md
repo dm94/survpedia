@@ -17,7 +17,7 @@ Un horno es una cámara térmicamente aislada utilizada para calentar, cocer o s
 - **Preparación de alimentos:** Cocer pan y cocinar alimentos.
 - **[Alfarería](/es/inventions/pottery):** Cocer [arcilla](/es/materials/arcilla) para crear [cerámica](/es/materials/ceramics).
 - **Metalurgia:** Fundir minerales y metales.
-- **Fabricación:** Creación de [ladrillos](/es/materials/ladrillo) y [cal](/es/materials/lime).
+- **Fabricación:** Creación de [ladrillos](/es/materials/ladrillo) y [cal](/es/materials/cal).
 
 ## Principio de funcionamiento
 
@@ -34,7 +34,7 @@ El horno funciona confinando el calor dentro de un espacio aislado. Al controlar
 ## Materiales necesarios
 
 - **Estructura:** [Arcilla](/es/materials/arcilla), barro, ladrillos refractarios o [piedras](/es/materials/piedra) resistentes al calor.
-- **Ligante:** [Arcilla](/es/materials/arcilla) húmeda o [mortero](/es/materials/mortar).
+- **Ligante:** [Arcilla](/es/materials/arcilla) húmeda o [mortero](/es/materials/mortero).
 - **Combustible:** [Madera](/es/materials/wood), [carbón vegetal](/es/materials/charcoal) o [carbón mineral](/es/materials/coal).
 - **Herramientas:** Palas, pinzas y potencialmente fuelles para temperaturas más altas.
 

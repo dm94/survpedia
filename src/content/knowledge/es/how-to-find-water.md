@@ -2,7 +2,7 @@
 title: Cómo encontrar agua
 relatedMaterials:
   - water
-  - sand
+  - arena
   - charcoal
   - plant-fibers
 image: ../../../assets/images/knowledge/how-to-find-water.jpg
@@ -30,12 +30,12 @@ El agua sigue la **gravedad** y se acumula en puntos bajos. También se hace vis
 3. **Buscar agua superficial:** Manantiales, filtraciones en la base de rocas, pozas temporales tras lluvias.
 4. **Extraer agua subterránea:** En lechos secos, cavar un pozo somero en el interior de las curvas del cauce y esperar a que el agua filtre.
 5. **Recolectar rocío:** Pasar una tela o fibras vegetales por hierba húmeda al amanecer y exprimir en un recipiente.
-6. **Asegurar potabilidad:** Filtrar con capas de **[arena](/es/materials/sand)** y **[carbón vegetal](/es/materials/charcoal)** y luego hervir cuando sea posible.
+6. **Asegurar potabilidad:** Filtrar con capas de **[arena](/es/materials/arena)** y **[carbón vegetal](/es/materials/charcoal)** y luego hervir cuando sea posible.
 
 ## Materiales necesarios
 
 - **Esenciales:** Recipiente impermeable, cuerda o **[fibras vegetales](/es/materials/plant-fibers)**, herramienta de excavación básica.
-- **Filtrado:** **[Arena](/es/materials/sand)**, **[carbón vegetal](/es/materials/charcoal)**, tela o fibras compactadas.
+- **Filtrado:** **[Arena](/es/materials/arena)**, **[carbón vegetal](/es/materials/charcoal)**, tela o fibras compactadas.
 - **Sustitutos:** Hielo o nieve derretida, agua de lluvia recién recolectada.
 
 ## Variantes y mejoras

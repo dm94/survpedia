@@ -2,9 +2,9 @@
 title: Horno de Carbón Vegetal
 materialsUsed:
   - wood
-  - clay
-  - stone
-  - brick
+  - arcilla
+  - piedra
+  - ladrillo
   - water
 image: ../../../assets/images/inventions/charcoal-kiln.jpg
 ---

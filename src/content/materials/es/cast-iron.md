@@ -45,7 +45,7 @@ Es un metal duro y gris (a menos que sea hierro fundido blanco). Tiene una fract
 ### Herramientas necesarias para trabajar con él
 
 - **Horno:** Para fundir el hierro.
-- **Moldes:** Generalmente hechos de arena mezclada con arcilla (**[Arena verde](/es/materials/sand)**).
+- **Moldes:** Generalmente hechos de arena mezclada con arcilla (**[Arena verde](/es/materials/arena)**).
 - **Limas/Amoladoras:** Para suavizar la fundición rugosa.
 - **Máquinas herramienta:** Tornos y fresadoras para mecanizar superficies precisas (se mecaniza muy bien, produciendo virutas cortas).
 
@@ -77,4 +77,4 @@ Es un metal duro y gris (a menos que sea hierro fundido blanco). Tiene una fract
 - **[Hierro](/es/materials/iron)**
 - **[Acero](/es/materials/steel)**
 - **[Carbono](/es/elements/carbon)**
-- **[Arena](/es/materials/sand)** (para moldes)
+- **[Arena](/es/materials/arena)** (para moldes)

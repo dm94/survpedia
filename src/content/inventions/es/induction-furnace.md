@@ -3,7 +3,7 @@ title: Horno de inducción
 materialsUsed:
   - copper
   - wire
-  - clay
+  - arcilla
   - steel
   - graphite
 image: ../../../assets/images/inventions/induction-furnace.jpg
@@ -29,7 +29,7 @@ Un horno de inducción es un horno eléctrico en el que el calor se aplica media
 ## Cómo crearlo
 
 1. **Formar la bobina de inducción:** Enrollar tubería de **[Cobre](/es/materials/copper)** hueca pesada en una hélice apretada para servir como devanado primario de inducción.
-2. **Construir el crisol refractario:** Moldear un crisol no conductor resistente a altas temperaturas con **[Arcilla](/es/materials/clay)** refractaria, alúmina o **[Grafito](/es/materials/graphite)** colocado dentro de la bobina de cobre.
+2. **Construir el crisol refractario:** Moldear un crisol no conductor resistente a altas temperaturas con **[Arcilla](/es/materials/arcilla)** refractaria, alúmina o **[Grafito](/es/materials/graphite)** colocado dentro de la bobina de cobre.
 3. **Configurar el circuito de potencia de CA:** Conectar un generador o inversor de CA de alta frecuencia (utilizando osciladores de **[Válvula de vacío](/es/inventions/vacuum-tube)** o **[Transistor](/es/inventions/transistor)**) para suministrar alta corriente.
 4. **Integrar sistema de refrigeración:** Bombear agua de refrigeración a través del tubo de cobre hueco de la bobina para evitar que el devanado se sobrecaliente.
 5. **Cerrar y blindar:** Montar el conjunto de la bobina dentro de un marco pesado de **[Acero](/es/materials/steel)** o no magnético con aislamiento eléctrico.
@@ -37,7 +37,7 @@ Un horno de inducción es un horno eléctrico en el que el calor se aplica media
 ## Materiales necesarios
 
 - **Bobina:** **[Cable](/es/materials/wire)** / tubería pesada de **[Cobre](/es/materials/copper)** hueco.
-- **Crisol:** **[Arcilla](/es/materials/clay)** refractaria o **[Grafito](/es/materials/graphite)**.
+- **Crisol:** **[Arcilla](/es/materials/arcilla)** refractaria o **[Grafito](/es/materials/graphite)**.
 - **Estructura y soporte:** Estructura de **[Acero](/es/materials/steel)** e aislamiento térmico cerámico.
 - **Electrónica de potencia:** **[Transformador](/es/inventions/transformer)**, banco de **[Capacitor](/es/inventions/capacitor)** e inversor de alta frecuencia.
 
@@ -64,6 +64,6 @@ Un horno de inducción es un horno eléctrico en el que el calor se aplica media
 
 - **[Cobre](/es/materials/copper)**
 - **[Cable](/es/materials/wire)**
-- **[Arcilla](/es/materials/clay)**
+- **[Arcilla](/es/materials/arcilla)**
 - **[Acero](/es/materials/steel)**
 - **[Grafito](/es/materials/graphite)**

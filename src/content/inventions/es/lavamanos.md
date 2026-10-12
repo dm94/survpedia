@@ -2,7 +2,7 @@
 title: Lavamanos
 materialsUsed:
   - ceramics
-  - stone
+  - piedra
   - metal
   - plastic
   - wood

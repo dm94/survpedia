@@ -2,8 +2,8 @@
 title: Edificio
 materialsUsed:
   - wood
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - concrete
   - glass
   - steel
@@ -40,7 +40,7 @@ Un edificio funciona como un **sistema de sistemas**:
 
 ## Materiales necesarios
 
-- **Estructural:** **[Madera](/es/materials/wood)**, **[Acero](/es/materials/steel)**, **[Hormigón](/es/materials/concrete)**, **[Piedra](/es/materials/stone)**, **[Ladrillo](/es/materials/brick)**.
+- **Estructural:** **[Madera](/es/materials/wood)**, **[Acero](/es/materials/steel)**, **[Hormigón](/es/materials/concrete)**, **[Piedra](/es/materials/piedra)**, **[Ladrillo](/es/materials/ladrillo)**.
 - **Cerramiento:** **[Vidrio](/es/materials/glass)**, revestimiento, **[Teja](/es/materials/tile)**.
 - **Acabado:** Yeso, pintura, pavimento.
 
@@ -72,4 +72,4 @@ Un edificio funciona como un **sistema de sistemas**:
 - **[Hormigón](/es/materials/concrete)**
 - **[Acero](/es/materials/steel)**
 - **[Vidrio](/es/materials/glass)**
-- **[Ladrillo](/es/materials/brick)**
+- **[Ladrillo](/es/materials/ladrillo)**

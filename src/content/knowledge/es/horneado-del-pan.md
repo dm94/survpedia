@@ -6,14 +6,14 @@ relatedMaterials:
   - yeast
   - salt
   - wood
-  - clay
-  - stone
+  - arcilla
+  - piedra
   - charcoal
 relatedInventions:
   - bread
   - fermentation
   - hand-mill
-  - mortar
+  - mortero
   - kiln
   - fire
   - containers

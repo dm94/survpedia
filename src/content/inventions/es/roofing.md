@@ -2,8 +2,8 @@
 title: Techado
 materialsUsed:
   - wood
-  - stone
-  - clay
+  - piedra
+  - arcilla
   - metal
   - straw
   - tile
@@ -81,6 +81,6 @@ La mayoría de los sistemas de techado dependen de la **gravedad** y las **capas
 - **[Teja](/es/materials/tile)**
 - **[Pizarra](/es/materials/slate)**
 - **[Madera](/es/materials/wood)**
-- **[Piedra](/es/materials/stone)**
+- **[Piedra](/es/materials/piedra)**
 - **[Metal](/es/materials/metal)**
 - **[Paja](/es/materials/paja)**

@@ -2,7 +2,7 @@
 title: Crisol
 aiGenerated: true
 materialsUsed:
-  - clay
+  - arcilla
   - graphite
 image: ../../../assets/images/inventions/crucible.jpg
 ---

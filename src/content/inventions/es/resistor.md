@@ -2,7 +2,7 @@
 title: Resistencia
 materialsUsed:
   - graphite
-  - clay
+  - arcilla
   - copper
   - iron
   - wood
@@ -31,7 +31,7 @@ Una resistencia funciona obstruyendo el flujo de electrones a través de un mate
 ## Cómo crearlo
 
 ### Resistencia de composición de carbono (Primitiva)
-1.  **Mezcla resistiva:** Mezcla **[Grafito](/es/materials/graphite)** en polvo (de la mina de un lápiz o carbón) con un aglutinante como **[Arcilla](/es/materials/clay)** o resina.
+1.  **Mezcla resistiva:** Mezcla **[Grafito](/es/materials/graphite)** en polvo (de la mina de un lápiz o carbón) con un aglutinante como **[Arcilla](/es/materials/arcilla)** o resina.
 2.  **Modelado:** Forma la mezcla en una pequeña varilla o cilindro. La proporción de grafito y aglutinante determina la resistencia (más grafito = menor resistencia).
 3.  **Cables:** Inserta cables de **[Cobre](/es/materials/copper)** o **[Hierro](/es/materials/iron)** en cada extremo de la varilla mientras aún esté húmeda/blanda.
 4.  **Cocción/Curado:** Hornea la varilla en un **[Horno](/es/inventions/kiln)** o deja que la resina se endurezca.
@@ -45,7 +45,7 @@ Una resistencia funciona obstruyendo el flujo de electrones a través de un mate
 ## Materiales necesarios
 
 - **Materiales resistivos**: **[Grafito](/es/materials/graphite)**, **[Carbón](/es/materials/coal)** o cable fino de **[Hierro](/es/materials/iron)**.
-- **Aglutinantes/Soportes**: **[Arcilla](/es/materials/clay)**, **[Cerámica](/es/materials/ceramics)**, **[Vidrio](/es/materials/glass)** o **[Madera](/es/materials/wood)**.
+- **Aglutinantes/Soportes**: **[Arcilla](/es/materials/arcilla)**, **[Cerámica](/es/materials/ceramics)**, **[Vidrio](/es/materials/glass)** o **[Madera](/es/materials/wood)**.
 - **Conductores**: **[Cobre](/es/materials/copper)** o **[Hierro](/es/materials/iron)** para los cables.
 
 ## Variantes y mejoras

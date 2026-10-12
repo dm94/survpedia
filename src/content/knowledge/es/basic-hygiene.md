@@ -1,6 +1,6 @@
 ---
 title: "Higiene básica"
-relatedMaterials: ["water", "soap", "ash", "sand", "toothpaste"]
+relatedMaterials: ["water", "soap", "ash", "arena", "toothpaste"]
 image: ../../../assets/inventions/basic-hygiene.jpg
 ---
 

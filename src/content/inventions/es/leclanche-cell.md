@@ -5,7 +5,7 @@ materialsUsed:
   - charcoal
   - graphite
   - glass
-  - clay
+  - arcilla
   - salt
   - water
   - wire
@@ -59,7 +59,7 @@ _Nivel técnico_: Intermedio. Requiere un manejo cuidadoso de los productos quí
   - Sal de cloruro de amonio (o sal común como sustituto temporal).
   - **[Agua](/es/materials/water)**.
 - **Recipientes**:
-  - Vasija de **[Arcilla](/es/materials/clay)** sin vidriar (barrera porosa).
+  - Vasija de **[Arcilla](/es/materials/arcilla)** sin vidriar (barrera porosa).
   - Tarro de **[Vidrio](/es/materials/glass)** (contenedor exterior).
 - **Conductores**:
   - **[Cable](/es/materials/wire)** metálico.

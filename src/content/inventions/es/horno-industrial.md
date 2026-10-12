@@ -1,9 +1,9 @@
 ---
 title: Horno Industrial
 materialsUsed:
-  - clay
-  - brick
-  - stone
+  - arcilla
+  - ladrillo
+  - piedra
   - charcoal
   - iron
 image: ../../../assets/images/inventions/horno-industrial.jpg

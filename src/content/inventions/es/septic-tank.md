@@ -4,7 +4,7 @@ materialsUsed:
   - concrete
   - plastic
   - fiberglass
-  - brick
+  - ladrillo
 image: ../../../assets/images/inventions/septic-tank.jpg
 ---
 
@@ -39,7 +39,7 @@ Un sistema de tratamiento de aguas residuales subterráneo y localizado para ár
 
 ## Materiales necesarios
 
-- **Tanque**: **[Hormigón](/es/materials/concrete)** (prefabricado o vertido), **[Plástico](/es/materials/plastic)** (polietileno), **[Fibra de vidrio](/es/materials/fiberglass)**, o **[Ladrillo](/es/materials/brick)** (histórico, sellado con mortero).
+- **Tanque**: **[Hormigón](/es/materials/concrete)** (prefabricado o vertido), **[Plástico](/es/materials/plastic)** (polietileno), **[Fibra de vidrio](/es/materials/fiberglass)**, o **[Ladrillo](/es/materials/ladrillo)** (histórico, sellado con mortero).
 - **Tuberías**: **[Plástico](/es/materials/plastic)** (PVC) para conexiones y líneas de drenaje perforadas.
 - **Grava/Piedra**: Para el lecho del campo de drenaje.
 - **Suelo**: El filtro final.

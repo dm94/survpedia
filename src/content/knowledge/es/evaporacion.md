@@ -4,7 +4,7 @@ relatedMaterials:
   - water
   - salt
   - sugar
-  - clay
+  - arcilla
   - wood
   - charcoal
 relatedInventions:
@@ -44,7 +44,7 @@ La evaporación es el cambio de fase en el que el agua líquida pasa a vapor, el
 
 - **Esenciales**: **[Agua](/es/materials/water)**, **[Sal](/es/materials/salt)** o alimento a secar, **[Contenedores](/es/inventions/containers)** poco profundos.
 - **Herramientas**: Rejillas de secado, cubiertas de tela/malla, fuente de calor suave (sol o **[Carbón vegetal](/es/materials/charcoal)**).
-- **Sustitutos posibles**: Vasijas porosas de **[Arcilla](/es/materials/clay)** para evaporación lenta; viento en lugar de calor.
+- **Sustitutos posibles**: Vasijas porosas de **[Arcilla](/es/materials/arcilla)** para evaporación lenta; viento en lugar de calor.
 
 ## Variantes y mejoras
 
@@ -65,7 +65,7 @@ La evaporación es el cambio de fase en el que el agua líquida pasa a vapor, el
 - **[Agua](/es/materials/water)**: La fase líquida que se evapora.
 - **[Sal](/es/materials/salt)**: Se concentra por evaporación para conservar.
 - **[Azúcar](/es/materials/sugar)**: Se concentra desde jugos vegetales antes de cristalizar.
-- **[Arcilla](/es/materials/clay)**: Vasijas porosas que ayudan a evaporar.
+- **[Arcilla](/es/materials/arcilla)**: Vasijas porosas que ayudan a evaporar.
 - **[Madera](/es/materials/wood)**: Rejillas y estructuras de secado.
 - **[Carbón vegetal](/es/materials/charcoal)**: Calor estable con poco humo.
 

@@ -11,11 +11,14 @@ import autoImages from './src/integrations/auto-images';
 export default defineConfig({
   site: 'https://survpedia.deeme.dev',
   integrations: [autoImages(), tailwind(), mdx(), sitemap()],
+  redirects: {
+    '/': '/en/',
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['es', 'en'],
     routing: {
-      prefixDefaultLocale: false,
+      prefixDefaultLocale: true,
     },
   },
   image: {

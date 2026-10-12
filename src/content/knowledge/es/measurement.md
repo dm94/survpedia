@@ -1,6 +1,6 @@
 ---
 title: "Medición (longitud, masa, tiempo)"
-relatedMaterials: ["wood", "stone", "water", "sand", "plant-fibers"]
+relatedMaterials: ["wood", "piedra", "water", "arena", "plant-fibers"]
 image: ../../../assets/inventions/measurement.jpg
 ---
 

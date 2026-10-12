@@ -3,8 +3,8 @@ title: Conformado
 relatedMaterials:
   - metal
   - wood
-  - stone
-  - clay
+  - piedra
+  - arcilla
   - glass
   - plastic
 relatedInventions:
@@ -44,7 +44,7 @@ Quitar el exceso de material de un bloque más grande para lograr la forma desea
 Verter material líquido o flexible en un molde donde se solidifica con la forma de la cavidad.
 
 - **Fundición**: Usado para metales como **[Bronce](/es/materials/bronze)** o **[Hierro](/es/materials/iron)**, y para **[Vidrio](/es/materials/glass)**.
-- **Moldeo**: Dar forma a materiales flexibles como **[Arcilla](/es/materials/clay)** (a menudo en un **[Torno de alfarero](/es/inventions/potters-wheel)**) antes de la cocción.
+- **Moldeo**: Dar forma a materiales flexibles como **[Arcilla](/es/materials/arcilla)** (a menudo en un **[Torno de alfarero](/es/inventions/potters-wheel)**) antes de la cocción.
 
 ### 4. Unión (Aditivo)
 Ensamblar partes separadas juntas para formar una forma más grande o compleja.
@@ -61,7 +61,7 @@ La **[Forja](/es/knowledge/forging)** es un subconjunto específico del conforma
 
 ## Importancia
 
-El conformado es fundamental para toda la tecnología. La capacidad de dar forma a la **[Piedra](/es/materials/stone)** definió la era Paleolítica, mientras que la capacidad de dar forma al metal definió las Edades del Bronce y del Hierro. Elegir el proceso de conformado correcto depende de las propiedades del material, la precisión requerida y el uso previsto del objeto.
+El conformado es fundamental para toda la tecnología. La capacidad de dar forma a la **[Piedra](/es/materials/piedra)** definió la era Paleolítica, mientras que la capacidad de dar forma al metal definió las Edades del Bronce y del Hierro. Elegir el proceso de conformado correcto depende de las propiedades del material, la precisión requerida y el uso previsto del objeto.
 
 ## Conocimiento Relacionado
 

@@ -4,7 +4,7 @@ materialsUsed:
   - wood
   - charcoal
   - coal
-  - clay
+  - arcilla
   - limestone
 image: ../../../assets/images/inventions/coccion.jpg
 ---

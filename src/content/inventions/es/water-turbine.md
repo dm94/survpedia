@@ -42,7 +42,7 @@ Las turbinas hidráulicas aprovechan el impulso del agua en movimiento para hace
 
 - **Álabes/Rodete:** **[Hierro](/es/materials/iron)** o **[Acero](/es/materials/steel)** para mayor durabilidad; **[Madera](/es/materials/wood)** para versiones primitivas de baja caída.
 - **Eje:** **[Acero](/es/materials/steel)** o **[Hierro](/es/materials/iron)** resistente.
-- **Carcasa:** **[Hormigón](/es/materials/concrete)**, **[Piedra](/es/materials/stone)** o metal para contener y dirigir el agua.
+- **Carcasa:** **[Hormigón](/es/materials/concrete)**, **[Piedra](/es/materials/piedra)** o metal para contener y dirigir el agua.
 - **Rodamientos:** Esenciales para reducir la fricción.
 
 ## Variantes y mejoras

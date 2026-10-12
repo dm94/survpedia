@@ -2,12 +2,12 @@
 title: Refrigeración Natural
 relatedMaterials:
   - water
-  - clay
-  - stone
+  - arcilla
+  - piedra
   - straw
   - wood
   - charcoal
-  - sand
+  - arena
 image: ../../../assets/images/knowledge/refrigeracion-natural.jpg
 ---
 

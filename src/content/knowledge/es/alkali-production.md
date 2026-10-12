@@ -3,7 +3,7 @@ title: Producción de Álcalis
 relatedMaterials:
   - ash
   - soda
-  - lime
+  - cal
   - water
   - salt
   - potassium_nitrate
@@ -35,7 +35,7 @@ La mayoría de la producción tradicional de álcalis se basa en la extracción 
 1.  **Combustión**: Quemar madera o plantas marinas específicas para producir **[Ceniza](/es/materials/ash)**.
 2.  **Lixiviación**: Hacer pasar **[Agua](/es/materials/water)** a través de la ceniza para disolver los carbonatos de potasio o sodio solubles. El líquido resultante se llama lejía.
 3.  **Evaporación**: Hervir el agua en **[Contenedores](/es/inventions/containers)** para dejar atrás una sal sólida concentrada (potasa o ceniza de sosa).
-4.  **Caustificación**: Reaccionar el álcali de carbonato con **[Cal](/es/materials/lime)** (hidróxido de calcio) para producir álcalis "cáusticos" mucho más fuertes (hidróxido de potasio o sodio).
+4.  **Caustificación**: Reaccionar el álcali de carbonato con **[Cal](/es/materials/cal)** (hidróxido de calcio) para producir álcalis "cáusticos" mucho más fuertes (hidróxido de potasio o sodio).
 
 ## Cómo implementarlo
 
@@ -54,7 +54,7 @@ La mayoría de la producción tradicional de álcalis se basa en la extracción 
 ## Materiales necesarios
 
 - **Materias primas**: Madera dura (para la potasa), Algas/Barrilla (para la **[Sosa](/es/materials/soda)**).
-- **Reactivos**: **[Agua](/es/materials/water)**, **[Cal](/es/materials/lime)** (para caustificar).
+- **Reactivos**: **[Agua](/es/materials/water)**, **[Cal](/es/materials/cal)** (para caustificar).
 - **Herramientas**:
   - **[Horno de fundición](/es/inventions/furnace)** o foso abierto para quemar.
   - Barriles o tinas de lixiviación.

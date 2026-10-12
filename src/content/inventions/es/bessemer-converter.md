@@ -2,7 +2,7 @@
 title: Convertidor Bessemer
 materialsUsed:
   - iron
-  - clay
+  - arcilla
   - caliza
 image: ../../../assets/images/inventions/bessemer-converter.jpg
 ---
@@ -39,7 +39,7 @@ La creación de un Convertidor Bessemer funcional requiere técnicas avanzadas d
 
 ### 2. Revestimiento refractario
 - Revestir el interior con una capa gruesa de material refractario para proteger la carcasa de metal del calor extremo del acero fundido.
-- Para minerales con bajo contenido de fósforo, utilizar un **revestimiento ácido** hecho de **[Arcilla](/es/materials/clay)** con alto contenido de sílice o arena.
+- Para minerales con bajo contenido de fósforo, utilizar un **revestimiento ácido** hecho de **[Arcilla](/es/materials/arcilla)** con alto contenido de sílice o arena.
 - Para minerales con alto contenido de fósforo, utilizar un **revestimiento básico** hecho de **[Caliza](/es/materials/caliza)** calcinada o dolomita.
 
 ### 3. Caja de viento y toberas
@@ -52,7 +52,7 @@ La creación de un Convertidor Bessemer funcional requiere técnicas avanzadas d
 ## Materiales necesarios
 
 - **Carcasa estructural:** Placas pesadas de **[Hierro](/es/materials/iron)** o acero.
-- **Revestimiento refractario:** **[Arcilla](/es/materials/clay)** refractaria, arena de cuarzo o **[Caliza](/es/materials/caliza)** calcinada.
+- **Revestimiento refractario:** **[Arcilla](/es/materials/arcilla)** refractaria, arena de cuarzo o **[Caliza](/es/materials/caliza)** calcinada.
 - **Estructura pivotante:** Vigas de hierro fundido o acero estructural.
 - **Herramientas:** Herramientas de forja, rodillos mecánicos, soplador de aire de alta presión (impulsado por vapor o agua).
 

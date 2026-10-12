@@ -3,8 +3,8 @@ title: Invernadero
 materialsUsed:
   - glass
   - wood
-  - stone
-  - brick
+  - piedra
+  - ladrillo
   - plastic
   - water
 image: ../../../assets/images/inventions/greenhouse.jpg

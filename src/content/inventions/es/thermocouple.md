@@ -52,7 +52,7 @@ El Termopar funciona bajo el principio del efecto termoeléctrico, específicame
 
 - **Conductor A:** Cable de **[Cobre](/es/materials/copper)**.
 - **Conductor B:** Cable de **[Hierro](/es/materials/iron)** o alambre de acero.
-- **Aislamiento:** Cuentas de cerámica, fundas de fibra de vidrio de alta temperatura o canales de **[Arcilla](/es/materials/clay)** seca (para soportar un calor elevado).
+- **Aislamiento:** Cuentas de cerámica, fundas de fibra de vidrio de alta temperatura o canales de **[Arcilla](/es/materials/arcilla)** seca (para soportar un calor elevado).
 - **Herramientas:** Cortadores de alambre, soldador de gas o soplete (para unir las uniones), galvanómetro sensible o multímetro.
 
 ### Inventos relacionados

@@ -7,7 +7,7 @@ relatedMaterials:
   - potato
   - cassava
 relatedInventions:
-  - mortar
+  - mortero
   - hand-mill
   - containers
   - fire

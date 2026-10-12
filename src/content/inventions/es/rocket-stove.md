@@ -1,10 +1,10 @@
 ---
 title: Estufa Cohete
 materialsUsed:
-  - clay
-  - brick
+  - arcilla
+  - ladrillo
   - metal
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/rocket-stove.jpg
 ---
 

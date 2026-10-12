@@ -1,12 +1,12 @@
 ---
 title: Filtro Lento de Arena
 materialsUsed:
-  - sand
+  - arena
   - gravel
   - charcoal
   - activated-charcoal
   - concrete
-  - stone
+  - piedra
 image: ../../../assets/images/inventions/slow-sand-filter.jpg
 ---
 
