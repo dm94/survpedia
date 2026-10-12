@@ -1,6 +1,11 @@
 ---
-title: "Fuel Injector"
-materialsUsed: ["steel", "spring-steel", "brass", "metal"]
+title: Fuel Injector
+materialsUsed:
+  - steel
+  - spring-steel
+  - brass
+  - metal
+image: ../../../assets/images/inventions/fuel-injector.jpg
 ---
 
 # Brief description

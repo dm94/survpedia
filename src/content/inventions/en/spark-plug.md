@@ -1,6 +1,11 @@
 ---
-title: "Spark Plug"
-materialsUsed: ["copper", "ceramics", "steel", "wire"]
+title: Spark Plug
+materialsUsed:
+  - copper
+  - ceramics
+  - steel
+  - wire
+image: ../../../assets/images/inventions/spark-plug.jpg
 ---
 
 # Brief description

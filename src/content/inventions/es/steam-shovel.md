@@ -1,11 +1,12 @@
 ---
-title: "Pala de Vapor"
+title: Pala de Vapor
 materialsUsed:
   - iron
   - steel
   - coal
   - water
   - wood
+image: ../../../assets/images/inventions/steam-shovel.jpg
 ---
 
 # Breve descripción

@@ -1,6 +1,12 @@
 ---
-title: "Grain Silo"
-materialsUsed: ["wood", "stone", "concrete", "clay", "metal"]
+title: Grain Silo
+materialsUsed:
+  - wood
+  - stone
+  - concrete
+  - clay
+  - metal
+image: ../../../assets/images/inventions/grain-silo.jpg
 ---
 
 # Brief description

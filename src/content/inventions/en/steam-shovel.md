@@ -1,11 +1,12 @@
 ---
-title: "Steam Shovel"
+title: Steam Shovel
 materialsUsed:
   - iron
   - steel
   - coal
   - water
   - wood
+image: ../../../assets/images/inventions/steam-shovel.jpg
 ---
 
 # Brief description

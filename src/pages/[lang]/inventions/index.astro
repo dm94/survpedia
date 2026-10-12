@@ -3,6 +3,7 @@ import Layout from "@layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import { useTranslations } from "@i18n/utils";
 import Card from "@components/Card.astro";
+import ItemCount from "@components/ItemCount.astro";
 
 export function getStaticPaths() {
   return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
@@ -18,9 +19,16 @@ const inventions = await getCollection("inventions", ({ id }) => {
 
 <Layout title={t("inventions.title")} description={t("inventions.desc")}>
   <div class="mb-8">
-    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
-      {t("inventions.title")}
-    </h1>
+    <div class="flex flex-wrap items-center gap-3 mb-2">
+      <h1 class="text-3xl font-bold text-slate-900 dark:text-white">
+        {t("inventions.title")}
+      </h1>
+      <ItemCount
+        count={inventions.length}
+        lang={lang}
+        collection="inventions"
+      />
+    </div>
     <p class="text-slate-600 dark:text-slate-400">
       {t("inventions.desc")}
     </p>

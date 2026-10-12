@@ -1,6 +1,11 @@
 ---
-title: "Inyector de Combustible"
-materialsUsed: ["steel", "acero-resorte", "brass", "metal"]
+title: Inyector de Combustible
+materialsUsed:
+  - steel
+  - acero-resorte
+  - brass
+  - metal
+image: ../../../assets/images/inventions/fuel-injector.jpg
 ---
 
 # Descripción breve

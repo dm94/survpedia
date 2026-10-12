@@ -1,0 +1,24 @@
+---
+import { useTranslations } from "@i18n/utils";
+
+interface Props {
+  count: number;
+  lang: any;
+  collection: "materials" | "inventions" | "knowledge";
+}
+
+const { count, lang, collection } = Astro.props;
+const t = useTranslations(lang);
+
+const suffix = count === 1 ? "one" : "other";
+const label = t(`${collection}.count.${suffix}` as any).replace(
+  "{count}",
+  count.toString()
+);
+---
+
+<span
+  class="inline-flex items-center rounded-full bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-300 text-xs font-semibold px-3 py-1"
+>
+  {label}
+</span>

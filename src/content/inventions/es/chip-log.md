@@ -1,10 +1,11 @@
 ---
-title: "Corredera de Barquilla"
+title: Corredera de Barquilla
 materialsUsed:
   - wood
   - rope
   - lead
   - sand
+image: ../../../assets/images/inventions/chip-log.jpg
 ---
 
 # Breve descripción

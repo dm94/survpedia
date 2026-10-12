@@ -1,6 +1,11 @@
 ---
-title: "Bujía de Encendido"
-materialsUsed: ["copper", "ceramics", "steel", "wire"]
+title: Bujía de Encendido
+materialsUsed:
+  - copper
+  - ceramics
+  - steel
+  - wire
+image: ../../../assets/images/inventions/spark-plug.jpg
 ---
 
 # Descripción breve

@@ -1,6 +1,12 @@
 ---
-title: "Silo de Granos"
-materialsUsed: ["wood", "piedra", "hormigon", "arcilla", "metal"]
+title: Silo de Granos
+materialsUsed:
+  - wood
+  - piedra
+  - hormigon
+  - arcilla
+  - metal
+image: ../../../assets/images/inventions/grain-silo.jpg
 ---
 
 # Descripción breve

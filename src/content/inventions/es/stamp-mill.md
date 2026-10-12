@@ -6,6 +6,7 @@ materialsUsed:
   - steel
   - cast-iron
   - piedra
+image: ../../../assets/images/inventions/stamp-mill.jpg
 ---
 
 # Breve descripción

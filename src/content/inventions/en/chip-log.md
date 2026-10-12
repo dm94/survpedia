@@ -1,10 +1,11 @@
 ---
-title: "Chip Log"
+title: Chip Log
 materialsUsed:
   - wood
   - rope
   - lead
   - sand
+image: ../../../assets/images/inventions/chip-log.jpg
 ---
 
 # Brief description
