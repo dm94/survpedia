@@ -1,6 +1,10 @@
 ---
-title: "Tubo de Calor"
-materialsUsed: ["copper", "water", "alcohol"]
+title: Tubo de Calor
+materialsUsed:
+  - copper
+  - water
+  - alcohol
+image: ../../../assets/images/inventions/heat-pipe.jpg
 ---
 
 # Breve descripción
