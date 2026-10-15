@@ -4,6 +4,7 @@ materialsUsed:
   - copper
   - water
   - alcohol
+image: ../../../assets/images/inventions/heat-pipe.jpg
 ---
 
 # Brief description

@@ -1,10 +1,11 @@
 ---
-title: "Plataforma de perforación por percusión"
+title: Plataforma de perforación por percusión
 materialsUsed:
   - wood
   - iron
   - soga
   - steel
+image: ../../../assets/images/inventions/percussion-drilling-rig.jpg
 ---
 
 # Breve descripción

@@ -1,10 +1,11 @@
 ---
-title: "Percussion Drilling Rig"
+title: Percussion Drilling Rig
 materialsUsed:
   - wood
   - iron
   - rope
   - steel
+image: ../../../assets/images/inventions/percussion-drilling-rig.jpg
 ---
 
 # Brief description
