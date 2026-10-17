@@ -1,6 +1,10 @@
 ---
-title: "Hydrocyclone"
-materialsUsed: ["steel", "sheet-metal", "water"]
+title: Hydrocyclone
+materialsUsed:
+  - steel
+  - sheet-metal
+  - water
+image: ../../../assets/images/inventions/hydrocyclone.jpg
 ---
 
 # Brief description

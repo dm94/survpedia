@@ -1,8 +1,9 @@
 ---
-title: "Spring Pole Lathe"
+title: Spring Pole Lathe
 materialsUsed:
   - wood
   - rope
+image: ../../../assets/images/inventions/pole-lathe.jpg
 ---
 
 # Brief description
