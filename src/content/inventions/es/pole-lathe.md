@@ -1,8 +1,9 @@
 ---
-title: "Torno de pértiga"
+title: Torno de pértiga
 materialsUsed:
   - wood
   - soga
+image: ../../../assets/images/inventions/pole-lathe.jpg
 ---
 
 # Breve descripción
