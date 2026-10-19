@@ -1,6 +1,10 @@
 ---
-title: "Aserradero"
-materialsUsed: ["wood", "iron", "steel"]
+title: Aserradero
+materialsUsed:
+  - wood
+  - iron
+  - steel
+image: ../../../assets/images/inventions/sawmill.jpg
 ---
 
 # Breve descripción

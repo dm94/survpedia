@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - brass
   - bronze
+image: ../../../assets/images/inventions/roots-blower.jpg
 ---
 
 # Brief description
