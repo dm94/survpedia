@@ -6,6 +6,7 @@ materialsUsed:
   - cast-iron
   - charcoal
   - hormigon
+image: ../../../assets/images/inventions/rotary-kiln.jpg
 ---
 
 # Breve descripción
