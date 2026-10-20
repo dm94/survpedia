@@ -18,6 +18,7 @@ This project uses the following main technologies and libraries:
 - 🔍 **Integrated Search**: Fast search functionality powered by Pagefind.
 - 📱 **Responsive Design**: Adapted to different screen sizes.
 - ⚡ **High Performance**: Static generation for fast loading.
+- 🛡️ **Hotlink Protection**: Images embedded on other websites return `403`.
 
 ## 🛠️ Installation and Usage
 
@@ -71,6 +72,14 @@ src/
 ├── pages/           # Routes and site pages
 └── styles/          # Global styles
 ```
+
+## 🛡️ Hotlink Protection
+
+Images may only be embedded by the site's own pages. Requests for images (`/_astro/*`, `/logo.png`, `/favicon.png`) coming from a different website get a `403 Forbidden`, so third parties cannot use this deployment as a free image host.
+
+The rule lives in `middleware.ts` and runs as [Vercel Routing Middleware](https://vercel.com/docs/routing-middleware), which is the platform serving this site. The `Referer` header is the main signal, backed by `Sec-Fetch-Site` to also catch hotlinks that hide the referer with `referrerpolicy="no-referrer"`. Requests carrying neither header (direct visits, crawlers, CLI tools) are allowed, and search engines are always allowed so image-search results keep working. Add every domain the site is served from to `ALLOWED_REFERER_HOSTS`; preview deployments are matched automatically against their own host.
+
+Middleware runs before the CDN cache, so each inspected asset costs a function invocation. If image traffic grows large, the same policy can be expressed as a Vercel WAF custom rule (CDN → Routing Rules) that runs at the edge with no compute.
 
 ## 🤝 Contributing
 
