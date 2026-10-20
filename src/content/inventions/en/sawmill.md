@@ -4,6 +4,7 @@ materialsUsed:
   - wood
   - iron
   - steel
+image: ../../../assets/images/inventions/sawmill.jpg
 ---
 
 # Brief description
