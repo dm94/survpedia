@@ -16,7 +16,6 @@
     "@astrojs/mdx": "^7.0.4",
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/tailwind": "^6.0.2",
-    "@vercel/functions": "^3.10.1",
     "astro": "^7.1.4",
     "sharp": "^0.35.4"
   },

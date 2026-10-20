@@ -75,11 +75,32 @@ src/
 
 ## 🛡️ Hotlink Protection
 
-Images may only be embedded by the site's own pages. Requests for images (`/_astro/*`, `/logo.png`, `/favicon.png`) coming from a different website get a `403 Forbidden`, so third parties cannot use this deployment as a free image host.
+Images may only be embedded by this site's own pages. Requests for images (`/_astro/*`, `/logo.png`, `/favicon.png`) coming from another website are denied with `403 Forbidden` before they reach the CDN cache, so third parties cannot use this deployment as a free image host.
 
-The rule lives in `middleware.ts` and runs as [Vercel Routing Middleware](https://vercel.com/docs/routing-middleware), which is the platform serving this site. The `Referer` header is the main signal, backed by `Sec-Fetch-Site` to also catch hotlinks that hide the referer with `referrerpolicy="no-referrer"`. Requests carrying neither header (direct visits, crawlers, CLI tools) are allowed, and search engines are always allowed so image-search results keep working. Add every domain the site is served from to `ALLOWED_REFERER_HOSTS`; preview deployments are matched automatically against their own host.
+This is a [Vercel Firewall custom rule](https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules), not code: it runs at the edge, costs no function invocations and survives deployments. It lives in the Vercel project — `Firewall` → `⋯` → `Configure` → `Add New…` → `Rule` — so it is not stored in this repository.
 
-Middleware runs before the CDN cache, so each inspected asset costs a function invocation. If image traffic grows large, the same policy can be expressed as a Vercel WAF custom rule (CDN → Routing Rules) that runs at the edge with no compute.
+**Rule 1 — foreign referer.** All conditions combined with AND:
+
+- Request Path — _Matches expression_:
+
+  ```text
+  ^/(_astro/.*\.(webp|avif|png|jpe?g|gif|svg)|(favicon|logo)\.png)$
+  ```
+
+- Request Header `referer` — _Exists_
+- Request Header `referer` — _Does not match expression_:
+
+  ```text
+  ^https?://([\w-]+\.)*survpedia\.deeme\.dev(:\d+)?(/|$)|^https?://survpedia(-[\w-]+)?\.vercel\.app(/|$)|^https?://([\w-]+\.)*(google\.[a-z.]+|bing\.com|duckduckgo\.com|yandex\.[a-z.]+)(/|$)
+  ```
+
+- Then — **Deny**. Save the rule and publish it with `Review Changes`.
+
+**Rule 2 — hidden referer.** Same Request Path condition, plus Request Header `sec-fetch-site` _Equals_ `cross-site` and Request Header `referer` _Does not exist_, then **Deny**. This also catches hotlinks that strip the referer with `referrerpolicy="no-referrer"`.
+
+If the dashboard does not list the `Exists` operator on your plan, stage the same rules with the CLI: `vercel firewall rules add` accepts header conditions such as `{"type":"header","op":"ex","key":"referer"}` and `{"type":"header","op":"re","key":"referer","neg":true,"value":"…"}`, followed by `vercel firewall diff` and `vercel firewall publish`.
+
+Direct visits, crawlers and CLI tools keep working because a request without a `referer` never matches Rule 1. Search engines and the `survpedia*.vercel.app` preview deployments are part of the allowed expression, so image-search results and previews keep working. Add every new domain of the site to that expression. `Referer` is client-controlled, so this deters hotlinking rather than securing content.
 
 ## 🤝 Contributing
 
