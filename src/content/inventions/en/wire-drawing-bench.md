@@ -1,9 +1,10 @@
 ---
-title: "Wire Drawing Bench"
+title: Wire Drawing Bench
 materialsUsed:
   - wood
   - steel
   - iron
+image: ../../../assets/images/inventions/wire-drawing-bench.jpg
 ---
 
 # Brief description

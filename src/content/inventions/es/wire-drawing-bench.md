@@ -1,9 +1,10 @@
 ---
-title: "Banco de trefilado"
+title: Banco de trefilado
 materialsUsed:
   - wood
   - steel
   - iron
+image: ../../../assets/images/inventions/wire-drawing-bench.jpg
 ---
 
 # Breve descripción
