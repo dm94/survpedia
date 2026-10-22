@@ -1,9 +1,10 @@
 ---
-title: "Transportador de Tornillo Sinfín"
+title: Transportador de Tornillo Sinfín
 materialsUsed:
   - steel
   - iron
   - wood
+image: ../../../assets/images/inventions/screw-conveyor.jpg
 ---
 
 # Breve descripción
