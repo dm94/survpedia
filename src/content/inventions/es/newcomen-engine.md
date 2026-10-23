@@ -1,11 +1,12 @@
 ---
-title: "Motor Atmosférico de Newcomen"
+title: Motor Atmosférico de Newcomen
 materialsUsed:
   - cast-iron
   - copper
   - wood
   - water
   - coal
+image: ../../../assets/images/inventions/newcomen-engine.jpg
 ---
 
 # Breve descripción
