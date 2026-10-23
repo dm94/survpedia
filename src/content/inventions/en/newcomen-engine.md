@@ -6,6 +6,7 @@ materialsUsed:
   - wood
   - water
   - coal
+image: ../../../assets/images/inventions/newcomen-engine.jpg
 ---
 
 # Brief description
