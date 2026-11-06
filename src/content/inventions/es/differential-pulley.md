@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - cuerda
+image: ../../../assets/images/inventions/differential-pulley.jpg
 ---
 
 # Descripción breve

@@ -3,6 +3,7 @@ title: Barbed Wire
 materialsUsed:
   - wire
   - steel
+image: ../../../assets/images/inventions/barbed-wire.jpg
 ---
 
 # Brief description

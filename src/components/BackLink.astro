@@ -9,21 +9,18 @@ const { href, label } = Astro.props;
 
 <a
   href={href}
-  class="group inline-flex items-center gap-2 text-sm font-medium text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 mb-6 transition-colors focus-visible:ring-2 focus-visible:ring-blue-500 rounded px-1 -ml-1 outline-none"
+  class="group inline-flex items-center gap-2 font-data text-[11px] uppercase leading-none tracking-[0.14em] text-ink-muted transition-colors hover:text-accent"
 >
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    class="h-4 w-4 transition-transform group-hover:-translate-x-1 group-focus-visible:-translate-x-1"
+    class="h-3.5 w-3.5 transition-transform duration-200 ease-manual group-hover:-translate-x-1"
     fill="none"
     viewBox="0 0 24 24"
     stroke="currentColor"
+    stroke-width="1.5"
     aria-hidden="true"
   >
-    <path
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="2"
-      d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"></path>
   </svg>
   <span>{label}</span>
 </a>

@@ -1,39 +1,80 @@
 ---
-import Layout from "@layouts/Layout.astro";
-import { getCollection } from "astro:content";
-import { useTranslations } from "@i18n/utils";
-import PeriodicElement from "@components/PeriodicElement.astro";
+import Layout from '@layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations } from '@i18n/utils';
+import PeriodicElement from '@components/PeriodicElement.astro';
+import ItemCount from '@components/ItemCount.astro';
+import {
+  getCategoryKey,
+  type ElementCategory,
+} from '@/lib/element-category';
 
 export function getStaticPaths() {
-  return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
+  return [{ params: { lang: 'es' } }, { params: { lang: 'en' } }];
 }
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
 
-const elements = await getCollection("elements", ({ id }) => {
+const elements = await getCollection('elements', ({ id }) => {
   return id.startsWith(`${lang}/`);
 });
 
 elements.sort((a, b) => a.data.atomicNumber - b.data.atomicNumber);
+
+const categoryOrder: ElementCategory[] = [
+  'nonmetal',
+  'noble',
+  'alkali',
+  'alkaline',
+  'transition',
+  'post-transition',
+  'metalloid',
+  'lanthanide',
+  'actinide',
+  'other',
+];
+
+const categories = categoryOrder.filter(key =>
+  elements.some(element => getCategoryKey(element.data.category) === key)
+);
 ---
 
-<Layout title={t("elements.title")} description={t("elements.desc")}>
-  <div class="mb-8">
-    <h1 class="text-3xl font-bold text-slate-900 dark:text-white mb-2">
-      {t("elements.title")}
+<Layout title={t('elements.title')} description={t('elements.desc')}>
+  <header class="flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-6">
+    <h1
+      class="font-read text-[clamp(1.9rem,4.4vw,2.75rem)] font-normal leading-none tracking-[-0.025em]"
+    >
+      {t('elements.title')}
     </h1>
-    <p class="text-slate-600 dark:text-slate-400">
-      {t("elements.desc")}
-    </p>
-  </div>
+    <ItemCount count={elements.length} lang={lang} collection="elements" />
+  </header>
+
+  <p class="mt-4 max-w-[58ch] leading-relaxed text-ink/75">
+    {t('elements.desc')}
+  </p>
+
+  <ul
+    class="mt-8 grid grid-cols-2 gap-x-5 gap-y-2.5 border-y border-rule py-4 sm:grid-cols-3 lg:grid-cols-5"
+  >
+    {
+      categories.map(category => (
+        <li class="flex items-center gap-2">
+          <span data-cat={category} class="el-swatch" aria-hidden="true" />
+          <span class="font-data text-[11px] uppercase leading-none tracking-[0.1em] text-ink-muted">
+            {t(`category.${category}` as any)}
+          </span>
+        </li>
+      ))
+    }
+  </ul>
 
   <div
-    class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-8 lg:grid-cols-10 gap-2 md:gap-3"
+    class="mt-8 grid grid-cols-4 gap-px border border-rule bg-rule sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-10 xl:grid-cols-12"
   >
     {
       elements.map(element => {
-        const slugPart = element.id.split("/")?.[1];
+        const slugPart = element.id.split('/')?.[1];
         return (
           <PeriodicElement
             symbol={element.data.symbol}

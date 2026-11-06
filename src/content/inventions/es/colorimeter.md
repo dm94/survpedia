@@ -5,6 +5,7 @@ materialsUsed:
   - glass
   - wood
   - iron
+image: ../../../assets/images/inventions/colorimeter.jpg
 ---
 
 # Breve descripción

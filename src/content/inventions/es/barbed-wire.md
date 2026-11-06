@@ -3,6 +3,7 @@ title: Alambre de espino
 materialsUsed:
   - wire
   - steel
+image: ../../../assets/images/inventions/barbed-wire.jpg
 ---
 
 # Descripción breve

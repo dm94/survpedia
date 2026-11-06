@@ -5,6 +5,7 @@ materialsUsed:
   - copper
   - steel
   - water
+image: ../../../assets/images/inventions/fractionating-column.jpg
 ---
 
 # Breve descripción

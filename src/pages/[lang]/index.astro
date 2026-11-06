@@ -1,7 +1,7 @@
 ---
 import Layout from "@layouts/Layout.astro";
+import { getCollection } from "astro:content";
 import { useTranslations } from "@i18n/utils";
-import Card from "@components/Card.astro";
 
 export function getStaticPaths() {
   return [{ params: { lang: "es" } }, { params: { lang: "en" } }];
@@ -9,42 +9,106 @@ export function getStaticPaths() {
 
 const { lang } = Astro.params;
 const t = useTranslations(lang as any);
+
+const countOf = async (collection: "elements" | "materials" | "inventions" | "knowledge") => {
+  const entries = await getCollection(collection, ({ id }) => id.startsWith(`${lang}/`));
+  return entries.length;
+};
+
+const collections = [
+  {
+    key: "elements",
+    href: `/${lang}/elements`,
+    descriptionKey: "home.elements.desc",
+    count: await countOf("elements"),
+  },
+  {
+    key: "materials",
+    href: `/${lang}/materials`,
+    descriptionKey: "home.materials.desc",
+    count: await countOf("materials"),
+  },
+  {
+    key: "inventions",
+    href: `/${lang}/inventions`,
+    descriptionKey: "home.inventions.desc",
+    count: await countOf("inventions"),
+  },
+  {
+    key: "knowledge",
+    href: `/${lang}/knowledge`,
+    descriptionKey: "home.knowledge.desc",
+    count: await countOf("knowledge"),
+  },
+] as const;
 ---
 
 <Layout title="Survpedia" description={t("home.description")}>
-  <section class="py-20 text-center">
+  <section class="border-b border-rule pb-12 pt-6 sm:pt-10">
     <h1
-      class="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 mb-6"
+      class="max-w-[14ch] font-read text-[clamp(3rem,10vw,5.75rem)] font-normal leading-[0.9] tracking-[-0.035em] text-ink"
     >
       Survpedia
     </h1>
-    <p
-      class="text-xl text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-10"
-    >
+    <p class="mt-7 max-w-[52ch] text-lg leading-relaxed text-ink/75 sm:text-xl">
       {t("home.description")}
     </p>
+  </section>
 
-    <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-      <Card
-        href={`/${lang}/elements`}
-        title={t("nav.elements")}
-        body={t("home.elements.desc")}
-      />
-      <Card
-        href={`/${lang}/materials`}
-        title={t("nav.materials")}
-        body={t("home.materials.desc")}
-      />
-      <Card
-        href={`/${lang}/inventions`}
-        title={t("nav.inventions")}
-        body={t("home.inventions.desc")}
-      />
-      <Card
-        href={`/${lang}/knowledge`}
-        title={t("nav.knowledge")}
-        body={t("home.knowledge.desc")}
-      />
-    </section>
+  <section class="border-b border-rule py-6" aria-label={t("site.descriptor")}>
+    <ol
+      class="flex flex-wrap items-center gap-x-3 gap-y-3 font-data text-[11px] uppercase tracking-[0.14em]"
+    >
+      {
+        collections.map(({ key, href }, index) => (
+          <li class="flex items-center gap-3">
+            {index > 0 && <span class="h-px w-6 bg-rule-strong" aria-hidden="true" />}
+            <a
+              href={href}
+              class="text-ink-muted transition-colors duration-150 hover:text-accent"
+            >
+              {t(`nav.${key}` as any)}
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </section>
+
+  <section class="mt-10">
+    <ul class="border-t border-rule">
+      {
+        collections.map(({ key, href, descriptionKey, count }) => (
+          <li class="border-b border-rule">
+            <a href={href} class="entry-row group items-baseline gap-6 px-1 py-7">
+              <span class="min-w-0 flex-1">
+                <span class="block font-read text-2xl leading-none tracking-[-0.015em] transition-colors duration-150 group-hover:text-accent sm:text-[1.7rem]">
+                  {t(`nav.${key}` as any)}
+                </span>
+                <span class="mt-2.5 block max-w-[52ch] text-sm leading-relaxed text-ink-muted">
+                  {t(descriptionKey as any)}
+                </span>
+              </span>
+
+              <span class="shrink-0 font-data text-xs tabular-nums text-ink-muted">
+                {count}
+              </span>
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="mt-1 h-3.5 w-3.5 shrink-0 text-rule-strong transition-colors duration-150 group-hover:text-accent"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                stroke-width="1.5"
+                aria-hidden="true"
+              >
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
   </section>
 </Layout>

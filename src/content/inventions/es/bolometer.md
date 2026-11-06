@@ -5,6 +5,7 @@ materialsUsed:
   - wire
   - copper
   - glass
+image: ../../../assets/images/inventions/bolometer.jpg
 ---
 
 # Breve descripción

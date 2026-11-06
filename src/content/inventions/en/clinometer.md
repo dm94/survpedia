@@ -4,6 +4,7 @@ materialsUsed:
   - brass
   - glass
   - iron
+image: ../../../assets/images/inventions/clinometer.jpg
 ---
 
 # Brief description

@@ -3,6 +3,7 @@ title: Catetómetro
 materialsUsed:
   - metal
   - glass
+image: ../../../assets/images/inventions/cathetometer.jpg
 ---
 
 # Breve descripción

@@ -4,6 +4,7 @@ materialsUsed:
   - iron
   - steel
   - rope
+image: ../../../assets/images/inventions/differential-pulley.jpg
 ---
 
 # Brief description

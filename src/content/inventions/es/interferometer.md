@@ -4,6 +4,7 @@ materialsUsed:
   - glass
   - brass
   - wood
+image: ../../../assets/images/inventions/interferometer.jpg
 ---
 
 # Breve descripción

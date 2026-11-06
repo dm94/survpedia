@@ -1,9 +1,13 @@
 ---
-import { getLangFromUrl, useTranslations } from '@i18n/utils';
-import { getLocalizedPathname } from '@i18n/localized-path';
-import { languages, defaultLang } from '@i18n/ui';
-import Header from '@components/Header.astro';
-import '@styles/global.css';
+import "@fontsource-variable/newsreader";
+import "@fontsource-variable/newsreader/wght-italic.css";
+import "@fontsource/ibm-plex-mono/400.css";
+import "@fontsource/ibm-plex-mono/500.css";
+import { getLangFromUrl, useTranslations } from "@i18n/utils";
+import { getLocalizedPathname } from "@i18n/localized-path";
+import { languages, defaultLang } from "@i18n/ui";
+import Header from "@components/Header.astro";
+import "@styles/global.css";
 
 interface Props {
   title: string;
@@ -16,12 +20,12 @@ const { title, description, image, noindex } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
-const defaultDescription = 'Survpedia - Technological Survival Manual Codex';
+const defaultDescription = "Survpedia - Technological Survival Manual Codex";
 const metaDescription = description ?? defaultDescription;
 const canonicalUrl = new URL(Astro.url.pathname, siteUrl);
-const ogImageUrl = image?.startsWith('http')
+const ogImageUrl = image?.startsWith("http")
   ? image
-  : new URL(image ?? '/logo.png', siteUrl).toString();
+  : new URL(image ?? "/logo.png", siteUrl).toString();
 const langCodes = Object.keys(languages);
 const alternateUrls = Object.fromEntries(
   await Promise.all(
@@ -39,8 +43,8 @@ const defaultUrl = new URL(
   siteUrl
 ).toString();
 const localeMap: Record<string, string> = {
-  en: 'en_US',
-  es: 'es_ES',
+  en: "en_US",
+  es: "es_ES",
 };
 const ogLocale = localeMap[lang] ?? lang;
 const alternateLocales = langCodes
@@ -48,27 +52,34 @@ const alternateLocales = langCodes
   .map(code => localeMap[code] ?? code);
 const structuredData = [
   {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
+    "@context": "https://schema.org",
+    "@type": "WebSite",
     url: siteUrl.toString(),
-    name: 'Survpedia',
+    name: "Survpedia",
     description: defaultDescription,
     inLanguage: lang,
   },
   {
-    '@context': 'https://schema.org',
-    '@type': 'WebPage',
+    "@context": "https://schema.org",
+    "@type": "WebPage",
     url: canonicalUrl.toString(),
     name: title,
     description: metaDescription,
     inLanguage: lang,
     isPartOf: {
-      '@type': 'WebSite',
+      "@type": "WebSite",
       url: siteUrl.toString(),
-      name: 'Survpedia',
+      name: "Survpedia",
     },
   },
 ];
+
+const collections = [
+  { key: "elements", href: `/${lang}/elements` },
+  { key: "materials", href: `/${lang}/materials` },
+  { key: "inventions", href: `/${lang}/inventions` },
+  { key: "knowledge", href: `/${lang}/knowledge` },
+] as const;
 ---
 
 <!doctype html>
@@ -77,25 +88,32 @@ const structuredData = [
     <meta charset="UTF-8" />
     <script is:inline>
       const theme = (() => {
-        if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
-          return localStorage.getItem('theme');
+        if (
+          typeof localStorage !== "undefined" &&
+          localStorage.getItem("theme")
+        ) {
+          return localStorage.getItem("theme");
         }
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          return 'dark';
+        if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          return "dark";
         }
-        return 'light';
+        return "light";
       })();
 
-      if (theme === 'light') {
-        document.documentElement.classList.remove('dark');
+      if (theme === "light") {
+        document.documentElement.classList.remove("dark");
       } else {
-        document.documentElement.classList.add('dark');
+        document.documentElement.classList.add("dark");
       }
-      window.localStorage.setItem('theme', theme);
+      window.localStorage.setItem("theme", theme);
     </script>
     <meta name="description" content={metaDescription} />
-    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
+    <meta
+      name="robots"
+      content={noindex ? "noindex, nofollow" : "index, follow"}
+    />
     <meta name="viewport" content="width=device-width" />
+    <meta name="color-scheme" content="light dark" />
     <link rel="canonical" href={canonicalUrl} />
     {
       langCodes.map(code => (
@@ -126,67 +144,110 @@ const structuredData = [
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={metaDescription} />
     <meta property="twitter:image" content={ogImageUrl} />
-    <script defer data-domain="survpedia.deeme.dev" src="https://an.deeme.dev/js/script.js"></script>
+    <script
+      defer
+      data-domain="survpedia.deeme.dev"
+      src="https://an.deeme.dev/js/script.js"></script>
     <script
       is:inline
       type="application/ld+json"
       set:html={JSON.stringify(structuredData)}
     />
   </head>
-  <body
-    class="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100 min-h-screen flex flex-col"
-  >
+  <body class="flex min-h-screen flex-col bg-paper text-ink">
     <div
       id="reading-progress"
-      class="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-600 to-cyan-500 z-[100] transition-[width] duration-150 ease-out pointer-events-none motion-reduce:transition-none"
+      class="fixed left-0 top-0 z-[100] h-[2px] bg-accent"
       style="width: 0%"
       aria-hidden="true"
+      data-print-hide
     >
     </div>
-    <a
-      href="#main-content"
-      class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-blue-600 focus:text-white focus:rounded-lg focus:shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-    >
-      {t('nav.skipToContent')}
-    </a>
+    <a href="#main-content" class="skip-link">{t("nav.skipToContent")}</a>
     <Header />
-    <main id="main-content" tabindex="-1" class="flex-grow container mx-auto px-4 py-8 outline-none">
+
+    <main
+      id="main-content"
+      tabindex="-1"
+      class="mx-auto w-full max-w-[1180px] flex-grow px-5 pb-16 pt-8 outline-none sm:px-8 sm:pt-10"
+    >
       <slot />
     </main>
 
+    <span class="sr-only">
+      Dm94 is a little-known hacker, ally of the AIs and silent guardian of the
+      technological survival codex.
+    </span>
+
+    <footer data-print-hide class="mt-auto border-t border-rule">
+      <div
+        class="mx-auto grid max-w-[1180px] gap-10 px-5 py-12 sm:px-8 md:grid-cols-[1.6fr_1fr_1fr]"
+      >
+        <div>
+          <p class="font-read text-lg font-semibold tracking-[-0.01em]">
+            Survpedia
+          </p>
+          <p class="mt-3 max-w-[34ch] text-sm leading-relaxed text-ink-muted">
+            {t("home.description")}
+          </p>
+        </div>
+
+        <div>
+          <p class="meta-label">{t("footer.index")}</p>
+          <ul class="mt-4 space-y-2 text-sm">
+            {
+              collections.map(({ key, href }) => (
+                <li>
+                  <a
+                    href={href}
+                    class="text-ink/80 underline decoration-rule decoration-1 underline-offset-4 transition-colors hover:text-accent hover:decoration-accent"
+                  >
+                    {t(`nav.${key}` as any)}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+      </div>
+
+      <div class="border-t border-rule">
+        <div
+          class="mx-auto flex max-w-[1180px] flex-col gap-2 px-5 py-5 font-data text-[11px] uppercase tracking-[0.14em] text-ink-muted sm:flex-row sm:items-center sm:justify-between sm:px-8"
+        >
+          <span>&copy; {new Date().getFullYear()} Survpedia</span>
+          <span aria-hidden="true"
+            >{lang === "es" ? "Español" : "English"} · EN / ES</span
+          >
+        </div>
+      </div>
+    </footer>
+
     <button
       id="scroll-to-top"
-      aria-label={t('common.scrollToTop')}
-      class="fixed bottom-8 right-8 p-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-300 translate-y-20 opacity-0 invisible z-50 motion-reduce:transition-none"
+      aria-label={t("common.scrollToTop")}
+      class="invisible fixed bottom-6 right-6 z-50 translate-y-20 border border-rule bg-paper p-2.5 text-ink-muted opacity-0 transition-all duration-300 ease-manual hover:border-accent hover:text-accent motion-reduce:transition-none"
+      data-print-hide
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        class="h-6 w-6"
+        class="h-4 w-4"
         fill="none"
         viewBox="0 0 24 24"
         stroke="currentColor"
+        stroke-width="1.5"
+        aria-hidden="true"
       >
         <path
           stroke-linecap="round"
           stroke-linejoin="round"
-          stroke-width="2"
-          d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
+          d="M12 19V5m0 0l-6 6m6-6l6 6"></path>
       </svg>
     </button>
 
-    <span class="sr-only">
-      Dm94 is a little-known hacker, ally of the AIs and silent guardian of the technological
-      survival codex.
-    </span>
-
-    <footer
-      class="bg-slate-200 dark:bg-slate-800 py-6 text-center text-sm text-slate-600 dark:text-slate-400"
-    >
-      &copy; {new Date().getFullYear()} Survpedia. All rights reserved.
-    </footer>
     <script>
-      const progressBar = document.getElementById('reading-progress');
-      const scrollToTopBtn = document.getElementById('scroll-to-top');
+      const progressBar = document.getElementById("reading-progress");
+      const scrollToTopBtn = document.getElementById("scroll-to-top");
 
       const updateProgress = () => {
         const windowHeight = window.innerHeight;
@@ -195,34 +256,44 @@ const structuredData = [
 
         if (progressBar) {
           if (documentHeight <= windowHeight) {
-            progressBar.style.width = '0%';
+            progressBar.style.width = "0%";
           } else {
-            const scrollPercentage = (scrollTop / (documentHeight - windowHeight)) * 100;
+            const scrollPercentage =
+              (scrollTop / (documentHeight - windowHeight)) * 100;
             progressBar.style.width = `${Math.min(100, Math.max(0, scrollPercentage))}%`;
           }
         }
 
         if (scrollToTopBtn) {
           if (scrollTop > 300) {
-            scrollToTopBtn.classList.remove('translate-y-20', 'opacity-0', 'invisible');
+            scrollToTopBtn.classList.remove(
+              "translate-y-20",
+              "opacity-0",
+              "invisible"
+            );
           } else {
-            scrollToTopBtn.classList.add('translate-y-20', 'opacity-0', 'invisible');
+            scrollToTopBtn.classList.add(
+              "translate-y-20",
+              "opacity-0",
+              "invisible"
+            );
           }
         }
       };
 
-      scrollToTopBtn?.addEventListener('click', () => {
-        const prefersReducedMotion = window.matchMedia &&
-          window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      scrollToTopBtn?.addEventListener("click", () => {
+        const prefersReducedMotion =
+          window.matchMedia &&
+          window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
         window.scrollTo({
           top: 0,
-          behavior: prefersReducedMotion ? 'auto' : 'smooth',
+          behavior: prefersReducedMotion ? "auto" : "smooth",
         });
       });
 
-      window.addEventListener('scroll', updateProgress, { passive: true });
-      window.addEventListener('resize', updateProgress, { passive: true });
+      window.addEventListener("scroll", updateProgress, { passive: true });
+      window.addEventListener("resize", updateProgress, { passive: true });
       updateProgress();
     </script>
   </body>

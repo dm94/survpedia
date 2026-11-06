@@ -4,6 +4,7 @@ materialsUsed:
   - lead
   - brass
   - wire
+image: ../../../assets/images/inventions/foucault-pendulum.jpg
 ---
 
 # Descripción breve

@@ -5,6 +5,7 @@ materialsUsed:
   - steel
   - paper
   - ink
+image: ../../../assets/images/inventions/barograph.jpg
 ---
 
 # Breve descripción

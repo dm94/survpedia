@@ -3,6 +3,7 @@ title: Cathetometer
 materialsUsed:
   - metal
   - glass
+image: ../../../assets/images/inventions/cathetometer.jpg
 ---
 
 # Brief description

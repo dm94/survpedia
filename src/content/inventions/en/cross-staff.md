@@ -3,6 +3,7 @@ title: Cross-Staff
 materialsUsed:
   - wood
   - brass
+image: ../../../assets/images/inventions/cross-staff.jpg
 ---
 
 # Brief description

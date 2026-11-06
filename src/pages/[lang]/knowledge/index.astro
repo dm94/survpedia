@@ -18,19 +18,20 @@ const knowledge = await getCollection("knowledge", ({ id }) => {
 ---
 
 <Layout title={t("knowledge.title")} description={t("knowledge.desc")}>
-  <div class="mb-8">
-    <div class="flex flex-wrap items-center gap-3 mb-2">
-      <h1 class="text-3xl font-bold text-slate-900 dark:text-white">
-        {t("knowledge.title")}
-      </h1>
-      <ItemCount count={knowledge.length} lang={lang} collection="knowledge" />
-    </div>
-    <p class="text-slate-600 dark:text-slate-400">
-      {t("knowledge.desc")}
-    </p>
-  </div>
+  <header class="flex flex-wrap items-baseline justify-between gap-4 border-b border-rule pb-6">
+    <h1
+      class="font-read text-[clamp(1.9rem,4.4vw,2.75rem)] font-normal leading-none tracking-[-0.025em]"
+    >
+      {t("knowledge.title")}
+    </h1>
+    <ItemCount count={knowledge.length} lang={lang} collection="knowledge" />
+  </header>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  <p class="mt-4 max-w-[58ch] leading-relaxed text-ink/75">
+    {t("knowledge.desc")}
+  </p>
+
+  <ul class="mt-8 border-t border-rule">
     {
       knowledge.map(entry => {
         const slugPart = entry.id.split("/")?.[1];
@@ -43,5 +44,5 @@ const knowledge = await getCollection("knowledge", ({ id }) => {
         );
       })
     }
-  </div>
+  </ul>
 </Layout>
